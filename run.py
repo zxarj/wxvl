@@ -149,6 +149,8 @@ def main():
                 continue
             for file_path in get_md_path(executable_path, url):
                 name = os.path.splitext(os.path.basename(file_path))[0]
+                if name == '.md':
+                    continue
                 shutil.copy2(file_path,result_path)
                 data[url] = name
                 write_json(data_file,data)
