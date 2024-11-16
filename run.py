@@ -81,7 +81,7 @@ def get_BruceFeIix_url():
             base_url,
             headers=headers,
         )
-        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD||POC|EXP).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
+        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD||POC|EXP|0day|1day|nday).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
         urls = [url.rstrip(')') for url in urls]
         return urls
     except:
@@ -115,7 +115,7 @@ def get_doonsec_url():
         response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers)
         response.encoding = response.apparent_encoding
         decoded_string = html.unescape(response.text)
-        urls = re.findall('<title>.*?(?:复现|漏洞|CVE-\d+|CNVD|POC|EXP).*?</title><link>(https://mp.weixin.qq.com/.*?)</link>',decoded_string,re.I)
+        urls = re.findall('<title>.*?(?:复现|漏洞|CVE-\d+|CNVD||POC|EXP|0day|1day|nday).*?</title><link>(https://mp.weixin.qq.com/.*?)</link>',decoded_string,re.I)
         urls = [url.rstrip(')') for url in urls]
         return urls
     except:
