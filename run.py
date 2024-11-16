@@ -2,12 +2,14 @@ import os
 import re
 import sys
 import json
+import html
 import platform
 import tempfile
 import requests
 import shutil
 import subprocess
 import datetime
+
 
 def write_json(path, data, encoding="utf8"):
     """写入json"""
@@ -53,7 +55,7 @@ def get_md_path(executable_path,url):
                 file_path = os.path.join(root, file)
                 yield file_path
 
-def get_today_url():
+def get_BruceFeIix_url():
     '''获取今日url'''
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
     base_url = 'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
@@ -85,6 +87,40 @@ def get_today_url():
     except:
         return []
 
+def get_doonsec_url():
+    cookies = {
+        'UM_follow': 'True',
+        'UM_distinctids': 'fgmr',
+        'session': 'eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzU2ZDE4OTcwZjliZDljY2NjN2M3YzlkMzRhOGVlZWQyZDk1NmI1ZSIsInZpc3RvciI6ImZHTXJGQXBlVndRUnZrWjJHdWplV2gifQ.ZzidRw.GyjS15N12JYU0TByO31rrwBIiPY',
+    }
+
+    headers = {
+        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+        'cache-control': 'no-cache',
+        # 'cookie': 'UM_follow=True; UM_distinctids=fgmr; session=eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzU2ZDE4OTcwZjliZDljY2NjN2M3YzlkMzRhOGVlZWQyZDk1NmI1ZSIsInZpc3RvciI6ImZHTXJGQXBlVndRUnZrWjJHdWplV2gifQ.ZzidRw.GyjS15N12JYU0TByO31rrwBIiPY',
+        'pragma': 'no-cache',
+        'priority': 'u=0, i',
+        'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-user': '?1',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0',
+    }
+    try:
+        response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers)
+        response.encoding = response.apparent_encoding
+        decoded_string = html.unescape(response.text)
+        urls = re.findall('<title>.*?(?:复现|漏洞|CVE-\d+|CNVD|POC|EXP).*?</title><link>(https://mp.weixin.qq.com/.*?)</link>',decoded_string,re.I)
+        urls = [url.rstrip(')') for url in urls]
+        return urls
+    except:
+        return []
+
 def get_issue_url():
     file = '/tmp/issue_content.txt'
     if os.path.exists(file):
@@ -105,7 +141,7 @@ def main():
     data = read_json(data_file, default_data=data)
     if len(sys.argv) == 2:
         if sys.argv[1] == 'today':
-            urls = get_today_url()
+            urls = get_BruceFeIix_url() + get_doonsec_url()
         else:
             urls = get_issue_url()
         for url in urls:
