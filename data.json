@@ -58,5 +58,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486789&idx=1&sn=9e271a3346eed986ecc5b7a4aece7f88": "compiler explorer 轻松从汇编角度理解代码",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486789&idx=2&sn=f8617e893d02f1eaca70fb0f9661a3e3": "网太CMS漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497601&idx=1&sn=1b31fff83d5276667f7ead2ae5de2a6b": "微软2024年11月份于周二补丁日针对90漏洞发布安全补丁",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497601&idx=2&sn=413b3330c9fde967c520582aefbd4bd6": "2023年最易被利用的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497601&idx=2&sn=413b3330c9fde967c520582aefbd4bd6": "2023年最易被利用的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247657&idx=1&sn=b0600f03ef9bbffbcaa4fbf1fe0d87f7": "CVE-2024-25600：WordPress Bricks Builder RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzI2NzQ5MA==&mid=2247486636&idx=1&sn=5d9cfbe6b8393b15c60b04ca9c2c9588": "phpstudy_2016-2018_rce 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487499&idx=4&sn=69d6613ba3812956a0388203252d7a8f": "【漏洞预警】易思智能物流无人值守系统SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247484847&idx=1&sn=ab525f7b54b1842379879fcb44279dfe": "记录日常挖掘漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066024&idx=4&sn=46592438737abae8701b9ba1b7160d86": "【安全圈】俄罗斯黑客利用文件拖放、删除操作触发 Windows 0day 漏洞攻击乌克兰目标"
 }
