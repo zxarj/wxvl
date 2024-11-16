@@ -1,0 +1,107 @@
+import os
+import re
+import json
+import platform
+import tempfile
+import requests
+import shutil
+import subprocess
+import datetime
+
+def write_json(path, data, encoding="utf8"):
+    """写入json"""
+    with open(path, "w", encoding=encoding) as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+
+def read_json(path, default_data={}, encoding="utf8"):
+    """读取json"""
+    data = {}
+    if os.path.exists(path):
+        try:
+            data = json.loads(open(path, "r", encoding=encoding).read())
+        except:
+            data = default_data
+            write_json(path, data, encoding=encoding)
+
+    else:
+        data = default_data
+        write_json(path, data, encoding=encoding)
+    return data
+
+def get_executable_path():
+    '''获取可执行文件路径'''
+    system = platform.system()
+    if system == 'Windows':
+        executable_path = './bin/wechatmp2markdown-v1.1.9_win64.exe'
+    else:
+        executable_path = './bin/wechatmp2markdown-v1.1.9_linux_amd64'
+    # 添加执行权限
+    os.chmod(executable_path, 0o755)
+    # 返回可执行文件的完整路径
+    return executable_path
+
+def get_md_path(executable_path,url):
+    '''获取md文件路径'''
+    temp_directory = tempfile.mkdtemp()
+    command = [executable_path, url, temp_directory, '--image=url']
+    subprocess.check_output(command)
+    for root, _, files in os.walk(temp_directory):
+        for file in files:
+            if file.endswith(".md"):
+                file_path = os.path.join(root, file)
+                yield file_path
+
+def get_today_url():
+    '''获取今日url'''
+    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    base_url = 'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
+    headers = {
+        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+        'cache-control': 'no-cache',
+        'pragma': 'no-cache',
+        'priority': 'u=0, i',
+        'referer': 'https://github.com/BruceFeIix/picker',
+        'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'cross-site',
+        'sec-fetch-user': '?1',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0',
+    }
+    try:
+        response = requests.get(
+            base_url,
+            headers=headers,
+        )
+        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-||POC|EXP).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
+        urls = [url.rstrip(')') for url in urls]
+        return urls
+    except:
+        return []
+def main():
+    '''主函数'''
+    data_file = 'data.json'
+    data = {}
+    executable_path = get_executable_path()
+    result_path = 'doc'
+    os.makedirs(result_path,exist_ok=True)
+    # 读取历史记录
+    data = read_json(data_file, default_data=data)
+    for url in get_today_url():
+        if url in data:
+            continue
+        for file_path in get_md_path(executable_path, url):
+            name = os.path.splitext(os.path.basename(file_path))[0]
+            shutil.copy2(file_path,result_path)
+            data[url] = name
+            write_json(data_file,data)
+            print(name,end='、')
+
+
+if __name__ == '__main__':
+    main()
