@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 import json
 import platform
 import tempfile
@@ -83,6 +84,16 @@ def get_today_url():
         return urls
     except:
         return []
+
+def get_issue_url():
+    file = '/tmp/issue_content.txt'
+    if os.path.exists(file):
+        content = open(file,'r',encoding='utf8').read()
+        urls = re.findall('(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',content,re.I)
+        urls = [url.rstrip(')') for url in urls]
+        return urls
+    return []
+
 def main():
     '''主函数'''
     data_file = 'data.json'
@@ -92,16 +103,20 @@ def main():
     os.makedirs(result_path,exist_ok=True)
     # 读取历史记录
     data = read_json(data_file, default_data=data)
-    for url in get_today_url():
-        if url in data:
-            continue
-        for file_path in get_md_path(executable_path, url):
-            name = os.path.splitext(os.path.basename(file_path))[0]
-            shutil.copy2(file_path,result_path)
-            data[url] = name
-            write_json(data_file,data)
-            print(name,end='、')
-
+    if len(sys.argv) == 2:
+        if sys.argv[1] == 'today':
+            urls = get_today_url()
+        else:
+            urls = get_issue_url()
+        for url in urls:
+            if url in data:
+                continue
+            for file_path in get_md_path(executable_path, url):
+                name = os.path.splitext(os.path.basename(file_path))[0]
+                shutil.copy2(file_path,result_path)
+                data[url] = name
+                write_json(data_file,data)
+                print(name,end='、')
 
 if __name__ == '__main__':
     main()
