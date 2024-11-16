@@ -81,7 +81,7 @@ def get_BruceFeIix_url():
             base_url,
             headers=headers,
         )
-        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-||POC|EXP).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
+        urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD||POC|EXP).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
         urls = [url.rstrip(')') for url in urls]
         return urls
     except:
