@@ -27,7 +27,7 @@ jobs:
       env: 
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        python run.py | tee /tmp/update.log
+        python run.py today | tee /tmp/update.log
     - name: Commit and push if changed
       run: |
         git config --global user.email "test"
