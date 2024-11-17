@@ -71,5 +71,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486054&idx=1&sn=29c2f89072a7f181739354113076ea74": "「漏洞复现」金华迪加 现场大屏互动系统 mobile.do.php 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307300&idx=3&sn=c4876146dad8da82db2e3decbfc57648": "国家密码管理局发布《关键信息基础设施商用密码使用管理规定（征求意见稿）》",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247502886&idx=1&sn=17c6c12516bf55bc03a700f8a47dee89": "应用程序系统中的 SQL 注入 （CVE-2024-50766）",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488389&idx=2&sn=2bea1165ad80d38c1329593ca08c6e55": "【漏洞复现】九思OA dl存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488389&idx=2&sn=2bea1165ad80d38c1329593ca08c6e55": "【漏洞复现】九思OA dl存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066024&idx=4&sn=46592438737abae8701b9ba1b7160d86&chksm=f36e7ca8c419f5be0b5de8218474b566a05a2871e02c5f1b86f0a13769a0651d6087bd35a84d&scene=58&subscene=0": "【安全圈】俄罗斯黑客利用文件拖放、删除操作触发 Windows 0day 漏洞攻击乌克兰目标",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517100&idx=1&sn=f63f4fb28dd9f98701307759287886e3": "原创 | 一文看懂服务器请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492480&idx=2&sn=35313ec934a5220db4c34962af10b1b4": "Apache Airflow 漏洞暴露日志中的敏感数据CVE-2024-45784（7.5）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247485439&idx=1&sn=3fd7e4cef57edca8e73104f8af38fc05": "分享SRC中后台登录处站点的漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=2&sn=7e837ef59037b7c182b95ffc6089cb20": "CVE-2024-45784：Apache Airflow 漏洞暴露日志中的敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=4&sn=f564c214e9b878af89b788239034bd2e": "BrazenBamboo APT利用 FortiClient 漏洞通过 DEEPDATA 窃取 VPN 凭证"
 }
