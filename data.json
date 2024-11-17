@@ -63,5 +63,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzI2NzQ5MA==&mid=2247486636&idx=1&sn=5d9cfbe6b8393b15c60b04ca9c2c9588": "phpstudy_2016-2018_rce 漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487499&idx=4&sn=69d6613ba3812956a0388203252d7a8f": "【漏洞预警】易思智能物流无人值守系统SQL注入",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247484847&idx=1&sn=ab525f7b54b1842379879fcb44279dfe": "记录日常挖掘漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066024&idx=4&sn=46592438737abae8701b9ba1b7160d86": "【安全圈】俄罗斯黑客利用文件拖放、删除操作触发 Windows 0day 漏洞攻击乌克兰目标"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066024&idx=4&sn=46592438737abae8701b9ba1b7160d86": "【安全圈】俄罗斯黑客利用文件拖放、删除操作触发 Windows 0day 漏洞攻击乌克兰目标",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzI2NzQ5MA==&mid=2247486684&idx=1&sn=b88c209774a7a72edb5ffd3d8185da12": "VSFTPD 2.3.4 笑脸漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603615&idx=3&sn=445a8a9089db3200dfb6c7fcbbe83e1b": "某系统因属性污染导致的RCE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486126&idx=1&sn=f95aeac1e9863e39388748be5f93f44f": "ViewState反序列化复现踩坑记录"
 }
