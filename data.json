@@ -77,5 +77,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492480&idx=2&sn=35313ec934a5220db4c34962af10b1b4": "Apache Airflow 漏洞暴露日志中的敏感数据CVE-2024-45784（7.5）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247485439&idx=1&sn=3fd7e4cef57edca8e73104f8af38fc05": "分享SRC中后台登录处站点的漏洞挖掘技巧",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=2&sn=7e837ef59037b7c182b95ffc6089cb20": "CVE-2024-45784：Apache Airflow 漏洞暴露日志中的敏感数据",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=4&sn=f564c214e9b878af89b788239034bd2e": "BrazenBamboo APT利用 FortiClient 漏洞通过 DEEPDATA 窃取 VPN 凭证"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=4&sn=f564c214e9b878af89b788239034bd2e": "BrazenBamboo APT利用 FortiClient 漏洞通过 DEEPDATA 窃取 VPN 凭证",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066040&idx=2&sn=cf11d094cb7fc2770df2100227dc34db": "【安全圈】安全公司曝光黑客利用 Office 已知漏洞散播 Remcos RAT 木马程序",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524319&idx=3&sn=44ca66db05ada0b23d2a24e112e09e93": "Mozilla Firefox 0-day：URL 协议处理程序泄漏 [CVE-2024-9398、CVE-2024-5690]"
 }
