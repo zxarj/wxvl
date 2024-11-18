@@ -114,5 +114,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDUxNTQ2Mw==&mid=2247485556&idx=1&sn=eaa0ff13c10fad4d5418731121ca9ca2": "安全公司曝光黑客利用 Office 已知漏洞散播 Remcos RAT 木马程序",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484440&idx=1&sn=f7f42cf480466e7eb9a5349ff68579a9": "大华智慧园区综合管理平台hasSubsystem接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】",
     "https://mp.weixin.qq.com/s/-BgJHt-dDT-u28TM90Mz8w": "Linux 反弹shell",
-    "https://mp.weixin.qq.com/s/1CKfcUXNkkVjEPiXFxSqHw": "vulnhub之Escalate的实践"
+    "https://mp.weixin.qq.com/s/1CKfcUXNkkVjEPiXFxSqHw": "vulnhub之Escalate的实践",
+    "https://mp.weixin.qq.com/s/vzUt1EO-EnR5ywMz2PjQuQ": "通达OA前台任意用户登录漏洞复现"
 }
