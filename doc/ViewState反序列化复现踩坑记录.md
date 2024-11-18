@@ -1,5 +1,5 @@
 #  ViewState反序列化复现踩坑记录   
- TtTeam   2024-11-16 16:01  
+ 阿乐你好   2024-11-18 01:34  
   
 <table><tbody><tr><td width="557" valign="top" height="62" style="word-break: break-all;"><section style="margin-bottom: 15px;"><span style="font-size: 14px;"><span style="color: rgb(217, 33, 66);"><strong>声明：</strong></span>该公众号大部分文章来自作者日常学习笔记，也有部分文章是经过作者授权和其他公众号白名单转载，未经授权，严禁转载，如需转载，联系开白。</span></section><section><span style="font-size: 14px;">请勿利用文章内的相关技术从事非法测试，如因此产生的一切不良后果与文章作者和本公众号无关。</span></section></td></tr></tbody></table>  
   
@@ -310,4 +310,42 @@ ysoserial.exe -o base64 -g TypeConfuseDelegate -f LosFormatter -c "echo 123 > C:
 > 当前用户或目录权限问题导致C:\Windows\Temp写不进文件，可尝试更好其他可读写目录；ysoserial.net生成的base64反序列化载荷存在==时写不进去，可尝试修改写入字符或路径；  
   
   
+  
+**关注我们**  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOeSsicAgIUNHtMib9a69NOWXw1A7mgRqqiat1SycQ0b6e5mBqC0pVJ3oicrQnCTh4gqMGiaKUPicTsUc4Tw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+ 还在等什么？赶紧点击下方名片开始学习吧 ![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOeSsicAgIUNHtMib9a69NOWXw1A7mgRqqiat1SycQ0b6e5mBqC0pVJ3oicrQnCTh4gqMGiaKUPicTsUc4Tw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+  
+  
+**知 识 星 球**  
+  
+  
+  
+仅前1-400名: 99¥，400-600名  
+: 128¥，  
+600-800名  
+: 148¥，  
+800-1000+名  
+: 168¥  
+，  
+所剩不多了...！  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOdma4QtfwXXJ4w35lMtvMcogAnI5u4bWIhxq1EzXI0remsQXFk5uhv0BX4eSyzpzJGYHAybgEYeVA/640?wx_fmt=png&from=appmsg "")  
+  
+**推 荐 阅 读**  
+  
+  
+  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247499188&idx=1&sn=9ce15a0e66b2595285e544aaa0c49c24&chksm=cfa559a7f8d2d0b162f00e0c1b02c85219f2668c282b32967b2530f15051b47b21ee2855a783&scene=21#wechat_redirect)  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247496043&idx=1&sn=4daa27ade9915de6021fea1c2a21d7bc&chksm=cfa55578f8d2dc6ef887ce27215f942ec233320fa6878bc1666ce0fecb0e7f6c7f96a3ba4e2b&scene=21#wechat_redirect)  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247486327&idx=1&sn=71fc57dc96c7e3b1806993ad0a12794a&chksm=cfa6af64f8d1267259efd56edab4ad3cd43331ec53d3e029311bae1da987b2319a3cb9c0970e&scene=21#wechat_redirect)  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOdAPjIVeN2ZahG9ibP0Y3wlfg6BO1WO7MZfo1JeW7zDWcLSTQ5Ek8zXAia5w1nMnogpbpXP6OxXXOicA/640?wx_fmt=png "")  
   
