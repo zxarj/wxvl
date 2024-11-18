@@ -112,5 +112,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507405&idx=1&sn=724c4f04b89e17186e10643a70168151": "速修！宝兰德BES中间件远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247534105&idx=2&sn=b8ad0236e78d31c7e936fa98d5b2f0db": "打补丁要快！0Day漏洞正在被黑客广泛利用",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDUxNTQ2Mw==&mid=2247485556&idx=1&sn=eaa0ff13c10fad4d5418731121ca9ca2": "安全公司曝光黑客利用 Office 已知漏洞散播 Remcos RAT 木马程序",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484440&idx=1&sn=f7f42cf480466e7eb9a5349ff68579a9": "大华智慧园区综合管理平台hasSubsystem接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484440&idx=1&sn=f7f42cf480466e7eb9a5349ff68579a9": "大华智慧园区综合管理平台hasSubsystem接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s/-BgJHt-dDT-u28TM90Mz8w": "Linux 反弹shell",
+    "https://mp.weixin.qq.com/s/1CKfcUXNkkVjEPiXFxSqHw": "vulnhub之Escalate的实践"
 }
