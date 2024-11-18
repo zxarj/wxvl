@@ -148,5 +148,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDY1MzUzNw==&mid=2247497926&idx=1&sn=26eb4132f92f9aed012a93735a6b3879": "fastjson < 1.2.66 正则表达式拒绝服务漏洞REDOS",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTc1MzQyNw==&mid=2247488223&idx=1&sn=179f23ace36083dd36a1f5052b4c6018": "红日靶场（七）WHOAMI Penetration（一）",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524352&idx=2&sn=840f79721a30962446402beb9e179f45": "Redis CVE-2024-31449：如何重现和缓解漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092449&idx=1&sn=ccafc6e2e300c5176b01f01455f66820": "远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览"
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092449&idx=1&sn=ccafc6e2e300c5176b01f01455f66820": "远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517127&idx=1&sn=61549ef4ef11bf847690be40502fd256": "紧急：关键 WordPress 插件漏洞暴露了超过 400 万个网站",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787425&idx=1&sn=6f9cdcc47fe2971c8f27491559a54cb3": "WordPress安全警报：400万网站面临严重认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502147&idx=1&sn=6d2c1227899943ee29dc7f1a17b1cf53": "12年来最严重的 WordPress 漏洞，可大规模接管管理员权限"
 }
