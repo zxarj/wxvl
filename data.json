@@ -115,5 +115,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484440&idx=1&sn=f7f42cf480466e7eb9a5349ff68579a9": "大华智慧园区综合管理平台hasSubsystem接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】",
     "https://mp.weixin.qq.com/s/-BgJHt-dDT-u28TM90Mz8w": "Linux 反弹shell",
     "https://mp.weixin.qq.com/s/1CKfcUXNkkVjEPiXFxSqHw": "vulnhub之Escalate的实践",
-    "https://mp.weixin.qq.com/s/vzUt1EO-EnR5ywMz2PjQuQ": "通达OA前台任意用户登录漏洞复现"
+    "https://mp.weixin.qq.com/s/vzUt1EO-EnR5ywMz2PjQuQ": "通达OA前台任意用户登录漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495506&idx=1&sn=368d74c4f6e7a4f2639d84ec46bf77c7": "CNVD漏洞周报2024年第46期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwOTc4MTE4Nw==&mid=2247500623&idx=1&sn=8ed503a44a8900cf66d4714383856900": "鼎信安全 | 网络安全一周资讯",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MzU4ODE5Mw==&mid=2247485533&idx=1&sn=38dacc8d7d5dbb5e91a43eaccbd37140": "【漏洞预警】东胜物流软件-certupload-任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486063&idx=1&sn=87764d2ed6eef32705e262f8515eda5b": "「漏洞复现」九思OA dl.jsp 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545196&idx=1&sn=e5148186ab9f420c71d23cdca8da92f7": "Edusrc | 某证书站漏洞挖掘-绕过验证机制",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjU4NA==&mid=2247485564&idx=1&sn=f6351c3df7a5ddd3f073a0a0e52ff363": "2024年20 大网络钓鱼工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603664&idx=4&sn=ad840681e2c7bc6414397ec84b0c5741": "一款集成高危漏洞exp的实用性工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485716&idx=1&sn=e8a0ad47c5069485e9f60071d1e43025": "【漏洞复现】某平台-down-sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzI2NzQ5MA==&mid=2247486685&idx=1&sn=d196cb28fb4aaa74c58a8614abf54875": "通达OA前台任意用户登录漏洞复现"
 }
