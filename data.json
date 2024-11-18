@@ -140,5 +140,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MTAwNzUzNQ==&mid=2650510921&idx=1&sn=e4934351ec2c8cb6dbc0aeca15104b40": "倒计时2天！“智效融合，安全护航”·深圳站 第七期「度安讲」 技术沙龙开放报名",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492528&idx=2&sn=12ed7293c2d58a8ff8af2eee52151e30": "【poc】Fortinet FortiManager 中0day CVE-2024-47575 的 PoC 发布",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492528&idx=3&sn=ca32f8d2a6f6e69a0d8f6cb1c3cc86ed": "【poc】TP-Link 中的 DHCP 漏洞可让攻击者远程接管路由器 - PoC 发布",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495506&idx=2&sn=4f47a0a0b8cf7c2347c48af444867c9c": "上周关注度较高的产品安全漏洞(20241111-20241117)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495506&idx=2&sn=4f47a0a0b8cf7c2347c48af444867c9c": "上周关注度较高的产品安全漏洞(20241111-20241117)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486025&idx=1&sn=57b3564d52b3979909e7c4ce558cb424": "简单逻辑漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489173&idx=1&sn=38cddcc7195393081437dda1b20e81f5": "【漏洞预警】Apache OFBiz远程代码执行漏洞CVE-2024-47208",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489173&idx=2&sn=8b54bc7f5eac3e68aa9c1b50d0bfe0f0": "【漏洞预警】Apache HertzBeat < 1.6.1 消息通知模版注入漏洞CVE-2024-41151",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632327&idx=4&sn=48bfb50af682460d968c919e508846b6": "Palo Alto Networks确认0Day漏洞正在被黑客利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDY1MzUzNw==&mid=2247497926&idx=1&sn=26eb4132f92f9aed012a93735a6b3879": "fastjson < 1.2.66 正则表达式拒绝服务漏洞REDOS",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTc1MzQyNw==&mid=2247488223&idx=1&sn=179f23ace36083dd36a1f5052b4c6018": "红日靶场（七）WHOAMI Penetration（一）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524352&idx=2&sn=840f79721a30962446402beb9e179f45": "Redis CVE-2024-31449：如何重现和缓解漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092449&idx=1&sn=ccafc6e2e300c5176b01f01455f66820": "远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览"
 }

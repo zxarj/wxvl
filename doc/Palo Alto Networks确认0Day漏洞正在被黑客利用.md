@@ -1,17 +1,11 @@
 #  Palo Alto Networks确认0Day漏洞正在被黑客利用   
-老布  FreeBuf   2024-11-18 11:12  
+FreeBuf  商密君   2024-11-18 13:40  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/oQ6bDiaGhdyoFWEgZIHic7sqnootFEuOic7RlQNGhKY6d2ZESG3WpiaTMRlD0z4xO6mQrTZjkWHCkMpO2QtCfUJH6g/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39tmyyDlVsmZoccz4K8eSN6RPRgib1aj9AdQYhvDeoDlBUnia4k5gJX8icJUxKnH8wfaDny2tFiad8yuw/640?wx_fmt=jpeg&from=appmsg "")  
+近日，全球网络巨头Palo Alto Networks确认旗下0Day漏洞正在被黑客利用。11月8日，Palo Alto Networks发布了一份安全通告，警告客户PAN-OS管理界面中存在一个远程代码执行漏洞，并建议客户确保PAN-OS管理界面访问的安全性。  
   
   
-近日，全球网络巨头Palo Alto Networks确认旗下0Day漏洞正在被黑客利用。11月8日，Palo Alto Networks发布了一份安全通告  
-，警告客户PAN-OS管理界面中存在一个远程代码执行漏洞，并建议客户确保PAN-OS管理界面访问的安全性。  
   
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39tmyyDlVsmZoccz4K8eSN6cHfohWMRZSkY8icEo6XAJ7QsGaGC2Dnia3076fNUJm4F5h7ibvq0ls6lw/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39tmyyDlVsmZoccz4K8eSN6cHfohWMRZSkY8icEo6XAJ7QsGaGC2Dnia3076fNUJm4F5h7ibvq0ls6lw/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
 但随着该漏洞的曝光，Palo Alto Networks在11月15日发现已经有黑客/威胁组织正在利用该漏洞，对用户发起网络攻击，主要目标用户是那些暴露在互联网上防火墙管理界面。  
@@ -49,55 +43,35 @@ Palo Alto Network表示，利用该漏洞实施零日攻击的攻击者实施了
 在攻击的第一阶段，攻击者向 GlobalProtect 发送精心制作的 shell 命令而非有效的会话 ID，导致在系统上创建一个空文件，文件名由攻击者命名为嵌入式命令；在第二阶段，定时运行系统作业会在命令中使用攻击者提供的文件名，进而让攻击者提供的命令能以更高的权限执行。利用这种方式，攻击者就能将该漏洞武器化，且不需要在设备上启用遥测功能就能对其进行渗透。  
   
   
-【  
-FreeBuf粉丝交流群招新啦！  
+编辑：陈十九  
   
-在这里，拓宽网安边界  
+审核：商密君  
   
-甲方安全建设干货；  
+**征文启事**  
   
-乙方最新技术理念；  
-  
-全球最新的网络安全资讯；  
-  
-群内不定期开启各种抽奖活动；  
-  
-FreeBuf盲盒、大象公仔......  
-  
-扫码添加小蜜蜂微信回复「加群」，申请加入群聊  
-】  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ich6ibqlfxbwaJlDyErKpzvETedBHPS9tGHfSKMCEZcuGq1U1mylY7pCEvJD9w60pWp7NzDjmM2BlQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/oQ6bDiaGhdyodyXHMOVT6w8DobNKYuiaE7OzFMbpar0icHmzxjMvI2ACxFql4Wbu2CfOZeadq1WicJbib6FqTyxEx6Q/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icEEJemUSFlfufMicpZeRJZJ61icYlLmBLDpdYEZ7nIzpGovpHjtxITB6ibiaC3R5hoibVkQsVLQfdK57w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
-> https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/  
+来源：FreeBuf  
   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icEEJemUSFlfufMicpZeRJZJ7JfyOicficFrgrD4BHnIMtgCpBbsSUBsQ0N7pHC7YpU8BrZWWwMMghoQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651302087&idx=1&sn=29d91904d6471c4b09f4e574ba18a9b2&chksm=bd1c3a4c8a6bb35aa4ddffc0f3e2e6dad475257be18f96f5150c4e948b492f32b1911a6ea435&token=21436342&lang=zh_CN&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651302006&idx=1&sn=18f06c456804659378cf23a5c474e775&scene=21#wechat_redirect)  
+点分享  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651253272&idx=1&sn=82468d927062b7427e3ca8a912cb2dc7&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+点点赞  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点在看  
   
