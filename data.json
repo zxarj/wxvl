@@ -177,5 +177,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjA1MzkyNA==&mid=2655348005&idx=1&sn=4c930728fafc77e04d44557a763f493e": "Palo Alto警告，防火墙管理界面RCE漏洞被攻击者利用",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491091&idx=1&sn=d0c7ebe7f059cc62b3719c8bfb99d69d": "记录日常挖掘漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247492453&idx=1&sn=4edaf9b04b271a1782f16bcf085d3e2c": "黑盒乱锤某专属SRC到0day代码分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484473&idx=1&sn=6a7b9607e939dfc9b833e01adfc8571f": "灵当CRM系统multipleUpload.php接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484473&idx=1&sn=6a7b9607e939dfc9b833e01adfc8571f": "灵当CRM系统multipleUpload.php接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507405&idx=1&sn=724c4f04b89e17186e10643a70168151&chksm=cfcabed9f8bd37cf08699147911e05b802a7367ecb0fd5122c5c60647403f1c7ad261c992be5&scene=58&subscene=0": "速修！宝兰德BES中间件远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODI4NDg3Nw==&mid=2247484718&idx=1&sn=8502b1cb852caa8ce0e23e3847b944b6": "Cuppa CMS-任意文件读取CVE-2022-25401",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTY5Nzc1OA==&mid=2247484111&idx=1&sn=1d68bc0bb4221a6de04c1b1dc818eafa": "一文读懂SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500250&idx=2&sn=23d9e2dfb43ea4293d20489c3cbccb9e": "【漏洞通告】Palo Alto Networks PAN-OS身份验证绕过漏洞（CVE-2024-0012）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499470&idx=2&sn=d9bbe418f8309153c86b2c38bdb82f17": "上周关注度较高的产品安全漏洞(20241111-20241117)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486183&idx=1&sn=b38113b15e2fada33cf26c95c9c07714": "【0day】某微信万能门店小程序系统存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491024&idx=1&sn=00be4948643b40e24a2b0cca5c99edfc": "专题解读 | 图基础模型最新研究进展",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614168&idx=1&sn=ca9f354a96fac70ba3dfb1e6840380db": "Bypass Cloudflare实现账户接管：密码重置投毒漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793181&idx=1&sn=bcfe157d05c93fa6fc18591227dae4da": "DeepData 恶意软件框架被发现利用尚未修补的 Windows 0day漏洞、Fortinet VPN 客户端",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488361&idx=1&sn=e560e27ced52b442b1d41ac709a876ff": "黑盒乱锤某专属SRC到0day代码分析"
 }
