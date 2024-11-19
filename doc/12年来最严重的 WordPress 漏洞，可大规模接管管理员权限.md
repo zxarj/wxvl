@@ -1,18 +1,12 @@
 #  12年来最严重的 WordPress 漏洞，可大规模接管管理员权限   
- WIN哥学安全   2024-11-18 13:58  
+BILL TOULAS  代码卫士   2024-11-18 09:38  
   
-点击上方  
-蓝字关注我们  
+![](https://mmbiz.qpic.cn/mmbiz_gif/Az5ZsrEic9ot90z9etZLlU7OTaPOdibteeibJMMmbwc29aJlDOmUicibIRoLdcuEQjtHQ2qjVtZBt0M5eVbYoQzlHiaw/640?wx_fmt=gif "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qLaXsGgOwmOFETMqV9DfenGIAx8BfvBotFhJrgP7IG9WkIkgCP1Q1DDIVsZVqTiasAS9CT66RJrq9Gj0ibkpdeew/640?&random=0.10577231121717623&wxfrom=5&wx_lazy=1&wx_co=1&wx_fmt=png&random=0.7851078959349969&tp=webp&random=0.3158067333367687 "")  
+   
+聚焦源代码安全，网罗国内外最新资讯！  
   
-  
-  
-免责声明：  
-  
-由于传播、利用本公众号所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-  
-**转自奇安信代码卫士，编译：代码卫士**  
+**编译：代码卫士**  
   
 **WordPress 插件 “Really Simple Security”（此前被称为 “Really Simple SSL”）的免费和专业版本均受一个严重的认证绕过漏洞影响。**  
   
@@ -43,6 +37,45 @@ Wordfence 公司公开披露了该漏洞，称其为12年来报送的最严重�
 截止到昨天，WordPress.org 数据显示，该插件的免费版本的下载次数约为45万次，即350万个网站易受攻击。  
   
   
+****  
+代码卫士试用地址：  
+https://codesafe.qianxin.com  
+  
+开源卫士试用地址：https://oss.qianxin.com  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+**推荐阅读**  
+  
+[WordPress 插件被安后门，用于发动供应链攻击](http://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247519884&idx=2&sn=394599c6e622c656ae34d0c38cb671fa&chksm=ea94bfe6dde336f0971c21b57ed4c97af0185fd27f42cbe3f54350b5600357533a0d61ab1a94&scene=21#wechat_redirect)  
+  
+  
+[WordPress 插件 Forminator 中存在严重漏洞，影响30多万站点](http://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247519350&idx=1&sn=44cdd16335bfd4e16c8f57397e448771&chksm=ea94bd1cdde3340a03401c5d3c557a9d7ed61164d414c3cf30a1707f0002703fe0d7559b1840&scene=21#wechat_redirect)  
+  
+  
+[热门Wordpress 插件 LayerSlider 中存在严重漏洞](http://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247519223&idx=2&sn=a927e2b6bd81218102ea07e2de3133d7&chksm=ea94ba9ddde3338bf760ba11cb2fb665b8ad6e728bcc5b21ea7c1c1bf46968a037b5e55499a3&scene=21#wechat_redirect)  
+  
+  
+[热门 WordPress 插件 Ultimate Member 中存在严重漏洞](http://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518957&idx=1&sn=8d096042c0c0ab672b2763c4be529085&chksm=ea94bb87dde332919301d11f7a8c23002f628ae325511713f594d8afae88da1d90d44818421f&scene=21#wechat_redirect)  
+  
+  
+[WordPress 插件 LiteSpeed 漏洞影响500万个站点](http://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518947&idx=3&sn=a79e0235f3e78c2f4980247b4e0a365d&chksm=ea94bb89dde3329f127d8c01ddbfd59e454133a12f03962b70d34129434f08d38529852aa820&scene=21#wechat_redirect)  
+  
+  
+  
+  
+  
 **原文链接**  
   
   
@@ -59,86 +92,20 @@ Pixabay
   
   
   
-
-								  
-
-									  
-
-										  
-
-											  
-往期推荐  
-
-										  
-
-									  
-
-									  
-
-								[ 比较有意思的几个漏洞挖掘记录 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502125&idx=1&sn=15f4d48305c47b6a699973c871f1cca0&chksm=c0c868d9f7bfe1cf87cd0eea2b0fe635af7c9ff29d604544b162d17cad57ab3da3ceb45a0b03&scene=21#wechat_redirect)  
-
-							  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oBANLWYScMSf7nNLWrJL6dkJp7RB8Kl4zxU9ibnQjuvo4VoZ5ic9Q91K3WshWzqEybcroVEOQpgYfx1uYgwJhlFQ/640?wx_fmt=jpeg "")  
   
-
-								[ 惊喜，GPT4o可接入个人微信了！ ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502119&idx=1&sn=16b547ead14bd0305be520de5d33d840&chksm=c0c868d3f7bfe1c57d400776ef36be40bbcd5ec5f93da38376e715d2bfdc5ef3767b4486c1f7&scene=21#wechat_redirect)  
-
-							  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oBANLWYScMSN5sfviaCuvYQccJZlrr64sRlvcbdWjDic9mPQ8mBBFDCKP6VibiaNE1kDVuoIOiaIVRoTjSsSftGC8gw/640?wx_fmt=jpeg "")  
   
-
-								[ 分享某单位众测项目漏洞挖掘中的一些手法 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502084&idx=1&sn=d48d54097881a0bd3c994c3d816bb50b&chksm=c0c868f0f7bfe1e617bd8b582860051b3a23f3f7b281943bde2953d490765b13d216d6b3ea50&scene=21#wechat_redirect)  
-
-							  
+**奇安信代码卫士 (codesafe)**  
   
-
-								[ 从404到RCE，挖洞像喝水一样简单 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501990&idx=1&sn=cb10031d31e76ad2a3161edd1b0ae150&chksm=c0c86952f7bfe044a7ca1c516fc7f3622935eb3465254d668faa81f2f08b7bc834755788c98b&scene=21#wechat_redirect)  
-
-							  
+国内首个专注于软件开发安全的产品线。  
   
-
-								[ 一款针对Burp Suite Pro的安全扫描增强工具 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501958&idx=1&sn=c379d63c4be459123cee9b08089e522a&chksm=c0c86972f7bfe064ca6a3367bb823295789d0c298c46bc7a9f7b50985036ed396b238a86629b&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ DudeSuite Web Security Tools 渗透测试工具集 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501938&idx=1&sn=e1a7953ca4719b400b2dd6011482996d&chksm=c0c86986f7bfe09019b5e8608ff79a6fe1e44dcd4b6a9acadd57d09ef84b615abf2c12139c2a&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ 无影(TscanPlus) v2.6发布：弱口令连接校验 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501910&idx=1&sn=48bb76542e5a88c3fbd623fe387e32f5&chksm=c0c869a2f7bfe0b45c85c623f9a521ff19b006449f832d3799c39abae03daaac3471e77c8f26&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ 一次看个爽——攻防演练合集篇 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501889&idx=1&sn=750feacfaa2b710f1fda9c266efc5098&chksm=c0c869b5f7bfe0a331c351f54e8adcefdcbbe45a157989e9321fb7af86ae5ab8ecede810edff&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ 小记一次逆向分析 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501882&idx=1&sn=f81013e8a09e890275367a7efe7e8fdc&chksm=c0c869cef7bfe0d81b92a28f2e98af26c8dd45ff5475e58317f93792b423f51cc3786bd50aed&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ 红队武器库2.0版本，内含数百款渗透工具 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501849&idx=1&sn=cfa9166999f9242eaac57c9a74b46b74&chksm=c0c869edf7bfe0fb821f3117f5d519e02bc681ee7448562f2164dec9bc430af66fb807ff6584&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ SSRF打穿内网 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501833&idx=1&sn=650a086ea1158057dec8d9fd714b2ade&chksm=c0c869fdf7bfe0eb3ba649469fdffed70500b9acee8bb8e0b81b98b62879b3f441f884b7c56c&scene=21#wechat_redirect)  
-
-							  
-  
-
-								[ 货拉拉在逻辑漏洞自动化检测的实践 ](http://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247501830&idx=1&sn=752ab849a1a431aaaa222c3ca3e1f203&chksm=c0c869f2f7bfe0e448f27d906992c10e9ef360481cdca045ff059220ffa21e4354b2d5ac6e90&scene=21#wechat_redirect)  
-
-							  
-  
+   ![](https://mmbiz.qpic.cn/mmbiz_gif/oBANLWYScMQ5iciaeKS21icDIWSVd0M9zEhicFK0rbCJOrgpc09iaH6nvqvsIdckDfxH2K4tu9CvPJgSf7XhGHJwVyQ/640?wx_fmt=gif "")  
   
    
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/Ngu0cYa5JdjQIPE8G8k6vwgYicqnqMH1w5pcv9o54qTO9gEWA9HCpZZ8zljsa1UTHTg3bS6WjbRoSaOibMv5pIMw/640? "")  
-  
-点个  
-在看你最好看  
+觉得不错，就点个 “  
+在看  
+” 或 "  
+赞  
+” 吧~  
   
