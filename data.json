@@ -220,5 +220,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515356&idx=2&sn=d677b50ea4f958d207cd6a3c772fe0b8": "漏洞预警｜Palo Alto Networks PAN-OSS身份验证绕过等多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945063&idx=1&sn=e933d8e9d2243641c8f007c652caad48": "YAK 亮相2024年世界互联网大会！携手中国联通共塑网络安全新生态",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307419&idx=3&sn=9f3e2546a68551118a2b2bc765b70ab3": "关键的WordPress插件漏洞导致超400万网站暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484334&idx=1&sn=bfd4f94e969ee9f8e7ec653c0feae32a": "【漏洞复现】D-Link NAS 远程命令执行漏洞(CVE-2024-3273)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484334&idx=1&sn=bfd4f94e969ee9f8e7ec653c0feae32a": "【漏洞复现】D-Link NAS 远程命令执行漏洞(CVE-2024-3273)",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484641&idx=1&sn=b4b8e81e772df11b17f49e37240bea65": "【漏洞复现】CVE-2024-0012 Palo Alto Networks PAN-OS 身份验证绕过漏洞可RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODYwODkyMA==&mid=2247484615&idx=1&sn=5f905a5474a575224e1695ec62eaa221": "从CVE 到 PoC：Windows提权漏洞全景地图",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489063&idx=1&sn=d9af33b3a2502288bbb423a8844b6fee": "一款越权漏洞检测的 Burp 插件 内置AI模块辅助分析大幅降低误报率效|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514847&idx=2&sn=048d05a026fb7fb199b8242894eea7b9": "渗透测试 -- Python3编写常见exp"
 }
