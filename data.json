@@ -151,5 +151,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092449&idx=1&sn=ccafc6e2e300c5176b01f01455f66820": "远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517127&idx=1&sn=61549ef4ef11bf847690be40502fd256": "紧急：关键 WordPress 插件漏洞暴露了超过 400 万个网站",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787425&idx=1&sn=6f9cdcc47fe2971c8f27491559a54cb3": "WordPress安全警报：400万网站面临严重认证绕过漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502147&idx=1&sn=6d2c1227899943ee29dc7f1a17b1cf53": "12年来最严重的 WordPress 漏洞，可大规模接管管理员权限"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502147&idx=1&sn=6d2c1227899943ee29dc7f1a17b1cf53": "12年来最严重的 WordPress 漏洞，可大规模接管管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247487438&idx=1&sn=57b059b3e23609293878846b57fd3d2d": "网络安全认知科普（五）：业务本身也可能就是漏洞，就是风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247485505&idx=1&sn=13147a3d93fed1ed458e589239c7dc56": "EDUSRC漏洞挖掘技巧汇总+信息收集各种姿势",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486363&idx=1&sn=85f3185c117796238c0285ce1443bbea": "Water Barghest组织利用IoT设备漏洞迅速变现的策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491445&idx=1&sn=3b3bf547593b9c83bd8067fa2f85da0b": "漏洞预警 | Laravel环境变量注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491445&idx=2&sn=ba14df01b2e491cc6546173a72e6c2dc": "漏洞预警 | D-Link NAS设备远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491445&idx=3&sn=9a49aa4947b71d328766002dc7f115d0": "漏洞预警 | 海信智能公交企业管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODY2ODA0OA==&mid=2247485900&idx=1&sn=4a1c0f14751627a29534c3c7f13a1354": "【未公开】百择唯供应链存在RankingGoodsList2 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488426&idx=1&sn=8ca95cf35ca24bc8ba0c40172f5dacb5": "【0day 漏洞预警】某统一通信平台存在任意文件上传漏洞"
 }
