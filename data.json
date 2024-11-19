@@ -206,5 +206,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523853&idx=2&sn=44f939a81178afad27dca90a02dfbfc6": "【漏洞通告】Apache OFBiz远程代码执行漏洞(CVE-2024-47208)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523853&idx=3&sn=fab3ee466334a0022b2df23ab6a23217": "上周关注度较高的产品安全漏洞(20241111-20241117)",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490175&idx=1&sn=8a88f13080b38ee937638a6ab1a1a319": "【风险通告】Palo Alto Networks PAN-OS存在身份验证绕过漏洞（CVE-2024-0012）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507416&idx=1&sn=6eb8217321fbe1a5361675058bc55882": "已知漏洞！宝兰德最新漏洞绕过补丁黑名单，速修"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507416&idx=1&sn=6eb8217321fbe1a5361675058bc55882": "已知漏洞！宝兰德最新漏洞绕过补丁黑名单，速修",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498607&idx=2&sn=2e4002dc2db4869990ee4fa3d38f1f43": "渗透测试 -- 漏洞百解",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247632338&idx=3&sn=287c0b4f0cfbdbc1d11e7f8b67787249": "美国饮用水系统存在300多个漏洞，影响1.1亿人",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247508728&idx=1&sn=50e200ae59cd278b496fa675d916a377": "微软2024年11月补丁日重点漏洞安全预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489184&idx=1&sn=04ec9cf838fb1a5cf5cc4c8c93a8bf30": "【漏洞预警】Apache Kafka Clients权限管理不当漏洞可致信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489184&idx=2&sn=6674f470ab506ed8239b4103f4d11218": "【漏洞预警】Palo Alto Networks PAN-OS Web管理界面身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489184&idx=3&sn=22ce05bbdff66ec1bf477e37c429c327": "【漏洞预警】Apache Tomcat资源控制不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247488403&idx=3&sn=9914510e560c5eec5ad6282278ab6577": "「人脑替代计划-6」LLM是什么？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517233&idx=1&sn=af475bf0f3de0493fd24dcdc37463e5a": "漏洞挖掘|电子商城类漏洞挖掘案例灵感复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486072&idx=1&sn=7558c8a2becda935fa6b7237363f864e": "「漏洞复现」D-Link NAS设备 sc_mgr.cgi 未授权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515356&idx=1&sn=202c8573e3a77824edf45e865b30e051": "漏洞预警｜Apache OFBiz远程代码执行漏洞(CVE-2024-47208)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515356&idx=2&sn=d677b50ea4f958d207cd6a3c772fe0b8": "漏洞预警｜Palo Alto Networks PAN-OSS身份验证绕过等多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945063&idx=1&sn=e933d8e9d2243641c8f007c652caad48": "YAK 亮相2024年世界互联网大会！携手中国联通共塑网络安全新生态",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307419&idx=3&sn=9f3e2546a68551118a2b2bc765b70ab3": "关键的WordPress插件漏洞导致超400万网站暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484334&idx=1&sn=bfd4f94e969ee9f8e7ec653c0feae32a": "【漏洞复现】D-Link NAS 远程命令执行漏洞(CVE-2024-3273)"
 }
