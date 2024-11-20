@@ -224,5 +224,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484641&idx=1&sn=b4b8e81e772df11b17f49e37240bea65": "【漏洞复现】CVE-2024-0012 Palo Alto Networks PAN-OS 身份验证绕过漏洞可RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkyODYwODkyMA==&mid=2247484615&idx=1&sn=5f905a5474a575224e1695ec62eaa221": "从CVE 到 PoC：Windows提权漏洞全景地图",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489063&idx=1&sn=d9af33b3a2502288bbb423a8844b6fee": "一款越权漏洞检测的 Burp 插件 内置AI模块辅助分析大幅降低误报率效|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514847&idx=2&sn=048d05a026fb7fb199b8242894eea7b9": "渗透测试 -- Python3编写常见exp"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514847&idx=2&sn=048d05a026fb7fb199b8242894eea7b9": "渗透测试 -- Python3编写常见exp",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODY2ODA0OA==&mid=2247485914&idx=1&sn=f8cec8e3728f84d34ca028e8af00bb3b": "【未公开】百择唯供应链存在SearchOrderByParams SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491464&idx=2&sn=0d4045776a636e09c6c243c1be42ec18": "漏洞预警 | 金蝶EAS任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491464&idx=3&sn=ac7cc21a14507ada677b925d8c2f9060": "漏洞预警 | 顺景ERP管理系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492775&idx=1&sn=93a3a6836cb68f8168e9655508828d18": "漏洞利用、shell反弹 | 一键利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486175&idx=1&sn=fa6fd7a401164cbcb62a25a9ecc5f8ac": "SpringSecurity权限绕过漏洞-好玩"
 }
