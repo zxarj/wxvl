@@ -254,5 +254,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793188&idx=2&sn=4a4f1209a4a33af5ff2cb6681e83d52e": "Apple 确认 macOS 系统遭受0day漏洞攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793188&idx=3&sn=985eaa11c8319087deda24624c9bda68": "VMware vCenter 和 Kemp LoadMaster 漏洞正受到积极利用",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491464&idx=1&sn=dddb959fc1bb2fdc915c3c0b79b376cc": "漏洞预警 | 全程云OA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488439&idx=1&sn=3f053aa65cd1e0edc84e4e7baf0d87be": "【0day】资产管理运营系统（资管云）存在前台文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488439&idx=1&sn=3f053aa65cd1e0edc84e4e7baf0d87be": "【0day】资产管理运营系统（资管云）存在前台文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502450&idx=1&sn=a1fc8665dfbb9c1703fef3c40ff25310&chksm=fe79eeeac90e67fcbf34eede7835db3aa9916a7a50c559be8c34d0446433f0f4d41189eb8b1a&scene=58&subscene=0": "【在野利用】Palo Alto Networks PAN-OS 身份认证绕过漏洞(CVE-2024-0012)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523853&idx=3&sn=fab3ee466334a0022b2df23ab6a23217&chksm=ce46151df9319c0b47c29456be191ccb1e9aa5c9d308c5e785ba7c175b75b7a3f6afe84ca4d6&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241111-20241117)"
 }
