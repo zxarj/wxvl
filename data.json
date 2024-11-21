@@ -339,5 +339,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484368&idx=1&sn=49f5c63e530ff4a5360f1bde3b2f324f": "【漏洞复现】数字通云平台智慧政务cookie登录绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211159&idx=1&sn=eaa9344e08031742daa733646b4c96b4": "【深度复现】D-Link NAS设备 sc_mgr.cgi 未授权RCE漏洞(CVE-2024-10914)",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793202&idx=1&sn=6442286840d79041b5d59c24cea27af5": "Ubuntu Needrestart 软件包中发现存在十年之久的安全漏洞，可以获得Root权限",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247503892&idx=2&sn=f96cf857db7e67591108af162474c402": "网安趋势？谷歌宣布AI首次发现内存安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247503892&idx=2&sn=f96cf857db7e67591108af162474c402": "网安趋势？谷歌宣布AI首次发现内存安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664230091&idx=4&sn=263ea32ebfc468c8a503fd8a7d847988&chksm=8b59ee32bc2e6724be3ab1971189ed723ff0bd517816391938514eab40b4d64e00bfeb630a69&scene=58&subscene=0": "CNNVD | 关于Palo Alto Networks PAN-OS安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529561&idx=1&sn=21097e9ac986115991718b87150558bb": "安全巨头惊爆0day漏洞危机：2023年最频繁攻击源揭秘！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649870121&idx=1&sn=61e16fb282d8d940147e14b24462c3f1": "TOP 1！知道创宇再获CNVD漏洞平台14星最高荣誉",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247579721&idx=1&sn=971afc08efdeab4cd0d06a7f9e64bfc3": "Helldown 勒索软件利用 Zyxel 漏洞破坏企业网络",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492420&idx=1&sn=983ff5f33ddc1bf11baeca0a42b1516d": "关键的 Windows漏洞使数百万台服务器面临攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486091&idx=1&sn=91833410d26dea9ad568703fcb83c398": "「漏洞复现」Altenergy电力系统控制软件 status_zigbee SQL注入漏洞复现(CVE-2024-11305)",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496794&idx=3&sn=0529c7467c6aa61ad31786c53e0b140d": "【漏洞通告】Wget服务器端请求伪造漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247487863&idx=1&sn=a856bb4a7707eac0bcafb0d7450947c6": "几个常见的越权漏洞挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507450&idx=1&sn=baba096592ba4c2ce7f2849d12b10277": "Palo Alto Networks PAN-OS身份认证绕过+远程代码执行漏洞"
 }
