@@ -348,5 +348,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486091&idx=1&sn=91833410d26dea9ad568703fcb83c398": "「漏洞复现」Altenergy电力系统控制软件 status_zigbee SQL注入漏洞复现(CVE-2024-11305)",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496794&idx=3&sn=0529c7467c6aa61ad31786c53e0b140d": "【漏洞通告】Wget服务器端请求伪造漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247487863&idx=1&sn=a856bb4a7707eac0bcafb0d7450947c6": "几个常见的越权漏洞挖掘案例",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507450&idx=1&sn=baba096592ba4c2ce7f2849d12b10277": "Palo Alto Networks PAN-OS身份认证绕过+远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507450&idx=1&sn=baba096592ba4c2ce7f2849d12b10277": "Palo Alto Networks PAN-OS身份认证绕过+远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490002&idx=1&sn=fcfb62255fd7a622d4d4d49929ce9a97": "Ubuntu系统软件中的5个漏洞潜藏了10年才被发现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307635&idx=2&sn=87c3bf9433bce52470c6600460f833ed": "Ubuntu系统软件中的5个漏洞潜藏了10年才被发现",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066112&idx=1&sn=00fc32fb2126236a289beba3ec9b7b29": "【安全圈】Ubuntu系统软件中的5个漏洞潜藏了10年才被发现",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486093&idx=1&sn=f875b24e5431597f8279e5526d265f8d": "第105篇：方程式工具包图形界面版V0.42，更新永恒浪漫exp对Vista、Win7系统的利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458583634&idx=1&sn=c8830e31a595e1d7bc0c7c16de61a754": "惊喜开班！系统0day安全-IOT设备漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458583634&idx=3&sn=53aa35b505b9bfdfb18d41e18d667703": "竟长达10年未发现？Ubuntu系统“needrestart”工具曝5个本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492586&idx=1&sn=f45bee7349e1db3147eb26c8843c7adf": "PoC,AnyDesk 漏洞暴露用户 IP 地址，CVE-2024-52940",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521546&idx=1&sn=deaef16f3522dccfad4051c26652ad09": "这个 root 漏洞已存在10+年之久，影响Ubuntu Linux",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247489903&idx=1&sn=15bf8bcba0aaf185a4c968af8fcd06a4": "创宇安全智脑 | D-Link ShareCenter sc_mgr.cgi 远程命令执行等81个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTYwOTU1Mw==&mid=2650092516&idx=1&sn=2f6258182135b9ae40a75b504ef2e7ee": "跨国抓捕：俄罗斯勒索软件头目被引渡至美国",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODYwODkyMA==&mid=2247484628&idx=1&sn=7adaa47dc8dce500ba919e958221bc7a": "Ubuntu 默认工具 needrestart 曝出五个严重提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247487727&idx=1&sn=ce66fae6488e73be86204199cd8fc8fa": "模糊测试：发现软件隐患和漏洞的秘密武器",
+    "https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489131&idx=1&sn=0b8639eded86673aa72ca1f9916befad": "零时科技 || BTB 攻击事件分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500266&idx=2&sn=a7cda971e34b7f49ac887ba14aa975d6": "【漏洞通告】Ubuntu needrestart权限提升漏洞（CVE-2024-48990）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODY0NjE5MA==&mid=2247484990&idx=1&sn=1608484b01b1e75343a7e04c80323eb2": "明天，咱们直播间不见不散！学习SRC业务逻辑漏洞的你，怎么能错过！！！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484025&idx=1&sn=6b51b64fa3cc038bef66def279a3d37e": "知识 | 网安圈常说的暗网是什么？"
 }
