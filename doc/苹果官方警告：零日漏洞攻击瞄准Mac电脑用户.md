@@ -1,40 +1,19 @@
 #  苹果官方警告：零日漏洞攻击瞄准Mac电脑用户   
-安全内参编译  安全内参   2024-11-21 03:18  
-  
-**关注我们**  
-  
-  
-**带你读懂网络安全**  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7vQ0NWEgFIdmPL2ygumbOpeSey4FcF7K0gIRuLiba7HddMaJRK5jXmRoWJLc5hoHd4AaXdVSE87hkg/640?wx_fmt=jpeg "")  
-  
+​安全内参  商密君   2024-11-21 14:45  
   
 **零日漏洞攻击瞄准Mac电脑用户，苹果生态已成零日攻击高发地带。**  
   
-前情回顾·**零日漏洞层出不穷**  
-- [多国警告：零日漏洞攻击暴涨已成为网空新常态](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513066&idx=1&sn=1f1e58c9bfd0c64d48f2d26a4ec2332c&chksm=ebfaf4cadc8d7ddc5a473f4f05bf0906cba0f94f6fe531716ea0f290040eaebb75c627252e0a&scene=21#wechat_redirect)  
   
+11月21日消息，苹果公司19日发布安全更新，修复了两个被用于攻击Mac用户的安全漏洞，并建议所有用户安装。  
   
-- [Telegram零日漏洞被售卖数周：恶意APK文件可伪装成视频消息](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247512239&idx=1&sn=f5d2196eca683bd10d0d4a8f2b7a7312&chksm=ebfaf78fdc8d7e99f9aa4c74971768510647b78fa434319fb4f405efbb94d50ab3d6dd580b84&scene=21#wechat_redirect)  
-  
-  
-- [预算超2亿元，这家经纪公司扩大零日漏洞收购规模](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511378&idx=1&sn=cfca32cff1fd0c9419c314d202d200f3&chksm=ebfaea72dc8d63646f504ac8415e7167bd7320dcd3a8da1b2565c0a37a66b1fbd3803c246090&scene=21#wechat_redirect)  
-  
-  
-- [2023年零日漏洞在野利用激增，商业间谍软件是主要使用者](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511311&idx=2&sn=8b9d344600b36db40c81d164df732d03&chksm=ebfaea2fdc8d633941f357acc2e5ca5d0738e34557a3fd3dd609c88f9d646cabfc3ddbcad746&scene=21#wechat_redirect)  
-  
-  
-安全内参11月21日消息，苹果公司19日发布安全更新，修复了两个被用于攻击Mac用户的安全漏洞，并建议所有用户安装。  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7spIIibCLiaicg0vKicJqz8OZyywdK1IIVOaR2NUlmPnM6UkOv1NgVfBL5YjQkGx1M3ibN1aaIMlBaQicUA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7spIIibCLiaicg0vKicJqz8OZyywdK1IIVOaR2NUlmPnM6UkOv1NgVfBL5YjQkGx1M3ibN1aaIMlBaQicUA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
 苹果在官网发布的安全公告中表示，发现了两个漏洞（CVE-2024-44308、CVE-2024-44309），可能在基于英特尔处理器的Mac系统上“被积极利用”。这类漏洞属于零日漏洞，因为在漏洞被攻击者利用时，苹果尚未意识到它们的存在。  
   
 为修复这两个漏洞，苹果发布了一系列软件更新，包括macOS、iOS和iPadOS。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7spIIibCLiaicg0vKicJqz8OZyyUEO45NppbrXvbdaGibj08wsxnujIS5e8PVXE49Icz8MO4TB00IEwqCA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7spIIibCLiaicg0vKicJqz8OZyyUEO45NppbrXvbdaGibj08wsxnujIS5e8PVXE49Icz8MO4TB00IEwqCA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 目前尚不清楚针对Mac用户的攻击是由谁发起，也不清楚有多少用户成为目标，或者是否有用户设备已经被成功攻破。这些漏洞由谷歌威胁分析小组报告，该小组专注于调查政府支持的黑客行为和网络攻击。这表明，**此次攻击可能涉及某个政府背景的行为者。而政府支持的网络攻击有时会使用商业间谍软件针对目标设备展开行动**。  
   
@@ -71,25 +50,36 @@
   
   
   
-**参考资料：techcrunch.com、bleepingcomputer.com**  
+  
+编辑：陈十九  
+  
+审核：商密君  
+  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-**推荐阅读**  
-- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：安全内参  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点分享  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点点赞  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-  
-点击下方卡片关注我们，  
-  
-带你一起读懂网络安全 ↓  
-  
-  
-  
+点在看  
   
