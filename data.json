@@ -300,5 +300,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492578&idx=3&sn=a13cb4917d5870bf3ac1e32ce46bc962": "wget 存在SSRF 0day漏洞 CVE-2024-10524",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjYxODcyNA==&mid=2247485131&idx=1&sn=9eaffa9133ef0eff7875ac3fe1fd4fc1": "事关个人，5G基带存在重大安全漏洞！黑客可直接监控手机。",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489065&idx=1&sn=a1eea859e97da404d223f838ee2c8bea": "最新Invicti-Professional-V24.11 WEB漏洞扫描器更新|近期漏洞合集更新",
-    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498627&idx=1&sn=96c957b13032e647fdbb2e2a2db89a94": "oss存储桶遍历漏洞利用脚本（11月18日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498627&idx=1&sn=96c957b13032e647fdbb2e2a2db89a94": "oss存储桶遍历漏洞利用脚本（11月18日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484489&idx=1&sn=5cafab2af07393b94237c5aea17cc224": "用友畅捷通-TPlus系统FileUploadHandler.ashx接口处存在文件上传漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODY2ODA0OA==&mid=2247485938&idx=1&sn=5f75f6c29311eff2fcba5158a4bfc5db": "【未公开】百择唯供应链存在ReadAfterSaleList SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491472&idx=1&sn=68e3d9143979d6909f6c3be8e0147446": "漏洞预警 | GitLab未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491472&idx=2&sn=e842b5299786254b299991d8fabf4824": "漏洞预警 | JeecgBoot表达式注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491472&idx=3&sn=eea1d851655a59d5074eb716aebdf4e3": "漏洞预警 | 用友YonBIP R5旗舰版任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509402&idx=1&sn=fd513ef1bfe094d6bfc52a0238d8efe2": "Palo Alto 防火墙0day漏洞 CVE-2024-0012 和 CVE-2024-9474 检测POC&EXP",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488456&idx=2&sn=6e22a329b754d049d04588b03129884b": "【吃瓜】入门即巅峰"
 }
