@@ -375,5 +375,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497653&idx=1&sn=886fb9df563d731ad0b28c309d97a698": "迫切需要优先考虑移动安全",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514876&idx=1&sn=dc8a114bf1be8a2ada9a420acfb15894": "漏洞管理工具 -- miscan（11月22日更新）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491554&idx=1&sn=dc6a072d64b137434c5be22d725e9452": "Ollama AI 框架中的严重漏洞可能导致 DoS、模型盗窃和模型中毒",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484041&idx=1&sn=300cec84cfc3ed1db1d2a894eb37f925": "manOS核弹级漏洞预警"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484041&idx=1&sn=300cec84cfc3ed1db1d2a894eb37f925": "manOS核弹级漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484532&idx=1&sn=ed5e450b30304a3352ada6fd71b5e32d": "唯徳知识产权管理系统WSFM.asmx接口处存在任意文件上传漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247496835&idx=3&sn=fa9a0186121dfa64695dfa00b19d5c63": "46套.NET系统漏洞威胁情报(11.22更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247485477&idx=1&sn=74afe3ed5ffcf53ac41c650caca11a8c": "渗透测试案例 | 证书站学校漏洞挖掘（二）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491493&idx=1&sn=56900827d378769e852f6e8156d11723": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491493&idx=2&sn=eec065507b8e7d33941479b5993c6549": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492777&idx=1&sn=ef4ff5dc13310669908290adea738af0": "oss存储桶遍历漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655259678&idx=1&sn=ea20f839d02e7018fcce1cce35a79cbf": "2023年最常被利用的漏洞（文末附下载）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486827&idx=2&sn=d13fe2d0facfb9fb05228edda6e07f55": "几个常见的越权漏洞挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488468&idx=1&sn=1d5a120fbf79f5f20c40c15928afde6b": "【未公开】安科瑞企业用电监控预警系统存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493600&idx=2&sn=ae16e555ab943ff32aba1b355d5b1204": "【漏洞扫描】Spring框架的漏洞扫描​"
 }
