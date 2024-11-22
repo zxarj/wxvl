@@ -413,5 +413,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247534532&idx=2&sn=a261f488c8598728930e0597a67f9231": "关键的 Windows漏洞使数百万台服务器面临攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247534532&idx=3&sn=dba8388dc8479ac9e8dd44d1d4b25f79": "苹果官方警告：零日漏洞攻击瞄准Mac电脑用户",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247534532&idx=4&sn=b4e11427bfc55900266ecb28c1dc4a23": "安全巨头惊爆0day漏洞危机：2023年最频繁攻击源揭秘！",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491493&idx=3&sn=3907edfc3af9175a4bb7dbb1c2f3cd1f": "漏洞预警 | 电信网关配置管理系统任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491493&idx=3&sn=3907edfc3af9175a4bb7dbb1c2f3cd1f": "漏洞预警 | 电信网关配置管理系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066112&idx=1&sn=00fc32fb2126236a289beba3ec9b7b29&chksm=f36e7d00c419f41616a3b529fd231f5c9cb584fc1c962df2286ebe434d3081d23b39cd91ade2&scene=58&subscene=0": "【安全圈】Ubuntu系统软件中的5个漏洞潜藏了10年才被发现",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247579734&idx=2&sn=08bec6e590889361f84b38ec45c91f6c": "苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654070649&idx=1&sn=7374a071aef6011b09c9d30955d225ff": "漏洞盒子特供服务：组建“白帽全明星红队”，企业攻防演练定向“星”选择",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492792&idx=1&sn=37ced8b16b6ca6eb7b9ba0f4c520478d": "十年前的本地提权漏洞影响Ubuntu的needrestart软件",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485055&idx=2&sn=e02f20581acf9d97fc394cada0cf09f0": "CVE-2024-47575 Fortinet FortiManager RCE exp(FortiJump)"
 }
