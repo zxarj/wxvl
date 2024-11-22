@@ -418,5 +418,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247579734&idx=2&sn=08bec6e590889361f84b38ec45c91f6c": "苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654070649&idx=1&sn=7374a071aef6011b09c9d30955d225ff": "漏洞盒子特供服务：组建“白帽全明星红队”，企业攻防演练定向“星”选择",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492792&idx=1&sn=37ced8b16b6ca6eb7b9ba0f4c520478d": "十年前的本地提权漏洞影响Ubuntu的needrestart软件",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485055&idx=2&sn=e02f20581acf9d97fc394cada0cf09f0": "CVE-2024-47575 Fortinet FortiManager RCE exp(FortiJump)"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485055&idx=2&sn=e02f20581acf9d97fc394cada0cf09f0": "CVE-2024-47575 Fortinet FortiManager RCE exp(FortiJump)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496396&idx=1&sn=a2ebb375c7eea2c903770171d6399018": "一个挖掘权限类漏洞的神器",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502156&idx=1&sn=cc30c475e09a2575e9491af256657f77": "通达OA前台任意用户登录漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489210&idx=1&sn=e6a9c64d5086c776516c1156211848f8": "【漏洞预警】Spring Security大小写敏感校验鉴权绕过风险CVE-2024-38827",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484002&idx=1&sn=ba34798eb0896654775ddedeaae0b242": "一次JS接口到通用信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307839&idx=1&sn=df6784db9ec499ec160ae27590b75fb2": "漏洞盒子特供服务：组建“白帽全明星红队”，企业攻防演练定向“星”选择",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307839&idx=2&sn=f3ba82a2116d70290ed846695c0fd3d0": "AI自动挖洞不是梦，谷歌AI工具OSS-FASZ发现26个开源漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307839&idx=3&sn=1ac2e988e3cf81193aa1fae2f956a1d0": "麻省理工发布2024年最危险的漏洞TOP 25",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066127&idx=1&sn=54cc25bc1157b1fcde3352264a6e6737": "【安全圈】AI自动挖洞不是梦，谷歌AI工具OSS-FASZ又发现26个开源漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MjQ4MjM4OA==&mid=2247521681&idx=1&sn=51efa515b14c56d1eaaf8c64eeaa48b8": "网安周讯 | 间谍利用监控系统漏洞，试图窃取我国国家秘密（十一月第4期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjY1Mzc0Nw==&mid=2247486468&idx=1&sn=86051d4ce2ed3ebd7b3e40c346699628": "漏洞就是黄金",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247487950&idx=1&sn=32c9207fd0007458094dc29cbb18b191": "九思OA dl.jsp 任意文件读取漏洞复现及POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489336&idx=1&sn=751a6198afda40267aabb99699f930d2": "宏景eHR uploadLogo.do 任意文件上传漏洞"
 }
