@@ -461,5 +461,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603953&idx=1&sn=1c59068543e3af0da779dc17e1d431de": "Ubuntu发行版修复5个本地提权漏洞，已潜伏10年；AI自动挖洞不是梦，谷歌AI工具OSS-FASZ又发现26个开源漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603953&idx=3&sn=660716c4fb5acb0699dc9973bab536a5": "比较有意思的几个漏洞挖掘记录",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793228&idx=2&sn=e53354ae3aa95065b3653b45faa3f9e8": "AnyDesk 存在严重漏洞，攻击者可获知用户 IP 地址",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491510&idx=1&sn=8889365d909baddbf466c1382f618cae": "漏洞预警 | Palo Alto Networks Expedition命令注入、SQL注入和明文存储漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491510&idx=1&sn=8889365d909baddbf466c1382f618cae": "漏洞预警 | Palo Alto Networks Expedition命令注入、SQL注入和明文存储漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492627&idx=2&sn=b1c52bcb9dfa346416b2c2d7097795ac": "winzip、7z 压缩软件存在漏洞需警惕以及一条不可信的 Linux 0day 漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247506234&idx=1&sn=35d8397e1d12dd97caafd000e386e08e": "全新发布！通用2.0漏洞奖励计划及第五期活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495369&idx=1&sn=2f4dca5df80b47c58fa0364fd6167d50": "发现Web API漏洞居然能赚到400w刀，看懂这本书你也可以！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDg2MDIxNQ==&mid=2247485168&idx=1&sn=e2f04e624add36a9d609048e6db7267c": "某CMS权限绕过漏洞（0Day）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485711&idx=4&sn=13a141bc92101e550c51705ac5abc93a": "网络安全顶刊——TIFS 2024 论文清单与摘要（4）",
+    "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650557639&idx=1&sn=69f571bf32068c46aa71a5ab4226af8f": "秘密监视：步行跟踪策略战术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486829&idx=2&sn=7cf00cc43f75e4a7074ebbb9e74ff118": "中间件常见漏洞总结"
 }
