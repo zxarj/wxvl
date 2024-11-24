@@ -489,5 +489,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066187&idx=4&sn=c4be9926d771d2293619bbe2dcc12b29&chksm=f36e7dcbc419f4ddb491db67e4fc6ec1515f6d7f688561be3515419ed7095a39ba6fc3b91bf9&scene=58&subscene=0": "【安全圈】D-Link忽视旧款VPN路由器补丁更新，关键漏洞未修复",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486119&idx=1&sn=f27289aad01150f8ee6f13c36a077d40": "「漏洞复现」爱数 AnyShare智能内容管理平台 Usrm_GetAllUsers 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486235&idx=1&sn=cc005d242a63cc3483b2e12fb4951f2a": "某短视频系统视频知识付费系统存在前台任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650619094&idx=1&sn=8fb0a01132a587bf37499a93e34978b1": "安恒信息CTO刘博：三大措施护航数据跨境流动"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650619094&idx=1&sn=8fb0a01132a587bf37499a93e34978b1": "安恒信息CTO刘博：三大措施护航数据跨境流动",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524448&idx=1&sn=522dbb27a7195dd88f717fdcdc6412df": "CVE-2024-8811：WinZip 缺陷允许恶意代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTY3MTE5MA==&mid=2247485530&idx=1&sn=b84e14ab32e6680977a4cf8306e0387e": "使用未知技术发现多个 XSS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614242&idx=1&sn=e30b1710946dd50ec45296d7c2a8ecff": "通过 API 配置错误和逻辑漏洞实现账户接管"
 }
