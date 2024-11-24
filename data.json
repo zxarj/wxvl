@@ -480,5 +480,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485967&idx=1&sn=5db816f99e67288e249ffd001c782213": "Java漏洞平台 - JavaSecLab",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497668&idx=2&sn=5d070cb9d29875dc8b46f874c089b1cc": "2024年最危险的25个软件漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517193&idx=1&sn=dc920188162b0391540fa94f4df48e1f": "JeecgBoot小于3.6.0版本存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247504672&idx=3&sn=ed9021232258b0b0f82fe649895293c9": "7-Zip 文件压缩工具中的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247504672&idx=3&sn=ed9021232258b0b0f82fe649895293c9": "7-Zip 文件压缩工具中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603968&idx=1&sn=f3fb57764ff573556885d19380bb807f": "2024年10月涉国内数据泄露事件汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650603968&idx=4&sn=b16df9e7b17203b94b8d4bb276ef6a31": "masscan全端口扫描==>httpx探测WEB服务==>nuclei&xray漏洞扫描 | 解放双手",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486831&idx=2&sn=dfa1ce1292893eeb735c75b1616a0d00": "蓝队研判技巧（一）-- 基础篇&WireShark篇",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488502&idx=1&sn=49a37de4ad390d82ad780bff943a670f": "【漏洞复现】通达OA submenu存在前台SQL注入漏洞"
 }
