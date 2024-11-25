@@ -561,5 +561,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247496018&idx=1&sn=956febb67d5ca7bf7a5fcfc7081882fc": "HTB-Chemistry靶机渗透，CVE-2024-23334系统目录遍历，导致权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490016&idx=1&sn=06f0f108f0e7392bcfc6fe22c487fc23": "IaC 和 PaC 工具中的网络安全缺陷使云平台面临新的攻击",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308150&idx=4&sn=aa3e8e9a372353b8edcbdd2ebc74f5e3": "EmbedPayloadInPng：一款图片文件Payload嵌入工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247487959&idx=1&sn=981fb1ea9387be08c67c81aaa2c81503": "SRM智联云采系统receiptDetail SQL注入漏洞复现及POC"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247487959&idx=1&sn=981fb1ea9387be08c67c81aaa2c81503": "SRM智联云采系统receiptDetail SQL注入漏洞复现及POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODUxMzE1Ng==&mid=2247484045&idx=1&sn=824549aef0519d9de2e444832a901154": "NDSS 2025新作 | 靠谱的第三方库？VULTURE破解1-Day漏洞难题！",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517265&idx=1&sn=12f3ccf4ea4997016ef704f9c957f4c6": "JAVA代码审计-悟空crm客户管理系统fastjson漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498679&idx=1&sn=8ba88739d244d4773cd4ad10d7aa2c5f": "Spring Cloud Data Flow高危漏洞（CVE-2024-37084）"
 }

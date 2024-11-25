@@ -1,5 +1,5 @@
 #  NDSS 2025新作 | 靠谱的第三方库？VULTURE破解1-Day漏洞难题！   
-原创 Shangzhi Xu  SecNotes   2024-11-25 07:55  
+原创 Shangzhi Xu  SecNotes   2024-11-25 19:19  
   
 **“**  
  软件开发的时候，使用第三方库（Thrid Party Library, TPL）早已成为开发者的标配，既省时又省力。但方便的背后，往往藏着 1-Day 漏洞的风险。  
@@ -11,8 +11,7 @@
 1-Day  
  漏洞并提供详细的修复建议。**”**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/ELicaicj3FtibnTuicicMGCK8icXDY4mpYdde3Hwib8JuvugJ8Zy914C0NeicKqANh9bTwFcYy7gtollx3un1SnaRL8Bhg/640?wx_fmt=png&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ELicaicj3FtibnUsXu6oEOOJt1Kd8geayOic8D49p71ySFQCJ5XLibV84AO0pSxndiaXy2VL4xDygwYIYv0C6v8e1OEw/640?wx_fmt=png&from=appmsg "")  
   
 ## 1. 什么是1-Day漏洞  
   
@@ -27,7 +26,7 @@
   
 我们的工具，VULTURE，就是为了解决上述问题，精确找到目标软件中可能存在的1-Day vulnerability。流程图如下：  
   
-VULTURE先收集一个包含已知漏洞&漏洞patch的数据库，随后检测目标软件是否包含已知漏洞影响的TPLs版本，如果包含收影响版本，进一步检测是否漏洞已经被patch，从而定位1-Day 漏洞。  
+VULTURE先收集一个包含已知漏洞&漏洞patch的数据库，随后检测目标软件是否包含已知漏洞影响的TPLs版本，如果包含收影响版本，进一步检测是否漏洞已经被patch，从而定位1-Day 漏洞。  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/ELicaicj3FtibnTuicicMGCK8icXDY4mpYdde3VBuRnBoicHTvsMdpurf33fMvNrHGR3R5k6EhHuJqaDcWqibvI6OoIxDw/640?wx_fmt=png&from=appmsg "")  
   
