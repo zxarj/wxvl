@@ -1,5 +1,5 @@
 #  SpringSecurity权限绕过漏洞-好玩   
-原创 A1xxNy  猎洞时刻   2024-11-19 23:30  
+ 进击的HACK   2024-11-24 23:55  
   
 ## 一、spring security 简介  
   
