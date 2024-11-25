@@ -554,5 +554,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyMDE4OA==&mid=2247483918&idx=1&sn=f8c05c481a43f7a6f237fef034ec65cb": "国有企业采购效率提升策略与实践探索",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492648&idx=2&sn=d03f904c8980359f172c2444b3c3426d": "财富 1000 强企业中发现3万个API 暴露 和 10 万个 API 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247484683&idx=1&sn=f9b5725f7b10c518772104c7027a91d9": "【漏洞分享】泛微OA漏洞 任意文件读取 OA E-Cology ln.FileDownload 任意文件读取",
-    "https://mp.weixin.qq.com/s?__biz=MzkxODUxMzE1Ng==&mid=2247484040&idx=1&sn=f773f544e7432083f3e181e671a5a0e9": "NDSS 2025新作 | 靠谱的第三方库？VULTURE破解1-Day漏洞难题！"
+    "https://mp.weixin.qq.com/s?__biz=MzkxODUxMzE1Ng==&mid=2247484040&idx=1&sn=f773f544e7432083f3e181e671a5a0e9": "NDSS 2025新作 | 靠谱的第三方库？VULTURE破解1-Day漏洞难题！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489215&idx=1&sn=2751e48cc12fef96b1ec3c01e4b5231d": "【漏洞预警】7-Zip代码执行漏洞CVE-2024-11477",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517314&idx=1&sn=fc0ab6144bd8ce810365c8ba8257f554": "比较有意思的几个漏洞挖掘记录",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247518395&idx=1&sn=6c2bed06566ca93bc1536d78e19029a0": "漏洞挖掘｜遇到APP数据加密如何解密测试",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247496018&idx=1&sn=956febb67d5ca7bf7a5fcfc7081882fc": "HTB-Chemistry靶机渗透，CVE-2024-23334系统目录遍历，导致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490016&idx=1&sn=06f0f108f0e7392bcfc6fe22c487fc23": "IaC 和 PaC 工具中的网络安全缺陷使云平台面临新的攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308150&idx=4&sn=aa3e8e9a372353b8edcbdd2ebc74f5e3": "EmbedPayloadInPng：一款图片文件Payload嵌入工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247487959&idx=1&sn=981fb1ea9387be08c67c81aaa2c81503": "SRM智联云采系统receiptDetail SQL注入漏洞复现及POC"
 }
