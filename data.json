@@ -502,5 +502,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066203&idx=3&sn=98b7c0046c725ff8299a89a706c8ee43": "【安全圈】苹果解决了两个被积极利用的零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247516991&idx=1&sn=caeac624646b0fcb5fb20a73d33bc685": "师傅们，一个超稳的程序员私活渠道！",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491521&idx=2&sn=aefd1e87e73cf6bb535e2f91d40b296f": "漏洞预警 | 安克医疗急救办公管理系统SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486833&idx=1&sn=74a9507725011aa5968303d7c1fd8d66": "SpringSecurity权限绕过漏洞-好玩"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486833&idx=1&sn=74a9507725011aa5968303d7c1fd8d66": "SpringSecurity权限绕过漏洞-好玩",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502670&idx=2&sn=bdbc685d6f5bb170dfe02972cd4c253b": "Windows Kerberos严重漏洞，数百万台服务器遭攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247487727&idx=1&sn=7156e54f2ac19f75b82ed23dda677f5d": "【文末送书】发现Web API漏洞居然能赚到400w刀，看懂这本书你也可以！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485736&idx=1&sn=114a83c2221cd4da61acf679026002b8": "【漏洞复现】某平台-cwsfiledown-DownFileBytes-任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484388&idx=1&sn=ef6fed2e7d12fc7b14b6f661f7a3390e": "【漏洞复现】明源云ERP报表 GetErpConfig.aspx存在信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjY1NjI2Mg==&mid=2247487351&idx=1&sn=8e73398873f8ff68deb9f1569edbc0ba": "漏洞挖掘-小白编写人生中第一个漏洞利用脚本",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958230&idx=1&sn=437f3c5bb26667570286aa98bf84e96f": "静水深流 | 第2届BUGPWN TSCM黑盒挑战赛 • 顺利闭幕",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492091&idx=1&sn=5f68436b2b04ad659f177f8cc67ddb87": "某FE平台一键漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488519&idx=1&sn=9089dcb5fc0277a2d59afdaa0b75e81c": "【0Day】《黄药师》药业管理软件SetMedia_Picture_info存在SQL注入漏洞导致RCE"
 }
