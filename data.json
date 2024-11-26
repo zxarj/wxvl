@@ -602,5 +602,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486281&idx=1&sn=e5c9ba6462797f393b09d5cf7ed0ec40": "记一次小程序渗透测试到通杀RCE(0day)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484196&idx=2&sn=7908876fe839978c7098227a1c40ccf2": "如何识别注入漏洞？",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDc0MjUxMw==&mid=2247485999&idx=1&sn=b66589de46fcaf731909c886a644b92a": "Microsoft 11 月 CVE 漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492819&idx=2&sn=57c085aa5c2d43f592f7a4fd79265fcf": "恶意软件campaign利用Avast Anti-Rootkit驱动程序的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492819&idx=2&sn=57c085aa5c2d43f592f7a4fd79265fcf": "恶意软件campaign利用Avast Anti-Rootkit驱动程序的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766163&idx=1&sn=c4a6fc892c0cda56d40ffe8e86afb2e3": "2024漏洞马拉松启动 | 白帽群雄角逐下一个冠军！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247551698&idx=1&sn=86a6698544ff900cd850608cfa23afd8": "kernel heap exploit（三）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODYwODkyMA==&mid=2247484677&idx=1&sn=f9c76215185fdf633008ba959541c780": "2024 漏洞赏金猎人手记：100条建议",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MjIyNQ==&mid=2247484028&idx=1&sn=9856b8e5c7979e3376ee7dcf2e8bc56f": "【逻辑漏洞】并发漏洞——经典案例",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211186&idx=1&sn=cfd66bc5142c59bc6a545bfde59d87a3": "圣乔ERP系统 login.action Struts2远程代码执行漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486138&idx=1&sn=b6054453c30e7c173804294105f13c55": "「漏洞复现」海信智能公交企业管理系统 AdjustWorkHours.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650209204&idx=1&sn=be4c88610fe1af349e023660bf415d25": "从一条威胁告警发现隐蔽的“毒蛇”",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529673&idx=2&sn=4be9b199d8cdefa9826eccfe333fb5fc": "360发布《大模型安全漏洞报告》，曝光近40个大模型相关安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTY5Nzc1OA==&mid=2247484146&idx=1&sn=f23706c715c5c04c0c6b1426a7652919": "log4j2漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499503&idx=2&sn=2dd6b3cf1b47ac7226dad142622fa875": "CNVD漏洞周报2024年第47期"
 }
