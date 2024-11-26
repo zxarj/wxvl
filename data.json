@@ -621,5 +621,18 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247484817&idx=1&sn=25d5bcb234940ebd9375f2b0e4c6b875": "Sitecore 8.x - 10.x存在命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094118&idx=2&sn=10e10c3cc36bd2eff3732e38beb4eb93": "网安巨头Palo Alto全球数千防火墙被攻陷：因开发低级错误造成零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664230673&idx=2&sn=6b7f7b55158483f87608d00cc4d2ea5d": "360发布大模型安全警报：近40个漏洞易被利用，60美元即可投毒",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308240&idx=2&sn=e6acef1171ac52d2e1162e1539b675bf": "低成本就能给大模型投毒？360发布全球首份大模型漏洞报告"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308240&idx=2&sn=e6acef1171ac52d2e1162e1539b675bf": "低成本就能给大模型投毒？360发布全球首份大模型漏洞报告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514955&idx=1&sn=a3cbc42a77d14a37a48849100d56e651": "漏洞及指纹库图形化工具 -- James_synthesis_tooL（11月25日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652112824&idx=2&sn=ba8da830bfc3dd407d24615dc877f83e": "IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498696&idx=1&sn=9c603a5712d1a1ba5d3bde85205229f7": "远程代码执行（RCE）漏洞（CVE-2024-21534）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485743&idx=1&sn=9652ab072c993e40c94de41663922053": "CVE-2024-52940 AnyDesk信息泄露漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502158&idx=1&sn=b7dea73e6af39dee17845a15008c708c": "【SRC】未授权访问漏洞引发的惨案.......",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490022&idx=1&sn=37f02ae85e0d9bd765b907537eb5f3ba": "RomCom 利用零日漏洞进行复杂的网络攻击 Firefox 和 Windows",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066233&idx=2&sn=778f80b7b5c35162dd41acacfbd17148": "【安全圈】慎用，知名压缩工具7-Zip存在严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308240&idx=1&sn=96d32c8e6fa90561c84164ed75f4dca0": "慎用，知名压缩工具7-Zip存在严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521595&idx=1&sn=d9644a20742d498ecf898b968d561b3f": "QNAP修复NAS、路由器软件中的严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458584063&idx=3&sn=5bf1818d9d0e1dff3711c115252597a1": "惊喜开班！系统0day安全-IOT设备漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzU5MDMxOA==&mid=2247484175&idx=1&sn=429aa490070bfae233ef01e059063fc5": "Feroxbuster-高效发现隐藏路径和漏洞（详细教程）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODI4NDg3Nw==&mid=2247484737&idx=1&sn=7f597cca81f70fbe397aa00b2c746432": "BoidCMSv.2.0.0 后台文件上传漏洞（CVE-2023-38836）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247487888&idx=1&sn=8f0a8c385bc396bff3cd45c9fabe601b": "semcms存在多处漏洞(水一篇文章)"
 }
