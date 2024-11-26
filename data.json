@@ -590,5 +590,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwNTE4Mzc2Mg==&mid=2247486457&idx=1&sn=0b986375dbe83c422290a4c996b1f89e": "【漏洞复现】致翔OA接口open_juese.aspx存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484389&idx=1&sn=e3cac6c2d8f4b76f14984ceda7aba4a9": "【漏洞复现】ArcGIS地理空间平台manager任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247496912&idx=3&sn=d99b8b1741aab3fe4bd98179f0eebe8d": "47套.NET系统漏洞威胁情报(11.26更新)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493634&idx=1&sn=91faff1eb1edaa51d5d24af57bc275f5": "【神兵利器】Spring-Boot漏洞利用工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493634&idx=1&sn=91faff1eb1edaa51d5d24af57bc275f5": "【神兵利器】Spring-Boot漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787467&idx=1&sn=a415a569eadfb841c7db9ab18a3b9dee&chksm=8893bc24bfe43532392925113583d6bbcea38b01befd64f366890a21434cf7ffee6ad2e10535&scene=58&subscene=0": "致命漏洞与暴露API：财富1000强企业面临的30000个暴露API和10万漏洞挑战",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247577005&idx=1&sn=45569d8a6f70fa7ab394d043381adb81&chksm=9f8d3da5a8fab4b330598d784f6807b7a95c24777142828bee09e616609e718c2da49868b04a&scene=58&subscene=0": "360发布全球首份《大模型安全漏洞报告》，曝光近40个大模型相关安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485878&idx=1&sn=41c526462222e613d6b8a46a258fc7b1": "媒资安全×漏洞马拉松，多重福利等你来！",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453885640&idx=1&sn=3e1ceccffe2678ec0472652487d4ac43": "文件暗码，外发文件溯源的绝佳手段",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247490096&idx=2&sn=d925e859b0508219fd163edb4e9ef899": "著名压缩工具7-Zip 存在远程代码执行漏洞——CVE-2024-11477",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614283&idx=1&sn=43cf42404e86e428a63f065ac7c7d18c": "漏洞挖掘 | 绕过 Mozilla 的邮箱验证",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTY3NTMxMQ==&mid=2247484513&idx=1&sn=6620bd18c90e154db5afbba6371d9f05": "突破clade-3.5的AI 限制，实现POC利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484560&idx=1&sn=690e025ba9f4b065f60beac01efbced1": "Nacos未授权下载配置信息【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486281&idx=1&sn=e5c9ba6462797f393b09d5cf7ed0ec40": "记一次小程序渗透测试到通杀RCE(0day)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484196&idx=2&sn=7908876fe839978c7098227a1c40ccf2": "如何识别注入漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDc0MjUxMw==&mid=2247485999&idx=1&sn=b66589de46fcaf731909c886a644b92a": "Microsoft 11 月 CVE 漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492819&idx=2&sn=57c085aa5c2d43f592f7a4fd79265fcf": "恶意软件campaign利用Avast Anti-Rootkit驱动程序的漏洞"
 }
