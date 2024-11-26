@@ -612,5 +612,14 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650209204&idx=1&sn=be4c88610fe1af349e023660bf415d25": "从一条威胁告警发现隐蔽的“毒蛇”",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529673&idx=2&sn=4be9b199d8cdefa9826eccfe333fb5fc": "360发布《大模型安全漏洞报告》，曝光近40个大模型相关安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTY5Nzc1OA==&mid=2247484146&idx=1&sn=f23706c715c5c04c0c6b1426a7652919": "log4j2漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499503&idx=2&sn=2dd6b3cf1b47ac7226dad142622fa875": "CNVD漏洞周报2024年第47期"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499503&idx=2&sn=2dd6b3cf1b47ac7226dad142622fa875": "CNVD漏洞周报2024年第47期",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489223&idx=1&sn=205f609c84baae1ebb2d95de24b1d1d6": "【漏洞预警】ProjectSend身份认证绕过漏洞(CVE-2024-11680)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247513144&idx=1&sn=6a175e131cf78cf6c45b6124b96693e1": "网安瞭望台第5期 ：7zip出现严重漏洞、识别网络钓鱼诈骗的方法分享",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247622787&idx=3&sn=3013db7374fa46c5082b496c870e7e7a": "网安巨头Palo Alto全球数千防火墙被攻陷：因开发低级错误造成零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487845&idx=1&sn=74f2e12a7ee52cc1c5b172b92996f7de": "用友NC process接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491032&idx=1&sn=3278fce857c70113b46fabacea552745": "2024漏洞马拉松-顺丰站",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247484817&idx=1&sn=25d5bcb234940ebd9375f2b0e4c6b875": "Sitecore 8.x - 10.x存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094118&idx=2&sn=10e10c3cc36bd2eff3732e38beb4eb93": "网安巨头Palo Alto全球数千防火墙被攻陷：因开发低级错误造成零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664230673&idx=2&sn=6b7f7b55158483f87608d00cc4d2ea5d": "360发布大模型安全警报：近40个漏洞易被利用，60美元即可投毒",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308240&idx=2&sn=e6acef1171ac52d2e1162e1539b675bf": "低成本就能给大模型投毒？360发布全球首份大模型漏洞报告"
 }
