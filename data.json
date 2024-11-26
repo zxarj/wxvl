@@ -564,5 +564,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247487959&idx=1&sn=981fb1ea9387be08c67c81aaa2c81503": "SRM智联云采系统receiptDetail SQL注入漏洞复现及POC",
     "https://mp.weixin.qq.com/s?__biz=MzkxODUxMzE1Ng==&mid=2247484045&idx=1&sn=824549aef0519d9de2e444832a901154": "NDSS 2025新作 | 靠谱的第三方库？VULTURE破解1-Day漏洞难题！",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517265&idx=1&sn=12f3ccf4ea4997016ef704f9c957f4c6": "JAVA代码审计-悟空crm客户管理系统fastjson漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498679&idx=1&sn=8ba88739d244d4773cd4ad10d7aa2c5f": "Spring Cloud Data Flow高危漏洞（CVE-2024-37084）"
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498679&idx=1&sn=8ba88739d244d4773cd4ad10d7aa2c5f": "Spring Cloud Data Flow高危漏洞（CVE-2024-37084）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491522&idx=1&sn=753a850a133fa83a1764a999a4f9e9d0": "漏洞预警 | Apache Ofbiz表达式注入和模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491522&idx=3&sn=48ccdcd946e23b1b3570ee45a58afa87": "漏洞预警 | 赛普EAP企业适配管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655260023&idx=2&sn=47fb2b5e1ab8fd68800dc6142c1a1b0e": "大模型安全漏洞报告（2024）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488553&idx=2&sn=c69ecd36534694ac5dc71eccfbce4476": "【1Day】北京亚控科技发展有限公司KingH5Stream系统存在逻辑缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514932&idx=1&sn=e430e5f4c10c0abdc15e9b3a88d5bcda": "远程未授权访问漏洞（CVE-2024-23692）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291892&idx=1&sn=16232968dc31a684908bfce05cb873a9": "安全卫士 | 魔方安全漏洞周报"
 }
