@@ -1,17 +1,39 @@
 #  网安巨头Palo Alto全球数千防火墙被攻陷：因开发低级错误造成零日漏洞   
- 网安百色   2024-11-26 11:30  
+安全内参编译  安全内参   2024-11-26 08:36  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/1QIbxKfhZo5lNbibXUkeIxDGJmD2Md5vK9ZGS15PBzhF8gRBMk6V7TXMVsSxyqn3vpLuXTg82nHzLRYicg7QtVJQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+**关注我们**  
   
-点击上方  
-蓝字  
-关注我们吧~  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPJVK970AnWEKrIdG8dHcGVicLOBLzrSsIHpxZ6rWB8N1cV3ibV4iauyvsw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+**带你读懂网络安全**  
   
-安全内参11月26日消息，国际网络安全巨头  
-Palo Alto Networks  
-日前修复了两个被积极利用的漏洞，这些漏洞影响其防火墙及虚拟化安全设备。攻击者可以利用这些漏洞，在安全设备操作系统PAN-OS上以最高权限执行恶意代码，从而完全控制设备。  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPJVK970AnWEKrIdG8dHcGVicLOBLzrSsIHpxZ6rWB8N1cV3ibV4iauyvsw/640?wx_fmt=webp&from=appmsg "")  
+  
+  
+**攻击者通过组合利用两个零日漏洞，实现了远程完全控制PAN-OS安全设备；**  
+  
+  
+**据第三方监测，自攻击活动开始以来，已有约2000台PAN-OS设备被入侵；**  
+  
+****  
+**研究人员对官方修复补丁进行逆向工程，发现这些漏洞源于开发中的低级错误。**  
+  
+前情回顾·**零日漏洞利用动态**  
+- [苹果官方警告：零日漏洞攻击瞄准Mac电脑用户](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513122&idx=1&sn=2328bb653dc07fdeeef3cf0c73e59668&scene=21#wechat_redirect)  
+  
+  
+- [多国警告：零日漏洞攻击暴涨已成为网空新常态](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513066&idx=1&sn=1f1e58c9bfd0c64d48f2d26a4ec2332c&scene=21#wechat_redirect)  
+  
+  
+- [Telegram零日漏洞被售卖数周：恶意APK文件可伪装成视频消息](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247512239&idx=1&sn=f5d2196eca683bd10d0d4a8f2b7a7312&scene=21#wechat_redirect)  
+  
+  
+- [2023年零日漏洞在野利用激增，商业间谍软件是主要使用者](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511311&idx=2&sn=8b9d344600b36db40c81d164df732d03&scene=21#wechat_redirect)  
+  
+  
+  
+  
+安全内参11月26日消息，国际网络安全巨头Palo Alto Networks日前修复了两个被积极利用的漏洞，这些漏洞影响其防火墙及虚拟化安全设备。攻击者可以利用这些漏洞，在安全设备操作系统PAN-OS上以最高权限执行恶意代码，从而完全控制设备。  
   
 Palo Alto Networks在18日发布公告，警告客户其正在调查PAN-OS的Web管理界面可能存在远程代码执行漏洞，并建议用户按推荐步骤限制对该界面的访问。  
   
@@ -20,7 +42,7 @@ Palo Alto Networks在18日发布公告，警告客户其正在调查PAN-OS的Web
   
 Palo Alto Networks表示，此次攻击仅影响“极少数的PAN-OS”防火墙。但威胁监控平台Shadowserver在20日报告称，全球范围内至少有超过2700台易受攻击的PAN-OS设备。Shadowserver还发现，自攻击活动开始以来，已有约2000台设备被入侵。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPWDAOYDl950BbNecqnHE34ZlVkIueodtbnVr3iavicEcdLeOAZXzIojEg/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPWDAOYDl950BbNecqnHE34ZlVkIueodtbnVr3iavicEcdLeOAZXzIojEg/640?wx_fmt=other&from=appmsg "")  
   
 图：美印等国的PAN-OS设备受攻击最多  
   
@@ -46,7 +68,7 @@ Palo Alto Networks表示，此次攻击仅影响“极少数的PAN-OS”防火�
   
 为了验证用户访问某页面是否需要身份验证，PAN-OS管理界面会检查请求中的X-Pan-Authcheck头部值是否设置为on或off。Nginx代理服务器负责将请求转发至托管Web应用的Apache服务器，并根据请求路径自动将X-Pan-Authcheck设置为on。在某些情况下（例如访问/unauth/目录），X-Pan-Authcheck会被设置为off，以允许无需身份验证访问。然而，除了/unauth/之外的所有路径，其头部值均应为on，以确保用户被重定向至登录页面。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPfTqFbiaVRe1YXdnrLEGibvYaVB8LAvUiblGTCx5QmaBCCAxfJXzJ5YGKw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPfTqFbiaVRe1YXdnrLEGibvYaVB8LAvUiblGTCx5QmaBCCAxfJXzJ5YGKw/640?wx_fmt=png&from=appmsg "")  
   
   
 但watchTowr的研究人员发现，uiEnvSetup.php的一个重定向脚本期望HTTP_X_PAN_AUTHCHECK值为off。如果请求中主动设置该值，服务器将直接接受。  
@@ -59,12 +81,13 @@ Palo Alto Networks表示，此次攻击仅影响“极少数的PAN-OS”防火�
   
 该功能允许Palo Alto Panorama设备指定要模拟的用户和角色，无需提供密码或通过双因素身份验证，即可生成一个完全认证的PHP会话ID。    
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPPysH0icNAX99leXLUrABOrLHgppw3UQvicCD0ADkCVcwespnTLb8RgIw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sCJ9An5FeDcUKJA1xL2QdPPysH0icNAX99leXLUrABOrLHgppw3UQvicCD0ADkCVcwespnTLb8RgIw/640?wx_fmt=png&from=appmsg "")  
   
   
 综合来看，这一设计使攻击者可以将shell代码作为用户名字段的一部分，模拟特定用户和角色，然后通过AuditLog.write()传递至pexecute()，最终在底层操作系统上执行代码。  
   
 研究人员总结道：“**令人震惊的是，这两个漏洞竟然存在于生产设备中，且通过Palo Alto设备内部复杂的shell脚本拼凑形成。**”  
+  
   
 **缓解措施**  
   
@@ -78,11 +101,26 @@ Palo Alto Networks的威胁狩猎团队正追踪CVE-2024-0012和CVE-2024-9474的
   
 该团队指出：“主要攻击流量来自一些已知用于代理/隧道匿名 VPN 服务的 IP 地址。后续利用活动包括交互式命令执行以及在防火墙上部署恶意软件（例如 webshell）。”  
   
-**免责声明**  
-：  
   
-本公众号所载文章为本公众号原创或根据网络搜索下载编辑整理，文章版权归原作者所有，仅供读者学习、参考，禁止用于商业用途。因转载众多，无法找到真正来源，如标错来源，或对于文中所使用的图片、文字、链接中所包含的软件/资料等，如有侵权，请跟我们联系删除，谢谢！  
+**参考资料：csoonline.com**  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/1QIbxKfhZo5lNbibXUkeIxDGJmD2Md5vKicbNtIkdNvibicL87FjAOqGicuxcgBuRjjolLcGDOnfhMdykXibWuH6DV1g/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**推荐阅读**  
+- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
+  
+  
+- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
+  
+  
+  
+  
+  
+  
+  
+点击下方卡片关注我们，  
+  
+带你一起读懂网络安全 ↓  
+  
+  
   
   
