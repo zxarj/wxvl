@@ -653,5 +653,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517331&idx=1&sn=67b0bb66494eddc76b7c8c5f4a9a0a68": "几个常见的越权漏洞挖掘案例",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492698&idx=4&sn=67c0713461563b2da2c6432c360df08c": "无需用户交互即可利用 Firefox CVE-2024-9680 和 Windows CVE-2024-49039中的零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793276&idx=1&sn=6f49f00a02c2093806a4281bbed7bcff": "俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509479&idx=1&sn=fcd10e1e25906677825041d94c01d6e6": "Shiro漏洞利用工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509479&idx=1&sn=fcd10e1e25906677825041d94c01d6e6": "Shiro漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491681&idx=1&sn=b6ec04cc6969427872d1425cb42e0dab": "超过 2,000 个 Palo Alto 防火墙遭到最近修补的零日漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI1Mjc3NTUwMQ==&mid=2247536753&idx=1&sn=b3ae96aa4bb51470b962b0f96714cc95": "网安众生相【四十七】网络安全一本及以上学历就业路线推荐，适用毕业一两年甲方就业的同学....",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487869&idx=1&sn=c6eec65d79d82285101ba7a80848077c": "顺景ERP GetFile接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499276&idx=1&sn=fa57cd3c739d2a56024d1a6a6da003c7": "G.O.S.S.I.P 阅读推荐 2024-11-27 又一个内核内存安全漏洞猎手",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492698&idx=2&sn=50144deca9bef5a52a097e941775f37a": "macOS 漏洞 (CVE-2023-32428)本地提权，有poc",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485594&idx=1&sn=f07916b48ea1a7d4826a562a9f983b1b": "【工具分享】某 FE 平台一键漏洞探测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzI4OTkyNw==&mid=2247489519&idx=1&sn=b939e5dc74d7454cca83e688b2f45a4d": "【漏洞情报】快排查！开源分享功能域名遭灰黑产抢注，用作黑帽SEO",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484561&idx=1&sn=8cb121fd6b70d997bb2172fba8850978": "多款AC集中管理平台未授权漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492810&idx=1&sn=389a83e0263bfc916ef686658d7b17e3": "James_synthesis_tooL | 日常渗透测试或攻防演练中对于漏洞及指纹的积累工具"
 }
