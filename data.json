@@ -649,5 +649,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664230673&idx=2&sn=6b7f7b55158483f87608d00cc4d2ea5d&chksm=8b59ede8bc2e64fe7beb33b985b55b643633ced83b057b63edb6a882dc9c69bc256d70364877&scene=58&subscene=0": "360发布大模型安全警报：近40个漏洞易被利用，60美元即可投毒",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499503&idx=2&sn=2dd6b3cf1b47ac7226dad142622fa875&chksm=973acd8da04d449b2f515b675ac7c0e030eb1ded893ae2e95669aa0d4f1905626fd05b61322f&scene=58&subscene=0": "CNVD漏洞周报2024年第47期",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499503&idx=3&sn=6528a919840c2d4021fa17a6d8572c60&chksm=973acd8da04d449bc6abed7f799a0e407df2db60c6ae96f7d4de508087fc78f88cf1bced3566&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241118-20241124)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496424&idx=1&sn=9edd1b8c5ee4cd0f5995cccd9e27ed60&chksm=e8a5f88bdfd2719d344867eb15fe930b7a378a539366eb7e9b8f557407c80bd31c77ef93e70c&scene=58&subscene=0": "如何通过发现 API漏洞赚到百万美刀"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496424&idx=1&sn=9edd1b8c5ee4cd0f5995cccd9e27ed60&chksm=e8a5f88bdfd2719d344867eb15fe930b7a378a539366eb7e9b8f557407c80bd31c77ef93e70c&scene=58&subscene=0": "如何通过发现 API漏洞赚到百万美刀",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517331&idx=1&sn=67b0bb66494eddc76b7c8c5f4a9a0a68": "几个常见的越权漏洞挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492698&idx=4&sn=67c0713461563b2da2c6432c360df08c": "无需用户交互即可利用 Firefox CVE-2024-9680 和 Windows CVE-2024-49039中的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793276&idx=1&sn=6f49f00a02c2093806a4281bbed7bcff": "俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509479&idx=1&sn=fcd10e1e25906677825041d94c01d6e6": "Shiro漏洞利用工具"
 }
