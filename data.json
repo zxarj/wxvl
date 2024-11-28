@@ -692,5 +692,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614324&idx=1&sn=80bc2f0431733718278f14f920fb8d38": "漏洞挖掘 | 通过一个简单的注册漏洞获取任意账户访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502502&idx=1&sn=874d1d96ffd31643476939deced0fd4f": "【在野利用】ProjectSend 身份认证绕过漏洞(CVE-2024-11680)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486295&idx=1&sn=abfa87852e2e7dc8d2b0d2c9c1760f95": "某微信万能门店小程序系统存在前台任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488006&idx=1&sn=69194b9ea7c038bace29df89d53fa101": "工具分享 | nuclei管理工具＋9w poc不想要嘛？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488006&idx=1&sn=69194b9ea7c038bace29df89d53fa101": "工具分享 | nuclei管理工具＋9w poc不想要嘛？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651206699&idx=1&sn=b850cf1e858f00b90a717efd504988dc&chksm=bd2cd18d8a5b589baf4bc2e8229f0eef51a96cf1ffe79bcd9214278becd3684f3fa040892043&scene=58&subscene=0": "大模型应用实践（一）：AI助力Code Review安全漏洞发现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247487694&idx=2&sn=4cbf3f73698e15a3d4134fe9c293a674": "漏洞预警 | 7-Zip代码执行漏洞CVE-2024-11477",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513175&idx=1&sn=aad9a2b08d9d8d9699a7496e63f316e8": "史上最高漏洞赏金计划出炉：单个漏洞最多奖励1.1亿元",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247489930&idx=1&sn=766e34a9f96662ab6f3afea35dc2e1be": "创宇安全智脑 | 用友 NC process SQL注入等73个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649870256&idx=1&sn=25f2861475ff891be653aa284cb49e32": "新书来了！《Web漏洞分析与防范实战（卷1）》正式发售",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500309&idx=3&sn=3cf382f546d45d798a5eafd69bbfc3e0": "【漏洞通告】Zabbix SQL注入漏洞（CVE-2024-42327）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247494942&idx=2&sn=1126c4b20f4c21941b695f0588b1c62c": "Firefox和Tor浏览器遭遇神秘0Day漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134615&idx=1&sn=dcb76588fcf20926def837cfcffaa086": "构建电子政务全渠道安全防御体系 梆梆安全亮相2024网络安全创新发展大会",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529850&idx=1&sn=4a1addfc83108525d6cf92ddb002a8f8": "Intruder推出Intel：一个免费的漏洞情报平台"
 }
