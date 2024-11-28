@@ -1,5 +1,5 @@
 #  【漏洞情报】快排查！开源分享功能域名遭灰黑产抢注，用作黑帽SEO   
- 墨雪飘影   2024-11-27 00:52  
+原创 十二  F12sec   2024-11-27 00:44  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/OBLmObCsZtRhFM3KeDj0QMtHtS04jFyCfsXLsRytlX5oAxgTNL5dYAAe5swJaOREVqksBqdUW8nzibErssPRu5w/640?wx_fmt=png "")  
   
