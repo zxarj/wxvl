@@ -706,5 +706,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489436&idx=1&sn=7df9869adacb2d84a3cc11a313adf700": "Altenergy电力系统控制软件 status_zigbee SQL注入漏洞(CVE-2024-11305)",
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766179&idx=1&sn=19bc392d7501331260a85660f1d427d8": "漏洞盒子 x 汽车之家SRC | 漏洞盒子「企业SRC」新住客",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521625&idx=2&sn=8a7741ed8a419b06a972294416323328": "黑客利用 ProjectSend 严重漏洞攻击服务器",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500309&idx=2&sn=96fcae50d9147bd55ad96ab4aef729f1": "【漏洞通告】ProjectSend身份验证绕过漏洞（CVE-2024-11680）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500309&idx=2&sn=96fcae50d9147bd55ad96ab4aef729f1": "【漏洞通告】ProjectSend身份验证绕过漏洞（CVE-2024-11680）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517346&idx=1&sn=994ffeec2fa01bbf52616e57faceed19": "Nacos2.4.3新版漏洞利用方式总结",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487882&idx=1&sn=538ceedb7a3754102f139f196c13d046": "万能门店小程序管理系统_requestPost接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247506224&idx=1&sn=e83970b0c4d3942d269e688628784f1c": "必应主站www.bing.com惊现蠕虫XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517394&idx=1&sn=21abc79bebba33a518c9b526fa6e2aa5": "【工具推荐】springboot打点工具，内置目前springboot所有漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484417&idx=1&sn=6f4cc0766411a4efe0a5ba648a80f51f": "利用gitRepo卷在Node上RCE(CVE-2024-10220)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489233&idx=1&sn=813b669371f32694d48087f9e54af5f8": "【漏洞预警】Zabbix SQL注入漏洞（CVE-2024-42327）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650989985&idx=1&sn=a710028cf7838a01f6146e554247fd78": "新书发售抢先看：《Web漏洞分析与防范实战（卷1）》",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247622843&idx=2&sn=e58b5c466505cf5ae07a26a4eef66e53": "知名压缩软件被曝严重漏洞，谁会成为受害者？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458584139&idx=3&sn=2da9c8566535b151f08abba973c4cbda": "惊喜开班！系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523865&idx=1&sn=a85f1659ccbd217fd246c088babf8a97": "【漏洞通告】Zabbix 服务器SQL注入漏洞(CVE-2024-42327)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247490220&idx=2&sn=d1d013adb3a9540504c23b2930e6f846": "开源文件共享软件存在严重漏洞CVE-2024-11680，已有公开的PoC"
 }
