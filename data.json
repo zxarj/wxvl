@@ -670,5 +670,18 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493697&idx=1&sn=5e927967f0126a4b20bcf610135bf63c": "【神兵利器】JAVA JMX漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488646&idx=2&sn=c2dfaf5ba31c7d478865e3dddd31b72a": "【大量存在】用友U8C ajaxgetborrowdata存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247534800&idx=3&sn=cc02fd4232b68f295133224584d8cd6f": "MITRE公布最危险软件漏洞TOP25榜单",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjU3NzE3OQ==&mid=2247490236&idx=1&sn=2467e77baf0e3b560ef57a7725560439": "【漏洞情报】快排查！开源分享功能域名遭灰黑产抢注，用作黑帽SEO"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjU3NzE3OQ==&mid=2247490236&idx=1&sn=2467e77baf0e3b560ef57a7725560439": "【漏洞情报】快排查！开源分享功能域名遭灰黑产抢注，用作黑帽SEO",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502491&idx=1&sn=6bfeace574bf3ea581fbbb82cf005900&chksm=fe79ee03c90e67153a7cdca590eff3bbebfc9d7026e656bebc14779be100a7bee9b71f13927a&scene=58&subscene=0": "GitLab LFS Token 权限提升漏洞(CVE-2024-8114)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458584116&idx=2&sn=efa0909856edd8923c4e025510b5cb8f&chksm=b18c34be86fbbda8264e38c310b407ecce383c96d111d66c164454920f3f1c4ef7203e68370e&scene=58&subscene=0": "“看雪漏洞小组”集结！组团挖洞，一起冲击华为漏洞更高奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521617&idx=1&sn=cc6372f588d0fbc52027797f7d23ae53&chksm=ea94a43bdde32d2d7788140cbef334c7440a1777d309ce9d91bac48e50624f4f067938c35f6f&scene=58&subscene=0": "俄黑客组织 RomCom 被指利用火狐和Windows 0day攻击用户",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521617&idx=2&sn=0e9ac32a3223e727cd6cd99460e0387e&chksm=ea94a43bdde32d2d156961ca2f3e3020fe479986f24f7b566a4252db8e0cf759e9e2b35cea13&scene=58&subscene=0": "Palo Alto 防火墙 0day 由低级开发错误引发",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499276&idx=1&sn=fa57cd3c739d2a56024d1a6a6da003c7&chksm=c063d0d5f71459c32ce5dd3a25361caba4f9a8c7af58670973bb6750a59feddcc2e6e823f0a2&scene=58&subscene=0": "G.O.S.S.I.P 阅读推荐 2024-11-27 又一个内核内存安全漏洞猎手",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066249&idx=3&sn=c16dd8113efa3f879e94a0128384f7be&chksm=f36e7d89c419f49fb3a2915184568b4a51c1bcf58da2b60b496d622047008b653b429485ab28&scene=58&subscene=0": "【安全圈】Firefox和Tor浏览器遭遇神秘0Day漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066249&idx=4&sn=df7d811b5e62d6af63575344f1f21cad&chksm=f36e7d89c419f49f075967dfff39374d77a07eeef0a4b0df50211a4fb3226a276a3c467fe120&scene=58&subscene=0": "【安全圈】CVE-2024-8114：GitLab 漏洞允许权限升级",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513163&idx=1&sn=6e7bc3db9029e161c258fba47004aa43&chksm=ebfaf36bdc8d7a7d15a39a39e960ffa596396ccd943a500db69cc2d7b085ba62612c3080ba6b&scene=58&subscene=0": "网站漏洞致用户信息长期被爬，两家保险商被罚超8100万元",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523860&idx=1&sn=6bd78d3240bebaa8b0b3669897db617d&chksm=ce461504f9319c127636bae094b3e7d3ca4eaef1b9b95e44ad7980154e6d827f30cd082466e3&scene=58&subscene=0": "【漏洞通告】GitLab 权限提升漏洞(CVE-2024-8114)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523860&idx=2&sn=60dee21e95737f07ed9a68c90e5bf180&chksm=ce461504f9319c12192c0cb88cbb3db2a8b37756b91e892f421828c33472b2a30f55d5be871d&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241118-20241124)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485748&idx=1&sn=8a6f72ab5197ccbf53c8f82555e3d192": "【漏洞复现】某平台-receiptDetail-mysql-sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651461677&idx=1&sn=62fa971338a579f75e9efa7bdad3e5d7": "信息安全漏洞周报（2024年第48期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484294&idx=1&sn=945aa5d3f04bd25e27bf79f75bab0812": "漏洞挖掘—越权更改、删除信息"
 }
