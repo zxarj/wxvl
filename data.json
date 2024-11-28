@@ -701,5 +701,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500309&idx=3&sn=3cf382f546d45d798a5eafd69bbfc3e0": "【漏洞通告】Zabbix SQL注入漏洞（CVE-2024-42327）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247494942&idx=2&sn=1126c4b20f4c21941b695f0588b1c62c": "Firefox和Tor浏览器遭遇神秘0Day漏洞攻击",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134615&idx=1&sn=dcb76588fcf20926def837cfcffaa086": "构建电子政务全渠道安全防御体系 梆梆安全亮相2024网络安全创新发展大会",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529850&idx=1&sn=4a1addfc83108525d6cf92ddb002a8f8": "Intruder推出Intel：一个免费的漏洞情报平台"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529850&idx=1&sn=4a1addfc83108525d6cf92ddb002a8f8": "Intruder推出Intel：一个免费的漏洞情报平台",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485141&idx=1&sn=0d2c58af3cb50194f0f70f2525b1beee": "漏洞推送|万能门店小程序管理系统 requestPost存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489436&idx=1&sn=7df9869adacb2d84a3cc11a313adf700": "Altenergy电力系统控制软件 status_zigbee SQL注入漏洞(CVE-2024-11305)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766179&idx=1&sn=19bc392d7501331260a85660f1d427d8": "漏洞盒子 x 汽车之家SRC | 漏洞盒子「企业SRC」新住客",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521625&idx=2&sn=8a7741ed8a419b06a972294416323328": "黑客利用 ProjectSend 严重漏洞攻击服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500309&idx=2&sn=96fcae50d9147bd55ad96ab4aef729f1": "【漏洞通告】ProjectSend身份验证绕过漏洞（CVE-2024-11680）"
 }
