@@ -683,5 +683,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523860&idx=2&sn=60dee21e95737f07ed9a68c90e5bf180&chksm=ce461504f9319c12192c0cb88cbb3db2a8b37756b91e892f421828c33472b2a30f55d5be871d&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241118-20241124)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485748&idx=1&sn=8a6f72ab5197ccbf53c8f82555e3d192": "【漏洞复现】某平台-receiptDetail-mysql-sql注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651461677&idx=1&sn=62fa971338a579f75e9efa7bdad3e5d7": "信息安全漏洞周报（2024年第48期）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484294&idx=1&sn=945aa5d3f04bd25e27bf79f75bab0812": "漏洞挖掘—越权更改、删除信息"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484294&idx=1&sn=945aa5d3f04bd25e27bf79f75bab0812": "漏洞挖掘—越权更改、删除信息",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247579846&idx=1&sn=0bb37a38ab5998f595038709b86b4063": "RomCom 黑客利用 Firefox 和 Windows 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzczNTA4MQ==&mid=2247483957&idx=1&sn=0bcd9ad9035581a34f8db5bacc018c41": "疑似0day window全版本RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486164&idx=1&sn=82f20754d12c6098cffb4d09c43a3de4": "「漏洞复现」安科瑞环保用电监管云平台 GetEnterpriseInfoById SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486141&idx=1&sn=3524ce4aeed67e0037b31c4589d2fe8f": "记一次逻辑漏洞(2)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545492&idx=1&sn=46f8045ffe716fe86aa708ba2a0105fa": "较为丝滑的一次证书站漏洞打包",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614324&idx=1&sn=80bc2f0431733718278f14f920fb8d38": "漏洞挖掘 | 通过一个简单的注册漏洞获取任意账户访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502502&idx=1&sn=874d1d96ffd31643476939deced0fd4f": "【在野利用】ProjectSend 身份认证绕过漏洞(CVE-2024-11680)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486295&idx=1&sn=abfa87852e2e7dc8d2b0d2c9c1760f95": "某微信万能门店小程序系统存在前台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488006&idx=1&sn=69194b9ea7c038bace29df89d53fa101": "工具分享 | nuclei管理工具＋9w poc不想要嘛？"
 }
