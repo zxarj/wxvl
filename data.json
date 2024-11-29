@@ -766,5 +766,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500317&idx=3&sn=0a51e2ea3a8e46f34ce745e930bc79b8": "【漏洞通告】Apache Arrow R package反序列化漏洞（CVE-2024-52338）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484291&idx=1&sn=2c88236e3448e8b5dfa525803f1f70fa": "【0day漏洞复现】广州和晖科技有限公司本草纲目首营资料审核中台系统存在认证绕过",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njk1MDY5Ng==&mid=2247491131&idx=1&sn=e0d2e24b268d735ec0bc5039a5d98645": "Android Native内存型漏洞实例",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489445&idx=1&sn=0ff8623a90af54b023cbf870a1b7abd1": "D-Link NAS设备 sc_mgr.cgi 未授权RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489445&idx=1&sn=0ff8623a90af54b023cbf870a1b7abd1": "D-Link NAS设备 sc_mgr.cgi 未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491118&idx=1&sn=2a8cd53472ffeabe46dd0aa8ddcb820f": "记一次小程序渗透测试到通杀RCE(0day)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489245&idx=1&sn=3f922cee40f94bcc5d8936ebb8bd1259": "【漏洞预警】H3C SecCenter SMP未授权输入验证不当漏洞可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489245&idx=2&sn=9ba5ffd1d4f95444d590dd16f0b59623": "【漏洞预警】Apache Arrow R package反序列化漏洞（CVE-2024-52338）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489245&idx=3&sn=08443a5512e58139bc61e318ba68fd64": "【漏洞预警】Zyxel ZLD防火墙路径遍历漏洞（CVE-2024-11667）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485150&idx=1&sn=8bcafff0d5d7cde84c06c97d2f2e1566": "漏洞推送|某信公交apply存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490040&idx=1&sn=b912e9429b195dedefa1fbfff148f631": "Microsoft 修复 AI、云和 ERP 安全漏洞；一个在主动攻击中被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485971&idx=1&sn=8b767002024a7edacf192d5f42041df6": "广联达OA系统漏洞批量检测工具 - GlodonScan",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247515538&idx=1&sn=4a2477128ee6e1c0a01b279ecc8a5195": "【漏洞复现】安科瑞环保用电监管云平台 HomenewLogin SQL注入漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523427&idx=1&sn=dd1123e0af7c000e04f67383a2af0d82": "funbox5复现",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247493936&idx=1&sn=aa7e8c1beea46d10a356a837a611bf8d": "【2024漏洞马拉松】OPPO赛程正式启动，1.5倍奖励，新人额外奖励……超多奖金拿到手软！还有手机大奖等你来拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzU1MzEzMzAxMA==&mid=2247492696&idx=1&sn=de59abdfd55672b0046505484485ff41": "网络安全动态 一周速览 2024.11.23 - 2024.11.29",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486156&idx=1&sn=5305da7ce5dfe5dcb3b78d365016550e": "记一次逻辑漏洞（3）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY1Nzc5MQ==&mid=2247483785&idx=1&sn=2a0f73e089f60fd9570e9d25f7b8d66c": "记一次20000美元的漏洞挖掘报告(HackOne)"
 }
