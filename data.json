@@ -756,5 +756,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492826&idx=1&sn=75938c84eb56cc7f82beb164b02c29fa": "Burpsuite存储桶配置不当漏洞检测插件",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=1&sn=b4006957cc14a541db72088caecfbd9c": "漏洞预警 | 辰信景云终端安全管理系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=2&sn=70273e2ec824ce2e0ec8669552d2534f": "漏洞预警 | 任我行协同CRM普及版SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=3&sn=3febf83e42ab74481bebf264334e9eca": "漏洞预警 | TamronOS IPTV系统任意用户创建漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=3&sn=3febf83e42ab74481bebf264334e9eca": "漏洞预警 | TamronOS IPTV系统任意用户创建漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066334&idx=4&sn=11465e70e7b110f53a2339d3dae91a21": "【安全圈】俄罗斯黑客组织 Romcom 利用 0day 漏洞攻击 Firefox、Tor 用户",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787484&idx=1&sn=9c4fcdaa3a27548374d027af4bcfc38d": "POC公布：Windows驱动程序暴整数溢出漏洞可致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489455&idx=1&sn=119190d29be2f70b8be45a609e8b45ef": "懂微百择唯·供应链 RankingGoodsList2 SQL注入致RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650259619&idx=2&sn=e338a58a66c60964bac54483ff1b0f85": "VPN漏洞和弱凭证助长勒索软件攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUwNzIxNA==&mid=2247484491&idx=1&sn=5b3201c62060ef45a4d7fdd941051766": "【实战小技巧系列】前端 JS 解密：一次简单高危漏洞案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500317&idx=2&sn=16fcd5426c0b54439754a9c7ddaffefa": "【漏洞通告】Zyxel ZLD防火墙路径遍历漏洞（CVE-2024-11667）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500317&idx=3&sn=0a51e2ea3a8e46f34ce745e930bc79b8": "【漏洞通告】Apache Arrow R package反序列化漏洞（CVE-2024-52338）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484291&idx=1&sn=2c88236e3448e8b5dfa525803f1f70fa": "【0day漏洞复现】广州和晖科技有限公司本草纲目首营资料审核中台系统存在认证绕过",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njk1MDY5Ng==&mid=2247491131&idx=1&sn=e0d2e24b268d735ec0bc5039a5d98645": "Android Native内存型漏洞实例",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489445&idx=1&sn=0ff8623a90af54b023cbf870a1b7abd1": "D-Link NAS设备 sc_mgr.cgi 未授权RCE漏洞"
 }
