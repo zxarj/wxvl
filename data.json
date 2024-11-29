@@ -717,5 +717,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247622843&idx=2&sn=e58b5c466505cf5ae07a26a4eef66e53": "知名压缩软件被曝严重漏洞，谁会成为受害者？",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458584139&idx=3&sn=2da9c8566535b151f08abba973c4cbda": "惊喜开班！系统0day安全-IOT设备漏洞挖掘（第6期）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523865&idx=1&sn=a85f1659ccbd217fd246c088babf8a97": "【漏洞通告】Zabbix 服务器SQL注入漏洞(CVE-2024-42327)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247490220&idx=2&sn=d1d013adb3a9540504c23b2930e6f846": "开源文件共享软件存在严重漏洞CVE-2024-11680，已有公开的PoC"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247490220&idx=2&sn=d1d013adb3a9540504c23b2930e6f846": "开源文件共享软件存在严重漏洞CVE-2024-11680，已有公开的PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486870&idx=2&sn=1948479dc1ffdf886bd89765c51dcfb3": "记一次SRC利用github搜索拿下中危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247503484&idx=1&sn=e3eb5a40d0988c77c33d974008df4c8d": "构建 Spectre：用于 XSS 漏洞利用的红队工具（第 1 部分）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493702&idx=1&sn=2186fab30eaee576dbca5c54e3bf00e6": "【神兵利器】高危漏洞EXP实用性工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488650&idx=1&sn=3c2a69aef2c8bd73e875b717bca41cf0": "【0Day】圣乔ERP系统name*存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524738&idx=4&sn=b31c451cdd0b6f7219abff8f78b19210": "macOS 磁盘仲裁中的 TOCTOU 漏洞可通过利用符号链接进行沙箱逃逸和权限升级攻击"
 }
