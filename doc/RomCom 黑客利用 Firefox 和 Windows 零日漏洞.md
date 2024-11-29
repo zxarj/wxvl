@@ -1,7 +1,7 @@
 #  RomCom 黑客利用 Firefox 和 Windows 零日漏洞   
-胡金鱼  嘶吼专业版   2024-11-28 06:00  
+天唯科技  天唯信息安全   2024-11-29 03:16  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/wpkib3J60o297rwgIksvLibPOwR24tqI8dGRUah80YoBLjTBJgws2n0ibdvfvv3CCm0MIOHTAgKicmOB4UHUJ1hH5g/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
   
 总部位于俄罗斯的 RomCom 网络犯罪组织在最近针对欧洲和北美 Firefox 和 Tor 浏览器用户的攻击中发现了两个零日漏洞。  
   
@@ -31,10 +31,49 @@ RomCom（也被追踪为 Storm-0978、Tropical Scorpius 或 UNC2596）与出于�
   
 据 ESET 称，RomCom 现在还针对乌克兰、欧洲和北美的组织进行跨行业的间谍攻击，包括政府、国防、能源、制药和保险。  
   
-参考及来源：https://www.bleepingcomputer.com/news/security/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/  
+参考及来源：  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o29KLru2P0samDTV3oGjKXMMKhxalpg5WqQuicVvtciavic9JHDkcNnVkosqibfSCOUP7XlUJ84JE8nDiaQ/640?wx_fmt=png&from=appmsg "")  
+https://www.bleepingcomputer.com/news/security/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o29KLru2P0samDTV3oGjKXMMuGw2GEaNRSyW6iauE66q9Wl5XlABxmtDGCJCc79iaMx5v8V0HFcwOOjQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
+  
+  
+天唯科技专注于大型组织信息安全领域及IT基础设施解决方案的规划、建设与持续运维服务。帮助客户提高IT基础设施及信息安全管控水平和安全运营能力，使客户在激烈的市场环境中保持竞争力。  
+  
+我们一直秉承“精兵强将，专业专注”的发展理念。  
+先后在江门、深圳成立分公司，在武汉、长沙成立办事处以及成立广州的服务支撑中心。公司已获得高新技术企业认证、已通过IS09001、IS027001、CCRC信息安全集成服务、CCRC信息安全风险评估、CCRC信息安全应急处理等认证。  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNRytkPMNOKYRW452LxR5Ez5Wee8X6KlbhoUMt9XyhhbRxHafKcCLWJic3ib0umJiaH3fl6sOx8KMBiaQ/640?wx_fmt=png "盾牌单图.png")  
+  
+**END**  
+  
+  
+  
+**往期推荐:**  
+  
+  
+  
+  
+  
+[VPN正在成为企业入侵的关键路径](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502764&idx=1&sn=d29afeac02dd3d18a69261f7cd5d502d&scene=21#wechat_redirect)  
+  
+  
+  
+[Interlock——针对 FreeBSD 服务器的新型勒索软件](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502764&idx=2&sn=09541b93d4e3a9ba23a012c745fa2f57&scene=21#wechat_redirect)  
+  
+  
+  
+[微软又全球宕机11小时，多项核心服务无法使用](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502732&idx=1&sn=92d9fd50ad2acba0e595844832765f61&scene=21#wechat_redirect)  
+  
+  
+  
+**征文通道:**  
+  
+  
+  
+  
+  
+[发钱！征文！让真诚的分享更有价值](http://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247490310&idx=1&sn=db4b524d1d9f5aabb4af2184dd831de3&chksm=c25ed7a6f5295eb053d3f90e2dc8cd22a2d8ce1a62561ffa62966340ee563734cd4fd32045f3&scene=21#wechat_redirect)  
   
   

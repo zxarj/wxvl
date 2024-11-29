@@ -722,5 +722,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247503484&idx=1&sn=e3eb5a40d0988c77c33d974008df4c8d": "构建 Spectre：用于 XSS 漏洞利用的红队工具（第 1 部分）",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493702&idx=1&sn=2186fab30eaee576dbca5c54e3bf00e6": "【神兵利器】高危漏洞EXP实用性工具",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488650&idx=1&sn=3c2a69aef2c8bd73e875b717bca41cf0": "【0Day】圣乔ERP系统name*存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524738&idx=4&sn=b31c451cdd0b6f7219abff8f78b19210": "macOS 磁盘仲裁中的 TOCTOU 漏洞可通过利用符号链接进行沙箱逃逸和权限升级攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524738&idx=4&sn=b31c451cdd0b6f7219abff8f78b19210": "macOS 磁盘仲裁中的 TOCTOU 漏洞可通过利用符号链接进行沙箱逃逸和权限升级攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502502&idx=1&sn=874d1d96ffd31643476939deced0fd4f&chksm=fe79ee3ec90e6728cb38cbc7cf03b5ac32273e1cc74442e830866650cc7551ccda12fd8ab98b&scene=58&subscene=0": "【在野利用】ProjectSend 身份认证绕过漏洞(CVE-2024-11680)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458584139&idx=3&sn=2da9c8566535b151f08abba973c4cbda&chksm=b18c34c186fbbdd73b144f7819cfe609f804980362e2d8d65188bf5b244531a5f7848cc104f6&scene=58&subscene=0": "惊喜开班！系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513175&idx=1&sn=aad9a2b08d9d8d9699a7496e63f316e8&chksm=ebfaf377dc8d7a6171bdefc5530053ed3687222b6955f98bd96205bbe5608bed5807bf8c2223&scene=58&subscene=0": "史上最高漏洞赏金计划出炉：单个漏洞最多奖励1.1亿元",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521625&idx=2&sn=8a7741ed8a419b06a972294416323328&chksm=ea94a433dde32d256ddf003492c63581ae6e4ca796a7b7d06dfae15b7c1db0eaf3864e15b031&scene=58&subscene=0": "黑客利用 ProjectSend 严重漏洞攻击服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247529850&idx=1&sn=4a1addfc83108525d6cf92ddb002a8f8&chksm=c14407c7f6338ed116afe6056c52bb6911a17d0b2be1ca25e1f374efa7d03d5732ed7eff8e79&scene=58&subscene=0": "Intruder推出Intel：一个免费的漏洞情报平台",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523865&idx=1&sn=a85f1659ccbd217fd246c088babf8a97&chksm=ce461509f9319c1f4441af7449295d3562c27b0cf5dcae9304e5fde4a4d849357bd239935320&scene=58&subscene=0": "【漏洞通告】Zabbix 服务器SQL注入漏洞(CVE-2024-42327)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485752&idx=1&sn=e28d9413e0a5ef65c14fa149dc727d7c": "【漏洞复现】某平台-statusList-sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502795&idx=2&sn=93d58992c4190f544fae0e8b5d4b8c7f": "RomCom 黑客利用 Firefox 和 Windows 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247488190&idx=1&sn=e8350d40fdb0826b878493ba1901cbe5": "【企业数据泄露】IP欺骗攻防实战指南，打造铜墙铁壁级安全防线！",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247074&idx=1&sn=71265ed700c3e74e33cefa7595424766": "安全e刻 | 全球最大盗版IPTV网络被清剿，月入2.63亿美元",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247493727&idx=1&sn=52aabdb46b51bc552492cba49750ce09": "GitLab漏洞汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247485787&idx=1&sn=1f202987e42634743b29aeea66916628": "Java反序列化漏洞之JNDI注入原理及利用IDEA漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484433&idx=1&sn=14e3f8fdb875a41434afc1cef578dc42": "【技术分享】关于C-Lodop打印服务文件读取漏洞修复方式",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793307&idx=3&sn=6fd4460f0136999cf427b64b71ce498a": "微软修补四个漏洞，其中一些漏洞非常严重且已被广泛利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247535199&idx=2&sn=d31d171442f078518d645d320b381482": "全球 | 近40个【大模型】相关安全【漏洞】曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247488833&idx=1&sn=a92313f93aa23824eadb8be499d6b166": "渗透测试高频面试题分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484577&idx=1&sn=2cc88f0347850a9a6f074438afe107e5": "资产管理运营系统mobilefront2接口处存在前台文件上传漏洞【漏洞复现|附nuclei-POC】"
 }
