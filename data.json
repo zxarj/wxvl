@@ -739,5 +739,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793307&idx=3&sn=6fd4460f0136999cf427b64b71ce498a": "微软修补四个漏洞，其中一些漏洞非常严重且已被广泛利用",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247535199&idx=2&sn=d31d171442f078518d645d320b381482": "全球 | 近40个【大模型】相关安全【漏洞】曝光",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247488833&idx=1&sn=a92313f93aa23824eadb8be499d6b166": "渗透测试高频面试题分享",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484577&idx=1&sn=2cc88f0347850a9a6f074438afe107e5": "资产管理运营系统mobilefront2接口处存在前台文件上传漏洞【漏洞复现|附nuclei-POC】"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484577&idx=1&sn=2cc88f0347850a9a6f074438afe107e5": "资产管理运营系统mobilefront2接口处存在前台文件上传漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247579846&idx=1&sn=0bb37a38ab5998f595038709b86b4063&chksm=e91468fcde63e1ea605e3adce9da5489720e2d21a69c61eb7e63479b335a52d44bd7c62bbffe&scene=58&subscene=0": "RomCom 黑客利用 Firefox 和 Windows 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496830&idx=1&sn=4550017de10cbb9463e78d91a1472b71": "【漏洞通告】ProjectSend身份验证绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496830&idx=2&sn=32feb8d3794ac11cdf54df8999ee1ce1": "【漏洞通告】Zabbix SQL注入漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487556&idx=1&sn=a2ba74fa4542943c3f58fff8acd6ca6e": "Nuclei报告图形化",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502512&idx=1&sn=6f8aba628a7b2bfe2bcf2403541b375e": "【已复现】Mozilla Firefox 释放后重用漏洞(CVE-2024-9680)安全风险通告第二次更新",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650604261&idx=4&sn=89ded4cfd4566918dd520488c54f250e": "Shiro漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODE5OTM5Nw==&mid=2247486516&idx=1&sn=e9fddb6f26423f7d6a50d7d34be6dc4c": "WPS最新0day漏洞？电脑被控仅仅是一个PDF（含视频）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507478&idx=1&sn=3427d3a5f23b7973076ac0219e3c2073": "0day速修 | H3C SecCenter SMP 安全管理平台远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247486304&idx=1&sn=8f7f768fcd81251b6ece478f82fb5172": "edusrc 某中学Swagger接口泄露未授权漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247492639&idx=1&sn=443bb480a80ca6b2fa33ab02f3161461": "仍未出补丁,Windows新的PE漏洞及完整利用代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486173&idx=1&sn=859b8110fe566e760fc432622c66d100": "「漏洞复现」《黄药师》药业管理软件 XSDService.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484429&idx=1&sn=68a1517617279baad8d107745f42fc21": "【漏洞复现】同享TXEHR V15人力管理管理平台信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjIxNjExNg==&mid=2247485886&idx=1&sn=9e399e37895b283dec4804d27dfb675b": "安卓app抓包总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492826&idx=1&sn=75938c84eb56cc7f82beb164b02c29fa": "Burpsuite存储桶配置不当漏洞检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=1&sn=b4006957cc14a541db72088caecfbd9c": "漏洞预警 | 辰信景云终端安全管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=2&sn=70273e2ec824ce2e0ec8669552d2534f": "漏洞预警 | 任我行协同CRM普及版SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491585&idx=3&sn=3febf83e42ab74481bebf264334e9eca": "漏洞预警 | TamronOS IPTV系统任意用户创建漏洞"
 }
