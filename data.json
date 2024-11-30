@@ -782,5 +782,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDY1Nzc5MQ==&mid=2247483785&idx=1&sn=2a0f73e089f60fd9570e9d25f7b8d66c": "记一次20000美元的漏洞挖掘报告(HackOne)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491684&idx=1&sn=a4cd67263f4e366037fdcace8843b6c2": "Ubuntu Linux 受到“需要重启”漏洞的影响，该漏洞会导致本地提权到 root",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247514984&idx=1&sn=c57940df55bdbd6e53cb457f4b060964": "Shiro漏洞利用工具 -- ShiroEXP（11月26日更新）",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521633&idx=1&sn=479bf08551e7f1c208c83e877ab89f34": "速修复！Advantech 工业WiFi 访问点中存在20个漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521633&idx=1&sn=479bf08551e7f1c208c83e877ab89f34": "速修复！Advantech 工业WiFi 访问点中存在20个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486425&idx=1&sn=0551e4fecc2912049578b9c78a1868c4": "俄罗斯关联RomCom组织利用零日漏洞攻击Mozilla和Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488666&idx=1&sn=1ef6c1da4033ecf956961f030d0f643c": "【漏洞复现】九思OA getUserStatusByRole存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=1&sn=c1efcecbe162862e28c3fe13e8e0f85d": "漏洞预警 | 东胜物流软件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=2&sn=ad336b228ccca5f55ebc26514bfca10b": "漏洞预警 | 任子行网络安全审计系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=3&sn=677995c6d32ab004efcf3e5216b28147": "漏洞预警 | 西迪特Wi-Fi Web管理系统远程命令执行和登录绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502523&idx=1&sn=a831935fa92e1ff34b2ffa0bc192aeb7": "【已复现】7-Zip 代码执行漏洞(CVE-2024-11477)安全风险通告"
 }
