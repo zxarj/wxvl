@@ -803,5 +803,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793322&idx=3&sn=4dd79dc082182372b968a8d6151913e6": "施耐德电气、mySCADA 和 Automated Logic 产品中发现严重 ICS 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MTg2NzI5OA==&mid=2247484746&idx=1&sn=fc5e8cfb4ee4912ca505e0adde2012ea": "Docker Registry 未授权访问漏洞利用(工具+利用思路)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MDQ1NA==&mid=2247484786&idx=1&sn=799ffb07449f2d2ce73067e9c4f38a50": "天清汉马vpn任意文件读取【漏洞复现】",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524888&idx=1&sn=bf44332ba1a09b699dc30663a366aeb4": "地穴传说：微软 Unicode 排序规则异常导致软件漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247524888&idx=1&sn=bf44332ba1a09b699dc30663a366aeb4": "地穴传说：微软 Unicode 排序规则异常导致软件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485712&idx=1&sn=34d09311081e1ccdcc96464b3824f719": "CVE-2024-48307｜JeecgBoot SQL 注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485712&idx=2&sn=f6b75b7ecbb1169fce7fbd70bbfbe1bb": "CVE-2024-46938｜Sitecore CMS未经身份验证任意文件读取漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650604301&idx=3&sn=6203d901cebb019b098eb79083364ff8": "漏洞挖掘｜遇到APP数据加密如何解密测试"
 }
