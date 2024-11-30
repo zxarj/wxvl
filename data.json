@@ -788,5 +788,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=1&sn=c1efcecbe162862e28c3fe13e8e0f85d": "漏洞预警 | 东胜物流软件任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=2&sn=ad336b228ccca5f55ebc26514bfca10b": "漏洞预警 | 任子行网络安全审计系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491603&idx=3&sn=677995c6d32ab004efcf3e5216b28147": "漏洞预警 | 西迪特Wi-Fi Web管理系统远程命令执行和登录绕过漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502523&idx=1&sn=a831935fa92e1ff34b2ffa0bc192aeb7": "【已复现】7-Zip 代码执行漏洞(CVE-2024-11477)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502523&idx=1&sn=a831935fa92e1ff34b2ffa0bc192aeb7": "【已复现】7-Zip 代码执行漏洞(CVE-2024-11477)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787484&idx=1&sn=9c4fcdaa3a27548374d027af4bcfc38d&chksm=8893bc33bfe4352539871ef424161e89f3c548991f974353b109d29e5fa176fbbe8cd06c1c55&scene=58&subscene=0": "POC公布：Windows驱动程序暴整数溢出漏洞可致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521633&idx=1&sn=479bf08551e7f1c208c83e877ab89f34&chksm=ea94a40bdde32d1dc2416c640578e2c28536a8d53f4823815adc4ea55ee71c00617606ac3885&scene=58&subscene=0": "速修复！Advantech 工业WiFi 访问点中存在20个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507478&idx=1&sn=3427d3a5f23b7973076ac0219e3c2073&chksm=cfcabd02f8bd341450c49c57e2944986992da9eb9a85e28e0cfe030a99e5f5ff31e48b65fd77&scene=58&subscene=0": "0day速修 | H3C SecCenter SMP 安全管理平台远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066334&idx=4&sn=11465e70e7b110f53a2339d3dae91a21&chksm=f36e7e5ec419f74854a25fa61ed147efd22e98ef5b6de5c23de7bd687f6e2459303cbc314c3a&scene=58&subscene=0": "【安全圈】俄罗斯黑客组织 Romcom 利用 0day 漏洞攻击 Firefox、Tor 用户",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502512&idx=1&sn=6f8aba628a7b2bfe2bcf2403541b375e&chksm=fe79ee28c90e673ed4c87de21345a91cd57d6bd9b3dd5350d1c89cdf28fb5f82edbbfeb0846a&scene=58&subscene=0": "【已复现】Mozilla Firefox 释放后重用漏洞(CVE-2024-9680)安全风险通告第二次更新",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247493936&idx=1&sn=aa7e8c1beea46d10a356a837a611bf8d&chksm=fa78e87ccd0f616ae40f81749ef755aacee837416e4bb8b70e07079b3ade1573f0e4f4365120&scene=58&subscene=0": "【2024漏洞马拉松】OPPO赛程正式启动，1.5倍奖励，新人额外奖励……超多奖金拿到手软！还有手机大奖等你来拿！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247485469&idx=1&sn=3326a0c63e8b77dd3bbc660026f9d8ee": "俄国黑客组织 RomCom 利用 Firefox 和 Tor 浏览器零日漏洞，攻击欧洲和北美用户",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308588&idx=2&sn=7329e9b2eb8d07ede48fd64e561a1ec4": "FreeBuf周报 | VPN正成为企业入侵的关键路径；知名压缩工具7-Zip存在严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308588&idx=3&sn=507f9cfa85259269aad5b20cdc369747": "知名工业WiFi接入点被曝存在20多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655260600&idx=2&sn=d45fcadd0c225f99fa9553f8b67beeb0": "Windows驱动程序暴整数溢出漏洞可致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491120&idx=1&sn=8db3b58d4bf3b995f085d9bb757a355f": "某众测记录｜细心 = or ≠ 漏洞 ？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793322&idx=3&sn=4dd79dc082182372b968a8d6151913e6": "施耐德电气、mySCADA 和 Automated Logic 产品中发现严重 ICS 漏洞"
 }
