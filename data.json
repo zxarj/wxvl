@@ -813,5 +813,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652112887&idx=2&sn=21e400e8cf4e6303d98403cc2af294c3": "攻击者利用Windows 11整数溢出漏洞提升权限",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491685&idx=1&sn=a907897b572d0e992a941751e26cc227": "德国起草法律保护发现安全漏洞的研究人员",
     "https://mp.weixin.qq.com/s?__biz=MzkyODY5ODAyOA==&mid=2247488568&idx=1&sn=b92c8b624e62d32b2387377ae2b89808": "打造高效运营引擎：揭秘IBM企业流程框架方法论的实战应用（附PPT下载）",
-    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494775&idx=1&sn=663d228539b8c7d0207554d994968758": "Advantech工业级Wi-Fi接入点多个安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494775&idx=1&sn=663d228539b8c7d0207554d994968758": "Advantech工业级Wi-Fi接入点多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545552&idx=1&sn=b685a20e7273ec1ae2e5a2282c2e475d": "记一次接口fuzz+逻辑漏洞拿下证书站高危",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655260631&idx=1&sn=6979dd317fb046882d4563bf57e3907a": "CVE-2024-52338：Apache Arrow 存在严重安全漏洞，允许未授权任意代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247490911&idx=1&sn=9f1a6c7c0eae8c0864b4ad6818ed3e4d": "选择一个细分领域，成为专家，或许能发现漏洞甚至 0day 漏洞或逆向 n-day 漏洞，并撰写博客。",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485713&idx=1&sn=de263c85dbef17756b944853870cf207": "CVE-2024-42327｜Zabbix SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485713&idx=2&sn=6b514f8a63ef9950e23b2b6671d555c2": "CVE-2024-11477｜7-Zip代码执行漏洞（POC）"
 }
