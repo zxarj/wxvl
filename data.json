@@ -823,5 +823,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484100&idx=1&sn=bd1389cc16246729ae15e078bee53d54": "经验贴收稿分享3 | 一次XSS漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzAwOTQzMjMwOQ==&mid=2247483890&idx=1&sn=a691603b482681117b33c8e20dcc55db": "什么CNVD证书批量化挖掘 ？",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517444&idx=1&sn=0ee06e80236b7ffc5cd64df21a05d827": "CNVD通用型漏洞挖掘-cnvd证书的刷洞技巧",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650475531&idx=1&sn=87249b7f85681a8a8861489ecf32eabc": "秦安：刘纪鹏教授披露的这个股市不公平规则，亿万股民需怒吼叫停"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650475531&idx=1&sn=87249b7f85681a8a8861489ecf32eabc": "秦安：刘纪鹏教授披露的这个股市不公平规则，亿万股民需怒吼叫停",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652112892&idx=2&sn=da534908bbc1b0b00bc9bae0a8fde09f": "AD证书服务漏洞使攻击者能够提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489204&idx=1&sn=8bf569f2824beddb053d74868d67d981": "记一次从0到1的漏洞挖掘过程 发现Accesssecret泄露实现权限接管 越权等漏洞|挖洞技巧"
 }
