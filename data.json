@@ -825,5 +825,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517444&idx=1&sn=0ee06e80236b7ffc5cd64df21a05d827": "CNVD通用型漏洞挖掘-cnvd证书的刷洞技巧",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650475531&idx=1&sn=87249b7f85681a8a8861489ecf32eabc": "秦安：刘纪鹏教授披露的这个股市不公平规则，亿万股民需怒吼叫停",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652112892&idx=2&sn=da534908bbc1b0b00bc9bae0a8fde09f": "AD证书服务漏洞使攻击者能够提权",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489204&idx=1&sn=8bf569f2824beddb053d74868d67d981": "记一次从0到1的漏洞挖掘过程 发现Accesssecret泄露实现权限接管 越权等漏洞|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489204&idx=1&sn=8bf569f2824beddb053d74868d67d981": "记一次从0到1的漏洞挖掘过程 发现Accesssecret泄露实现权限接管 越权等漏洞|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247488022&idx=1&sn=67aaed483092d9231c0a1c1744d53f6e": "某通用系统0day审计过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486203&idx=1&sn=bb91174473f1d41934a85073804fec49": "「漏洞复现」九思OA workflowSync.getUserStatusByRole.dwr SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492888&idx=1&sn=e82e6cc24fad3f50641261e79572cc04": "一个半自动化springboot打点工具，内置目前springboot所有漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509558&idx=1&sn=4ed77b8fbe43290b3fb889465673e9a3": "利用js挖掘漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491620&idx=1&sn=bc353ebff4eec5172710bb052bc2c31b": "漏洞预警 | PAN-OS Web管理界面身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491620&idx=2&sn=abf6ad1b88c4d7efe8ee9966fc2568de": "漏洞预警 | 海信智能公交企业管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491620&idx=3&sn=7b494bfcaffc088fe6b99d84309de032": "漏洞预警 | SRM智联云采系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488700&idx=1&sn=097193ece2c4ee45d744ff19b5883d77": "【0day】电子图书阅读平台downFile存在SQL注入漏洞"
 }
