@@ -841,5 +841,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484430&idx=1&sn=ce83f5232dd760583f858e6ddccf7aa7": "【漏洞复现】OfficeWeb365 SaveDraw 任意文件上传getshell漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486155&idx=1&sn=853814e2de56863228049b5207d23e70": "一次0Day漏洞Rce审计流程",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247484884&idx=1&sn=c3d38f9f57d4e2b96d95aea5b15ddaa6": "【漏洞复现】Apache OFBiz远程代码执行漏洞(CVE-2024-45195)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493715&idx=2&sn=1babb7a848d1598f0a83a7e5df2fe4f3": "Active Directory Enumeration:RPCClient"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493715&idx=2&sn=1babb7a848d1598f0a83a7e5df2fe4f3": "Active Directory Enumeration:RPCClient",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247487711&idx=1&sn=a4170ba803e835de42597805b12fbb0e": "又一款 all in one 综合漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MzMzNTUzMA==&mid=2247485567&idx=1&sn=66d20525cf0f69be1f3c6915c52fa48c": "SSP-高效 Spring 框架漏洞扫描与利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247487572&idx=1&sn=c515afe3ded2d5f5d763a2f8611aa1d7": "当信息安全成为廉价商品的时候，崩盘是迟早的！",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650259629&idx=1&sn=11894f840270c36fd578f81d2964d4e9": "漏洞管理挑战与自动化解决方案探讨",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MDQ1NA==&mid=2247484811&idx=1&sn=c0e058c0906d579d8d6dd967b92666cb": "泛微E-Mobile-client_do-rce【漏洞复现】20241202",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486203&idx=1&sn=195421b509dcbf7ba6eca59d16085fab": "一次0Day漏洞Rce审计流程",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133722&idx=1&sn=c3ac7d76f7b002486115949f7551d7b0": "Linux安全警报：首个UEFI bootkit恶意软件现身；ThinkPad笔记本曝硬件级漏洞，黑客可偷偷控制摄像头 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTk0NDMzOA==&mid=2247490053&idx=1&sn=5f930cb292a1df708f877af3800eba4d": "从0到1掌握设备漏洞挖掘核心技术",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247545580&idx=1&sn=b177bb6f876e6363c7633e53a8157dc2": "记一次网上阅卷系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485756&idx=1&sn=d0973175772b2f5f39a5557ff4d8e2f0": "【漏洞复现】某平台-TMScmQuote-GetFile-readfile任意文件读取漏洞"
 }
