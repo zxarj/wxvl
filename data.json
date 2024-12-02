@@ -834,5 +834,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491620&idx=2&sn=abf6ad1b88c4d7efe8ee9966fc2568de": "漏洞预警 | 海信智能公交企业管理系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491620&idx=3&sn=7b494bfcaffc088fe6b99d84309de032": "漏洞预警 | SRM智联云采系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488700&idx=1&sn=097193ece2c4ee45d744ff19b5883d77": "【0day】电子图书阅读平台downFile存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/sqwUvwdoK66SpY8CIdCxIg": "Windows 自动登录配置指南"
+    "https://mp.weixin.qq.com/s/sqwUvwdoK66SpY8CIdCxIg": "Windows 自动登录配置指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489464&idx=1&sn=5e9d75fc459499bee5931b854a9e6b22": "任子行网络安全审计系统 log_fw_ips_scan_jsondata SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDg2MDIxNQ==&mid=2247485181&idx=1&sn=19d894e589badfb040423b5f9dc66b0b": "一次0Day漏洞Rce审计流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484687&idx=1&sn=6b3aebc2aa377f1ec8d89d07168de4c3": "发货100cms存在SSRF漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484430&idx=1&sn=ce83f5232dd760583f858e6ddccf7aa7": "【漏洞复现】OfficeWeb365 SaveDraw 任意文件上传getshell漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486155&idx=1&sn=853814e2de56863228049b5207d23e70": "一次0Day漏洞Rce审计流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247484884&idx=1&sn=c3d38f9f57d4e2b96d95aea5b15ddaa6": "【漏洞复现】Apache OFBiz远程代码执行漏洞(CVE-2024-45195)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493715&idx=2&sn=1babb7a848d1598f0a83a7e5df2fe4f3": "Active Directory Enumeration:RPCClient"
 }
