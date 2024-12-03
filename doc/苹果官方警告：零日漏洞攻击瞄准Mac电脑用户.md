@@ -1,33 +1,7 @@
 #  苹果官方警告：零日漏洞攻击瞄准Mac电脑用户   
-安全内参编译  安小圈   2024-11-22 00:45  
+安全内参  关键信息基础设施安全保护联盟   2024-12-02 23:30  
   
-**安小圈**  
-  
-  
-第551期  
-  
-**0day漏洞  Mac用户**  
-  
-****  
-   
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/BWicoRISLtbPYZfppWh9KhibzjhPM3dTF9ZdXhQzc2CZicZCEPDULibhM54o3ialhfS0aLCapg3cU9TXRMnJegEbgTA/640?wx_fmt=jpeg "")  
-![](https://mmbiz.qpic.cn/mmbiz_png/BWicoRISLtbNppYecAVILE9qW0hriaRLRpshAozWY1xQ6tkhjbNYOhejlWCibQx47H9zcVAIzniaub9xWoltIgVWXA/640?wx_fmt=png "")  
-  
-**零日漏洞攻击瞄准Mac电脑用户，苹果生态已成零日攻击高发地带。**  
-  
-前情回顾·**零日漏洞层出不穷**  
-- [多国警告：零日漏洞攻击暴涨已成为网空新常态](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513066&idx=1&sn=1f1e58c9bfd0c64d48f2d26a4ec2332c&chksm=ebfaf4cadc8d7ddc5a473f4f05bf0906cba0f94f6fe531716ea0f290040eaebb75c627252e0a&scene=21#wechat_redirect)  
-  
-  
-- [Telegram零日漏洞被售卖数周：恶意APK文件可伪装成视频消息](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247512239&idx=1&sn=f5d2196eca683bd10d0d4a8f2b7a7312&chksm=ebfaf78fdc8d7e99f9aa4c74971768510647b78fa434319fb4f405efbb94d50ab3d6dd580b84&scene=21#wechat_redirect)  
-  
-  
-- [预算超2亿元，这家经纪公司扩大零日漏洞收购规模](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511378&idx=1&sn=cfca32cff1fd0c9419c314d202d200f3&chksm=ebfaea72dc8d63646f504ac8415e7167bd7320dcd3a8da1b2565c0a37a66b1fbd3803c246090&scene=21#wechat_redirect)  
-  
-  
-- [2023年零日漏洞在野利用激增，商业间谍软件是主要使用者](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511311&idx=2&sn=8b9d344600b36db40c81d164df732d03&chksm=ebfaea2fdc8d633941f357acc2e5ca5d0738e34557a3fd3dd609c88f9d646cabfc3ddbcad746&scene=21#wechat_redirect)  
-  
+![](https://mmbiz.qpic.cn/mmbiz_png/DoGPicehpSD7yIqt5JDquCLys40yW2MZt5JjERM23U0ibHC3galCTkkuTaZSmFwMSU6ctcUQYuM9Vm3k75oNfctQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 安全内参11月21日消息，苹果公司19日发布安全更新，修复了两个被用于攻击Mac用户的安全漏洞，并建议所有用户安装。  
   
@@ -77,74 +51,28 @@
   
 **参考资料：techcrunch.com、bleepingcomputer.com**  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/KWBheD0eoTHmXibldR5t7OHtciaES56KKVkeLOlSfiae7xUDwFDN32pM2r0eTNBVWc201Ra6VA4JUQianh2x2zCZMw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/5t8Rl4ruGlxXxO8pSz7H4nTTGuaJib0NM5VCjvS81AkaiaMuDvsmW7ic0xP9ZBdlbqlW4Ct5TgNRfghuC8WVcCH4w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/DoGPicehpSD7yIqt5JDquCLys40yW2MZtFQ0H2icygiaEDbWz3dBCwdcsb5D47tzCWrUhWfPF4pRGiab44IKIFaicww/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+   
+  
+**理事服务 |  会员服务**  
+  
+      **请联系：13810321968（微信同号）**    
+  
+      
+  
+  **商务合作 |  开白转载 | 媒体交流 | 文章投稿**  
+  
+**请联系：13810321968（微信同号）**  
+     
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/BWicoRISLtbMSrNYPzeZSs4X316kGV7UeOsnl5ayrQXc0wPVutL1dQXg7BugT7vAe8qkpfszTrlhUAq4DQZFaVA/640?wx_fmt=png "")  
-**【原文来源：安全内参****】**  
+![](https://mmbiz.qpic.cn/mmbiz_png/uM5JC8OpyM38qX6pScddCVZj0GPqNazCtDiaYzicEsCzzCwJ0TkK31XFKaAR1oE7s5H5mpdmJPn5YpUpvicmE8FHw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/B13XbuVeoMbBqibuBVrYqqcCOTyZaz7k6RaF3BicicNzE6tW38rjHP6ZRTYCQmuvlBiaYQ7O9kKiblxkibMDFPSewWiag/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/BWicoRISLtbPXIp0CHOLWHoJQicJ7onhDaPpvpCqLkza5ZoKgezBOz9dGV8oAYghuD3z2uNWOey0MmkHaDzpIkTA/640?wx_fmt=jpeg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/0YKrGhCM6DbI5sicoDspb3HUwMHQe6dGezfswja0iaLicSyzCoK5KITRFqkPyKJibbhkNOlZ3VpQVxZJcfKQvwqNLg/640?wx_fmt=gif "")  
-  
-  
-#   
-- # Windows 0-Day 漏洞-(CVSS 9.8) CVE-2024-43491  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247528131&idx=1&sn=ee17bfc91d1275e5a25a8ac88e775324&chksm=ce22397bf955b06dbab2cbeebf6a2f9ba2bb2e364f2651879c3b66d93a4cc9265c12c0cd0197&scene=21#wechat_redirect)  
-- [腾讯【微信】存在可能导致远程代码执行【漏洞】](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247528131&idx=1&sn=ee17bfc91d1275e5a25a8ac88e775324&chksm=ce22397bf955b06dbab2cbeebf6a2f9ba2bb2e364f2651879c3b66d93a4cc9265c12c0cd0197&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247525096&idx=2&sn=d1467825e0d943445aa7437f8fa9916c&chksm=ce223550f955bc4687eab62af06027a266a6c7fd068413e62e7ca85aa51fa28bc16075b37201&scene=21#wechat_redirect)  
-  
-- [CVE-2024-7262（9.3）WPS【漏洞】已经被武器化](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247525096&idx=2&sn=d1467825e0d943445aa7437f8fa9916c&chksm=ce223550f955bc4687eab62af06027a266a6c7fd068413e62e7ca85aa51fa28bc16075b37201&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524771&idx=1&sn=fb1d9a27c4e29c56ccd88a5f981b2d8f&chksm=ce22361bf955bf0d27a75c950d19d6cbfcdf4b5796b9341aaa6551dc56cf046b2426a3c861ff&scene=21#wechat_redirect)  
-- [微软披露：Office最新【零日漏洞】，可能导致数据泄露](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524771&idx=1&sn=fb1d9a27c4e29c56ccd88a5f981b2d8f&chksm=ce22361bf955bf0d27a75c950d19d6cbfcdf4b5796b9341aaa6551dc56cf046b2426a3c861ff&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524688&idx=1&sn=86e599b109e7188ccf652be2fd32b30b&chksm=ce2236e8f955bffef66fa55c274018570ce65982369f4760cb1a5250bbd8f7692b86b0a8222b&scene=21#wechat_redirect)  
-- [【微软警告！】OpenVPN存在【漏洞】| 可能存在漏洞链](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524688&idx=1&sn=86e599b109e7188ccf652be2fd32b30b&chksm=ce2236e8f955bffef66fa55c274018570ce65982369f4760cb1a5250bbd8f7692b86b0a8222b&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524560&idx=1&sn=0ef4d3371f0d6374894ad5259e45ac63&chksm=ce223768f955be7e49bfe14375d3fb22a0718b0474ca42dbafe5c21c15047f40a57e8c82abf7&scene=21#wechat_redirect)  
-- [【爆！】堪比Windows蓝屏危机！| Linux被曝12年史诗级漏洞，“投毒者”是谷歌？](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524560&idx=1&sn=0ef4d3371f0d6374894ad5259e45ac63&chksm=ce223768f955be7e49bfe14375d3fb22a0718b0474ca42dbafe5c21c15047f40a57e8c82abf7&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524560&idx=1&sn=0ef4d3371f0d6374894ad5259e45ac63&chksm=ce223768f955be7e49bfe14375d3fb22a0718b0474ca42dbafe5c21c15047f40a57e8c82abf7&scene=21#wechat_redirect)  
-- [0.0.0.0 Day【漏洞】曝光 | 谷歌、Safari、火狐等主流浏览器面临威胁](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524229&idx=1&sn=46ad42b4a0f5f4d8a0cce1552ba62b7f&chksm=ce22c83df955412b3e8501a9ac056c1330bc269026a2366fedc91e8a5a5bd083ad650fe0eed9&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524025&idx=1&sn=d71c239f2b207cc5d31dd2ff74bf9ce2&chksm=ce22c901f95540172b025e9306778f4066cde3c6150400af01fe22a3e693845263944eefb4d6&scene=21#wechat_redirect)  
-- [核弹级【漏洞预警】Windows 远程桌面 | 授权服务远程代码执行漏洞(CVE-2024-38077)](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247524025&idx=1&sn=d71c239f2b207cc5d31dd2ff74bf9ce2&chksm=ce22c901f95540172b025e9306778f4066cde3c6150400af01fe22a3e693845263944eefb4d6&scene=21#wechat_redirect)  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247520585&idx=1&sn=35cdaeef004b4615fb052326c8594c26&chksm=ce22c6f1f9554fe705c05a9534506a615cb539c264dd5a12cbbe7cedd831507503cd65936826&scene=21#wechat_redirect)  
-- # 【0 day】阿里 NACOS 远程命令执行漏洞  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247520860&idx=1&sn=0b6114b76495de68dba79b87b520da16&chksm=ce22c5e4f9554cf2ae8ff183dcb6d7249d8ea9fb4244f5b1d8b9950b3d8035faf8e45ef2a03a&scene=21#wechat_redirect)  
-- # 【盘点】最严重的39个硬件安全漏洞  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247519816&idx=1&sn=74414bf876b016b3efafca086603e4dd&chksm=ce22d9f0f95550e6234cffca5e7008763bf538a48deb8fd6e500060c7364075ea9975ab9a90f&scene=21#wechat_redirect)  
-- # 如何防护0-day漏洞攻击  
-  
-#   
-- # 【风险提示】OpenSSH 远程代码执行漏洞（CVE-2024-6387）  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247519305&idx=1&sn=7611fef93e007338b538c92d84cb717a&chksm=ce22dbf1f95552e76ab3441d0d4364fc1cb55ec1b199919ad13735577fc2f1e0e6d9cb34a75b&scene=21#wechat_redirect)  
-- # 【漏洞预警】Apache HTTP Server 信息泄露漏洞  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247517435&idx=2&sn=f886ee4cac082229881224ea2f978c07&chksm=ce22d343f9555a556633469c8cf9a18ed91f34ea3c04f90939b9c9a120385f6e724990b5fa4d&scene=21#wechat_redirect)  
-- # 红队视角！2024 | 国家级攻防演练100+必修高危漏洞合集(可下载)  
-  
-#   
-- # 【干货】2024 攻防演练 · 期间 | 需关注的高危漏洞清单  
-  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/BWicoRISLtbP7Bh21K85KEkXX7ibWmLdM2eafpPicoTqk37LEVMUKD1JuAic4FF4KB7jP4oFTricyMwvj5VUZZ824ww/640?wx_fmt=gif "")  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/BWicoRISLtbNzlia8CP45sjgLJgia5Y22hx8khBeShnAzCPwsfqeIVKkpFDhUoMUWMicq6toR2TSUmgBpgzZQHEAHw/640?wx_fmt=jpeg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/BWicoRISLtbPFKyibwduMibC35MsIhibgZEAibwSyVRz7FKt3xa1UK61fXXCCUKllCXFrLdnBqcmgiaKeSxGrWT0RtYw/640?wx_fmt=png "")  
   
