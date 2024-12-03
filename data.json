@@ -880,5 +880,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247503995&idx=1&sn=9ded651555248b55f70a4e36ad2b1d89": "文末抽奖福利！发现Web API漏洞居然能赚到400w刀，看懂这本书你也可以！",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651129390&idx=1&sn=81a9a6bbaa7c79665824a969c6c5535b": "微软超高危漏洞“狂躁许可”：从无回显漏洞看传统漏扫局限性",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247508149&idx=3&sn=58f5ae285624269d9247f4248ba55ded": "苹果官方警告：零日漏洞攻击瞄准Mac电脑用户",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489301&idx=1&sn=50d654dc3d2fb82eda35e3b17d3a63a4": "全球首份《大模型安全漏洞报告》"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489301&idx=1&sn=50d654dc3d2fb82eda35e3b17d3a63a4": "全球首份《大模型安全漏洞报告》",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133722&idx=1&sn=c3ac7d76f7b002486115949f7551d7b0&chksm=bd15a7c98a622edfc0eced4f184a4d959fa1ff4e5354018393a27f00466fffaf7211ee585683&scene=58&subscene=0": "Linux安全警报：首个UEFI bootkit恶意软件现身；ThinkPad笔记本曝硬件级漏洞，黑客可偷偷控制摄像头 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502546&idx=1&sn=e301f3d4f389baa4e9e448b7cdefb1e8&chksm=fe79ee4ac90e675c46b21b6755d924988a848e52f13af242be79c9b65a4dd174aafb5a1cdd6d&scene=58&subscene=0": "【已复现】Zabbix SQL注入漏洞(CVE-2024-42327) 安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502546&idx=2&sn=6e953166ad2f865e994cf4dae7787b9d&chksm=fe79ee4ac90e675c2e13a316d23a4206e33721cfea9d557383cb4da90247163672fb76e03866&scene=58&subscene=0": "安全热点周报：黑客利用 ProjectSend 漏洞攻击暴露后门的服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521645&idx=1&sn=6b419fc6a9985c4a220c5fd4596e4d3e&chksm=ea94a407dde32d117f4af2c69d432603462a5c5f07564a4197cbec9f18e001180b3fde0d2377&scene=58&subscene=0": "微软修复已遭活跃利用的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521645&idx=2&sn=3a85491541969226b45d2bca18f4373b&chksm=ea94a407dde32d111019da790bc26a832e84ea5c251237f49761f7d5bea8d8509b8ab7d648c7&scene=58&subscene=0": "VMware 修复 Aria Operations 中的多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg2NzI5OA==&mid=2247484752&idx=1&sn=11f717a42e8b1e332a6e68aa76a479fd": "Burpsuite存储桶配置不当漏洞检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492812&idx=1&sn=9735ed97824b65fb886b0a07fe30720f": "Windows 任务计划程序漏洞 (CVE-2024-49039) 零日漏洞利用代码发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjIxNjExNg==&mid=2247485927&idx=1&sn=3a2f360161032c9065e88f6a619341e8": "游戏漏洞挖掘思路分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489494&idx=1&sn=270503f5a73bb72a19c28aa50be37baa": "智联云采 SRM2.0 quickReceiptDetail SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496442&idx=1&sn=978d98c1582027cc0ee73be7f459259d": "CNVD漏洞周报2024年第48期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MDQ1NA==&mid=2247484813&idx=1&sn=7e2432f14450d4de504f6b13876bb8f3": "泛微E-Mobile-client_common-error命令执行【漏洞复现】",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650801813&idx=1&sn=f52a5453c3112fafbcc1027879181c32": "美创蝉联国家信息安全漏洞库（CNNVD）二级技术支撑单位！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499505&idx=1&sn=f889cf5b6519afeef6e1e158a49ab584": "CNVD漏洞周报2024年第48期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499505&idx=2&sn=ef3fadc3bc76fc795be2bb777d46dcb3": "上周关注度较高的产品安全漏洞(20241125-20241201)"
 }
