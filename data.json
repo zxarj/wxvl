@@ -897,5 +897,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499505&idx=2&sn=ef3fadc3bc76fc795be2bb777d46dcb3": "上周关注度较高的产品安全漏洞(20241125-20241201)",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQxMjQ4Ng==&mid=2247484213&idx=1&sn=5f02c5c4bdbb4522880b81fdcf4c4aba": "11w漏洞poc",
     "https://mp.weixin.qq.com/s?__biz=MzU5ODE2NDA3NA==&mid=2247496618&idx=1&sn=cf02fc742b1c64e4d18e54e3bdca8004": "VMware发布更新,修复墨云科技报告的高危漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485760&idx=1&sn=fdc697067990411601ee803c76aa8e14": "【漏洞复现】某平台-Sc-Clue-count-search-sql注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485760&idx=1&sn=fdc697067990411601ee803c76aa8e14": "【漏洞复现】某平台-Sc-Clue-count-search-sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTQzNTI4Nw==&mid=2247488921&idx=1&sn=796d00590260af7c745e20f4cb082c0b": "两个影响WPS Office的任意代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308739&idx=1&sn=d35a77c0fb47a68f87a8f37d91f4bb5e": "知名开源监控系统Zabbix存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308739&idx=2&sn=9f511acdd37389f627c4dd8e2667b338": "新型恶意软件能利用LogoFAIL漏洞感染Linux系统",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066393&idx=1&sn=ac63bf158d1e3e33b69fbab49a5ae214": "【安全圈】知名开源监控系统Zabbix存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066393&idx=4&sn=b1e7b15689fa221569f9a1cad7eff071": "【安全圈】新型恶意软件能利用LogoFAIL漏洞感染Linux系统",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651729625&idx=1&sn=88a46004f6807392ed040391e769be25": "数据使用控制｜面向五类可信数据空间建设的数据安全沙箱",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493372&idx=1&sn=f8ed6cc9dc514805d164f9d47277e8f5": "年末冲刺！2024漏洞马拉松『美团站』正式启动",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTY5NDQyMw==&mid=2247525335&idx=1&sn=3c4d387336e0c4ad6298568a52661dec": "docker历史上的第一个漏洞：关于shocker的一切",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489531&idx=1&sn=b8aa79a6bb356af80069827d5d8a0075": "从零开始：K8s安全测试与漏洞挖掘全攻略 开胃K8S LAN PARTY CTF",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Mjg0NzA5Mw==&mid=2247493593&idx=1&sn=56add9a2f2a097757cc4601ea46e1c10": "国家平台认可｜众智维科技获中国CNVD年度星级认定",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDQzODQ3MQ==&mid=2648194328&idx=1&sn=a59c0ff9c783306d55f7139b98401b63": "泰晓社区推出口袋AI盘，普通PC即插即跑",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484709&idx=1&sn=b9e726441e7c55aa51751d27d441bcd3": "【复现】泛微 e-cology前台SQL注入漏洞风险通告"
 }
