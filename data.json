@@ -986,5 +986,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247501960&idx=1&sn=b1a874b5cd7e3c9c5fa8df96481612cc": "360漏洞云情报月度合集-2024年11月期",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247487830&idx=1&sn=c73070283e1b24b768e04165b08c1289": "Java 反序列化之 XStream 反序列化",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTA2MTc4MA==&mid=2247493550&idx=1&sn=c510562442bf86723a5b2ac1107e4be5": "CSRF漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NDYzNjY0Mg==&mid=2247500706&idx=1&sn=29b5e12ad6a0d9d037b53d2fda911c25": "实力攀升丨云天安全荣登第十二版《网络安全企业100强》第37名"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NDYzNjY0Mg==&mid=2247500706&idx=1&sn=29b5e12ad6a0d9d037b53d2fda911c25": "实力攀升丨云天安全荣登第十二版《网络安全企业100强》第37名",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515057&idx=1&sn=3438bafbf1ea31482cff9d6f0be0619a": "WordPress Query Console漏洞EXP（CVE-2024-50498）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487930&idx=1&sn=589b3837a2dc8ff72e861b99f6947f5d": "Zabbix api_jsonrpc.php接口存在SQL注入漏洞CVE-2024-42327 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486207&idx=1&sn=0a038edf2f8010249ccb82461ef389dd": "你名下关联了多少账号？速查！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247520783&idx=1&sn=e6d18857c2b21d1bc8b80636051ff403": "钓鱼网页散播银狐木马，远控后门威胁终端安全",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484756&idx=1&sn=752d76f74d42ba7f8a4a10a54383a15d": "【漏洞复现】CVE-2024-9935"
 }
