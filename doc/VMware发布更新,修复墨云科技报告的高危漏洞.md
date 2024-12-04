@@ -1,16 +1,7 @@
 #  VMware发布更新,修复墨云科技报告的高危漏洞   
-原创 墨云安全  墨云安全   2024-12-03 05:30  
+ 关键信息基础设施安全保护联盟   2024-12-03 23:30  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/7lCiaSMMkhia4WIkRNZHTwq8jJicy27jdbWa7ED26252RGmSPRE0rmHQsgZ6ZoichVyFNlvhLelZS09a194B9dyoAQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-点击↑  
-**蓝字**  
-  
-关注  
-**墨云安全**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/2TSketEedQ9mmk8nGa8zUv26iapUUPIczjUGSuap1ZqpQO56wnwGGmwkicPphswx7DG3CgAribFoibGw48d3VoQ17g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_png/DoGPicehpSD7yIqt5JDquCLys40yW2MZt5JjERM23U0ibHC3galCTkkuTaZSmFwMSU6ctcUQYuM9Vm3k75oNfctQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 ****  
 ******VMware发布更新,修复墨云科技报告的漏洞****CVE-2024-38830、****CVE-2024-38831****。墨云建议广大用户做好资产自查以及预防工作，以免遭受恶意攻击。**  
@@ -67,40 +58,32 @@ https://support.broadcom.com/web/ecx/support-content-notification/-/external/con
 墨云科技后续将积极为用户提供技术支持，进行持续跟踪并及时通报进展。如需要帮助请拨打电话400-096-0509，或搜索“墨云安全”公众号，获取墨云科技更多资讯，期待您的关注！  
   
   
-![](https://mmbiz.qpic.cn/mmbiz/cZV2hRpuAPgyGRhyoqbTupN7lM2NSVJqkaFQzA59F6kiblIQsL175lxIVZbSLrFDFicibxXiaXpXmAGkrGNSib76Ylw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/KWBheD0eoTHmXibldR5t7OHtciaES56KKVkeLOlSfiae7xUDwFDN32pM2r0eTNBVWc201Ra6VA4JUQianh2x2zCZMw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/5t8Rl4ruGlxXxO8pSz7H4nTTGuaJib0NM5VCjvS81AkaiaMuDvsmW7ic0xP9ZBdlbqlW4Ct5TgNRfghuC8WVcCH4w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/DoGPicehpSD7yIqt5JDquCLys40yW2MZtFQ0H2icygiaEDbWz3dBCwdcsb5D47tzCWrUhWfPF4pRGiab44IKIFaicww/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+   
+  
+**理事服务 |  会员服务**  
+  
+      **请联系：13810321968（微信同号）**    
+  
+      
+  
+  **商务合作 |  开白转载 | 媒体交流 | 文章投稿**  
+  
+**请联系：13810321968（微信同号）**  
+     
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/asLg7via5ibAkf1mRkpS4IuZibZE5eeC0t8nibIZBfZEekibOEZVWyf9jHzIVvT2sTzKS1OtZzSBErxJUZXD1AwAAWw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/uM5JC8OpyM38qX6pScddCVZj0GPqNazCtDiaYzicEsCzzCwJ0TkK31XFKaAR1oE7s5H5mpdmJPn5YpUpvicmE8FHw/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-往期回顾  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/icjDF5uGXY5ibE0P0Mtzns3KNb5hsCIKPfMIRultHDbmzgJcDaibI4wNKM6ZloyGRtRovyXtVdv3SuuVOcmA8gn8A/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-# 2024关基保护论坛，墨云发布AI天查大模型  
-#   
-# VackGPT天查大模型2.0，墨云开启智能攻防新篇章  
-#   
-# HVV行动TOP10漏洞公益检测  
-  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/7lCiaSMMkhia4WIkRNZHTwq8jJicy27jdbWa7ED26252RGmSPRE0rmHQsgZ6ZoichVyFNlvhLelZS09a194B9dyoAQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-让网络攻防更智能  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/CD1iaLIMEhibPv9rc3gdLj3g6fiaAcCZqIicylIMVKlbvd5ic5usJ2oia9cTgavs6BwQpEEYbfglc82kCJ0Qic3OHMEaw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/B13XbuVeoMbBqibuBVrYqqcCOTyZaz7k6RaF3BicicNzE6tW38rjHP6ZRTYCQmuvlBiaYQ7O9kKiblxkibMDFPSewWiag/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
   
   
   
-  
-点击  
-**在看**  
-  
-分享给小伙伴  
-  
-  
-↓↓↓点击  
-**阅读原文**  
-，了解更多墨云信息  
   
