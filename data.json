@@ -991,5 +991,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487930&idx=1&sn=589b3837a2dc8ff72e861b99f6947f5d": "Zabbix api_jsonrpc.php接口存在SQL注入漏洞CVE-2024-42327 附POC",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486207&idx=1&sn=0a038edf2f8010249ccb82461ef389dd": "你名下关联了多少账号？速查！",
     "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247520783&idx=1&sn=e6d18857c2b21d1bc8b80636051ff403": "钓鱼网页散播银狐木马，远控后门威胁终端安全",
-    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484756&idx=1&sn=752d76f74d42ba7f8a4a10a54383a15d": "【漏洞复现】CVE-2024-9935"
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484756&idx=1&sn=752d76f74d42ba7f8a4a10a54383a15d": "【漏洞复现】CVE-2024-9935",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzE4NzgzMA==&mid=2247484964&idx=1&sn=0e8a1331b6b922f07501f66fd83c91af": "大模型的RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899701&idx=1&sn=656efce49817921565c19e3107237f5a": "微软修复 AI、云计算和 ERP 安全漏洞，其中一个已被用于攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491639&idx=1&sn=39e40ca6d804352e6d20235db2217c6f": "漏洞预警 | GitLab权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491639&idx=2&sn=ef0f15d92963fe62bd06df07429f9bce": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509613&idx=1&sn=3d46d512c0ea527fdba9869e770416e8": "移动安全框架 (MobSF) 存在存储型XSS漏洞 | CVE-2024-53999",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486893&idx=1&sn=4910174c4a8925e18aae62644f0d7dec": "API安全漏洞靶场crapi漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486893&idx=2&sn=191f261307362506181be108372096f1": "网安牛马碰见WAF如何凑出漏洞数量？（逻辑漏洞篇）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODY5ODAyOA==&mid=2247488732&idx=1&sn=1cb8ad2c108f085ca1907e59c5d42bb1": "大模型安全漏洞：AI时代的“隐形炸弹”（附下载）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247505811&idx=3&sn=4427c170e490db198897f9762069430b": "5th域安全微讯早报【20241205】292期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492872&idx=1&sn=63eff1dd884f77fb706066595cc12e75": "思科ASA漏洞CVE-2014-2120当前正在被利用攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488753&idx=1&sn=bfd5495957e2ee2a2129a1c2f5a66d85": "【漏洞复现】Wordpress ElementorPageBuilder插件存在文件读取漏洞(CVE-2024-9935)"
 }

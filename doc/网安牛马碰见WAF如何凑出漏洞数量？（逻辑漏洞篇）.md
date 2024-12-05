@@ -1,5 +1,5 @@
 #  网安牛马碰见WAF如何凑出漏洞数量？（逻辑漏洞篇）   
- 利刃信安   2024-12-04 01:09  
+ 进击的HACK   2024-12-04 23:55  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/mpLzTQpY3UPtVrmHAzibGGgNhzn4kWpYuibzqibZty56icKugFQOibSpOeJ86aqg7y9RAWwT9GLSXURgibyX2ELDO4Kg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
