@@ -1054,5 +1054,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489270&idx=1&sn=4b59e7c59879b2db9ad770253cc7b265": "【漏洞预警】Django Oracle SQL注入漏洞（CVE-2024-53908）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489552&idx=1&sn=4af132ea745c3855bca33b85780a7f6b": "万能门店小程序管理系统 doPageGetFormList SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490066&idx=1&sn=19f10acfb4432ac39d26b9c846eece40": "立即修复，微软驱动程序关键漏洞已被APT组织利用",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247545671&idx=1&sn=6d387b3b1feabae2ace40e9ad806f1e0": "安全419《9问CEO》系列之：深蓝互联王得金"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247545671&idx=1&sn=6d387b3b1feabae2ace40e9ad806f1e0": "安全419《9问CEO》系列之：深蓝互联王得金",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517492&idx=1&sn=f586d9016d9592f6f6dffa36d64a2eda": "CVE-2024-22399 - SwingLazyValue利用链构造分析"
 }
