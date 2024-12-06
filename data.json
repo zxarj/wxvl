@@ -1094,5 +1094,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247491936&idx=1&sn=012e625f885581be435e1e76a5f715ea": "漏洞预警 灵当 CRM uploadxx.php 文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484585&idx=1&sn=5454bc75cdf44fafbb3e5e8027140664": "Apache-HertzBeat开源实时监控系统存在默认口令漏洞【漏洞复现|附nuclei-POC】",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133870&idx=1&sn=bbdb0d6ade319897ba8d80e124901b49": "英国电信巨头BT集团遭遇勒索攻击，500GB敏感数据恐遭窃取；流行移动安全测试工具曝XSS漏洞，文件名成为攻击新途径 | 牛览",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MTM1MjMzNA==&mid=2653425589&idx=1&sn=61fa9b1c408e4fd0b661e6750c6e4417": "北信源携手中外文化交流中心用“爱传(AITran)”助力文化出海"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MTM1MjMzNA==&mid=2653425589&idx=1&sn=61fa9b1c408e4fd0b661e6750c6e4417": "北信源携手中外文化交流中心用“爱传(AITran)”助力文化出海",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651309094&idx=4&sn=a4310a5d090519e47811b92239c23f69": "CABED：一款针对Chrome应用程序绑定数据的加密解密工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486248&idx=1&sn=c5db4ce371a7d76a113ec5be58c6a312": "「漏洞复现」易宝OA GetUDEFStreamID SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247495970&idx=1&sn=ff9a5f04745abfade7cb4ca85fc55840": "CVE-2024-42327 Zabbix SQL注入 POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066435&idx=3&sn=bbca90f744a9f08fd2d2e9d95bb190e2": "【安全圈】I-O Data路由器0Day漏洞被利用，无修复补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488033&idx=1&sn=596233b0055d9fdc24b51f7fbaa5ea3e": "用友NC-Cloud process SQL注入漏洞复现及POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247632570&idx=3&sn=f622ece0c8d345a542cbc143d224a5a9": "诸子云｜甲方 ：不同供应商的漏洞评级不同怎么办？Windows固定网址访问怎么做？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523938&idx=1&sn=6c81b44f4c94f68c790de69ec5748741": "【漏洞通告】Django Oracle数据库SQL注入漏洞(CVE-2024-53908)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664231514&idx=5&sn=a1b9fdf907d919a928c462945660f655": "CNNVD | 关于SonicWall SMA100安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247525341&idx=1&sn=ea86ae1bed2b137932a11ba97f44f21c": "[漏洞] CVE-2024-44308：Apple Safari JavaScriptCore 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486098&idx=1&sn=ae6ad47bd22e1e3125d2fe45a58ae8b8": "渗透测试高级技巧（三）：被前端加密后的漏洞测试",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521713&idx=1&sn=7bdde63b35fa4a28908581f18c38883e": "引导加载程序存在高危漏洞，影响思科100多个交换机机型",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651461968&idx=1&sn=0a6663b04895b46371bd12da4468b547": "CNNVD 关于SonicWall SMA100 安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507515&idx=1&sn=83bcc14122f1b7fd67fed7d5868d21fc": "微步协助统信修复提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500352&idx=2&sn=235a9462be5bc3a03d48bbfb6ab01bd6": "【漏洞通告】Mitel MiCollab身份验证绕过漏洞（CVE-2024-41713）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500352&idx=3&sn=8418c366f125a72454f0879f77e27f18": "【漏洞通告】SonicWall SMA100 SSL-VPN缓冲区溢出漏洞（CVE-2024-45318）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247517561&idx=1&sn=54d4c087458711183eef2d5373e7dc33": "Spring漏洞测试与利用"
 }
