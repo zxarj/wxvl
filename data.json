@@ -1055,5 +1055,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489552&idx=1&sn=4af132ea745c3855bca33b85780a7f6b": "万能门店小程序管理系统 doPageGetFormList SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490066&idx=1&sn=19f10acfb4432ac39d26b9c846eece40": "立即修复，微软驱动程序关键漏洞已被APT组织利用",
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247545671&idx=1&sn=6d387b3b1feabae2ace40e9ad806f1e0": "安全419《9问CEO》系列之：深蓝互联王得金",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517492&idx=1&sn=f586d9016d9592f6f6dffa36d64a2eda": "CVE-2024-22399 - SwingLazyValue利用链构造分析"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517492&idx=1&sn=f586d9016d9592f6f6dffa36d64a2eda": "CVE-2024-22399 - SwingLazyValue利用链构造分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY3MTM4Nw==&mid=2247484054&idx=1&sn=8a23efc97b5ae0c014ad74d391dd5717": "Jolokia logback JNDI RCE漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497278&idx=1&sn=169a546ae3fc49b099dc54f68b7b5818": "漏洞分析 | 挖掘 .NET SqlSugar 框架SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497278&idx=3&sn=9a007c17825bbe39189acd9ede4b5f18": "48套.NET系统漏洞威胁情报(12.05更新)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486445&idx=1&sn=6f3691c776441bd69449c6aaf6f6a6ae": "Earth Minotaur组织利用MOONSHINE漏洞工具包和DarkNimbus后门进行跨平台攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492910&idx=1&sn=09a010c00e7b570a4044e87718fd1ea4": "POC集合，框架nday漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247509663&idx=1&sn=36790b3290209381053ccbb1036f3b23": "某订货系统文件上传漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491646&idx=1&sn=e2735658a6d4f6f895d5a79139c28b03": "漏洞预警 | WordPress Elementor PDF生成器任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491646&idx=2&sn=146ed161d1ca3fb154097be23b43a507": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491646&idx=3&sn=c46fce8ecd1a9f93c4787c5b907a8bc2": "漏洞预警 | 海信智能公交企业管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488767&idx=1&sn=2ee26bcf0b0ee5ec015000cf0fb9bf28": "【0day】圣乔ERP系统uploadFile存在任意文件上传漏洞"
 }
