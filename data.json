@@ -1085,5 +1085,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484475&idx=1&sn=abb1e90b0a7bf06630254cbceb7a4db6": "【漏洞复现】赛普EAP企业适配管理平台Upload任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793394&idx=2&sn=06277be44ef38c9683d24a9ef2472d1c": "黑客利用 MOONSHINE 漏洞和 DarkNimbus 后门攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247485821&idx=1&sn=b98633172a515bdd2cbbfed5efdc3e30": "渗透测试人员的 Nmap：漏洞扫描",
-    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247490923&idx=1&sn=f17dfe44ab6378a7f8dd918d7e89e309": "一个声音克隆工具：clone-voice"
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247490923&idx=1&sn=f17dfe44ab6378a7f8dd918d7e89e309": "一个声音克隆工具：clone-voice",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515004&idx=1&sn=49ef9432fd64ba81064c5af61066efee&chksm=97634faaa014c6bc8d271434890da9fa1423f4cffa5b6eea0f706cd10222c62508d323f30267&scene=58&subscene=0": "CVE-2024-31317 复现",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650849758&idx=1&sn=553ea868757eb4e5d8a904185df91d80&chksm=80dba27bb7ac2b6db6d3036bcd5e0755a1ae6e0af5a030435033d1e750ca2e4cb0097c273209&scene=58&subscene=0": "渤海证券基于互联网环境的漏洞主动防护方案探索与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066421&idx=3&sn=28c802936604146904c583d74c14846f&chksm=f36e7e35c419f723e1439d92f0683c879d36f2c8fbb1924b0e56cf622579af6653c835a4f408&scene=58&subscene=0": "【安全圈】谷歌浏览器类型混淆漏洞让攻击者能够执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502571&idx=1&sn=c30e1d47ae1059542d59b52c7c4ddfd5": "SonicWall SMA100 SSLVPN 多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650955393&idx=1&sn=e2b764b3fbac3a173c1080cad44da575": "收藏！银行业数据安全工作备忘录，随时自查超适用~",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247491936&idx=1&sn=012e625f885581be435e1e76a5f715ea": "漏洞预警 灵当 CRM uploadxx.php 文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTcwOTMwMQ==&mid=2247484585&idx=1&sn=5454bc75cdf44fafbb3e5e8027140664": "Apache-HertzBeat开源实时监控系统存在默认口令漏洞【漏洞复现|附nuclei-POC】",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133870&idx=1&sn=bbdb0d6ade319897ba8d80e124901b49": "英国电信巨头BT集团遭遇勒索攻击，500GB敏感数据恐遭窃取；流行移动安全测试工具曝XSS漏洞，文件名成为攻击新途径 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MTM1MjMzNA==&mid=2653425589&idx=1&sn=61fa9b1c408e4fd0b661e6750c6e4417": "北信源携手中外文化交流中心用“爱传(AITran)”助力文化出海"
 }
