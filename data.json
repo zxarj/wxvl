@@ -1112,5 +1112,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500352&idx=3&sn=8418c366f125a72454f0879f77e27f18": "【漏洞通告】SonicWall SMA100 SSL-VPN缓冲区溢出漏洞（CVE-2024-45318）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247517561&idx=1&sn=54d4c087458711183eef2d5373e7dc33": "Spring漏洞测试与利用",
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484772&idx=1&sn=8e593a28c598c058805d54e0cfef6028": "【漏洞复现】CVE-2024-41713",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247486322&idx=1&sn=fbd61172d2e9bb94ebd76a78608b2ced": "Java 安全 | 从 Shiro 底层源码看 Shiro 漏洞 (下)"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247486322&idx=1&sn=fbd61172d2e9bb94ebd76a78608b2ced": "Java 安全 | 从 Shiro 底层源码看 Shiro 漏洞 (下)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498845&idx=2&sn=25201142c51e9dbeacbaf956dbf30b41": "渗透测试 -- Web漏洞介绍和Sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489275&idx=1&sn=31722ca4a5e3edc74c5e218e4bfedbdf": "【漏洞预警】SonicWall SMA100 SSL-VPN缓冲区溢出漏洞CVE-2024-45318"
 }
