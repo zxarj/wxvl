@@ -1114,5 +1114,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484772&idx=1&sn=8e593a28c598c058805d54e0cfef6028": "【漏洞复现】CVE-2024-41713",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247486322&idx=1&sn=fbd61172d2e9bb94ebd76a78608b2ced": "Java 安全 | 从 Shiro 底层源码看 Shiro 漏洞 (下)",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498845&idx=2&sn=25201142c51e9dbeacbaf956dbf30b41": "渗透测试 -- Web漏洞介绍和Sql注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489275&idx=1&sn=31722ca4a5e3edc74c5e218e4bfedbdf": "【漏洞预警】SonicWall SMA100 SSL-VPN缓冲区溢出漏洞CVE-2024-45318"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489275&idx=1&sn=31722ca4a5e3edc74c5e218e4bfedbdf": "【漏洞预警】SonicWall SMA100 SSL-VPN缓冲区溢出漏洞CVE-2024-45318",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491663&idx=1&sn=13f8337d2c5b035b77d6655b19c9fc53": "漏洞预警 | Zabbix SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491663&idx=2&sn=15daefd39c0e30d1382305c7482cf614": "漏洞预警 | 九思OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491663&idx=3&sn=6b2aa26c1481def636af9c318e3ce674": "漏洞预警 | 昂捷ERP SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513246&idx=1&sn=a4a663b3a67c336106c8f2c644048dbf": "严重损害数据安全，湖南一IT公司被罚20万元",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113041&idx=2&sn=ce9243791a081b087a014d89f2b9f468": "2024年最危险的25个软件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488779&idx=1&sn=9a633d7bc6504c05e173fe7110716099": "【漏洞复现】EasyCVR视频管理平台taillog存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247486180&idx=1&sn=258dd29d0a97c72092bd6b722048e94d": "代码审计 ｜ Jump Server堡垒机历史漏洞审计"
 }
