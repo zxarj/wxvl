@@ -1140,5 +1140,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492906&idx=1&sn=bcccbff213bc1e74461cb25625f86307": "Windows 中存在严重0day，可导致用户凭据泄露",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247487942&idx=1&sn=15aa489d022ced042139dc1381fcafd4": "高质量企业+eduSRC漏洞挖掘实战资料分享",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247525456&idx=2&sn=36ccd1ade2da7b7093c538a25b09dc4a": "新的 Windows 零日漏洞暴露 NTLM 凭据，已获得非官方补丁",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMjIxNjExNg==&mid=2247485990&idx=1&sn=303f4ff26e9de1a67b30a91e4094d384": "支付类漏洞挖掘技巧总结"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjIxNjExNg==&mid=2247485990&idx=1&sn=303f4ff26e9de1a67b30a91e4094d384": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247517561&idx=1&sn=54d4c087458711183eef2d5373e7dc33&chksm=ce5da718f92a2e0e8f53cf92d03de7e78076267af9cfe8e6a0fc7d509811666fb6cb92d62ebe&scene=58&subscene=0": "Spring漏洞测试与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487535&idx=1&sn=8de530d3ddedd7217a57c2e53b7b6be5": "赛克安全本周漏洞推送（12.2-12.6）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485721&idx=1&sn=aa1125a603acdb5b911e5e35ea92b93c": "CVE-2024-45318｜SonicWall SMA100 SSL-VPN缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485721&idx=2&sn=33b93268432cff8257daa4d1e5239492": "CVE-2024-53908｜Django Oracle SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458585581&idx=2&sn=93d80a7ee158f6ced9cf81c118db2390": "12月31日截止 | “看雪漏洞小组”集结！组团冲击华为漏洞更高奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486259&idx=1&sn=dd51ca8df3aa1533144b975b9bec3086": "「漏洞复现」EasyCVR-视频管理平台 taillog 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247483958&idx=1&sn=bd8d4407a74e628e6eb222ab3b30070a": "Docker0day，影响近4000台主机",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247485642&idx=1&sn=afcc7c4a8330cefeed2195326b87685f": "记一次简单的代码审计项目案例"
 }
