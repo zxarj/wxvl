@@ -1151,5 +1151,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247485642&idx=1&sn=afcc7c4a8330cefeed2195326b87685f": "记一次简单的代码审计项目案例",
     "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247485906&idx=1&sn=85d283dcf4ac6ef6ea62b49c1db8f492": "AI不到3分钟生成了一份29页的《漏洞扫描原理及常用工具》PPT材料",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247514051&idx=2&sn=e39a03d52f1e51705a6d98d33c0d2c99": "网安瞭望台第10期：开源机器学习框架存在漏洞、GammaDrop 恶意软件",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247504999&idx=3&sn=860de968b5da5269ea0ec755cd3e8392": "Windows 7 至 Windows 11 中存在新的 0 Day NTLM 哈希泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247504999&idx=3&sn=860de968b5da5269ea0ec755cd3e8392": "Windows 7 至 Windows 11 中存在新的 0 Day NTLM 哈希泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505049&idx=3&sn=3d5ddf0d99cec9a595d1f68d4a705cb8": "SD Express 卡漏洞导致笔记本电脑和游戏机遭受内存攻击"
 }
