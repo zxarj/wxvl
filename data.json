@@ -1135,5 +1135,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650604682&idx=3&sn=66e331213aaa69ebd6e06ba539c6cbae": "移动安全框架 (MobSF) 存在存储型XSS漏洞 | CVE-2024-53999",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651309095&idx=1&sn=c6dd464702642072510bbb85c37cb402": "无补丁，I-O Data路由器0Day漏洞被利用",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497324&idx=3&sn=726aa5ada489a6cc591b1f36e419bb9b": "漏洞分析 | 挖掘 .NET SqlSugar 框架SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793408&idx=3&sn=07c14519c7e26f4483bd662559941c89": "新的Windows 0day漏洞：攻击者几乎无需用户交互即可窃取 NTLM 凭据"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793408&idx=3&sn=07c14519c7e26f4483bd662559941c89": "新的Windows 0day漏洞：攻击者几乎无需用户交互即可窃取 NTLM 凭据",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523938&idx=1&sn=6c81b44f4c94f68c790de69ec5748741&chksm=ce461572f9319c64441dbb9b9fec89017ec3a569bc74e97b707ce386a4284f8ad97b521bacdb&scene=58&subscene=0": "【漏洞通告】Django Oracle数据库SQL注入漏洞(CVE-2024-53908)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492906&idx=1&sn=bcccbff213bc1e74461cb25625f86307": "Windows 中存在严重0day，可导致用户凭据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247487942&idx=1&sn=15aa489d022ced042139dc1381fcafd4": "高质量企业+eduSRC漏洞挖掘实战资料分享",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247525456&idx=2&sn=36ccd1ade2da7b7093c538a25b09dc4a": "新的 Windows 零日漏洞暴露 NTLM 凭据，已获得非官方补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjIxNjExNg==&mid=2247485990&idx=1&sn=303f4ff26e9de1a67b30a91e4094d384": "支付类漏洞挖掘技巧总结"
 }
