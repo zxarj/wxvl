@@ -1121,5 +1121,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513246&idx=1&sn=a4a663b3a67c336106c8f2c644048dbf": "严重损害数据安全，湖南一IT公司被罚20万元",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113041&idx=2&sn=ce9243791a081b087a014d89f2b9f468": "2024年最危险的25个软件漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488779&idx=1&sn=9a633d7bc6504c05e173fe7110716099": "【漏洞复现】EasyCVR视频管理平台taillog存在任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247486180&idx=1&sn=258dd29d0a97c72092bd6b722048e94d": "代码审计 ｜ Jump Server堡垒机历史漏洞审计"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247486180&idx=1&sn=258dd29d0a97c72092bd6b722048e94d": "代码审计 ｜ Jump Server堡垒机历史漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133870&idx=1&sn=bbdb0d6ade319897ba8d80e124901b49&chksm=bd15a77d8a622e6b8a009b9c77717ac002be4c6326296ad17b7e71b54840a5e6c8dea4bdee76&scene=58&subscene=0": "英国电信巨头BT集团遭遇勒索攻击，500GB敏感数据恐遭窃取；流行移动安全测试工具曝XSS漏洞，文件名成为攻击新途径 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507515&idx=1&sn=83bcc14122f1b7fd67fed7d5868d21fc&chksm=cfcabd2ff8bd34390927ec4b3e4474acd0ef2b7d036e886b03a6e6ad21da3852f9a9df801fc3&scene=58&subscene=0": "微步协助统信修复提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497278&idx=1&sn=169a546ae3fc49b099dc54f68b7b5818&chksm=fa5958d3cd2ed1c510f4fb849cc2d2c03a8dc61d0d509b6550405b9e20962197f50ae3809fbc&scene=58&subscene=0": "漏洞分析 | 挖掘 .NET SqlSugar 框架SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497278&idx=3&sn=9a007c17825bbe39189acd9ede4b5f18&chksm=fa5958d3cd2ed1c5d28b06748f185c62bdcea1ba991e083dff02e650181c89c7e74602d0fb24&scene=58&subscene=0": "48套.NET系统漏洞威胁情报(12.05更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521713&idx=1&sn=7bdde63b35fa4a28908581f18c38883e&chksm=ea94a4dbdde32dcd5e8fb217c09d01c5c1de3a63fcb86fe3d69baffeb27cb89f965d42210193&scene=58&subscene=0": "引导加载程序存在高危漏洞，影响思科100多个交换机机型",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502571&idx=1&sn=c30e1d47ae1059542d59b52c7c4ddfd5&chksm=fe79ee73c90e67653d869887a830bf2a25190cbd667ff181b5e7f6535ba46c4cfb73f220d44f&scene=58&subscene=0": "SonicWall SMA100 SSLVPN 多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066435&idx=3&sn=bbca90f744a9f08fd2d2e9d95bb190e2&chksm=f36e7ec3c419f7d5cf01456a6710a86aa0232fb64cceceecabeed12a0e2bcb562d4935577983&scene=58&subscene=0": "【安全圈】I-O Data路由器0Day漏洞被利用，无修复补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664231514&idx=5&sn=a1b9fdf907d919a928c462945660f655&chksm=8b59f0a3bc2e79b50b247cd840b93ebd4c5907171fe3ec15d7fc1fd6b4795be7d7ad42d5eb82&scene=58&subscene=0": "CNNVD | 关于SonicWall SMA100安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525108&idx=1&sn=6e27512b02e4148cf87e701c0a56e75c": "SRC漏洞挖掘之道",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727840329&idx=1&sn=8e4b7109f4601396270ae0922058dd61": "【活动】2024漏洞马拉松活动来袭，史无前例反爬专项单个奖励最高5w！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650604682&idx=3&sn=66e331213aaa69ebd6e06ba539c6cbae": "移动安全框架 (MobSF) 存在存储型XSS漏洞 | CVE-2024-53999",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651309095&idx=1&sn=c6dd464702642072510bbb85c37cb402": "无补丁，I-O Data路由器0Day漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497324&idx=3&sn=726aa5ada489a6cc591b1f36e419bb9b": "漏洞分析 | 挖掘 .NET SqlSugar 框架SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793408&idx=3&sn=07c14519c7e26f4483bd662559941c89": "新的Windows 0day漏洞：攻击者几乎无需用户交互即可窃取 NTLM 凭据"
 }
