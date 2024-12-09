@@ -1201,5 +1201,22 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260229&idx=1&sn=f6a11bf294dc8f32a86b9a5cafa66554": "【 CVE-2024-38193 】Windows 0day漏洞已在野利用，PoC已发布",
     "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492752&idx=3&sn=a61b3440c0226297a23f67abe9933266": "上周关注度较高的产品安全漏洞(20241125-20241201)",
     "https://mp.weixin.qq.com/s?__biz=MzU1NDU1NTI5Nw==&mid=2247488158&idx=1&sn=98acc9ee5fb73ae5ba6267e0eed963a3": "【活动】2024漏洞马拉松活动来袭，史无前例反爬专项单个奖励最高5w！",
-    "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247498096&idx=1&sn=60b0f557103ef67e7cf9159778b928d8": "全球云上数据泄露风险分析简报 （第三期）：云盘误配置与API漏洞致高校信息泄露，影响7亿账户"
+    "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247498096&idx=1&sn=60b0f557103ef67e7cf9159778b928d8": "全球云上数据泄露风险分析简报 （第三期）：云盘误配置与API漏洞致高校信息泄露，影响7亿账户",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491216&idx=1&sn=390db568593214c3e21c608f9aac4946": "CVE-2024-48307｜JeecgBoot SQL 注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489351&idx=1&sn=aa6577fd6d005684fd089d08b094a531": "一个好用的Nuclei POC模版管理工具支持一键漏洞探测|渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515106&idx=2&sn=b625c72739d7c62b246efccace7fbb18": "渗透测试 -- Web漏洞介绍和Sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491694&idx=1&sn=3fb11feee2a30c6a980a0af26aa8ffcb": "MITRE 分享了 2024 年最危险的 25 个软件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489283&idx=1&sn=29b9004e3fdc168434fc378d44504590": "【漏洞预警】SoftLab Integrate Google Drive身份认证绕过漏洞(CVE-2023-32117)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489283&idx=2&sn=5c93a143e811b95e8b77abdcb97f6599": "【漏洞情报】海信智能公交企业管理系统AdjustWorkHours.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486288&idx=1&sn=1bb852514919b1b26bddd263e28d5501": "「漏洞复现」Mitel MiCollab 企业协作平台 任意文件读取漏洞(CVE-2024-41713)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486212&idx=1&sn=a25394ea5d523773aa1771aebc8872fc": "Zabbix SQL 注入漏洞（CVE-2024-42327）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247525557&idx=2&sn=780285b5a5a94ef626071a57bc2412e1": "CVE-2024-55563：交易中继干扰漏洞对比特币闪电网络构成威胁",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654070792&idx=1&sn=12d743d033becec5fcc0920e17922d86": "漏洞马拉松2024 | 积分赛阶段冲刺ing，半区见真章！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247505295&idx=1&sn=c7dccc68315c50474f6e877a45a1b391": "每周网安资讯（12.3-12.9）|Oracle等厂商的多款产品存在漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495571&idx=2&sn=464e8fb82cad6f465f8242e841ab2260": "上周关注度较高的产品安全漏洞(20241202-20241208)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521726&idx=2&sn=4020dbda138c28b7da91666b33eb120a": "SonicWall 修复Secure Access Gateway 中的6个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502580&idx=1&sn=6c73b0ed8291424bf945a368d40498c1": "安全热点周报：新的 Windows 零日漏洞暴露 NTLM 凭据，已获得非官方补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247496891&idx=1&sn=9c8fd99b9ddc86cb7f57bee467702ab5": "TimelineSec助力2024漏洞马拉松活动，史无前例反爬专项单个奖励最高5w！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247551853&idx=1&sn=ed4347c2164a771f0ba762ebd7940c96": "Spring漏洞测试与利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5NjI2Ng==&mid=2247486366&idx=1&sn=41dcf0e70589bd41d82cb1b369b42865": "数据安全新动态（2024年11月）"
 }
