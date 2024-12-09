@@ -1,11 +1,7 @@
 #  无补丁，I-O Data路由器0Day漏洞被利用   
-老布  FreeBuf   2024-12-07 02:04  
+天唯科技  天唯信息安全   2024-12-09 03:00  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38G1nYUFhMulWK7EEiadWOtSMbaUhibhicibCR4h2q0PCrFcFaW99iaQYZiaJkVG66pJGc0APk9ooAic3icgQ/640?wx_fmt=jpeg&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
   
 日本计算机紧急响应小组（CERT）警告称 ，黑客正在利用I-O Data路由器设备中的零日漏洞来修改设备设置、执行命令，甚至关闭防火墙。  
   
@@ -26,8 +22,8 @@ I-O Data在其网站上发布的安全公告中承认确实存在三个零日漏
   
 - CVE-2024-52464：固件中的未记录特性或后门可导致远程攻击者在无需认证的情况下，关闭设备防火墙并修改设置。  
   
-****  
-**受影响的设备**：这些漏洞影响UD-LT1和UD-LT1/EX设备，前者是为多功能连接解决方案设计的混合LTE路由器，而后者是工业级版本。  
+**受影响的设备：**  
+这些漏洞影响UD-LT1和UD-LT1/EX设备，前者是为多功能连接解决方案设计的混合LTE路由器，而后者是工业级版本。  
   
   
 最新可用的固件版本v2.1.9仅解决了CVE-2024-52564漏洞，I-O Data表示其他两个漏洞的修复将在计划于2024年12月18日发布的v2.2.0版本中提供。比较糟糕的消息是，已经有客户因为这些漏洞而遭到黑客攻击。  
@@ -49,59 +45,47 @@ I-O Data安全公告指出，“已收到使用混合LTE路由器UD-LT1和UD-LT1
 不过国内的企业用户不需要太过担心，因为I-O DATA UD-LT1和UD-LT1/EX LTE路由器主要在日本市场销售，旨在支持NTT Docomo和KDDI等多个运营商，并兼容该国的主要MVNO SIM卡。  
   
   
-【  
-FreeBuf粉丝交流群招新啦！  
-  
-在这里，拓宽网安边界  
-  
-甲方安全建设干货；  
-  
-乙方最新技术理念；  
-  
-全球最新的网络安全资讯；  
-  
-群内不定期开启各种抽奖活动；  
-  
-FreeBuf盲盒、大象公仔......  
-  
-扫码添加小蜜蜂微信回复「加群」，申请加入群聊  
-】  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ich6ibqlfxbwaJlDyErKpzvETedBHPS9tGHfSKMCEZcuGq1U1mylY7pCEvJD9w60pWp7NzDjmM2BlQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/oQ6bDiaGhdyodyXHMOVT6w8DobNKYuiaE7OzFMbpar0icHmzxjMvI2ACxFql4Wbu2CfOZeadq1WicJbib6FqTyxEx6Q/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+天唯科技专注于大型组织信息安全领域及IT基础设施解决方案的规划、建设与持续运维服务。帮助客户提高IT基础设施及信息安全管控水平和安全运营能力，使客户在激烈的市场环境中保持竞争力。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icEEJemUSFlfufMicpZeRJZJ61icYlLmBLDpdYEZ7nIzpGovpHjtxITB6ibiaC3R5hoibVkQsVLQfdK57w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
-  
-> https://www.bleepingcomputer.com/news/security/japan-warns-of-io-data-zero-day-router-flaws-exploited-in-attacks/  
-  
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
->   
+我们一直秉承“精兵强将，专业专注”的发展理念。  
+先后在江门、深圳成立分公司，在武汉、长沙成立办事处以及成立广州的服务支撑中心。公司已获得高新技术企业认证、已通过IS09001、IS027001、CCRC信息安全集成服务、CCRC信息安全风险评估、CCRC信息安全应急处理等认证。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icEEJemUSFlfufMicpZeRJZJ7JfyOicficFrgrD4BHnIMtgCpBbsSUBsQ0N7pHC7YpU8BrZWWwMMghoQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNRytkPMNOKYRW452LxR5Ez5Wee8X6KlbhoUMt9XyhhbRxHafKcCLWJic3ib0umJiaH3fl6sOx8KMBiaQ/640?wx_fmt=png "盾牌单图.png")  
+  
+**END**  
   
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651307029&idx=1&sn=809e704f3bd356325cf8d85ed0717a8d&chksm=bd1c2e9e8a6ba788529249c685d4979c6b11853cf8f2d798a6d8e9ce362926ec50e3639cf79f&scene=21#wechat_redirect)  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651308240&idx=1&sn=96d32c8e6fa90561c84164ed75f4dca0&scene=21#wechat_redirect)  
+**往期推荐:**  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651253272&idx=1&sn=82468d927062b7427e3ca8a912cb2dc7&scene=21#wechat_redirect)  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+  
+[威努特工控主机卫士：全面守护关基设施的“中枢神经”](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502992&idx=1&sn=3b8956abd884d299ef2f29e6878643e7&scene=21#wechat_redirect)  
+  
+  
+  
+[中共中央办公厅 国务院办公厅关于推进新型城市基础设施建设打造韧性城市的意见](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502992&idx=2&sn=fbd24d4f8353a73c55e431b9efd4e8b2&scene=21#wechat_redirect)  
+  
+  
+  
+[公司系统遭到攻击反而被处罚！原因是……](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502992&idx=3&sn=f613eafd5fef04e8a6865a3c88e14f2b&scene=21#wechat_redirect)  
+  
+  
+  
+**征文通道:**  
+  
+  
+  
+  
+  
+[发钱！征文！让真诚的分享更有价值](http://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247490310&idx=1&sn=db4b524d1d9f5aabb4af2184dd831de3&chksm=c25ed7a6f5295eb053d3f90e2dc8cd22a2d8ce1a62561ffa62966340ee563734cd4fd32045f3&scene=21#wechat_redirect)  
+  
+  
+  
   

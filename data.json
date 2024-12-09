@@ -1166,5 +1166,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486271&idx=1&sn=8dc5deae4121a38158edf57e71dcf089": "「漏洞复现」圣乔ERP系统 DwrUtil SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492928&idx=1&sn=84b4e3fc0b92ae1f566a69902aa4184e": "Windows 权限提升漏洞检测工具集",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=1&sn=6eabf10b247a0dcb0e6ff57570a23d7b": "漏洞预警 | Zyxel ZLD防火墙路径遍历漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=3&sn=aafb0b02aa119154c0ed4bb77faded81": "漏洞预警 | 思普企业运营管理平台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=3&sn=aafb0b02aa119154c0ed4bb77faded81": "漏洞预警 | 思普企业运营管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066522&idx=2&sn=e68dc56710af72cb8e044123396dd41a&chksm=f36e7e9ac419f78c42203655a869ed106f01a948d8e7de64cf75fca1cf5bee3eed25ec14b8af&scene=58&subscene=0": "【安全圈】关键的联发科芯片组漏洞影响15亿手机用户",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496542&idx=1&sn=786c2ef243463b972253ad6ccf7dc2eb&chksm=e8a5f93ddfd2702ba5c86f55216742d9780d1504c5cf7b55d57e37f741241abc0f83e72d204d&scene=58&subscene=0": "挖洞荒？工作两年半的渗透测试实习生如何挖到第一个高危sql注入漏洞？慎用！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDg2MDIxNQ==&mid=2247485198&idx=1&sn=665ecbc787b32963eea5d0b320ca174e": "网安牛马碰见WAF如何凑出渗透报告漏洞数量？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497755&idx=1&sn=e0b32483908e2f420efedf2dfa784bcd": "2024年10月份恶意软件之“十恶不赦”排行榜",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503011&idx=2&sn=86f3757c8d1f10c57e921039e6650e10": "无补丁，I-O Data路由器0Day漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486037&idx=1&sn=fe4e70919205522d0e229d662246dd37": "重生之我在推特逛漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485777&idx=1&sn=e59434cc1cbea489951c59499d4e9b80": "【漏洞复现】某平台-Sc-Interview-search-sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484301&idx=1&sn=5d9659c031f61d53a920fd44234a8536": "【漏洞复现】英飞达医学影像存档与通信系统WebUserLogin.asmx存在信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247484982&idx=1&sn=f38d3f91cde8ae393d8fa111b6fc69a7": "2024年OWASP LLM安全漏洞年度报告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650604707&idx=3&sn=c9de054d4fda0db26998079e2dad84c4": "某订货系统文件上传漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484485&idx=1&sn=0f5b3d6588ad00afd34fe51811a012a4": "【漏洞复现】Palo Alto PAN-OS身份认证绕过CVE-2024-0012及命令执行漏洞CVE-2024-9474",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486227&idx=1&sn=a70bbbb6e66a54b7a6765ab23f927f9f": "CVE-2023-6553 WordPress存在的远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495682&idx=1&sn=05d00ffc6e8884f1917fecc62d760e0f": "X漏洞奖励计划收录扩大！高价收洞！（文末抽奖）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899704&idx=1&sn=f4bb23c0bd779a13500ae6b75d213b39": "Array Networks SSL VPN 产品曝严重漏洞，已被黑客利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=2&sn=6e023ccd4d0d3fa65654c5c2d88ff938": "漏洞预警 | Apache Arrow R package反序列化漏洞"
 }
