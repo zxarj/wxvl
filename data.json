@@ -1181,5 +1181,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486227&idx=1&sn=a70bbbb6e66a54b7a6765ab23f927f9f": "CVE-2023-6553 WordPress存在的远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495682&idx=1&sn=05d00ffc6e8884f1917fecc62d760e0f": "X漏洞奖励计划收录扩大！高价收洞！（文末抽奖）",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899704&idx=1&sn=f4bb23c0bd779a13500ae6b75d213b39": "Array Networks SSL VPN 产品曝严重漏洞，已被黑客利用",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=2&sn=6e023ccd4d0d3fa65654c5c2d88ff938": "漏洞预警 | Apache Arrow R package反序列化漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491681&idx=2&sn=6e023ccd4d0d3fa65654c5c2d88ff938": "漏洞预警 | Apache Arrow R package反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247530686&idx=2&sn=a0087e732b60c3c448073aa749ca8d2d": "全面防护：AI驱动持续安全验证，灵活应对万变攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247525485&idx=1&sn=a5aeff09df0da8ba8baa5a35ae43b833": "Windows 零日漏洞 CVE-2024-38193 在野外被利用：PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247487368&idx=1&sn=e37ec534c44ac5981864d0853b870a29": "太棒辣 | 感谢大哥带我学习关于验证码逻辑漏洞这些事",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489562&idx=1&sn=6d639cb1b3d931b066f554c5d797b99a": "海信智能公交企业管理系统 AdjustWorkHours.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDE4MzE5MA==&mid=2247487187&idx=1&sn=83cd510202e9273c772ef3f606c6afe6": "【活动】2024漏洞马拉松活动来袭，史无前例反爬专项单个奖励最高5w！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247492986&idx=1&sn=09e54f7bf277f6cbca0f1c957c7e12cd": "有PoC，Windows 0day漏洞CVE-2024-38193在野外被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580114&idx=1&sn=fa181017da36db2d6d5598cb97f6ec10": "黑客利用 ProjectSend 漏洞对暴露的服务器进行后门处理",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485555&idx=1&sn=ce73bb7765466995a3745ab23db7e56f": "[含POC]CyberPanel upgrademysqlstatus 远程命令执行漏洞(CVE-2024-51567)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133887&idx=2&sn=5e64b53a72121f42601f459acb55f305": "劫持其他APT组织基础设施实施攻击，APT组织新战术曝光；罗克韦尔自动化软件曝多个严重漏洞，可被利用执行远程代码 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY1NzM3NQ==&mid=2247484770&idx=1&sn=40040159b0f73448fa9dfc51dde8baf8": "助力企业实战化安全运营 | 灰度安全首次亮相2024年电信和互联网行业网络安全年会",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247487956&idx=1&sn=cc514f441b4a92ba7909f0674bfe82cf": "DockerUI存在默认口令漏洞，可导致拉取镜像，管理等操作"
 }
