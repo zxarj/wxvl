@@ -1,7 +1,7 @@
 #  黑客利用 ProjectSend 漏洞对暴露的服务器进行后门处理   
-胡金鱼  嘶吼专业版   2024-12-09 06:00  
+天唯科技  天唯信息安全   2024-12-10 06:07  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/wpkib3J60o297rwgIksvLibPOwR24tqI8dGRUah80YoBLjTBJgws2n0ibdvfvv3CCm0MIOHTAgKicmOB4UHUJ1hH5g/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
   
 恶意分子正在利用 ProjectSend 中的一个关键身份验证绕过漏洞的公共漏洞来上传 Webshell 并获得对服务器的远程访问。  
   
@@ -12,7 +12,10 @@
 尽管该漏洞已于 2023 年 5 月 16 日得到修复，但直到近期才为其分配了 CVE，导致用户没有意识到其严重性以及应用安全更新的紧迫性。  
   
 根据已检测到活跃利用的 VulnCheck 的说法，到目前为止，修补速度非常糟糕，99% 的 ProjectSend 实例仍在运行易受攻击的版本。  
-# 数千个实例被曝光  
+  
+**数千个实例被曝光**  
+  
+  
   
 ProjectSend 是一款开源文件共享 Web 应用程序，旨在促进服务器管理员和客户端之间安全、私密的文件传输。它是一款颇受欢迎的应用程序，被那些更喜欢自托管解决方案而不是 Google Drive 和 Dropbox 等第三方服务的组织所使用。  
   
@@ -36,14 +39,49 @@ Shodan 上出现的攻击受害者
   
 VulnCheck 警告称，Webshell 存储在“upload/files”目录中，名称由 POSIX 时间戳、用户名的 SHA1 哈希值以及原始文件名/扩展名生成。  
   
-通过 Web 服务器直接访问这些文件表明存在积极的利用行为。基于  
-攻击可能已经很普遍存在  
-，研究人员建议用户尽快升级到 ProjectSend r1750 版本。  
+通过 Web 服务器直接访问这些文件表明存在积极的利用行为。基于攻击可能已经很普遍存在，研究人员建议用户尽快升级到 ProjectSend r1750 版本。  
   
 参考及来源：https://www.bleepingcomputer.com/news/security/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o2ibRqQo9Kkib4MBOnLKu6rZpXmaSaU61a0oeSR3xPoLduqqEn4aWBXKrOErEF30HaJK7aPwYIVibL22w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNbU68NXCNH8sw9R1wBYiaT6icvH7moZbnkDB7UPWcP57YnEr5sDNDh6pssbCmuxvzQERZeMhN6Dknw/640?wx_fmt=png "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/wpkib3J60o2ibRqQo9Kkib4MBOnLKu6rZpX2R0YaunVnTp8mExfTTsE9UWcIA0sibicZpqqsJbxAibdIsxbicLcT5SiccA/640?wx_fmt=png&from=appmsg "")  
+  
+天唯科技专注于大型组织信息安全领域及IT基础设施解决方案的规划、建设与持续运维服务。帮助客户提高IT基础设施及信息安全管控水平和安全运营能力，使客户在激烈的市场环境中保持竞争力。  
+  
+我们一直秉承“精兵强将，专业专注”的发展理念。  
+先后在江门、深圳成立分公司，在武汉、长沙成立办事处以及成立广州的服务支撑中心。公司已获得高新技术企业认证、已通过IS09001、IS027001、CCRC信息安全集成服务、CCRC信息安全风险评估、CCRC信息安全应急处理等认证。  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/PZibWfCgzicQNRytkPMNOKYRW452LxR5Ez5Wee8X6KlbhoUMt9XyhhbRxHafKcCLWJic3ib0umJiaH3fl6sOx8KMBiaQ/640?wx_fmt=png "盾牌单图.png")  
+  
+**END**  
+  
+  
+  
+**往期推荐:**  
+  
+  
+  
+  
+  
+[网警提醒：警惕暗链威胁](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503011&idx=1&sn=c7594d27cdb1e007e925f86d200dcf91&scene=21#wechat_redirect)  
+  
+  
+  
+[无补丁，I-O Data路由器0Day漏洞被利用](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503011&idx=2&sn=86f3757c8d1f10c57e921039e6650e10&scene=21#wechat_redirect)  
+  
+  
+  
+[威努特工控主机卫士：全面守护关基设施的“中枢神经”](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247502992&idx=1&sn=3b8956abd884d299ef2f29e6878643e7&scene=21#wechat_redirect)  
+  
+  
+  
+**征文通道:**  
+  
+  
+  
+  
+  
+[发钱！征文！让真诚的分享更有价值](http://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247490310&idx=1&sn=db4b524d1d9f5aabb4af2184dd831de3&chksm=c25ed7a6f5295eb053d3f90e2dc8cd22a2d8ce1a62561ffa62966340ee563734cd4fd32045f3&scene=21#wechat_redirect)  
   
   
