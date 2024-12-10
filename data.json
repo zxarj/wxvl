@@ -1234,5 +1234,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247501076&idx=1&sn=ea61326375112eb6b7486937c1ca2278": "[漏洞挖掘与防护] 05.CVE-2018-12613：phpMyAdmin 4.8.1后台文件包含缺陷复现及防御措施",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499522&idx=1&sn=d5908340cc5cb33839f6ae973dbb7103": "CNVD漏洞周报2024年第49期",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247536203&idx=3&sn=f8288da3046f8571a22e5ba05788fba0": "网络安全知多少【科普】5：找业务本身也可能就是漏洞，就是风险",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486968&idx=1&sn=7ee147a6efd7c1a074d8acd00e67fe4a": "Burpsuite存储桶配置不当漏洞检测插件"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486968&idx=1&sn=7ee147a6efd7c1a074d8acd00e67fe4a": "Burpsuite存储桶配置不当漏洞检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485781&idx=1&sn=abe472af31e677010d02b7b3450afdf7": "【漏洞复现】某平台-Upload-file-upload-aspx任意文件上传漏洞"
 }
