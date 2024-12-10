@@ -1225,5 +1225,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491682&idx=4&sn=a0dc4444764ab2ef9ba32da241a71790": "工具 | FastjsonExploit",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493826&idx=2&sn=2f70d68dfd020f5c120e5f7d596b9b81": "CVE-2018-15664:Docker CP任意读写主机文件",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488835&idx=1&sn=383eabd7e635fe856fbc2899b7f119b8": "【0day】安徽生命港湾信息技术有限公司服务配置工具存在任意文件下载漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291910&idx=1&sn=cce3441e3c4e73b5d7381cac3619dd88": "安全卫士 | 魔方安全漏洞周报"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291910&idx=1&sn=cce3441e3c4e73b5d7381cac3619dd88": "安全卫士 | 魔方安全漏洞周报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651133887&idx=2&sn=5e64b53a72121f42601f459acb55f305&chksm=bd15a76c8a622e7a7bbfa541d6ae401b0d481ab229de33253da125d2bbfd20dada28b8730503&scene=58&subscene=0": "劫持其他APT组织基础设施实施攻击，APT组织新战术曝光；罗克韦尔自动化软件曝多个严重漏洞，可被利用执行远程代码 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521726&idx=2&sn=4020dbda138c28b7da91666b33eb120a&chksm=ea94a4d4dde32dc25a0dcbe4bb417dad621e9d9ab1c701a92e4cccf1dda90fcc8f7fc0d1eea9&scene=58&subscene=0": "SonicWall 修复Secure Access Gateway 中的6个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580114&idx=1&sn=fa181017da36db2d6d5598cb97f6ec10&chksm=e91469e8de63e0fe2c1a9542280afc7bb19ad4f3b5fb1026fcfc02ef039eebb5daa59df0e88e&scene=58&subscene=0": "黑客利用 ProjectSend 漏洞对暴露的服务器进行后门处理",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066537&idx=4&sn=6f910eee1c20ed718fdf7c754fd840e1&chksm=f36e7ea9c419f7bff05e335235f5475598b068e6dabeebb56b12bd1c608f6af50d94bb06833e&scene=58&subscene=0": "【安全圈】需要采取紧急行动：ABB ASPECT 漏洞使建筑物面临网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247498096&idx=1&sn=60b0f557103ef67e7cf9159778b928d8&chksm=e84c5fafdf3bd6b900c1a3366bb5bf4596df0f45680ccc8b16e4d250e452104e9c80d3e53b3c&scene=58&subscene=0": "全球云上数据泄露风险分析简报 （第三期）：云盘误配置与API漏洞致高校信息泄露，影响7亿账户",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247501076&idx=1&sn=ea61326375112eb6b7486937c1ca2278": "[漏洞挖掘与防护] 05.CVE-2018-12613：phpMyAdmin 4.8.1后台文件包含缺陷复现及防御措施",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499522&idx=1&sn=d5908340cc5cb33839f6ae973dbb7103": "CNVD漏洞周报2024年第49期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247536203&idx=3&sn=f8288da3046f8571a22e5ba05788fba0": "网络安全知多少【科普】5：找业务本身也可能就是漏洞，就是风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247486968&idx=1&sn=7ee147a6efd7c1a074d8acd00e67fe4a": "Burpsuite存储桶配置不当漏洞检测插件"
 }
