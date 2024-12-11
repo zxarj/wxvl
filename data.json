@@ -1256,5 +1256,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487960&idx=1&sn=201e394851f63027036f862d8a36895d": "Palo Alto Networks PAN-OS存在远程命令执行漏洞CVE-2024-9474 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247487157&idx=1&sn=8091c0a81829f3cb58d776c8f6dd38e0": "(未公开)灵当CRM某接口存在文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486302&idx=1&sn=ad62aba60f4f3a333c289d186c92afaf": "「漏洞复现」三汇SMG网关管理软件 SMGSuperAdmin 信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247492164&idx=2&sn=c240cfffa57ae70caf5f080c969ab408": "【活动预告】ISC2华南分会线下活动欢迎您：平安专场，AI的安全探索与实践"
+    "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247492164&idx=2&sn=c240cfffa57ae70caf5f080c969ab408": "【活动预告】ISC2华南分会线下活动欢迎您：平安专场，AI的安全探索与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521736&idx=1&sn=f656ad45da506b8f778e68ff0243d0be&chksm=ea94a4a2dde32db4651e878de8188d4f6cae7312a721ec5b3a69201300cc4b8990af592861cc&scene=58&subscene=0": "研究员在DeepSeek 和 Claude AI 中发现多个提示注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521736&idx=2&sn=37cc8cc02d4dc7c59168f8bb841938a9&chksm=ea94a4a2dde32db4fcf8d9da57d0da38ee6f89a7cfeee9b469e91b0bc2d89db95227a50943f1&scene=58&subscene=0": "QNAP修复Pwn2Own大赛利用的多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497381&idx=3&sn=8636f9e208f208c153d7ab0957f3d4ff&chksm=fa595848cd2ed15e45f17000e815e8d47db26a14f732e2555d047d9e0d01a3dd44285fee839f&scene=58&subscene=0": "49套.NET系统漏洞威胁情报(12.10更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499522&idx=2&sn=fa8b9737d4181e218c2ee200ec329bc0&chksm=973acc60a04d4576fb683cae96f216d3a733a43601e8b23e71f8f54b8c9a2dc0f953385dfbec&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241202-20241208)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650182736&idx=1&sn=114de58c87950ec9eac7ccc24b290958&chksm=f4486fecc33fe6fac35edaffc7f8afa6f84e8393ef84627fa778957bef4d8e46a747d4d05dea&scene=58&subscene=0": "美国顶级红队演练，只用了个Nday？",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066552&idx=4&sn=1e612f3b3ba252c5b5578d381d2737ee&chksm=f36e7eb8c419f7aead22e1ec719f6b8294d8e61b27774e7355bdc6c949f9b0b03c8d7351e4e0&scene=58&subscene=0": "【安全圈】防火墙服务配置漏洞波及多家全球财富100强公司",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247501076&idx=1&sn=ea61326375112eb6b7486937c1ca2278&chksm=cfcf75d9f8b8fccfa24221b6515a0ead04eaec7fa5124a46bd9f8e5250525f22c0c234e7dedb&scene=58&subscene=0": "[漏洞挖掘与防护] 05.CVE-2018-12613：phpMyAdmin 4.8.1后台文件包含缺陷复现及防御措施",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTUyNTI5OA==&mid=2247486314&idx=1&sn=6ca1faf4185516060554cb5767910675": "edu小程序挖掘严重支付逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260244&idx=1&sn=77a2cf6fca1132ac57455e3e98394dd3": "发现关键漏洞获得 $4,000 赏金奖励",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504189&idx=1&sn=203a7a0abd62c42363032ddf93a633a4": "零基础学习如何挖掘第一个SRC漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491220&idx=1&sn=33447580838d346357e11ff01107377f": "某通用系统0day审计过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247512787&idx=1&sn=1c6cd54a524329190ebb2a2f336a843e": "好用的Nuclei GUI POC管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506001&idx=2&sn=643c526ae97cfc56fb5d56832b4275ea": "美国与菲律宾成功举行海上网络安全和化学品安全演习"
 }

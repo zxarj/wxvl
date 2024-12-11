@@ -1,21 +1,10 @@
 #  某通用系统0day审计过程   
-Zjacky  道一安全   2024-12-02 00:12  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWjKYvoSviaiaDUIGf1pH9H1bpSJRC3lIk08f5m6yibtkLDhFQwmCXicNMLFniaRrN0Xqvth9XWMQkn5bGQ/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWgJHGxRSfVlI02pBf15B0slPyoWRWfSP0mM3LqDQKhOhVwfvVKma68JRwQ7E2Oysib3Nsw5ny7uaSw/640?wx_fmt=gif "")  
-  
-**免责声明**  
-  
-道一安全（本公众号）的技术文章仅供参考，此文所提供的信息只为网络安全人员对自己所负责的网站、服务器等（包括但不限于）进行检测或维护参考，未经授权请勿利用文章中的技术资料对任何计算机系统进行入侵操作。利用此文所提供的信息而造成的直接或间接后果和损失，均由使用者本人负责。本文所提供的工具仅用于学习，禁止用于其他！！！  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWgJHGxRSfVlI02pBf15B0slPyoWRWfSP0mM3LqDQKhOhVwfvVKma68JRwQ7E2Oysib3Nsw5ny7uaSw/640?wx_fmt=gif "")  
+Zjacky  实战安全研究   2024-12-11 01:00  
   
 **前言**  
   
   
-本篇文章首发在先知社区 作者Zjacky(本人) 先知社区名称: Zjacky 转载原文链接为https://xz.aliyun.com/t/13866  
+本篇文章首发在先知社区 作者Zjacky(本人) 先知社区名称: Zjacky 转载原文链接为https://xz.aliyun.com/t/13866  
   
 代码审计篇章都是自己跟几个师傅们一起审计的1day或者0day(当然都是小公司较为简单)，禁止未经允许进行转载，发布到博客的用意主要是想跟师傅们能够交流下审计的思路，毕竟审计的思路也是有说法的，或者是相互源码共享也OK，本次审计的目标是一套也是各大高校使用的通用系统，已经提交相关SRC平台进行修复  
   
@@ -60,56 +49,56 @@ Application\Admin\Controller\UploadController.class.php
 重点关注以下代码  
   
 ```
-$upload-&gt;exts = array('jpg', 'gif', 'png', 'jpeg'); // 设置附件上传类型
+$upload-&gt;exts = array('jpg', 'gif', 'png', 'jpeg'); // 设置附件上传类型
 ```  
   
   
 发现这里会调用UploadFile()的魔术方法 跟进  
 ```
-    public function __set($name,$value){
-        if(isset($this-&gt;config[$name])) {
-            $this-&gt;config[$name]    =   $value;
-        }
-    }
+    public function __set($name,$value){
+        if(isset($this-&gt;config[$name])) {
+            $this-&gt;config[$name]    =   $value;
+        }
+    }
 
 ```  
   
   
 这里其实就是问题的本身，要是传进来的在config里头不存在则返回空，那么我们去看一下config的设置  
 ```
-    private $config =   array(
-        'maxSize'           =&gt;  -1,    // 上传文件的最大值
-        'supportMulti'      =&gt;  true,    // 是否支持多文件上传
-        'allowExts'         =&gt;  array(),    // 允许上传的文件后缀 留空不作后缀检查
-        'allowTypes'        =&gt;  array(),    // 允许上传的文件类型 留空不做检查
-        'thumb'             =&gt;  false,    // 使用对上传图片进行缩略图处理
-        'imageClassPath'    =&gt;  'ORG.Util.Image',    // 图库类包路径
-        'thumbMaxWidth'     =&gt;  '',// 缩略图最大宽度
-        'thumbMaxHeight'    =&gt;  '',// 缩略图最大高度
-        'thumbPrefix'       =&gt;  'thumb_',// 缩略图前缀
-        'thumbSuffix'       =&gt;  '',
-        'thumbPath'         =&gt;  '',// 缩略图保存路径
-        'thumbFile'         =&gt;  '',// 缩略图文件名
-        'thumbExt'          =&gt;  '',// 缩略图扩展名    
-        'thumbRemoveOrigin' =&gt;  false,// 是否移除原图
-        'thumbType'         =&gt;  0, // 缩略图生成方式 1 按设置大小截取 0 按原图等比例缩略
-        'zipImages'         =&gt;  false,// 压缩图片文件上传
-        'autoSub'           =&gt;  false,// 启用子目录保存文件
-        'subType'           =&gt;  'hash',// 子目录创建方式 可以使用hash date custom
-        'subDir'            =&gt;  '', // 子目录名称 subType为custom方式后有效
-        'dateFormat'        =&gt;  'Ymd',
-        'hashLevel'         =&gt;  1, // hash的目录层次
-        'savePath'          =&gt;  '',// 上传文件保存路径
-        'autoCheck'         =&gt;  true, // 是否自动检查附件
-        'uploadReplace'     =&gt;  false,// 存在同名是否覆盖
-        'saveRule'          =&gt;  'uniqid',// 上传文件命名规则
-        'hashType'          =&gt;  'md5_file',// 上传文件Hash规则函数名
-        );
+    private $config =   array(
+        'maxSize'           =&gt;  -1,    // 上传文件的最大值
+        'supportMulti'      =&gt;  true,    // 是否支持多文件上传
+        'allowExts'         =&gt;  array(),    // 允许上传的文件后缀 留空不作后缀检查
+        'allowTypes'        =&gt;  array(),    // 允许上传的文件类型 留空不做检查
+        'thumb'             =&gt;  false,    // 使用对上传图片进行缩略图处理
+        'imageClassPath'    =&gt;  'ORG.Util.Image',    // 图库类包路径
+        'thumbMaxWidth'     =&gt;  '',// 缩略图最大宽度
+        'thumbMaxHeight'    =&gt;  '',// 缩略图最大高度
+        'thumbPrefix'       =&gt;  'thumb_',// 缩略图前缀
+        'thumbSuffix'       =&gt;  '',
+        'thumbPath'         =&gt;  '',// 缩略图保存路径
+        'thumbFile'         =&gt;  '',// 缩略图文件名
+        'thumbExt'          =&gt;  '',// 缩略图扩展名    
+        'thumbRemoveOrigin' =&gt;  false,// 是否移除原图
+        'thumbType'         =&gt;  0, // 缩略图生成方式 1 按设置大小截取 0 按原图等比例缩略
+        'zipImages'         =&gt;  false,// 压缩图片文件上传
+        'autoSub'           =&gt;  false,// 启用子目录保存文件
+        'subType'           =&gt;  'hash',// 子目录创建方式 可以使用hash date custom
+        'subDir'            =&gt;  '', // 子目录名称 subType为custom方式后有效
+        'dateFormat'        =&gt;  'Ymd',
+        'hashLevel'         =&gt;  1, // hash的目录层次
+        'savePath'          =&gt;  '',// 上传文件保存路径
+        'autoCheck'         =&gt;  true, // 是否自动检查附件
+        'uploadReplace'     =&gt;  false,// 存在同名是否覆盖
+        'saveRule'          =&gt;  'uniqid',// 上传文件命名规则
+        'hashType'          =&gt;  'md5_file',// 上传文件Hash规则函数名
+        );
 
 ```  
   
   
-emmm根本没有 exts 所以说后缀根本没有检测，可以从从调用的upload中查看  
+emmm根本没有 exts 所以说后缀根本没有检测，可以从从调用的upload中查看  
   
 断到一个叫自动  
 检查附件  
@@ -122,11 +111,11 @@ emmm根本没有 exts 所以说后缀根本没有检测，可以从从调用的
   
 再次跟进一下checkExt发现是一个很强的校验白名单  
 ```
-    private function checkExt($ext) {
-        if(!empty($this-&gt;allowExts))
-            return in_array(strtolower($ext),$this-&gt;allowExts,true);
-        return true;
-    }
+    private function checkExt($ext) {
+        if(!empty($this-&gt;allowExts))
+            return in_array(strtolower($ext),$this-&gt;allowExts,true);
+        return true;
+    }
 
 ```  
   
@@ -142,7 +131,7 @@ emmm根本没有 exts 所以说后缀根本没有检测，可以从从调用的
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/WAyrRuvrubGbqxDwCVAmayyYtvJV5XjjLse8n2icFJBIGcvYXtrhwtWq8ibzGOicLYAvU9RkDTSowvzMw1ZQdWmAQ/640?wx_fmt=png&from=appmsg "")  
   
-所以这套系统只要存在 $upload-&gt;exts = 这个的上传接口 就存在任意文件上传  
+所以这套系统只要存在 $upload-&gt;exts = 这个的上传接口 就存在任意文件上传  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/WAyrRuvrubGbqxDwCVAmayyYtvJV5XjjojAS0picfM0RlFveiaZNKbCCFQNGD641yrAqhWTmZeuakk0XRjmJjqSg/640?wx_fmt=png&from=appmsg "")  
   
@@ -160,7 +149,7 @@ emmm根本没有 exts 所以说后缀根本没有检测，可以从从调用的
 ![](https://mmbiz.qpic.cn/mmbiz_png/WAyrRuvrubGbqxDwCVAmayyYtvJV5XjjHrInSRD4CW8HqGlC7UqX1CVEfENVIYavqrzGEIEYnaIokiaOZq7Vb5g/640?wx_fmt=png&from=appmsg "")  
   
   
-在这个代码里头，可以发现 $count 跟 $listJson 是关键  
+在这个代码里头，可以发现 $count 跟 $listJson 是关键  
   
 $count的设置是为了不频繁查询，所以这里只要设置随机伪造的PHPSESSID就可以了  
   
@@ -186,7 +175,7 @@ $listJson 的设置就尤为关键了 if (!$listJson) 这里的语句是 我的r
   
 从逻辑上来看  
   
-$_SERVER['HTTP_AUTHORIZATION'] 跟 $_SERVER['HTTP_X_OSS_PUB_KEY_URL'] 这两个值都得存在 他就不会进行403的跳转 那么这两个都是我们可控的只要在header头加入即可，之后就会将我们传入的base64编码的值进行解码后给到curl进行直接curl执行  
+$_SERVER['HTTP_AUTHORIZATION'] 跟 $_SERVER['HTTP_X_OSS_PUB_KEY_URL'] 这两个值都得存在 他就不会进行403的跳转 那么这两个都是我们可控的只要在header头加入即可，之后就会将我们传入的base64编码的值进行解码后给到curl进行直接curl执行  
 ```
 Authorization: Basic QWxhZGRpbjpPcGVuU2VzYW1l
 X-Oss-Pub-Key-Url: aHR0cDovL2RxM2JlMC5kbnNsb2cuY24=
@@ -204,53 +193,5 @@ X-Oss-Pub-Key-Url: aHR0cDovL2RxM2JlMC5kbnNsb2cuY24=
 最终也是测出了SSRF  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/WAyrRuvrubGbqxDwCVAmayyYtvJV5Xjjz4XfooUwHvVAraDlBXX2PZmZa9rvVxyYibShsbG0DVrRwrbHymLibANw/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWgJHGxRSfVlI02pBf15B0slPyoWRWfSP0mM3LqDQKhOhVwfvVKma68JRwQ7E2Oysib3Nsw5ny7uaSw/640?wx_fmt=gif "")  
-  
-**关于我们**  
-  
-添加好用回复 进群 机器人即可自动邀请入群  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/WAyrRuvrubGNIiaG0Mg4FZ85BtUFLg9pXeTIwxZmgUMKEvTFickkUThj7JYYZSEnc910eHc2j6ppDqceqNK9qEEg/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-群内不定期更新各种POC、工具、资料等。  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/WAyrRuvrubEiaBneBVRmADntEo1tGxQ4yoYpsQ5iazcQm92DczL0EGxtx2Wic9ia8OAByxMkD5oZIYllOpWiasYAh9Q/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWiaHpokNh4uWxia9Vv2eYjfzjK9Euejia8GQQAicPWkJI7HfpDplIlc3tPr73ZYKHIdg9kIHpWaJia2tGA/640?wx_fmt=gif "")  
-  
-**点分享**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWiaHpokNh4uWxia9Vv2eYjfzjXjW9bUCoUia7g4iaVGGGm5AKWRMoDMQoFDdJuiceofhPJ8SJpKSGToZcw/640?wx_fmt=gif "")  
-  
-**点收藏**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWiaHpokNh4uWxia9Vv2eYjfzjAEe2Bq3UgWlgxribzfYtnQ6EVkxkao5qmK0xpaoycfHyGVl7zFicPGibw/640?wx_fmt=gif "")  
-  
-**点在看**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWiaHpokNh4uWxia9Vv2eYjfzjDia9eCL6sIvuL17F5uKHsjx0GNc6estct1jOfWh4EtOcVsvzynOar1Q/640?wx_fmt=gif "")  
-  
-**点点赞**  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
