@@ -1,11 +1,11 @@
 #  安全学院24期开班福利！大咖嘉宾课、poc知识星球免费送   
-掌控安全  白帽子左一   2024-12-12 04:00  
+掌控安全EDU  掌控安全EDU   2024-12-13 04:03  
   
 扫码咨询  
   
 领福利  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=png&from=appmsg "")  
   
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaaJcib7FH02wTKvoHALAMw4fchVnBLMw4kTQ7B9oUy0RGfiacu34QEZgDpfia0sVmWrHcDZCV1Na5wDQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
@@ -36,9 +36,9 @@
 **1.活动报名立减上千元！**  
   
 ****  
-**2.转发此文章，**  
-**送价值199元星球权限****。集10个赞，**  
-**再送价值1999元的嘉宾课一期！！****(转发后扫码添加老师即可领取）**  
+**2.转发此文章并集满十个赞，**  
+**即可获得价值199元星球权限****，**  
+**以及价值1999元的嘉宾课一期！！****(转发后扫码添加老师即可领取）**  
   
 ****  
 **3.支持阶段性付款，学习无压力！**  
@@ -53,7 +53,7 @@
 **之后虽然还有活动，但是活动力度不一定有这么大**，如果有意向进行体系化学习，为什么不选择在优惠力度最大的时候呢，省个几百也香呀！   
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcp3GuXrt3feg2l5AicDQuNicDoGXrdGjgB0fZPaMudUSRqgaYic2lWqy0mtdcgrMSdjJIcwibktg0CJGQ/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcp3GuXrt3feg2l5AicDQuNicDoGXrdGjgB0fZPaMudUSRqgaYic2lWqy0mtdcgrMSdjJIcwibktg0CJGQ/640?wx_fmt=jpeg&from=appmsg "")  
   
   
   
@@ -73,15 +73,15 @@
   
 ****## 1.课表展示：  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnIW1SzRNT71icUOmMvhUiaPKnK2zXHNhbhoRDQ5hPSaannFZ4bzWYxQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnIW1SzRNT71icUOmMvhUiaPKnK2zXHNhbhoRDQ5hPSaannFZ4bzWYxQ/640?wx_fmt=png&from=appmsg "")  
   
 **2.报名后赠送的万元课程**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatMpombDgk75Ulk7UtOHq2eEPpdtR8YXXNXRTQZMavkLCIzibD3J4D1Bw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatMpombDgk75Ulk7UtOHq2eEPpdtR8YXXNXRTQZMavkLCIzibD3J4D1Bw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatEQYiakkqyulYTTvMec2acibWSticXIJF6NA7OCQ9Nvw4iaY9iatYzibeuULQ/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatEQYiakkqyulYTTvMec2acibWSticXIJF6NA7OCQ9Nvw4iaY9iatYzibeuULQ/640?wx_fmt=jpeg&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatWo23wZprMbRicbFq5XzZNAUQa8LJRUPXqn1jYKFRrxdAl0W676by1iag/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatWo23wZprMbRicbFq5XzZNAUQa8LJRUPXqn1jYKFRrxdAl0W676by1iag/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **3.****嘉宾课****，**  
@@ -127,7 +127,7 @@ SRC课：20节
   
 线上课堂的学习率会低？我们每一期几乎所有同学都能拿到奖学金！  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iat1nwicoZL5yyD88nSOOKAGGDBYDw9AzONaWAhBSCicicaLqKicOWNribuO5A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iat1nwicoZL5yyD88nSOOKAGGDBYDw9AzONaWAhBSCicicaLqKicOWNribuO5A/640?wx_fmt=png&from=appmsg "")  
 ## 2、要保障学生的实战、实操渗透能力  
   
 ****  
@@ -142,7 +142,7 @@ SRC课：20节
   
 笔记必须写出做题的思路、想法，老师会严格审批作业，了解你的实战思路，指出错误、优化思路。  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/BwqHlJ29vcrQiczuuicwibVnjpUN3f9KspAbqta5Gv1EHSNzKsKLbY5KGk6QJGWuMEpgFzaMib5BH4CEE0eqytnziaA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/BwqHlJ29vcrQiczuuicwibVnjpUN3f9KspAbqta5Gv1EHSNzKsKLbY5KGk6QJGWuMEpgFzaMib5BH4CEE0eqytnziaA/640?wx_fmt=jpeg "")  
   
 图摘自随手点开的一位学员笔记  
 ## 3、愿意学的人，要确保能够学得会  
@@ -189,17 +189,17 @@ SRC课：20节
 ****## 科班出身，但计算机基础一般，学习 一段时间后，发现掌控不仅有完整的学习路线，精细的教学指导，还有前辈们的实战案例经验。  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatiaP72l15FHzYXwZwQtTa7Xzcs7O29ia1ZxmQJ3knusNhO8hudxdwkCOA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatiaP72l15FHzYXwZwQtTa7Xzcs7O29ia1ZxmQJ3knusNhO8hudxdwkCOA/640?wx_fmt=png&from=appmsg "")  
 ****  
 ****  
 **因兴趣，学习网络安全，报名后发现课程框架清晰明了，层层递进，老师授课从基础到实战，干货满满！辅导员处理课堂答疑，态度好很细心，会课后相互分享自己经验，学到了很多东西，提高了不少。**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatR16GNNXmTNYoWDxKIib3gNuhic2tibyzBGoqxRS1Z8iciaaWMdYcnvYUkSA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatR16GNNXmTNYoWDxKIib3gNuhic2tibyzBGoqxRS1Z8iciaaWMdYcnvYUkSA/640?wx_fmt=png&from=appmsg "")  
   
   
 **能将所学应用于实际工作中，提高解决问题的能力。**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatwXCMBiaIemybkn3fmOREkH5SsqLtD7P7qzAe8105HK8zwSxniatTl91A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatwXCMBiaIemybkn3fmOREkH5SsqLtD7P7qzAe8105HK8zwSxniatTl91A/640?wx_fmt=png&from=appmsg "")  
   
   
   
@@ -208,10 +208,10 @@ SRC课：20节
   
 **找我领取更多优惠**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/dB8siaunhHjrNHg8sYVBcWg4fWXg7xZgVCUqPjPl4JJq1icnoRc6gSlYKYgqxMhRuhMfmWR5VyVpE5wADeMwj5IA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/dB8siaunhHjrNHg8sYVBcWg4fWXg7xZgVCUqPjPl4JJq1icnoRc6gSlYKYgqxMhRuhMfmWR5VyVpE5wADeMwj5IA/640?wx_fmt=png "")  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=png&from=appmsg "")  
   
 申  
 明  
@@ -283,7 +283,7 @@ SRC课：20节
 法  
 .  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/BwqHlJ29vcqJvF3Qicdr3GR5xnNYic4wHWaCD3pqD9SSJ3YMhuahjm3anU6mlEJaepA8qOwm3C4GVIETQZT6uHGQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/BwqHlJ29vcqJvF3Qicdr3GR5xnNYic4wHWaCD3pqD9SSJ3YMhuahjm3anU6mlEJaepA8qOwm3C4GVIETQZT6uHGQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1 "")  
   
 **没看够~？欢迎关注！**  
   
@@ -291,8 +291,9 @@ SRC课：20节
   
 上千**教程+工具+靶场账号**哦  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BwqHlJ29vcpcUx2mtNsr25vibYzQKj0iatpnG7olSrKlQWN7mgOlf00xThiazFWbOCSwksMRJv1IsS6WN76FhcjqQ/640?wx_fmt=png&from=appmsg "")  
   
 ******分享后扫码加我！**  
+  
   
   
