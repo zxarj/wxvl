@@ -1429,5 +1429,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495011&idx=1&sn=256dd54d6fc4d062660d7c4c1cba4f91": "对攻击者保持视野领先：从漏洞情报到「扩展漏洞情报」",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247487889&idx=1&sn=3cc6ea970109136c7522b2c5ff73bdf0": "一个0day的开端：失败的man与nday",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500387&idx=2&sn=fe3998c2402e46104f04d64e18e62c50": "【漏洞通告】Cleo 远程代码执行漏洞 ( CVE-2024-50623 )",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247490507&idx=1&sn=72c3fc1663b1a5a1b7b64b2a8b1fafb0": "反面教材+1 切勿把个人信息放公网"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247490507&idx=1&sn=72c3fc1663b1a5a1b7b64b2a8b1fafb0": "反面教材+1 切勿把个人信息放公网",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515188&idx=2&sn=57cd6e0b04194a02d28788957d533559": "渗透测试 -- Web服务程序解析漏洞和文件包含漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496596&idx=1&sn=5af17ad8fcf461b401780dfe33b5ff27": "利用开放式重定向、2FA 绕过等漏洞获取$1600赏金奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489541&idx=1&sn=0a586e636598ce0f0cf438b4e3a00d47": "【云原生攻防研究】Istio访问授权再曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489308&idx=1&sn=5c47de34e923278823c34ea94e60cbb6": "【漏洞预警】Cleo远程代码执行漏洞CVE-2024-50623",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651309849&idx=1&sn=6849f94f691ae8bacd9489f813864299": "大众和斯柯达曝12个组合漏洞，攻击者可在10米内无接触入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247513670&idx=1&sn=191a30556fd27585c0e3eda82e42883b": "DevSecOps面面观 | 聊聊DevSecOps度量实践中的那些误区",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521787&idx=1&sn=aa7443d590ca0182f0cbd4386c81152a": "Apache修复 Struts 2 中的严重 RCE 漏洞"
 }
