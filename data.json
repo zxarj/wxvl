@@ -1353,5 +1353,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490197&idx=2&sn=f905ddb46575c4bbf932f4af33a4738a": "【风险通告】GitLab存在敏感信息泄露漏洞（CVE-2024-11274）",
     "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489168&idx=1&sn=2b4448d1d4b839029d38cabe1e4cf5ee": "关于防范Zabbix软件SQL注入超危漏洞的风险提示",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDY1MzUzNw==&mid=2247497998&idx=2&sn=076c87adb99ee8206cebc88e147c57e9": "漏洞扫描产品介绍",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247487889&idx=2&sn=0912f0715b90ec7999f942aa0df0a5f3": "Zabbix SQL 注入 CVE-2024-42327 POC已公开"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247487889&idx=2&sn=0912f0715b90ec7999f942aa0df0a5f3": "Zabbix SQL 注入 CVE-2024-42327 POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247489342&idx=1&sn=88c2ad15c90e205a1b6fd6a2cb7cea59": "推荐一款功能强悍的渗透脚本",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497453&idx=3&sn=96ddb90221002fcab8ab6365b5b71c3a": "50套.NET系统漏洞威胁情报(12.13更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247502754&idx=1&sn=8d5198f970edcdce2109d001969ce60f": "【成功复现】Wordpress Elementor Page Builder路径遍历漏洞(CVE-2024-9935)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491705&idx=1&sn=c6d00db2d1d2da8d4eccb0541ede19a2": "漏洞预警 | Django拒绝服务和SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491705&idx=2&sn=a828acfbefc73997aa7725a8076ddc41": "漏洞预警 | 圣乔ERP系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491705&idx=3&sn=cfbfa8d0e7f3f0cf0bb12bfdb1f55e15": "漏洞预警 | 小米路由器任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492955&idx=1&sn=394994faf4a919f7d1520e437498c6ea": "XXE 漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487028&idx=1&sn=59fd71a1f2ba11ab7b07247934d24721": "闭源系统半自动漏洞挖掘工具 SinkFinder",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506067&idx=1&sn=51b6e4654476511318badae0e17e231c": "“芝麻开门”无线攻击：针对中国锐捷网络的物联网设备漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247484344&idx=1&sn=23bea36464fb1ec449f66047871fdf87": "【MalDev-10】免杀-3",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492939&idx=1&sn=0f0d3ee31741d751f496b8dc075f28dd": "Ivanti修复了其客户成功平台 (CSA) 中一个最高严重级别的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489420&idx=1&sn=bffac0e9e6364b249bd4b3fc96147516": "《电力监控系统安全防护规定》2024年第27号令",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247560967&idx=1&sn=edc2b9e31ed1952c94e297433fb3e27b": "附下载！炼石参编工业数据安全脱敏标准发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488897&idx=1&sn=f860e7c647eebbb00c843ec6048fef38": "【0day】深圳国威电子有限公司HB1910数字IP程控交换机存在远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505156&idx=1&sn=8b9e9979adb64197311a0dbe6ec5ff74": "大众和斯柯达汽车存在漏洞，导致发动机故障和车主数据被盗",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066578&idx=3&sn=55d3538cbf8999a9aa8be86d3ea965e6": "【安全圈】知名企业级文件传输产品存在漏洞，正在被黑客利用"
 }
