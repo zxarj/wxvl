@@ -1,15 +1,29 @@
 #  黑盒乱锤某专属SRC到0day代码分析   
- Jie安全   2024-12-13 03:33  
+ 不秃头的安全   2024-12-13 09:54  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/DicRqXXQJ6fVNCXqrL9k0r2icauIbCEBEls8X0kfM78frUZBL3ZSZKZlICQlev704WAdTLlWPZ0taFhvEm1mr3Lg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+******黑盒乱锤某专属SRC到0day代码分析******  
+  
+  
+  
+前言：本文中涉及到的相关技术或工具仅限技术研究与讨论，严禁用于非法用途，否则产生的一切后果自行承担，如有侵权请私聊删除。  
+  
+还在学怎么挖通用漏洞和src吗？快来加入星球  
+-考证请加联系vx咨询  
+  
+由  
+于微信公众号推送机制改变了，快来  
+星标  
+不再迷路，谢谢大家！  
+  
+  
+****  
 **上次有小伙伴说JAVA利用链分析太枯燥了，想看SRC和代码审计的案例。**  
   
 **于是～作者日思夜想，翻出了两年前的历史案例，终于写出了这篇文章。该案例历史久远，资产早已下架，仅供参考学习。**  
   
 **这个作者真是太用心了，点点关注吧！！！**  
-  
-**-------------------------------------------------------------------------------**  
-  
-**本文仅供参考学习，请勿使用本文中所提供的任何技术信息或代码工具进行非法测试和违法行为。若使用者利用本文中技术信息或代码工具对任何计算机系统造成的任何直接或者间接的后果及损失，均由使用者本人负责。本文所提供的技术信息或代码工具仅供于学习，一切不良后果与文章作者无关。使用者应该遵守法律法规，并尊重他人的合法权益。**  
   
 **-------------------------------------------------------------------------------**  
   
@@ -545,5 +559,92 @@ SQL注入分析到此结束。
 **附上两年前专属的SRC赏金作为这次分享的收尾，也希望这段经历能对大家有所启发。**  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/j6taeOcKcp0VcDNzfooKO0uyagnbbsLicznaicMqw3ibViawTSy7Rz4h7UwQw3MJlDtGes6xc4QvRLI0y6dG92Hibibw/640?wx_fmt=png&from=appmsg "")  
+  
+  
+**往期推荐**  
+![](https://mmbiz.qpic.cn/mmbiz_gif/bQv07rEoSgnASDXC53WkoCVAbC73AzGr2gJ1hkgmLJf47DcQBvKhS65n8gFR9Rfr2aeIbyMIbxguySA37OaCNA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+[渗透实战 | 组合拳从0-1 Getshell过程](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488085&idx=1&sn=a4a5660879f0df6f6a27786650a755be&scene=21#wechat_redirect)  
+  
+  
+  
+[新功能 | 后台对话的一点新变化 BTTSEC-AIBOT](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488075&idx=1&sn=5a24e03b2ccf281cfbb4d8d4fa509782&scene=21#wechat_redirect)  
+  
+  
+  
+[工具分享 | 谁都会用的代理池工具-傻瓜式一键代理池](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488023&idx=1&sn=4b68e239c8bfc60c53c6ec96725f51b3&scene=21#wechat_redirect)  
+  
+  
+  
+[渗](http://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247487702&idx=1&sn=364c8e2a8ca7366f9773b1a66bc106cf&chksm=cf1ab284f86d3b9273d7734e6f6eeba4da41acd987c60347dfb14b9c61cb55359d442b66c9d8&scene=21#wechat_redirect)  
+[工具分享 | nuclei管理工具＋9w poc不想要嘛？](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488006&idx=1&sn=69194b9ea7c038bace29df89d53fa101&scene=21#wechat_redirect)  
+  
+  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/5XMBWuTy1YdnTAAczP5ENGmlT9xMEAsJuTqV6jib7IyxImNprOeHxrbPLFkKfEPfh2U829KgfaTYB6NLOmx9Ykg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**关于我们:**  
+  
+感谢各位大佬们关注-不秃头的安全，后续会坚持更新渗透漏洞思路分享、安全测试、好用工具分享以及挖掘SRC思路等文章，同时会组织不定期抽奖，希望能得到各位的关注与支持，考证请加联系vx咨询。  
+  
+  
+  
+**关注福利：**  
+  
+回复“  
+google工具  
+" 获取 google语法生成工具  
+  
+回复“  
+小程序渗透工具  
+" 获取 小程序渗透工具  
+  
+回复“  
+暴力破解字典  
+" 获取 各种常用密码字典打包  
+  
+回复“  
+typora激活  
+" 获取 最新typora激活程序  
+  
+回复“  
+蓝队工具箱  
+”即可获取一款专业级应急响应的集成多种工具的工具集  
+  
+  
+**知识星球**  
+  
+星球里有什么？  
+  
+CNVD、EDU及SRC赏金，攻防演练资源分享(免杀，溯源，钓鱼等)，各种新鲜好用工具，最新poc定期更新，  
+以及一些好东西  
+（  
+还在学怎么挖通用漏洞吗快来加入  
+），16个专栏会持续更新~  
+**提前续费有优惠，好用不贵很实惠**  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/DicRqXXQJ6fWrow7Lich50u81LLP4zJibgPAraQqDXp7unGFQ4kARpmX2yicpt7hworr5QptZTtCGKsXzicAr24Fy9A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**交流群**  
+  
+加我联系方式拉交流群~  
+  
+****  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/icjIKcQsgZ0q8U9MOMKkIGEGjAcDMjOXuW6eYDOur79SYFak4z5Pu5v6liaPDvuaAVGKSibvBnKiaRFiaHvBDYwsfAQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**安全考证**  
+  
+需要考以下各类安全证书的可以联系我，  
+绝对低价绝对优惠、组团更便宜，报名成功先送星球一年，  
+CISP  
+、PTE、PTS、DSG、IRE、IRS、NISP、PMP、CCSK、CISSP、ISO27001、IT服务项目经理......  
+巨优惠  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/DicRqXXQJ6fVicVKjibDEuQ9Kib0ia6TibrVmoFRWyXqReDwUhDas8kOqD29OfTA4XzqZjgw1pn8OYibtFfQxvPJq4kNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
   
   
