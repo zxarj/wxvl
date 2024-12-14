@@ -1438,5 +1438,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzY1MDgyMw==&mid=2247513670&idx=1&sn=191a30556fd27585c0e3eda82e42883b": "DevSecOps面面观 | 聊聊DevSecOps度量实践中的那些误区",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521787&idx=1&sn=aa7443d590ca0182f0cbd4386c81152a": "Apache修复 Struts 2 中的严重 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247498989&idx=2&sn=165316bf3bca3a70f0c334ba2c86dc44": "渗透测试 -- CSRF漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497792&idx=1&sn=38bf4f291266c0a62fb6758c56b04d46": "2024年十大最佳漏洞管理工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497792&idx=1&sn=38bf4f291266c0a62fb6758c56b04d46": "2024年十大最佳漏洞管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247488515&idx=1&sn=3ec0060c8eb88e788077895e9929ced8": "apt-t00ls 漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247485822&idx=1&sn=7121f15cad1c3aaf8a54ff5735789067": "PHP 常见漏洞威胁函数 | 全面总结",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491726&idx=1&sn=3cc974eaf3fee6d1baa7741b52b96b0b": "漏洞预警 | I Doc View SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491726&idx=2&sn=e1d9019f697e2b42d4d8fee135c26031": "漏洞预警 | 顺景ERP管理系统任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491726&idx=3&sn=295c736ddffb607c469f96a60e45993d": "漏洞预警 | YourPHPCMS SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487539&idx=1&sn=8e7a1acdc9dccb02671b789348622ea4": "赛克安全本周漏洞推送（12.9-12.13）涉及孚盟云、用友时空、蓝凌OA、月子会所、时空VMS等产品相关漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488910&idx=1&sn=214f24e9f57f5edee007028c576f7f68": "【0day】圣乔ERP系统downloadFile存在任意文件读取漏洞"
 }
