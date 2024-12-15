@@ -1479,5 +1479,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505179&idx=1&sn=e91007c51b6a26874b220b9ab8fd50b7": "OpenWrt 中的严重漏洞：路由器和物联网的恶意固件风险",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506199&idx=1&sn=a2e9317ad8423244888fd94381b1b797": "每周网安态势概览【20241215】050期",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486375&idx=1&sn=2f51033c1bdcd86c554acfed2a3152e9": "大华DSS数字监控系统 attachment_downloadAtt.action 任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487051&idx=2&sn=9461ae572b0f2b2e73a6011d9d0f7428": "某阅读器支付逻辑漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487051&idx=2&sn=9461ae572b0f2b2e73a6011d9d0f7428": "某阅读器支付逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458586874&idx=2&sn=def87ccd0e65d4f49f3448c619afac16&chksm=b18c3e7086fbb766a3c750cc6cec9f42d84bc0e3dc4ca25925934c1bfd0e2c80daaf2a5068f2&scene=58&subscene=0": "“看雪漏洞小组”集结！组团挖洞，一起冲击华为漏洞更高奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493073&idx=1&sn=9f159c0c70774c9a96763486cb049c58": "CVE-2024-11053 (CVSS 9.1)：Curl 漏洞在重定向中暴露用户凭证",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651309861&idx=3&sn=a55f0f1a630bff09a296cb60f7f7f5fd": "关键的Windows UI自动化框架漏洞允许黑客绕过EDR",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605056&idx=4&sn=cd7efed4feb6063d619c80cb9b327b5b": "网络资产收集与漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247495194&idx=3&sn=f9db1bf04962c337658793212dfa3d7e": "大众和斯柯达曝12个组合漏洞，攻击者可在10米内无接触入侵",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486218&idx=1&sn=1186b18e7409147510a68966666070f9": "实战 | 记一次双排渗透测试漏洞复盘"
 }
