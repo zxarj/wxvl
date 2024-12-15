@@ -1489,5 +1489,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505209&idx=2&sn=e3d879187e4870549404ef7580568b4f": "数据泄露：预防和应对",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505209&idx=4&sn=cb5748e0f25f778619769252e7da6d6d": "通过更智能的开发策略解决软件漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488080&idx=1&sn=079ba007618c1361f56bb95581f4630a": "aiohttp存在目录遍历漏洞(CVE-2024-23334)",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485065&idx=1&sn=5e280ee6cbdb82feb3f6c18fc3a0d168": "泛微云桥e-Bridge SQL注入漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485065&idx=1&sn=5e280ee6cbdb82feb3f6c18fc3a0d168": "泛微云桥e-Bridge SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517683&idx=1&sn=dc0041bac00ff3ac944686a1bdc2c8d8": "浅析渗透实战中url跳转漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486340&idx=1&sn=f9621c441ecc8206dacbd038cc589a87": "Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）"
 }
