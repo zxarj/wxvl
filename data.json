@@ -1487,5 +1487,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247495194&idx=3&sn=f9db1bf04962c337658793212dfa3d7e": "大众和斯柯达曝12个组合漏洞，攻击者可在10米内无接触入侵",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486218&idx=1&sn=1186b18e7409147510a68966666070f9": "实战 | 记一次双排渗透测试漏洞复盘",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505209&idx=2&sn=e3d879187e4870549404ef7580568b4f": "数据泄露：预防和应对",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505209&idx=4&sn=cb5748e0f25f778619769252e7da6d6d": "通过更智能的开发策略解决软件漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505209&idx=4&sn=cb5748e0f25f778619769252e7da6d6d": "通过更智能的开发策略解决软件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488080&idx=1&sn=079ba007618c1361f56bb95581f4630a": "aiohttp存在目录遍历漏洞(CVE-2024-23334)"
 }
