@@ -1544,5 +1544,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066638&idx=4&sn=34b67f730621eac29fece525a015ab35": "【安全圈】iOS和macOS系统曝关键漏洞，可破坏TCC框架",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495600&idx=1&sn=dc6800fba8615ff029253a77d6e5b8d5": "CNVD漏洞周报2024年第50期",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495600&idx=2&sn=e5180e3d367866b22424a2c460e81b51": "上周关注度较高的产品安全漏洞(20241209-20241215)",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494243&idx=1&sn=615b86970a35613e4ee903ac6cab66d7": "3倍积分奖励！抖音电商情报专测上线"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494243&idx=1&sn=615b86970a35613e4ee903ac6cab66d7": "3倍积分奖励！抖音电商情报专测上线",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488989&idx=1&sn=a98ecf1b0a0e0f054a18360b1d9e05ca": "【未公开】泛微e-cology 9 x.FileDownloadLocation接口存在SQL注入漏洞导致Getshell",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489739&idx=1&sn=6a2b3b35ac1d6254b2485512a3e059ed": "电子资料管理系统 ImageUpload.ashx 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502638&idx=1&sn=98d3602c7f4df70ae3d72d1809a70dc3": "【已复现】Apache Struts 文件上传漏洞(CVE-2024-53677)安全风险通告第二次更新",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515209&idx=2&sn=155d31d384080db10d6e707621eeb8cd": "渗透测试 -- SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517716&idx=1&sn=ef1b5ef09d2003aadce7cd0867da175b": "Eyoucms的sql注入复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247490059&idx=1&sn=ccf765a173dfd31c4d49e2533124a10d": "未来五年网络安全最具潜力的十大方向",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499000&idx=1&sn=ee4aa3d20e3f82a903e5f51a028a9102": "某数AnyShare信息泄露漏洞检测脚本（12月16日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486341&idx=1&sn=b8e402631af06e5440f9c93a80d0c0ce": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491773&idx=1&sn=528008b81a8cb80cc311e0cbe1425822": "新的 Cleo 零日 RCE 漏洞被利用于数据盗窃攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515548&idx=1&sn=2d8c70c61bc7d779572eb88723f3ca54": "漏洞通告｜Cleo 任意文件读写漏洞(CVE-2024-50623)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291918&idx=1&sn=2d9ffa6d537500e9ed7afcdf5ed01864": "安全卫士 | 魔方安全漏洞周报"
 }
