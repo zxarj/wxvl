@@ -1491,5 +1491,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488080&idx=1&sn=079ba007618c1361f56bb95581f4630a": "aiohttp存在目录遍历漏洞(CVE-2024-23334)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485065&idx=1&sn=5e280ee6cbdb82feb3f6c18fc3a0d168": "泛微云桥e-Bridge SQL注入漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517683&idx=1&sn=dc0041bac00ff3ac944686a1bdc2c8d8": "浅析渗透实战中url跳转漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486340&idx=1&sn=f9621c441ecc8206dacbd038cc589a87": "Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486340&idx=1&sn=f9621c441ecc8206dacbd038cc589a87": "Atlassian Confluence 模板注入代码执行漏洞（CVE-2023-22527）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492987&idx=1&sn=06a5d1a121c335bda422a0164efdee31": "Nuclei 分布式漏洞扫描平台可联动 AssetsDetectAPI 资产搜集",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491734&idx=1&sn=8aad76fd2d17f86a7a23aaa215e8888c": "漏洞预警 | 大华DSS数字监控系统任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491734&idx=2&sn=6a75b0253bfade7be3bbc07cadf69ca0": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491734&idx=3&sn=5814fffd970fed63f305991d99e3b362": "漏洞预警 | 中成科信票务管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899756&idx=1&sn=85ef00825aef53524d39f428a5c0de41": "微软 MFA 现 AuthQuake 漏洞， 允许无限次暴力破解！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247486365&idx=1&sn=f6cf2499ec26220023398ce584fe36a1": "如何有效防范勒索软件攻击？最新漏洞与防御策略",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488944&idx=1&sn=766ae78023280906e2595e294bfa06da": "【0day】《黄药师》药业管理软件UploadFile存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247485932&idx=1&sn=ce5622d60a21d9b99e971546249d4360": "OpenCVE：一款自动收集NVD、MITRE等多源知名漏洞库的开源工具，累计收录CVE 27万+"
 }
