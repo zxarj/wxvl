@@ -1525,5 +1525,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526007&idx=4&sn=9db2d1040e02b05a2060512a24b1251c": "CVE-2024-45337：Golang 加密库存在缺陷，存在授权绕过风险",
     "https://mp.weixin.qq.com/s?__biz=MzA5OTI3MTE5MQ==&mid=2247485438&idx=1&sn=8d03a526fda42f52f94b334d0a290708": "【Poc】-Spring Framework路径遍历漏洞(CVE-2024-38819)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488155&idx=1&sn=22465acb48eb452307c7f4bc4940b2a0": "【0day】某州数码DCME-320存在前台任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503123&idx=2&sn=5dd8d8ef12e293191bd286b255519a79": "利用GitLab漏洞，美国比特币ATM巨头Byte Federal数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503123&idx=2&sn=5dd8d8ef12e293191bd286b255519a79": "利用GitLab漏洞，美国比特币ATM巨头Byte Federal数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247505335&idx=1&sn=b644498e28b671bb36e14c80f9eb495f": "每周网安资讯 （12.10-12.16）|7-zip存在整数下溢或超界折返漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787627&idx=1&sn=4aca62c5aa480dccf358e90b043f3dcc": "警惕！微软Azure MFA漏洞曝光：数百万用户面临安全风险",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTYxMjA5MA==&mid=2247504527&idx=1&sn=0ffd69e5c3aeba9398a43593b146f6d9": "米好信安成功助力第十七届山东省职业院校技能大赛（高职组）司法技术赛项！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjY4NDg1Nw==&mid=2247483861&idx=1&sn=5c201134f7e14bd55bdd5d4923f0a60c": "fscan存在命令注入漏洞[doge][doge]",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490204&idx=1&sn=badaacd6921113d2a4a11f94f32db2fa": "【已复现】Apache Struts存在文件上传漏洞（CVE-2024-53677）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502627&idx=1&sn=97347a777e7bcfbcd672a0f5efc781c6": "安全热点周报：新的 Cleo 零日 RCE 漏洞被利用于数据盗窃攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247568602&idx=2&sn=7cf70e0de693e7ca55e723467fec2b45": "一款简单好用的漏洞管理工具-miscan",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488161&idx=1&sn=c186d4c63a938b5e71058467fcfb72ae": "74cms v4.2.1 v4.2.129 后台getshell漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247531062&idx=1&sn=ca1b73c32eb7b7655cd51fc61c3254e7": "研究显示：平均每个软件容器中发现600多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247499380&idx=1&sn=8b4d272d36267ca85173f2320771ac61": "《东京将启动上四休三工作制》",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247487188&idx=1&sn=593d4161d86b6af216a9a786bd23268a": "(0day)月子会所ERP某接口存在文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493078&idx=1&sn=01910d118c0de482cc69af2970614341": "CVE-2024-38819：Spring Framework 路径遍历漏洞 PoC 发布"
 }
