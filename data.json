@@ -1517,5 +1517,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MzMzNTUzMA==&mid=2247485668&idx=1&sn=513caba8f1d1116baf305d9e62e4c9eb": "实战渗透-某金融众测价值3k的漏洞（附SRC报告合集免费下载）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486390&idx=1&sn=685818611c6aa820c730dde74580540f": "「漏洞复现」PbootCMS entrance.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487054&idx=2&sn=723ac096a1c539a39b6fd167b6a933b2": "记一次验证码绕过修改邮箱地址",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113226&idx=1&sn=a9ca874583cfab7091716f44d589afb2": "网络钓鱼是数据泄露的无声前兆"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113226&idx=1&sn=a9ca874583cfab7091716f44d589afb2": "网络钓鱼是数据泄露的无声前兆",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247484933&idx=1&sn=620e7c286ce724019856a285ec016318": "Exp-Tools:一款集成高危漏洞EXP的实用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTY1NDc2OA==&mid=2247487236&idx=1&sn=acedfe7140658fa3d8b8e6bf994b390e": "【漏洞文章】JeecgBoot 任意用户密码重置",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526007&idx=1&sn=30b50a7e68c6ea8b1d791c25af3ebb6c": "CVE-2024-38819：Spring 框架路径遍历 PoC 漏洞已发布",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526007&idx=2&sn=4e7def1076ab4e88d21b868da6b21abf": "知名开源生物医学工具（InVesalius 3.1）存在远程代码执行漏洞 CVE-2024-42845",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526007&idx=4&sn=9db2d1040e02b05a2060512a24b1251c": "CVE-2024-45337：Golang 加密库存在缺陷，存在授权绕过风险",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTI3MTE5MQ==&mid=2247485438&idx=1&sn=8d03a526fda42f52f94b334d0a290708": "【Poc】-Spring Framework路径遍历漏洞(CVE-2024-38819)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488155&idx=1&sn=22465acb48eb452307c7f4bc4940b2a0": "【0day】某州数码DCME-320存在前台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503123&idx=2&sn=5dd8d8ef12e293191bd286b255519a79": "利用GitLab漏洞，美国比特币ATM巨头Byte Federal数据泄露"
 }
