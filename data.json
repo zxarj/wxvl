@@ -1624,5 +1624,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247487189&idx=1&sn=9d00a65196166346a91d7f6069740844": "(0day)秒优科技供应链管理系统存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493131&idx=1&sn=53054222a61d0f4f5bb380d9a1332acb": "古河大佬发现的最新漏洞：Windows LDAP RCE漏洞（9.8）",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513296&idx=1&sn=6e551ba031ad27466e2160d34f16b5ae": "神漏洞！任意修改车牌号码，让其他车主支付过路费和罚单",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492794&idx=1&sn=dff86fd90195db40c0ceb1864c9396be": "上周关注度较高的产品安全漏洞(20241209-20241215)"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492794&idx=1&sn=dff86fd90195db40c0ceb1864c9396be": "上周关注度较高的产品安全漏洞(20241209-20241215)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489761&idx=1&sn=dff5f6a3183ce82bb042e8e510ba7c38": "PbootCMS entrance.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489750&idx=1&sn=cc8d9f80e65e4c98f0695aa7a49ead84": "万能门店小程序管理系统 onepic_uploade 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517720&idx=1&sn=dbbbdc3cbf014d0ba6d68a6b2882bd61": "XXL-JOB默认accessToken身份绕过RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488173&idx=1&sn=1a1b64eedff4ec862f6186b6d500ddbe": "【0day】99bitbet双语言交易所存在前台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094328&idx=1&sn=c158e0da11cdb3ad962815dd29cdf861": "iOS和macOS系统曝关键漏洞，可破坏TCC框架",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247487478&idx=1&sn=763e6261bb82678d8ff964b97ef5c41b": "项目管理去考PMP，还是去考CSPM？"
 }
