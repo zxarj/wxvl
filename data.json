@@ -1595,5 +1595,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247506425&idx=1&sn=fcc3f82ea04ea9729651367ad210fd98": "1Day-某优先锋-流量管理系统存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDY1NzA2Mw==&mid=2247483845&idx=1&sn=d6a5712b5cfd90a1aede3097b897218c": "DTStack Taier 1.4.0 listNames sql注入分析(CVE-2024-41579)",
     "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499709&idx=1&sn=37ae556f51a5d91da71ea04b2afee842": "写了一个自动测试弱口令漏洞的脚本",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793528&idx=3&sn=f3f3747dd5697ed2b3a379c507782412": "大众汽车信息娱乐系统存在多个缺陷，可能导致车辆被实时追踪"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793528&idx=3&sn=f3f3747dd5697ed2b3a379c507782412": "大众汽车信息娱乐系统存在多个缺陷，可能导致车辆被实时追踪",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNzQ1NTE1OQ==&mid=2247485937&idx=1&sn=c364c75ba642030a3e554e2d2a2d739c": "启明星辰集团2025校园招聘火热进行中！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247527862&idx=2&sn=8861777e01ccd9fd2378cc3b7ee68d9c": "研究显示：平均每个软件容器中发现600多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515552&idx=1&sn=c60ac9a0a7631d7c6b2752e7ebb68964": "漏洞通告｜Apache Struts 2远程代码执行漏洞（S2-067）(CVE-2024-53677)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDg2MDIxNQ==&mid=2247485252&idx=1&sn=3b54011114b049cff1b78391ebafa5f4": "某科云连ERP系统存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MzcxNzg1Ng==&mid=2247485628&idx=1&sn=acde82258512cb49764da882fae372ad": "某科云连ERP系统存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526078&idx=2&sn=d8a722a5736e7e1a03a9878e36e11b9a": "通过 CVE-2024-52875 攻击 Kerio Control：从 CRLF 注入到一键 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247490793&idx=1&sn=6c634e841e3747293b0d85100b58cad5": "Apache Struts RCE (CVE-2024-53677) POC公开",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793528&idx=1&sn=26f1950857db2d8b248303e56b7af199": "以色列公司 Cellebrite 利用安卓 0day漏洞进行间谍软件攻击"
 }
