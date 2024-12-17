@@ -1555,5 +1555,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486341&idx=1&sn=b8e402631af06e5440f9c93a80d0c0ce": "支付类漏洞挖掘技巧总结",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491773&idx=1&sn=528008b81a8cb80cc311e0cbe1425822": "新的 Cleo 零日 RCE 漏洞被利用于数据盗窃攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247515548&idx=1&sn=2d8c70c61bc7d779572eb88723f3ca54": "漏洞通告｜Cleo 任意文件读写漏洞(CVE-2024-50623)",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291918&idx=1&sn=2d9ffa6d537500e9ed7afcdf5ed01864": "安全卫士 | 魔方安全漏洞周报"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291918&idx=1&sn=2d9ffa6d537500e9ed7afcdf5ed01864": "安全卫士 | 魔方安全漏洞周报",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486028&idx=1&sn=f153f8205b6f71c0daa4982536c1b5d0": "主动安全策略的 3 个组成部分",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497542&idx=1&sn=07d3f26e280c58604e0a757832204762": ".NET LINQPad 最新反序列化漏洞分析与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491735&idx=1&sn=9ed2301b5331410d288c485d63ab7d33": "漏洞预警 | SonicWall SMA100 SSL-VPN缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491735&idx=2&sn=22ef31ba9057034fcae3fad4e1271e57": "漏洞预警 | Mitel MiCollab身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491735&idx=3&sn=bad2193b293b2463565dec1b321aa323": "漏洞预警 | WordPress Query Console远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247517246&idx=1&sn=a49a3d11a9fc2316f920b2f105cf0ef2": "HOST碰撞漏洞挖掘技巧，可以解决日常99%的问题！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493923&idx=1&sn=3e3ff8d146bb1ccd0458cb151c5b6d36": "【神兵利器】飞企互联FE漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506241&idx=1&sn=dcc78dc007d6b22432c44e330d0d984e": "解锁+监控！最新安卓间谍软件NoviSpy植入疑利用了高通零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650475787&idx=1&sn=7ba275857c900c208be6d95a1190b0d6": "秦安：澳大利亚高达325瓶致命病毒至今下落不明，这四点不要放过",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514817&idx=1&sn=49238c059dfd55dac0f5b32c714cc812": "你了解VPC、子网、namespace之间的区别吗",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499000&idx=2&sn=ab9c01fe2209bcaa4c6faa8b14c51f0f": "渗透测试 -- 命令执行漏洞和反序列化漏洞学习课程（免费下载）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489313&idx=1&sn=a73bb22f29dcc1bfa6f4383454599255": "【漏洞预警】Menlo Security Menlo On-Premise Appliance安全漏洞"
 }
