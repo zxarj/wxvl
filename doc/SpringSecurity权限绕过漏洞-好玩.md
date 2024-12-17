@@ -1,9 +1,9 @@
 #  SpringSecurity权限绕过漏洞-好玩   
- 进击的HACK   2024-11-24 23:55  
+原创 A1xxNy  猎洞时刻   2024-12-17 02:34  
   
 ## 一、spring security 简介  
   
-        spring security 的核心功能主要包括：  
+        spring security 的核心功能主要包括：  
 - 认证 （你是谁）  
   
 - 授权 （你能干什么）  
@@ -11,9 +11,9 @@
 - 攻击防护 （防止伪造身份）  
   
 -   
-    SpringSecurity和Apache shiro一样，都是安全框架，负责整个系统的认证和授权。  
+    SpringSecurity和Apache shiro一样，都是安全框架，负责整个系统的认证和授权。  
   
-    那有师傅就要问了，明明shiro之类的漏洞更多，他们凭什么叫安全框架？其实原因就是SpringSecurity和Apache shiro一样都会使用很少的配置代码，就能对系统的全部路径、全部接口进行访问权限和认证的配置。如果不使用安全框架，你自己去写安全认证代码，可能代码又臭又长，并且可能漏洞百出。  
+    那有师傅就要问了，明明shiro之类的漏洞更多，他们凭什么叫安全框架？其实原因就是SpringSecurity和Apache shiro一样都会使用很少的配置代码，就能对系统的全部路径、全部接口进行访问权限和认证的配置。如果不使用安全框架，你自己去写安全认证代码，可能代码又臭又长，并且可能漏洞百出。  
   
 还有师傅在复现POC的时候，经常发现路径会带;.css 、 / 、 /;../、/index/../admin 之类，这些其实都是为了绕过安全管理框架的匹配(也包括开发自写的权限鉴定匹配)，从而造成访问权限的绕过。  
   
@@ -43,33 +43,33 @@
 @EnableWebSecurity
 @Configuration
 public class SpringSecurityConfiguration extends WebSecurityConfigurerAdapter {
-    @Override
-    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-        // 配置从内存中加载认证信息
-        PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
-        auth.inMemoryAuthentication()
-                .passwordEncoder(passwordEncoder)
-                .withUser("admin")
-                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
-                .roles("ADMIN")
-                .and()
-                .withUser("user")
-                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
-                .roles("USER");
-    }
-    @Override
-    protected void configure(HttpSecurity http) throws Exception {
-        http
-                .authorizeRequests()
-                .antMatchers("/admin").hasRole("ADMIN")
-                .antMatchers("/user").hasRole("USER")
-                .antMatchers("/**").permitAll()
-                .anyRequest().authenticated()
-                .and()
-                .formLogin()  // 使用 Spring Security 默认的登录页面
-                .and()
-                .httpBasic();
-    }
+    @Override
+    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+        // 配置从内存中加载认证信息
+        PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+        auth.inMemoryAuthentication()
+                .passwordEncoder(passwordEncoder)
+                .withUser("admin")
+                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
+                .roles("ADMIN")
+                .and()
+                .withUser("user")
+                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
+                .roles("USER");
+    }
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http
+                .authorizeRequests()
+                .antMatchers("/admin").hasRole("ADMIN")
+                .antMatchers("/user").hasRole("USER")
+                .antMatchers("/**").permitAll()
+                .anyRequest().authenticated()
+                .and()
+                .formLogin()  // 使用 Spring Security 默认的登录页面
+                .and()
+                .httpBasic();
+    }
 }
 ```  
   
@@ -157,31 +157,31 @@ regexMatchers 配置认证绕过
 @EnableWebSecurity
 @Configuration
 public class SpringSecurityConfiguration extends WebSecurityConfigurerAdapter {
-    @Override
-    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-        // 配置从内存中加载认证信息
-        PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
-        auth.inMemoryAuthentication()
-                .passwordEncoder(passwordEncoder)
-                .withUser("admin")
-                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
-                .roles("ADMIN")
-                .and()
-                .withUser("user")
-                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
-                .roles("USER");
-    }
-    @Override
-    protected void configure(HttpSecurity http) throws Exception {
-        http
-                .authorizeRequests()
-                .regexMatchers("/admin").access("hasRole('ADMIN')")
-                .antMatchers("/**").access("anonymous")
-                .and()
-                .formLogin()  // 使用 Spring Security 默认的登录页面
-                .and()
-                .httpBasic();
-    }
+    @Override
+    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+        // 配置从内存中加载认证信息
+        PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+        auth.inMemoryAuthentication()
+                .passwordEncoder(passwordEncoder)
+                .withUser("admin")
+                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
+                .roles("ADMIN")
+                .and()
+                .withUser("user")
+                .password(passwordEncoder.encode("123456"))  // 使用加密后的密码
+                .roles("USER");
+    }
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http
+                .authorizeRequests()
+                .regexMatchers("/admin").access("hasRole('ADMIN')")
+                .antMatchers("/**").access("anonymous")
+                .and()
+                .formLogin()  // 使用 Spring Security 默认的登录页面
+                .and()
+                .httpBasic();
+    }
 }
 ```  
   
@@ -264,7 +264,7 @@ true
   
 后缀形式的路径匹配成功。  
 ```
-需要满足条件：springboot <= 1.5.22.RELEASE
+需要满足条件：springboot <= 1.5.22.RELEASE
 对应的mvc版本，即为<=4.3.25
 ```  
   
@@ -346,23 +346,23 @@ springboot <= 1.5.22.RELEASE也行！
   
   
   
-                     
-#  第二期漏洞挖掘培训课表  
+                     
+#  第二期漏洞挖掘培训课表  
   
-     目前  
+     目前  
 猎洞时刻漏洞挖掘第二期已经刚开课，涉及  
 企业赏金SRC，众测赏金，线下项目渗透和安全行业工作能力提升，  
 目前价格仅需1299，每期都可以永久学习，并且赠送内容200+的内部知识星球，  
 保证无保留教学，酒香不怕巷子深，可以打听已经报名学员，我这边是否全程干货！绝对对得起师傅们花的钱！  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibLa2nWbr7dz1mZbLD0Z5V8sJBObRqNFjJeQgBBtXNj2viaYbzHRwHpJOH4iaVMaguHQfpv6Yt8G8jg/640?wx_fmt=png&from=appmsg "")  
- ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibLa2nWbr7dz1mZbLD0Z5V8Ip69tIWtNziawm2GsSicwC8KYVpynb35BdovzGWO4j1QiccBY92F7s68g/640?wx_fmt=png&from=appmsg "")  
-     
+ ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibLa2nWbr7dz1mZbLD0Z5V8Ip69tIWtNziawm2GsSicwC8KYVpynb35BdovzGWO4j1QiccBY92F7s68g/640?wx_fmt=png&from=appmsg "")  
+     
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/d6JIQYCSTHibLa2nWbr7dz1mZbLD0Z5V8PHRMTF6ibEfr6p28RWhBBuC35KUy9dCck6Dzf01lCvEGXp1pZAkWGfw/640?wx_fmt=png&from=appmsg "")  
-    
+    
   
-     一句话，一千出头的价格，最对最强的性价比，绝对是我无保留教学，童叟无欺，全靠真实无保留教学，才能快速吸引这么多学员的信任！****  
+     一句话，一千出头的价格，最对最强的性价比，绝对是我无保留教学，童叟无欺，全靠真实无保留教学，才能快速吸引这么多学员的信任！****  
   
 **有师傅之前被**  
 **割韭菜课程坑怕过**  
