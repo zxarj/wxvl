@@ -1709,5 +1709,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMjQyNjAxMA==&mid=2247484768&idx=1&sn=312d27be01812f1c01852048d99ce2a2": "教你用python读取csv文件，调用企业微信API发送邮件",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247220&idx=6&sn=401fbb41c7961877e30847322da4da10": "安全工具 | Windows 权限提升漏洞检测工具集",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247488895&idx=1&sn=39e2d95db349cae397597868a345661e": "通杀漏洞|CVE-2024-50379 Apache Tomcat条件竞争RCE",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY3MTM4Nw==&mid=2247484056&idx=1&sn=6b388eef926a79e484f3d3be1e0d17b3": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY3MTM4Nw==&mid=2247484056&idx=1&sn=6b388eef926a79e484f3d3be1e0d17b3": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247617580&idx=2&sn=ce08ac01fa6014eab9112d9d30ac8683": "扩展 SAE J1939 的攻击场景：传输协议中已建立和新的漏洞的综合分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454828910&idx=1&sn=34a18dd889f688ac490b7a5764d9ae6f": "霄壤实验室获Apache社区致谢，永信至诚「数字风洞」测评中心提醒：Apache Tomcat 存在远程执行漏洞请尽快修复",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496629&idx=1&sn=39a9eef5154441c9a42979a74ba9a774": "【高危 含POC】Tomcat 远程代码执行漏洞(CVE-2024-50379)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654070871&idx=1&sn=3bd5b22989dd3cfbc5968127ac2776ca": "漏洞马拉松2024 | 团体对抗，锋芒毕现！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486635&idx=1&sn=7ac8d259c95b99e721ec7343479f7f00": "【漏洞预警】Apache Tomcat 条件竞争漏洞(CVE-2024-50379)",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489547&idx=1&sn=3f8b0e53b8842f04f2498d88310da4b9": "从零开始：K8s安全测试与漏洞挖掘-8"
 }
