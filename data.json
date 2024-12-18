@@ -1715,5 +1715,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496629&idx=1&sn=39a9eef5154441c9a42979a74ba9a774": "【高危 含POC】Tomcat 远程代码执行漏洞(CVE-2024-50379)",
     "https://mp.weixin.qq.com/s?__biz=MzIxODIzNzgwMw==&mid=2654070871&idx=1&sn=3bd5b22989dd3cfbc5968127ac2776ca": "漏洞马拉松2024 | 团体对抗，锋芒毕现！",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486635&idx=1&sn=7ac8d259c95b99e721ec7343479f7f00": "【漏洞预警】Apache Tomcat 条件竞争漏洞(CVE-2024-50379)",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489547&idx=1&sn=3f8b0e53b8842f04f2498d88310da4b9": "从零开始：K8s安全测试与漏洞挖掘-8"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489547&idx=1&sn=3f8b0e53b8842f04f2498d88310da4b9": "从零开始：K8s安全测试与漏洞挖掘-8",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489792&idx=1&sn=03b59f0b3700284eb4565b0a37a92118": "海康威视运行管理中心 applyST 远程代码执行漏洞(XVE-2024-33936)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515252&idx=2&sn=aa9a9358b4941b26a8602d0511794999": "渗透测试 -- 目录越权和旁注和CDN绕过越权漏洞和登录页面漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486343&idx=1&sn=0509e8974bf768fb57e8b7f7929f4f9f": "【SRC】记录一次从小程序静态分析+动态调试获取到严重漏洞的过程",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633159&idx=4&sn=e6bff7477cbc41d023fcb0d19a2e202e": "产品漏洞被利用致大量用户数据泄露，这家巨头被罚超19亿元",
+    "https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649401063&idx=1&sn=d1b0f04a913a540a4eccee9ef1c07b6e": "网络产品安全能力提升计划漏洞线下检测（第一期）活动成功举办"
 }
