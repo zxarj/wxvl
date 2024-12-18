@@ -1674,5 +1674,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247510958&idx=1&sn=a260090535e30de0a2c233c3787b963a": "苹果HomeKit出现安全漏洞被间谍机构利用 目前具体漏洞细节尚未公布",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514818&idx=1&sn=0d2f983bfde8f4fd789a80d29d0a8736": "安全大数据平台的上游、下游系统有什么",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247537024&idx=2&sn=1abdfffc1ecf4bc0f1051caad49e9731": "神【漏洞！】任意修改车牌号码，让其他车主支付过路费和罚单",
-    "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492223&idx=1&sn=44c088b639e364ad470e0c2462ad18b8": "SQL注入漏洞批量检查工具"
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492223&idx=1&sn=44c088b639e364ad470e0c2462ad18b8": "SQL注入漏洞批量检查工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497542&idx=1&sn=07d3f26e280c58604e0a757832204762&chksm=fa5959abcd2ed0bd8e338a2cba31a9fec4f25fcf577395619ea1c3f2910fac2eb73376b05e19&scene=58&subscene=0": ".NET LINQPad 最新反序列化漏洞分析与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496875&idx=1&sn=c5cdc97e1bdf31dd8a9d1a81e9c68d06": "【漏洞通告】Apache Tomcat远程代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247524710&idx=1&sn=b994ca870206d2cf58d1ea0aa87fec12": "安全通告丨网络安全漏洞通告（2024年12月）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzYxMDQ2MQ==&mid=2247484977&idx=2&sn=62df25a36acfb864e1cd34f92d669c1f": "泛微ecology9 1day分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526094&idx=2&sn=b381eedcae7c75c5af5d8b7ae48d7bb7": "自动化漏洞利用工程：从理论到实践的旅程",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486366&idx=1&sn=ccc57cb3f6086c4fc9b47ac935f996d7": "Apache Tomcat 条件竞争文件上传漏洞（CVE-2024-50379）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MjY2NTU4Mw==&mid=2247486500&idx=1&sn=6b6ce9bf66721fd7f5823e3eadc950c1": "Apache Tomcat CVE-2024-50379",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500298&idx=1&sn=05c72ef1db47fe87704a5732066cd8fa": "【高危 含POC】Tomcat 远程代码执行漏洞(CVE-2024-50379)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502648&idx=1&sn=efadd668e22cb6151e0765d0937e3343": "【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2024-50379)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247491149&idx=1&sn=c88b61c414d7d9fcef48e9f185499dc7": "cve-2024-53376：CyberPanel RCE 已发布PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489324&idx=1&sn=df351d8075e19c7590b08dcd023cfb94": "【漏洞预警】 Apache Tomcat default servlet条件竞争文件上传漏洞（CVE-2024-50379）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484736&idx=1&sn=174f2fddd9500e3b10c1bd5141227669": "【复现】Tomcat DefaultServlet远程代码执行漏洞(CVE-2024-50379)风险通告"
 }
