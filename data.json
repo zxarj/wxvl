@@ -1630,5 +1630,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517720&idx=1&sn=dbbbdc3cbf014d0ba6d68a6b2882bd61": "XXL-JOB默认accessToken身份绕过RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488173&idx=1&sn=1a1b64eedff4ec862f6186b6d500ddbe": "【0day】99bitbet双语言交易所存在前台任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094328&idx=1&sn=c158e0da11cdb3ad962815dd29cdf861": "iOS和macOS系统曝关键漏洞，可破坏TCC框架",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247487478&idx=1&sn=763e6261bb82678d8ff964b97ef5c41b": "项目管理去考PMP，还是去考CSPM？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247487478&idx=1&sn=763e6261bb82678d8ff964b97ef5c41b": "项目管理去考PMP，还是去考CSPM？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDU3Mzc5OA==&mid=2247489728&idx=1&sn=c72ffd32c1866180b7ffbc454f5d0502": "品牌焕新升级！“WaBug漏洞响应平台”正式起航，开启崭新篇章",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497562&idx=3&sn=95e20ae2b522c3b6fad7bf80b1c3cf6e": ".NET LINQPad 最新反序列化漏洞分析与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491752&idx=1&sn=ac93a2e38067d03269d9e264b73bd524": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491752&idx=2&sn=dfb0ef6d0f30c63772cacf7c8524dbb4": "漏洞预警 | 圣乔ERP系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491752&idx=3&sn=758d0e61e39f07b88b2102f6f3281010": "漏洞预警 | 金和OA任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487085&idx=2&sn=3a1a4c5b93874a0f93689f06386c8972": "CVE-2024-48307：JeecgBoot SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506278&idx=1&sn=358d4453178e40281bc60e817e5ae313": "Dirty DAG：微软Azure数据工厂的Apache Airflow集成中的新漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493955&idx=1&sn=aeb1f353ae9f70b0fc315196774e71e2": "【神兵利器】帆软BI反序列漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247492975&idx=1&sn=57e419207530fa3496e3372624655a3b": "大众汽车集团的信息娱乐系统存在多个漏洞，可能导致车辆被攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489467&idx=1&sn=5c6dfa3003de97d19e34c9cc46d1c2ff": "本周六举行2024年度密评从业人员考核",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488995&idx=1&sn=9617efc19dde578fb08c62fa156334e5": "【大量存在】飞鱼星-路由器存在敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU1Mzk0MjU1OQ==&mid=2247493289&idx=1&sn=97dff30b3420519894ae5911d450f9a7": "【漏洞预警】热门摄像头曝零日漏洞，黑客借此入侵政府部门"
 }

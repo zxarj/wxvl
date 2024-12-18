@@ -1,5 +1,5 @@
 #  漏洞预警 | 用友U8CRM SQL注入漏洞   
-浅安  浅安安全   2024-12-06 00:00  
+浅安  浅安安全   2024-12-18 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,20 +23,10 @@ SQL注入
 获取敏感信息  
   
 **简述：**  
-用友U8CRM客户关系管理系统的/ajax/getufvouchdata.php和/borrowout/ajaxgetborrowdata.php接口存在SQL注入漏洞，未经身份验证的攻击者通过漏洞执行任意SQL语句，调用xp_cmdshell写入后门文件，执行任意代码，从而获取到服务器权限。  
+用友U8CRM客户关系管理系统的/config/rellistname.php接口存在SQL注入漏洞，未经身份验证的攻击者通过漏洞执行任意SQL语句，调用xp_cmdshell写入后门文件，执行任意代码，从而获取到服务器权限。  
   
 **0x04 影响版本**  
-- 用友U8-CRM V18  
-  
-- 用友U8-CRM V16.5  
-  
-- 用友U8-CRM V16.1  
-  
-- 用友U8-CRM V16.0  
-  
-- 用友U8-CRM V15.1  
-  
-- 用友U8-CRM V13  
+- 用友U8-CRM  
   
 **0x05****POC状态**  
 - 已公开  

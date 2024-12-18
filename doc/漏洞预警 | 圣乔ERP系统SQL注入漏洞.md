@@ -1,5 +1,5 @@
 #  漏洞预警 | 圣乔ERP系统SQL注入漏洞   
-浅安  浅安安全   2024-12-13 00:02  
+浅安  浅安安全   2024-12-18 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,7 +23,7 @@ SQL注入
 窃取敏感信息  
   
 **简述：**  
-圣乔ERP系统的/erp/dwr/call/plaincall/NamedParamet接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
+圣乔ERP系统的/erp/dwr/call/plaincall/DwrUtil.getSupplyQueryKeyword.dwr和/erp/dwr/call/plaincall/SingleRowQueryConvertor.queryForString.dwr接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 圣乔ERP系统  
