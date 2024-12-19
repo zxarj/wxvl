@@ -1787,5 +1787,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=5&sn=4d662930a1561be456356a31827c5a92": "【漏洞通告】Cleo 远程代码执行漏洞 ( CVE-2024-50623 )",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496635&idx=1&sn=34c31d16785a1db6359cc507f1312498": "深入浅出API测试｜搜集分析与漏洞挖掘实战",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490119&idx=1&sn=b4ee325a5b5ff4787c6b6b1290e0f9e8": "Fortinet 警告可能导致管理员访问漏洞的关键 FortiWLM 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587465&idx=3&sn=f606b36568e16830f7ccb8d80bdd6cea": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587465&idx=3&sn=f606b36568e16830f7ccb8d80bdd6cea": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489811&idx=1&sn=d672db7d9c8cfc80ee8a56623d137ecf": "时空WMS-仓储精细化管理系统 ImageAdd.ashx 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493003&idx=1&sn=a66dc3c7877fa2f4288ba75e6e950847": "Fortinet 警告称其无线局域网管理器 FortiWLM 存在严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515271&idx=2&sn=c418da4780646d43c1d688f964809dc3": "渗透测试 -- 逻辑漏洞和挂马和钓鱼",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499048&idx=1&sn=8b4ebcd450f2bf1c19eef0d34f7ae4a8": "Apache Struts2 文件上传逻辑绕过(CVE-2024-53677)(S2-067)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499048&idx=2&sn=7859c9f96e59a019564b5d235b56faeb": "渗透测试 -- Web漏洞扫描",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NjQ5NTIxNg==&mid=2247485285&idx=1&sn=45a780c7b3b660fa186c85863e85cb3c": "从技术抗衡走向体系化国家力量比拼——2024全球网络战呈现五大特点",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489333&idx=1&sn=dff7d934b42679e01f662c8f10e27f33": "【漏洞复现】Apache Tomcat竞争条件远程代码执行漏洞（CVE-2024-50379）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=4&sn=943a72a40bc01ee1401d16c5b6db3f11": "【漏洞通告】OpenWrt Attended SysUpgrade 命令注入漏洞（CVE-2024-54143）"
 }
