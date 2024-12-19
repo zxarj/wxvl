@@ -1,17 +1,18 @@
 #  【神兵利器】高危漏洞EXP实用性工具   
-cseroad  七芒星实验室   2024-11-28 23:01  
+cseroad  七芒星实验室   2024-12-18 23:04  
   
-**基本介绍**  
+项目介绍  
   
 该工具使用了ExpDemo-JavaFX项目，保留了核心的数据包请求接口，使用jdk1.8环境开发。目前编写了oa、设备、框架、产品等多个系列，对相关漏洞进行复现和分析，极力避免exp的误报和有效性。  
   
-截止到目前为止，已实现了用友、泛微、蓝凌、万户、帆软报表、致远、通达、红帆、金和、金蝶、广联达、华天动力总共12个OA。全部是命令执行、文件上传类的漏洞，包括前台和后台。  
+截止到目前为止，已实现了用友、泛微、蓝凌、万户、帆软报表、致远、通达、红帆、金和、金蝶、广联达、华天动力总共12个OA。 全部是命令执行、文件上传类的漏洞，包括前台和后台。  
   
   
-**支持漏洞**  
+检测支持  
   
   
-(1) 用友系列  
+用友检测列表：  
+  
 - 用友NC-BshServlet 远程命令执行  
   
 - 用友NC-BshServlet-bypass 远程命令执行  
@@ -84,7 +85,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 用友UFIDA NC 文件写入  
   
-(2) 泛微系列  
+泛微检测列表:  
+  
 - 泛微eoffice OfficeServer 文件上传  
   
 - 泛微eoffice UploadFile 文件上传  
@@ -129,7 +131,7 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 泛微emobile lang2sql文件覆盖  
   
-(3) 蓝凌系列  
+蓝凌检测列表:  
 - 蓝凌OA 任意用户登录  
   
 - 蓝凌OA SSRF  
@@ -152,7 +154,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 蓝凌EIS api文件上传  
   
-(4) 万户系列  
+万户检测列表：  
+  
 - 万户OA用户密码泄露  
   
 - 万户OA fileUpload 文件上传  
@@ -171,7 +174,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 万户OA SOAP创建文件写入  
   
-(6) 帆软报表系列  
+帆软报表检测列表:  
+  
 - 帆软报表任意文件读取  
   
 - 帆软报表任意文件读取-bypass  
@@ -194,8 +198,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 帆软报表后台主题文件上传  
   
-(7)   
-致远系列  
+致远检测列表:  
+  
 - 致远session泄露processUpload文件上传  
   
 - 致远uploadMenuIcon文件上传  
@@ -238,7 +242,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 致远M1命令执行  
   
-(8) 通达系列  
+通达检测列表：  
+  
 - 通达任意用户登录-1  
   
 - 通达任意用户登录-2  
@@ -255,12 +260,14 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 通达后台附件文件上传  
   
-(9) 红帆系列  
+红帆检测列表：  
+  
 - 红帆OA任意文件上传  
   
 - 红帆OA任意文件写入  
   
-(10) 金和系列  
+金和检测列表：  
+  
 - 金和OA命令执行  
   
 - 金和OA editeprint文件写入  
@@ -281,7 +288,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 金和OA viewConTemplate 模板注入  
   
-(11) 金蝶系列  
+金蝶检测列表：  
+  
 - 金蝶云星空反序列化-1  
   
 - 金蝶云星空反序列化-2  
@@ -296,8 +304,8 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 金蝶Apusic 文件上传  
   
-(12)   
-广联达系列  
+广联达检测列表：  
+  
 - 广联达OA GetIMDictionary sql注入  
   
 - 广联达OA 任意用户登录  
@@ -306,34 +314,34 @@ cseroad  七芒星实验室   2024-11-28 23:01
   
 - 广联达OA 后台文件上传  
   
-(13) 华天动力系列  
+华天动力检测列表：  
+  
 - 华天动力OA 登录绕过  
   
 - 华天动力OA ntkoupload 文件上传  
   
 - 华天动力OA Servlet文件上传  
   
-**工具使用**  
+工具使用  
 ```
 java -javaagent:Exp-Tools-1.3.1-encrypted.jar -jar Exp-Tools-1.3.1-encrypted.jar
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/PJcQz9vmUick0LKhPFeQEaNkkPWbMlaF0IyYmuAFJzISB0QYPx0E52omULg7BjzYEeArvibK3kdrvTxFCbZc8Wtg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/PJcQz9vmUicm5QHrpHxog5ER1QSsfuvIpj6mHCO5MiabD7ibO4a3xEicts8ib4CMv8hB1hPO02PNV5zqh8koLkmzNBA/640?wx_fmt=png&from=appmsg "")  
   
 **下载地址**  
   
 **点击下方名片进入公众号**  
   
 **回复关键字【**  
-**241129****】获取**  
+**241219****】获取**  
 **下载链接**  
   
-****  
 **·推 荐 阅 读·**  
   
 # 最新后渗透免杀工具  
 # 【护网必备】高危漏洞综合利用工具  
-#    【护网必备】Shiro反序列化漏洞综合利用工具增强版  
+# 【护网必备】Shiro反序列化漏洞综合利用工具增强版  
 # 【护网必备】外网打点必备-WeblogicTool  
 # 【护网必备】最新Struts2全版本漏洞检测工具  
 # Nacos漏洞综合利用工具  

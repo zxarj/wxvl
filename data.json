@@ -1720,5 +1720,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515252&idx=2&sn=aa9a9358b4941b26a8602d0511794999": "渗透测试 -- 目录越权和旁注和CDN绕过越权漏洞和登录页面漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486343&idx=1&sn=0509e8974bf768fb57e8b7f7929f4f9f": "【SRC】记录一次从小程序静态分析+动态调试获取到严重漏洞的过程",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633159&idx=4&sn=e6bff7477cbc41d023fcb0d19a2e202e": "产品漏洞被利用致大量用户数据泄露，这家巨头被罚超19亿元",
-    "https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649401063&idx=1&sn=d1b0f04a913a540a4eccee9ef1c07b6e": "网络产品安全能力提升计划漏洞线下检测（第一期）活动成功举办"
+    "https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649401063&idx=1&sn=d1b0f04a913a540a4eccee9ef1c07b6e": "网络产品安全能力提升计划漏洞线下检测（第一期）活动成功举办",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491768&idx=1&sn=434935e3e87e391acbfdac4d795baca9": "漏洞预警 | Ivanti Cloud Services Application身份验证绕过、命令注入和SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491768&idx=2&sn=b419456e71a8697d34f4fee2ab6007bf": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491768&idx=3&sn=cde190167226801bbe33165c54038bff": "漏洞预警 | 智邦国际ERP SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247493956&idx=1&sn=7d3c35588ef20be40738ace28accb0d9": "【神兵利器】高危漏洞EXP实用性工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485381&idx=1&sn=79215a9a9657a0915aa63ef5fa6fd754": "常见的API漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489470&idx=1&sn=4c7366c85823353766c469550d0b3652": "如何开展漏洞扫描工作",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247561055&idx=1&sn=2aacb4c8d81aee0dd9b2fd4c4d7059b2": "喜报！炼石中标海尔集团数据安全项目",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247488999&idx=1&sn=51229f0d00309669fc68d0a72b7b5981": "【漏洞复现】泛微云桥e-Bridge checkMobile存在SQL注入漏洞"
 }
