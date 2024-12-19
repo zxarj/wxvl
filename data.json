@@ -1780,5 +1780,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247487197&idx=1&sn=f0e9f21b1644944d1229df83969d9cc0": "(0day)安科瑞环保用电监管云平台存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTEzMjc4OA==&mid=2247488982&idx=1&sn=94a03c5d2886be42631e3fc9eef6db7f": "Struts2漏洞深度解析 ：CVE-2024-53677任意文件上传逻辑绕过及修复建议",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247484949&idx=1&sn=a085c39db61dc1de6a41747466c1fa26": "工具集：TomcatScanPro【tomcat自动化漏洞扫描利用工具】",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614726&idx=1&sn=78a89e1680495198a24d2c662e557ea0": "漏洞挖掘 | Swagger UI 目录枚举小总结"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614726&idx=1&sn=78a89e1680495198a24d2c662e557ea0": "漏洞挖掘 | Swagger UI 目录枚举小总结",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486412&idx=1&sn=712f6ea6d9343dfea4389136b50008d4": "「漏洞复现」方正畅享全媒体新闻采编系统 screen.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=1&sn=a6abc6678bce010ef732dfc02c5de936": "【漏洞通告】GitLab Kubernetes Proxy Response NEL 头注入漏洞（CVE-2024-11274）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=3&sn=9f3590ac9d85d305b380de81489941af": "【漏洞通告】Ivanti Cloud Services Application 身份验证绕过漏洞（CVE-2024-11639）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=5&sn=4d662930a1561be456356a31827c5a92": "【漏洞通告】Cleo 远程代码执行漏洞 ( CVE-2024-50623 )",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496635&idx=1&sn=34c31d16785a1db6359cc507f1312498": "深入浅出API测试｜搜集分析与漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490119&idx=1&sn=b4ee325a5b5ff4787c6b6b1290e0f9e8": "Fortinet 警告可能导致管理员访问漏洞的关键 FortiWLM 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587465&idx=3&sn=f606b36568e16830f7ccb8d80bdd6cea": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能"
 }
