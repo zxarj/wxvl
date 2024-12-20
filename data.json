@@ -1803,5 +1803,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247494055&idx=1&sn=e6d8fa033cd944548086c716ac0004fb": "【神兵利器】XXL-JOB漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247561231&idx=1&sn=d395619d9c7e37fee040540992546806": "喜报！炼石中标某大型国有综合性保险金融集团数据加密项目",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247497894&idx=2&sn=a3d6383d0a7c182a96101ad4591734e1": "Apache Struts RCE 漏洞被公开 PoC 积极利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=2&sn=d72f0a05e1e612fa56354ae1a878a765": "【漏洞通告】Apache Struts 2 远程代码执行漏洞（CVE-2024-53677）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486475&idx=2&sn=d72f0a05e1e612fa56354ae1a878a765": "【漏洞通告】Apache Struts 2 远程代码执行漏洞（CVE-2024-53677）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507585&idx=1&sn=5ece95159551948b0ffa7cd719aefdf7&chksm=cfcabd95f8bd34838fd5ab4044866d81a0b443ffbc5e66f89c4407b9b866ee891f036097b191&scene=58&subscene=0": "近期活跃利用高危漏洞自查！含文档管理、Exchange、Apache多个产品",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587465&idx=3&sn=f606b36568e16830f7ccb8d80bdd6cea&chksm=b18c21c386fba8d5127a6d2b07a92ceadd369622ffa057dc032148779ab0e72a399dff415028&scene=58&subscene=0": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664232585&idx=5&sn=b82810b82d6eb59c2598075d87f09b53&chksm=8b59f470bc2e7d66737bd7baf256c0cc37b4d7d892b7d5137bc15af66a345b6c97940301bb28&scene=58&subscene=0": "关注 | 第一期漏洞挖掘与利用中高级培训班招生",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066717&idx=4&sn=b641682a1ea1ea39882cd929b37a230e&chksm=f36e7fddc419f6cba24202816ce961aac15b183ff97a27fbb019b434f5d7e60a6fdfa32e0d2d&scene=58&subscene=0": "【安全圈】Apache Tomcat新漏洞允许攻击者执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247531931&idx=1&sn=5668beb83a342334cd0c5e435601230c&chksm=c1440f26f63386307f6312e5f22d00cd7121b204ca332d6c38f460179ec350ba3c892fd97acd&scene=58&subscene=0": "避免漏洞管理中的陷阱：关键见解和最佳实践",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496635&idx=1&sn=34c31d16785a1db6359cc507f1312498&chksm=e8a5f9d8dfd270ce98244fefaaff483cbbfc2b1a94710d1eb30fdc1b35c8f91dcb606f71c6f6&scene=58&subscene=0": "深入浅出API测试｜搜集分析与漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247497583&idx=3&sn=a257313ae94cf7a802e4006aba4ab91e&chksm=fa595982cd2ed0943cb357c385cae45d9142c9e02bc2fa241049bb8d545bec7993170a4903a9&scene=58&subscene=0": "50套.NET系统漏洞威胁情报(12.13更新)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484499&idx=1&sn=5e4e9c892b49d69df1a5ebc34b3ee227": "CVE-2024-11477：7-Zip 中的严重缺陷可让黑客控制",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486361&idx=1&sn=38c35d7dfeeb4f23bb79b134d105a9f0": "分享OAuth2.0原理及漏洞挖掘技巧案例分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491251&idx=1&sn=e1519a3103033cf6a50d9d229f99003c": "记一次溯源真实案例",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489068&idx=2&sn=6e38841cf254c1c670f47a40ee15bd3c": "【漏洞复现】方正畅享全媒体新闻采编系统reportCenter存在SQL注入漏洞"
 }
