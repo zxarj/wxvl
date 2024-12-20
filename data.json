@@ -1846,5 +1846,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493219&idx=1&sn=dc76c163b7149d91b59b32c45efda63a": "[PoC] Databricks 远程代码执行漏洞 CVE-2024-49194",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587582&idx=2&sn=4b21c27b28faa9c50e657aba34ad4be4": "FortiWLM重大安全漏洞曝光，远程攻击者可夺管理员权限",
     "https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247503614&idx=1&sn=6411afe7e813f28c7e5dc04f06eafa28": "观安信息获评“2024上海软件核心竞争力企业（规模型）”",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247515061&idx=2&sn=221fe9e7df5487a65ac6c27d27bb64a3": "CCSK试题等你来答，参与抽奖赢取首期班福利！"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247515061&idx=2&sn=221fe9e7df5487a65ac6c27d27bb64a3": "CCSK试题等你来答，参与抽奖赢取首期班福利！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486354&idx=1&sn=ed60c9249844adc217d6dc144178754c": "Src挖掘之比较有意思的几个漏洞挖掘记录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486353&idx=1&sn=652419703f4d5311dac369eb1a1a6014": "记一次磕磕绊绊的sql注入漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDQwMDY1Nw==&mid=2247485413&idx=1&sn=47451afa77e27bca85b16eb8c9c125ea": "隆重登场：Google 最新推理模型，Gemini 2.0 Flash - Thinking-exp-1219",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489822&idx=1&sn=c2122703daa803e3edfa9adc122a6c16": "时空WMS-仓储精细化管理系统 SaveCrash.ashx 任意文件上传漏洞"
 }
