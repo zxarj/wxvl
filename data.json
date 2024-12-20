@@ -1824,5 +1824,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546115&idx=2&sn=375c6493f91e8c36e4d450c4c849e2da": "区块链安全 | 智能合约重入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063729&idx=1&sn=589720470530ff0346b0da4e297f010f": "信息安全漏洞周报【第002期】",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605364&idx=4&sn=aee1cb28e83f2b6dd706be24fe33bf22": "SQL注入漏洞批量检查工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488095&idx=1&sn=9e6234bfb837864874b7823c72a5a398": "飞鱼星路由器 账户密码泄露漏洞复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488095&idx=1&sn=9e6234bfb837864874b7823c72a5a398": "飞鱼星路由器 账户密码泄露漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094354&idx=2&sn=3a60c2337e04ee15140b801c8002914f": "Apache Tomcat新漏洞允许攻击者执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzc3MTk3Mg==&mid=2247488851&idx=1&sn=efb4d5fe76d020e05760236c16b33ac5": "Apache Struts2 文件上传漏洞分析（CVE-2024-53677）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247699&idx=1&sn=8cfa9f1b17a853ce8e42a0c99bc8acae": "CVE-2024-53677：Apache Struts2文件上传逻辑漏洞S2-067",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513326&idx=2&sn=b46e1ade4f9e30f4f08fbf4bbca1bd20": "外媒：马斯克因涉密安全问题受美军方审查",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496499&idx=1&sn=3ad526afdadb1d41245df21bd6cfbd64": "每周安全速递³²³|Cl0p勒索组织利用Cleo漏洞攻击全球企业",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247496974&idx=1&sn=32969894b2db845f027d58c9c704ba42": "CVE-2024-53677：Apache Struts2文件上传逻辑漏洞S2-067",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512487&idx=1&sn=2084969d835f481f70244a795d40aa77": "NDSS 2025｜ 抖音集团安全研究团队提出机密沙箱内存管理方案WAVEN",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODg1MDMwOQ==&mid=2247506869&idx=1&sn=5eff5ed4d2afa5ff3a6c0a8bfff9ccdf": "再获漏洞治理能力认可，谋乐科技获颁工信部NVDB通用漏洞库“技术支撑单位”荣誉称号",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521859&idx=1&sn=6aade83438190800942638166b046757": "Fortinet：注意FortiWLM漏洞，黑客可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521859&idx=2&sn=342840d67c1fbf01af15a41ea7621df8": "Chrome 131 更新修复高危内存安全漏洞，其中1个获奖5.5万美元",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653931270&idx=1&sn=cb11c508d1c42ef2b727375e2695dba9": "第十一届“金松奖”已开始申报，包含合规科技发展奖、AI科技进步奖等",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247552089&idx=1&sn=e58b77c5f8083efd50bde11cf5bb2896": "解放双手，批量刷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247498611&idx=1&sn=5451b3f155e7c67d51aadd3e816a5898": "《中医医院信息与数字化建设规范（2024版）》解读",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500414&idx=2&sn=40647e4e4d3af58a8c692e400df5ba6e": "【漏洞通告】Sophos Firewall SQL注入漏洞（CVE-2024-12727）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247531975&idx=1&sn=56c499e1153e0c4f6356185ac1ded5a1": "思科物联网无线AP遭遇严重命令注入漏洞"
 }
