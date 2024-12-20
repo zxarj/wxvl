@@ -1814,5 +1814,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484499&idx=1&sn=5e4e9c892b49d69df1a5ebc34b3ee227": "CVE-2024-11477：7-Zip 中的严重缺陷可让黑客控制",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486361&idx=1&sn=38c35d7dfeeb4f23bb79b134d105a9f0": "分享OAuth2.0原理及漏洞挖掘技巧案例分析",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491251&idx=1&sn=e1519a3103033cf6a50d9d229f99003c": "记一次溯源真实案例",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489068&idx=2&sn=6e38841cf254c1c670f47a40ee15bd3c": "【漏洞复现】方正畅享全媒体新闻采编系统reportCenter存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489068&idx=2&sn=6e38841cf254c1c670f47a40ee15bd3c": "【漏洞复现】方正畅享全媒体新闻采编系统reportCenter存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587465&idx=2&sn=e5d0f25746dce13de80ec7ed9907263f&chksm=b18c21c386fba8d5143def50c0fea96255f636311a6494c19b1e2f693f34d65cd53557264f87&scene=58&subscene=0": "​Apache Tomcat高危漏洞曝光，远程代码执行风险需警惕",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTk4MzY0MA==&mid=2247487895&idx=1&sn=f6a8e98c8bbd2f91264c648e106570e5": "Zabbix从环境搭建到漏洞利用，附批量漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247495012&idx=1&sn=1296119e4a5d81cc17c8c894eb81c9ec": "【工具分享】全网首发！袭扰国内top1家族Mallox家族恢复工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487541&idx=1&sn=e4a29fa7e3d8982823df494f4d681f54": "赛克安全本周漏洞推送（12.15-12.20）涉及Cloudlog、bmcm、汉明科技-无线控制器、迈普无线系统等产品相关漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MzU4ODE5Mw==&mid=2247485633&idx=1&sn=250856a0c5df8005e7e4ccafa8fc5e53": "赛克安全本周漏洞推送（12.15-12.20）涉及Cloudlog、bmcm、汉明科技-无线控制器、迈普无线系统等产品相关漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546115&idx=1&sn=a2d3f19e56af1f2a02b2d6e5ff9f69bc": "CVE-2024-21762漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546115&idx=2&sn=375c6493f91e8c36e4d450c4c849e2da": "区块链安全 | 智能合约重入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063729&idx=1&sn=589720470530ff0346b0da4e297f010f": "信息安全漏洞周报【第002期】",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605364&idx=4&sn=aee1cb28e83f2b6dd706be24fe33bf22": "SQL注入漏洞批量检查工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488095&idx=1&sn=9e6234bfb837864874b7823c72a5a398": "飞鱼星路由器 账户密码泄露漏洞复现"
 }
