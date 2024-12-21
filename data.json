@@ -1850,5 +1850,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486354&idx=1&sn=ed60c9249844adc217d6dc144178754c": "Src挖掘之比较有意思的几个漏洞挖掘记录",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486353&idx=1&sn=652419703f4d5311dac369eb1a1a6014": "记一次磕磕绊绊的sql注入漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NDQwMDY1Nw==&mid=2247485413&idx=1&sn=47451afa77e27bca85b16eb8c9c125ea": "隆重登场：Google 最新推理模型，Gemini 2.0 Flash - Thinking-exp-1219",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489822&idx=1&sn=c2122703daa803e3edfa9adc122a6c16": "时空WMS-仓储精细化管理系统 SaveCrash.ashx 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489822&idx=1&sn=c2122703daa803e3edfa9adc122a6c16": "时空WMS-仓储精细化管理系统 SaveCrash.ashx 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899798&idx=1&sn=a5f4eb2aa8955f5fe679cd627968dadb": "Apache Struts 严重漏洞恐再现“噩梦”， 攻击者已展开行动！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491804&idx=2&sn=1b58756b842eabe75c03da17279606b8": "漏洞预警 | NextChat SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491804&idx=3&sn=7d2c640fda5f60bb78dd1511bd64f853": "漏洞预警 | 网神SecGate3600防火墙任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487125&idx=1&sn=2dcb68ae48973292ce0e41ebe7b6d41a": "Zabbix从环境搭建到漏洞利用，附批量漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487125&idx=2&sn=ec3d00ecc8c4f8f61c72585c57ffb1d1": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489098&idx=1&sn=241319fc05874fab20fe11fc31e569a5": "【0day】中科商软云连ERP getAllUserListData存在信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247494056&idx=1&sn=745c6db09be2022a37d4366370e6fa3d": "【神兵利器】Redis漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515286&idx=1&sn=f7ad70d62fef2564f484020c5716f9a2": "Apache Tomcat（CVE-2024-50379）条件竞争致远程代码执行漏洞批量检测脚本"
 }
