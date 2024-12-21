@@ -1881,5 +1881,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247485930&idx=1&sn=b212c0f73f12ef7a741f99bb4b8fd2e1": "OtterRoot Netfilter 通用型 Linux 本地提权 1-day 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502658&idx=1&sn=e1de6decc572e58a32c667c1ecd2ec0b": "【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2024-56337)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485358&idx=1&sn=c180edecfc5c80fefafb15baea7e06d5": "【翻译】身份验证失效：利用高级身份验证漏洞的完整指南",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546135&idx=1&sn=cbfb468158bc82d35028d522eaa3ab4d": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546135&idx=1&sn=cbfb468158bc82d35028d522eaa3ab4d": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066803&idx=3&sn=dca3ffae63a4a135b0aaae997fee9b6d": "【安全圈】大众车载系统暴出12个安全漏洞，黑客可轻松接管车内信息！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=2&sn=ee2e3210c82a61b26acfc5ba94b512ca": "CVE-2024-50379｜Apache Tomcat竞争条件远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587593&idx=1&sn=f01974c27a3a04371655e7ea6eace814": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247487610&idx=1&sn=d3773f95c08472577d4c5dca4d24dc10": "最终章 | Tomcat条件竞争RCE的最终利用篇，带视频教学及POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500418&idx=1&sn=dbe755575c1cc8ea303921c5c7ee9317": "【漏洞通告】Apache Tomcat远程代码执行漏洞（CVE-2024-56337）"
 }
