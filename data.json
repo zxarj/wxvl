@@ -1858,5 +1858,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487125&idx=2&sn=ec3d00ecc8c4f8f61c72585c57ffb1d1": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489098&idx=1&sn=241319fc05874fab20fe11fc31e569a5": "【0day】中科商软云连ERP getAllUserListData存在信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247494056&idx=1&sn=745c6db09be2022a37d4366370e6fa3d": "【神兵利器】Redis漏洞综合利用工具",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515286&idx=1&sn=f7ad70d62fef2564f484020c5716f9a2": "Apache Tomcat（CVE-2024-50379）条件竞争致远程代码执行漏洞批量检测脚本"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515286&idx=1&sn=f7ad70d62fef2564f484020c5716f9a2": "Apache Tomcat（CVE-2024-50379）条件竞争致远程代码执行漏洞批量检测脚本",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587582&idx=2&sn=4b21c27b28faa9c50e657aba34ad4be4&chksm=b18c213486fba822d37b6a318f39f151c9f35da5a51cc4151917ac1fcfc6b817bd873da639d9&scene=58&subscene=0": "FortiWLM重大安全漏洞曝光，远程攻击者可夺管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521859&idx=1&sn=6aade83438190800942638166b046757&chksm=ea94a729dde32e3fff2298ee3a0ab33be5cf7cc9bbfebb1e65bcf4b1a355e4369a3ae43bb957&scene=58&subscene=0": "Fortinet：注意FortiWLM漏洞，黑客可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521859&idx=2&sn=342840d67c1fbf01af15a41ea7621df8&chksm=ea94a729dde32e3fa2f20b8187093ff135d86d86f18361c7a4cae398bc831b6f9e04d5a21ca9&scene=58&subscene=0": "Chrome 131 更新修复高危内存安全漏洞，其中1个获奖5.5万美元",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499454&idx=1&sn=96a579525a54f7e4000867bcfb7643f3&chksm=c063d067f71459710b20f7f42f409e6a44da03f245ec80005326c7b8b022ed3119efbb022ea8&scene=58&subscene=0": "G.O.S.S.I.P 阅读推荐 2024-12-20 Android芯片组相关漏洞总结报告2025版",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247531975&idx=1&sn=56c499e1153e0c4f6356185ac1ded5a1&chksm=c1440f7af633866c05c42df55d11bf04d3c958aa61ec6c19861393ad6e599687d4011abedd73&scene=58&subscene=0": "思科物联网无线AP遭遇严重命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MzE4MjAxMw==&mid=2247484369&idx=1&sn=478b83aaba8f2dc1fbc47bd52655654b": "CVE-2024-56337",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486442&idx=1&sn=56c0d4d924372cdf6e0685a3cccbc483": "「漏洞复现」Cloudlog 电台日志系统 request_form SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491782&idx=1&sn=0ec56be3f4aff171268e9834d45e974d": "安娜雅克医院勒索软件漏洞导致 30 万名患者数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247485776&idx=1&sn=6d011e84e820eb2995031d6355a2ed87": "【自研工具】collect-cloud-native-security-vuln: 云原生安全漏洞收集工具",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310351&idx=1&sn=431965e436402476cf84910b092c1628": "FortiWLM 曝关键漏洞，攻击者可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247484966&idx=1&sn=c9077bd3b588953184cf7d6d94ce6e41": "Google日历网络钓鱼骗局",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793589&idx=2&sn=1f3dfc23261c4f764df5452f3ae77a05": "研究人员警告称，Apache Struts 2 关键漏洞可能遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793589&idx=3&sn=091ad734f1363feff0581eebe726992b": "Rockwell PowerMonitor 漏洞允许远程黑客攻击工业系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491804&idx=1&sn=9ca9d6fe52223ae2d42a4e122bbad7d6": "漏洞预警 | Cleo Harmony任意文件读取漏洞"
 }
