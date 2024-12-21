@@ -1886,5 +1886,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=2&sn=ee2e3210c82a61b26acfc5ba94b512ca": "CVE-2024-50379｜Apache Tomcat竞争条件远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587593&idx=1&sn=f01974c27a3a04371655e7ea6eace814": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247487610&idx=1&sn=d3773f95c08472577d4c5dca4d24dc10": "最终章 | Tomcat条件竞争RCE的最终利用篇，带视频教学及POC",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500418&idx=1&sn=dbe755575c1cc8ea303921c5c7ee9317": "【漏洞通告】Apache Tomcat远程代码执行漏洞（CVE-2024-56337）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500418&idx=1&sn=dbe755575c1cc8ea303921c5c7ee9317": "【漏洞通告】Apache Tomcat远程代码执行漏洞（CVE-2024-56337）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTYwMDI2OA==&mid=2247484301&idx=1&sn=cc09d0ed73141c9df1190979180a4bb6": "[靶场复现计划]春秋云境 CloudNet",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247485993&idx=1&sn=a04b3a29e74391e6948c0ef6dc41969a": "搭建Web安全入门漏洞靶场DVWA其实只要10分钟！（附30个免费docker镜像加速源）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MzcxNzg1Ng==&mid=2247485630&idx=1&sn=3d1301d407df653985532869ae3acfe1": "网安人体检报告：漏洞最多的人竟是我自己？！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493261&idx=1&sn=519cd25d6df0692babe00f4c41ffdee9": "CVE-2024-56337 Apache Tomcat - 通过启用写入功能的默认 servlet 进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487494&idx=1&sn=de643d61ba91eb9452c98cebeb61a56a": "【新day】CVE-2024-56145（Craft CMS 模板注入导致 RCE）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=1&sn=4a11c334dc821e3cebf6e8642e236341": "CVE-2024-53677｜Apache Struts 2（S2-067）远程代码执行漏洞（POC）"
 }
