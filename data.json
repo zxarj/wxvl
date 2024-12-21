@@ -1872,5 +1872,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247484966&idx=1&sn=c9077bd3b588953184cf7d6d94ce6e41": "Google日历网络钓鱼骗局",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793589&idx=2&sn=1f3dfc23261c4f764df5452f3ae77a05": "研究人员警告称，Apache Struts 2 关键漏洞可能遭利用",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793589&idx=3&sn=091ad734f1363feff0581eebe726992b": "Rockwell PowerMonitor 漏洞允许远程黑客攻击工业系统",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491804&idx=1&sn=9ca9d6fe52223ae2d42a4e122bbad7d6": "漏洞预警 | Cleo Harmony任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491804&idx=1&sn=9ca9d6fe52223ae2d42a4e122bbad7d6": "漏洞预警 | Cleo Harmony任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526269&idx=1&sn=9e773282c8039d1a8f836fb8e90e8aac": "8,000 美元漏洞赏金亮点：Opera 浏览器中的 XSS 到 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526269&idx=2&sn=be4f2144eee49c7ab4153c1c05760a33": "新的Windows权限提升漏洞！ SSD 咨询 – cldflt 基于堆的溢出 (PE)",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485929&idx=2&sn=85652ae4ff67dac73e8c8c8e0fcd320b": "网络安全顶会——CCS 2024 论文清单与摘要（2）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514855&idx=1&sn=c31bfc54cc6875e32ec73a225f057a36": "你可能了解Ebpf，但是你了解Cbpf技术吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NTY4MDEzMw==&mid=2247494030&idx=1&sn=330c20307561a3c8c3b1ad2dd17be0b0": "EKUwu-CVE-2024-49019",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247485930&idx=1&sn=b212c0f73f12ef7a741f99bb4b8fd2e1": "OtterRoot Netfilter 通用型 Linux 本地提权 1-day 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502658&idx=1&sn=e1de6decc572e58a32c667c1ecd2ec0b": "【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2024-56337)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485358&idx=1&sn=c180edecfc5c80fefafb15baea7e06d5": "【翻译】身份验证失效：利用高级身份验证漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546135&idx=1&sn=cbfb468158bc82d35028d522eaa3ab4d": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）"
 }
