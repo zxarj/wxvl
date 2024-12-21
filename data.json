@@ -1892,5 +1892,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MzcxNzg1Ng==&mid=2247485630&idx=1&sn=3d1301d407df653985532869ae3acfe1": "网安人体检报告：漏洞最多的人竟是我自己？！",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493261&idx=1&sn=519cd25d6df0692babe00f4c41ffdee9": "CVE-2024-56337 Apache Tomcat - 通过启用写入功能的默认 servlet 进行 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487494&idx=1&sn=de643d61ba91eb9452c98cebeb61a56a": "【新day】CVE-2024-56145（Craft CMS 模板注入导致 RCE）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=1&sn=4a11c334dc821e3cebf6e8642e236341": "CVE-2024-53677｜Apache Struts 2（S2-067）远程代码执行漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=1&sn=4a11c334dc821e3cebf6e8642e236341": "CVE-2024-53677｜Apache Struts 2（S2-067）远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247490108&idx=1&sn=44caf097ec471143db38533b39921e7e": "一文解读hashdump工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTUyNTI5OA==&mid=2247486364&idx=1&sn=6376e5a20c87ec8e5f291c09a4e13f16": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）"
 }
