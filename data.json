@@ -1900,5 +1900,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485745&idx=2&sn=5b11dd987b70d63bd327eea23f305e74": "CVE-2024-49112｜Windows 轻量级目录访问协议（LDAP）远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487133&idx=1&sn=1a65a357b5fb4ed4bd2928654519d005": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487133&idx=2&sn=e85f9ffecb8fa68f9544dbae2722aad0": "漏洞挖掘 | 某平台存储型XSS",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517788&idx=1&sn=5bf26f6dbafbcb94f439e8a8f6a0cf3f": "PE文件代码注入"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517788&idx=1&sn=5bf26f6dbafbcb94f439e8a8f6a0cf3f": "PE文件代码注入",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587593&idx=1&sn=f01974c27a3a04371655e7ea6eace814&chksm=b18c214386fba855c7d8837a605a2a87e7bb9c53b5ade3206e3b7a4379bddcd8ef5efb693457&scene=58&subscene=0": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066803&idx=3&sn=dca3ffae63a4a135b0aaae997fee9b6d&chksm=f36e7fb3c419f6a501dfeb9d60cff3b477a4ac64b70fdd353bed9f6ab86f24ba62907b4475ae&scene=58&subscene=0": "【安全圈】大众车载系统暴出12个安全漏洞，黑客可轻松接管车内信息！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502658&idx=1&sn=e1de6decc572e58a32c667c1ecd2ec0b&chksm=fe79efdac90e66cc313e0e0816a80c07931f5719df659f74aba6bb8efcfae9347460cd26c232&scene=58&subscene=0": "【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2024-56337)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493290&idx=1&sn=87dbe8e4fb12dd7dc0b236623fe5f4be": "CVE-2024-56145：Craft CMS 漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899799&idx=1&sn=bf5134fc99d34ec1f16199c151fa25ef": "Fortinet 无线管理器惊现严重漏洞，黑客可轻松获取管理员权限！",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633268&idx=3&sn=98f0293cc6251ab7304f147afa79483c": "FortiWLM 曝关键漏洞，攻击者可获得管理员权限"
 }
