@@ -1906,5 +1906,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502658&idx=1&sn=e1de6decc572e58a32c667c1ecd2ec0b&chksm=fe79efdac90e66cc313e0e0816a80c07931f5719df659f74aba6bb8efcfae9347460cd26c232&scene=58&subscene=0": "【已复现】Apache Tomcat 远程代码执行漏洞(CVE-2024-56337)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493290&idx=1&sn=87dbe8e4fb12dd7dc0b236623fe5f4be": "CVE-2024-56145：Craft CMS 漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899799&idx=1&sn=bf5134fc99d34ec1f16199c151fa25ef": "Fortinet 无线管理器惊现严重漏洞，黑客可轻松获取管理员权限！",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633268&idx=3&sn=98f0293cc6251ab7304f147afa79483c": "FortiWLM 曝关键漏洞，攻击者可获得管理员权限"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633268&idx=3&sn=98f0293cc6251ab7304f147afa79483c": "FortiWLM 曝关键漏洞，攻击者可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526407&idx=2&sn=c861b76793e01721eca83cd6cd50d901": "一个不起眼的 PHP 漏洞如何导致 Craft CMS 出现 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484039&idx=1&sn=84848557aee5ef51ec87d5cd74607656": "记一次逻辑漏洞修改任意用户密码",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTY1MTg4Mg==&mid=2247484206&idx=1&sn=c6c8bc748d9cd6b3305a188a37b8c6b9": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODY3NjkyNQ==&mid=2247484401&idx=1&sn=71dcfb268f5852a19c75d24153bb827e": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487524&idx=1&sn=0ba60c7c544d38db55c6cc9723985528": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)"
 }
