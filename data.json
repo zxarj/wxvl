@@ -1894,5 +1894,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487494&idx=1&sn=de643d61ba91eb9452c98cebeb61a56a": "【新day】CVE-2024-56145（Craft CMS 模板注入导致 RCE）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485730&idx=1&sn=4a11c334dc821e3cebf6e8642e236341": "CVE-2024-53677｜Apache Struts 2（S2-067）远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247490108&idx=1&sn=44caf097ec471143db38533b39921e7e": "一文解读hashdump工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NTUyNTI5OA==&mid=2247486364&idx=1&sn=6376e5a20c87ec8e5f291c09a4e13f16": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTUyNTI5OA==&mid=2247486364&idx=1&sn=6376e5a20c87ec8e5f291c09a4e13f16": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486136&idx=1&sn=181b8c04c06163724b7307a30645a2ef": "[靶场复现计划]春秋云境 CloudNet",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485745&idx=1&sn=d1090b68df39020f6ad17405afe7f029": "CVE-2024-12727｜Sophos Firewall SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485745&idx=2&sn=5b11dd987b70d63bd327eea23f305e74": "CVE-2024-49112｜Windows 轻量级目录访问协议（LDAP）远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487133&idx=1&sn=1a65a357b5fb4ed4bd2928654519d005": "新手小白如何挖掘cnvd通用漏洞之存储xss漏洞（利用xss钓鱼）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487133&idx=2&sn=e85f9ffecb8fa68f9544dbae2722aad0": "漏洞挖掘 | 某平台存储型XSS",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517788&idx=1&sn=5bf26f6dbafbcb94f439e8a8f6a0cf3f": "PE文件代码注入"
 }
