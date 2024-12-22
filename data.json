@@ -1911,5 +1911,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484039&idx=1&sn=84848557aee5ef51ec87d5cd74607656": "记一次逻辑漏洞修改任意用户密码",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTY1MTg4Mg==&mid=2247484206&idx=1&sn=c6c8bc748d9cd6b3305a188a37b8c6b9": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)",
     "https://mp.weixin.qq.com/s?__biz=MzkyODY3NjkyNQ==&mid=2247484401&idx=1&sn=71dcfb268f5852a19c75d24153bb827e": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487524&idx=1&sn=0ba60c7c544d38db55c6cc9723985528": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyODcwOTA4NA==&mid=2247487524&idx=1&sn=0ba60c7c544d38db55c6cc9723985528": "【首发1day详情】CVE-2024-51479 全网首发漏洞复现分析+POC (Next.js权限绕过)",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484851&idx=1&sn=52c5df6c1e8f7e240e5d705a9adb8fbc": "【漏洞复现】CVE-2024-50623",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066819&idx=2&sn=d36a351bfabba8d719c29fa871c22b3c": "【安全圈】FortiWLM 曝关键漏洞，攻击者可获得管理员权限"
 }
