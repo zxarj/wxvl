@@ -1,5 +1,5 @@
 #  漏洞预警 | 蓝凌OA SSRF漏洞   
-浅安  浅安安全   2024-11-18 00:00  
+浅安  浅安安全   2024-12-23 00:02  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -15,7 +15,6 @@
   
 **0x03 漏洞详情**  
 ###   
-###   
   
 **漏洞类型：**  
 SSRF  
@@ -25,8 +24,7 @@ SSRF
 获取敏感信息  
   
 **简述：**  
-蓝凌OA的/sys/webservice/hrStaffWebService接口存在SSRF漏洞，未经身份验证攻击者可通过该漏洞读取系统重要文件，导致网站处于极度不安全状态。  
-###   
+蓝凌OA的/sys/webservice/sysTagWebService、/sys/webservice/kmImeetingBookWebService、/sys/webservice/kmImeetingResWebService和/sys/webservice/thirdImSyncForKKWebService接口存在SSRF漏洞，未经身份验证攻击者可通过该漏洞读取系统重要文件，导致网站处于极度不安全状态。  
   
 **0x04 影响版本**  
 - 蓝凌OA  

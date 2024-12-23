@@ -1918,5 +1918,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500072&idx=1&sn=2b761dedd7c1caedbe68c644c1292ec6": "关于AWD的小结",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486453&idx=1&sn=c80d52031a23f7939f932cb30817a4d7": "「漏洞复现」云连POS-ERP管理系统 download.action 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491784&idx=1&sn=bc289d1572bd1db0c695ab15af7ab441": "CISA 将 Progress Kemp LoadMaster 漏洞标记为易被攻击利用漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496658&idx=1&sn=a962d7f0a95d295e95082d39881b8d9a": "任意账户绑定微信逻辑缺陷案例"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496658&idx=1&sn=a962d7f0a95d295e95082d39881b8d9a": "任意账户绑定微信逻辑缺陷案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491824&idx=1&sn=1e180df542cc81f8ccd126fa3a1a793a": "漏洞预警 | Apache Tomcat条件竞争漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491824&idx=2&sn=00d3f008f7a8e6862f85e636c1729047": "漏洞预警 | 蓝凌OA SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509920&idx=1&sn=4edcca4471e6daccf241f1af05ac1900": "Caddy能取代Nginx吗？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655262466&idx=1&sn=cba108d6018be686d89bca36a5fe24ae": "2025年我国网络安全发展形势展望",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672473&idx=1&sn=b1f42abfb69489f1d38f2bf96dcc303b": "补丁警报：发现关键的Apache Struts漏洞（CVE-2024-53677）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493022&idx=1&sn=ef5134da8ef54faf7fc94a7213224e62": "Sophos修复了其防火墙产品中的严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489127&idx=1&sn=572846e45ecb431c0b52259247eb3ddb": "【0day】北京用友审计软件有限公司友数聚科技CPAS审计管理系统V4 存在任意文件读取漏洞"
 }
