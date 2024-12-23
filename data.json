@@ -1925,5 +1925,17 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655262466&idx=1&sn=cba108d6018be686d89bca36a5fe24ae": "2025年我国网络安全发展形势展望",
     "https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672473&idx=1&sn=b1f42abfb69489f1d38f2bf96dcc303b": "补丁警报：发现关键的Apache Struts漏洞（CVE-2024-53677）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493022&idx=1&sn=ef5134da8ef54faf7fc94a7213224e62": "Sophos修复了其防火墙产品中的严重漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489127&idx=1&sn=572846e45ecb431c0b52259247eb3ddb": "【0day】北京用友审计软件有限公司友数聚科技CPAS审计管理系统V4 存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489127&idx=1&sn=572846e45ecb431c0b52259247eb3ddb": "【0day】北京用友审计软件有限公司友数聚科技CPAS审计管理系统V4 存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066819&idx=2&sn=d36a351bfabba8d719c29fa871c22b3c&chksm=f36e7843c419f15552cf2929e13f6e9b8e3fa19750a3413a503d97ed18773b49e2b9626f057d&scene=58&subscene=0": "【安全圈】FortiWLM 曝关键漏洞，攻击者可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488752&idx=1&sn=f5d1b413360eaaa586e8547d31c4dbce": "IIS中间件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzQxNzY2OQ==&mid=2247487630&idx=1&sn=6cf205a3fab2e22c6d42abce80395724": "Tomcat RCE | CVE-2024-56337远程代码执行，带复现视频及POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247503217&idx=2&sn=0c8f76b82c16c05a9f732ba0e5bde0e6": "FortiWLM 曝关键漏洞，攻击者可获得管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzYwNTEyNg==&mid=2247487205&idx=1&sn=33cd765343a53aeb0cb95c7e05719160": "(1day)金华迪加现场大屏互动系统存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517797&idx=1&sn=efa6756c0e64b9c89c49f021251b789d": "【CVE-2025-50379】利用cursor解读tomcat 条件竞争导致RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc1NzU1Ng==&mid=2247484143&idx=1&sn=0909bc6a1e1608db5396bd53d3516603": "【POC开发系列01】Pocsuite3框架的使用与poc的编写",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493123&idx=1&sn=e978677722b36e1d7a8b163fe104c1c9": "庆尘SRC漏洞挖掘第二期来袭",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485075&idx=1&sn=68db2f838cf34395ab94bbc562be7cf5": "深度剖析 CVE-2024-56145：Craft CMS 高危漏洞的利用与防御",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485075&idx=2&sn=b8aebda4d9773c722dd15d51bc6b357b": "Apache Tomcat 高危远程代码执行漏洞（CVE-2024-56337）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491824&idx=3&sn=182280414c04ee47c247bae26a93c39e": "漏洞预警 | 国威数字程控交换机远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&mid=2649608656&idx=1&sn=0de2056bef0fcc1cb20ec49cd4a73751": "重磅｜天地和兴董事长王小东荣获第九届“管理科学奖-个人奖”"
 }
