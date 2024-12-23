@@ -1939,5 +1939,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491824&idx=3&sn=182280414c04ee47c247bae26a93c39e": "漏洞预警 | 国威数字程控交换机远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzk0MDE2Ng==&mid=2649608656&idx=1&sn=0de2056bef0fcc1cb20ec49cd4a73751": "重磅｜天地和兴董事长王小东荣获第九届“管理科学奖-个人奖”",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485815&idx=1&sn=48d1b8666f2a180250f25790a487e940": "【漏洞复现】某平台-thirdImSyncForKKWebService-read-file任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247520334&idx=2&sn=5ec75125a7aba0d5b3c983dfae3ae073": "CCSK试题等你来答，参与抽奖赢取首期班福利！"
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247520334&idx=2&sn=5ec75125a7aba0d5b3c983dfae3ae073": "CCSK试题等你来答，参与抽奖赢取首期班福利！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMjU5MzgzMQ==&mid=2247485143&idx=1&sn=ca184c882a6f45a7b1160c5e65116d61": "文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495634&idx=1&sn=7ad3a2cfe0a427fe348fb02c0405f8e2": "CNVD漏洞周报2024年第51期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495634&idx=2&sn=e5f4d98d6400cfec5f6954869c58c5ca": "上周关注度较高的产品安全漏洞(20241216-20241222)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486464&idx=1&sn=647dde52226377e5282adb190d4c5dfb": "「漏洞复现」灵当CRM getMyAmbassador SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjg1OTY3Mg==&mid=2247491737&idx=1&sn=c64f3af144a46bf369b4071fcb9521cb": "华顺信安获评攻击面管理领域十大代表性厂商",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzA5NDc0MA==&mid=2649291940&idx=2&sn=017c601f071172c54e31467605898ee7": "安全卫士 | 魔方安全漏洞周报",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494252&idx=1&sn=c73d258b557537455c7fdc4af249ae56": "NDSS 2025｜Prompt泄露风险：抖音集团安全研究团队揭露多租户KV缓存共享漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512517&idx=1&sn=5eeba37b918c35be1eb6209fed0aa9fc": "NDSS 2025｜Prompt泄露风险：抖音集团安全研究团队揭露多租户KV缓存共享漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490225&idx=1&sn=afd97fcef9e2132344f804a84347ba7f": "【已复现】Apache Tomcat存在远程代码执行漏洞（CVE-2024-56337）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490225&idx=2&sn=885da3c3fa05d39949c5718797a96226": "【已复现】Apache Tomcat存在远程代码执行漏洞（CVE-2024-50379）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502670&idx=1&sn=479d015990e5c63cf38d46824cc7a6d5": "安全热点周报：Windows 内核漏洞现被利用来获取系统权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247547783&idx=1&sn=f16e44bb0f27672bde6ffc2def95890e": "九年磨砺，再启新程！谈思AutoSec 9周年年会报名正式启动~~",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247623763&idx=2&sn=a09d131d7c26fb44de15e653371e639f": "警惕！高危漏洞利用成为美国对中国企业网络攻击突破口",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247568797&idx=1&sn=0b1ea74516af141a6361daa62ee22c80": "Java之SpringBoot漏洞利用姿势合集总结详细版",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503241&idx=1&sn=46f1e55ddd334e1241a4f2a5cc61150a": "雷神众测漏洞周报2024.12.16-2024.12.22",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxNTMzNw==&mid=2247484048&idx=1&sn=75765ca273ebe45ec635d0c1d6037b66": "路径遍历漏洞技巧手法",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489841&idx=1&sn=e9b36f27caee5e069eb26b0f8eb5decb": "同享人力资源管理系统-TXEHR V15 ActiveXConnector 信息泄露漏洞"
 }
