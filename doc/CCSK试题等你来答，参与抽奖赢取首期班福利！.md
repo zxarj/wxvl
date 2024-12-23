@@ -1,7 +1,11 @@
 #  CCSK试题等你来答，参与抽奖赢取首期班福利！   
- 安全牛课堂   2024-12-20 08:41  
+ 谷安培训   2024-12-23 03:30  
   
 CCSKv5云安全知识认证首期班将在12月28-29日、1月4日（共三天）开班。  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/m6icpc8EwicOWEwvLqSkvjZQ5DiaMib3fpvAK64v97zZDiafxCL5m6n6kAMdiaKmdg6y8888NtTbtJIsve1188LCRPvw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**扫码咨询报名**  
   
 云计算正在加速全球数字化转型，云安全成为不可忽视的核心问题。随着企业加速将业务迁移到云端，  
 **云安全的需求持续攀升，尤其是在AI、自动化和零信任等新兴技术的推动下。**云安全人才不仅需要传统的安全知识，还需具备跨领域综合能力。  
@@ -27,7 +31,7 @@ CCSKv5云安全知识认证首期班将在12月28-29日、1月4日（共三天�
 提升自己的云安全水平，迎接未来的挑战！  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **1**  
   
@@ -42,9 +46,9 @@ C.在IaaS中，用户管理应用程序、数据、运行时和操作系统
   
 D.在IaaS中，提供商管理基础设施和应用程序  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **2**  
   
@@ -59,9 +63,9 @@ C.它们概述了系统架构的技术标准
   
 D.它们将指南转化为可操作的安全要求  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **3**  
   
@@ -76,9 +80,9 @@ C.定期进行风险评估和安全审计
   
 D.采用一次性的合规性评估方法  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **4**  
   
@@ -93,9 +97,9 @@ C.它们不如个别部署控制重要
   
 D.它们为整个组织建立总体策略和控制  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **5**  
   
@@ -109,9 +113,9 @@ C.基于IP地址授予访问权限
   
 D.使用预定义的组策略  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **6**  
   
@@ -125,9 +129,9 @@ C.它提高了数据中心的物理安全性
   
 D.它消除了定期安全审计的需要  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **7**  
   
@@ -141,9 +145,9 @@ C. 虚拟私人网络（VPN）
   
 D.防火墙  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **8**  
   
@@ -158,9 +162,9 @@ C.增强容器与主机操作系统的隔离
   
 D.提高依赖项漏洞的早期检测和修复  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **9**  
   
@@ -174,9 +178,9 @@ C. 数据严格按照表格和行进行结构化
   
 D.更适合小规模应用  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **10**  
   
@@ -191,9 +195,9 @@ C.优先分配带宽
   
 D.实施强大的访问控制  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **11**  
   
@@ -208,9 +212,9 @@ C.全部读取访问，无需审批过程
   
 D.限制为日志事件，供事件分析使用  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **12**  
   
@@ -224,9 +228,9 @@ C.强制执行最小权限原则
   
 D.严格的访问控制  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicDKBRSYSIOmaUTyXy3lJQ5iaN66KnbFaHVVqdj0icksiarFcXiczZOCC02A/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
   
 **答案解析**  
@@ -266,7 +270,7 @@ D.严格的访问控制
   
 第十二题答案&解析：选项C,最小权限原则严格限制用户的访问权限，仅限于其任务所需的内容，从而减少潜在滥用或泄露的风险。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/Atw1J8F68p54meTLico4LbTwIXYJe5zqicBX0GgR6DNhhrnDQgExpLz6tE38Q82HFcjyAuo2xrmxqicA8vicpr3cZw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
   
 **CCSKv5首期班报名入口**  
