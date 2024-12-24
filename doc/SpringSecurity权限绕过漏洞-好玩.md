@@ -1,5 +1,5 @@
 #  SpringSecurity权限绕过漏洞-好玩   
-原创 A1xxNy  猎洞时刻   2024-12-17 02:34  
+原创 A1xxNy  猎洞时刻   2024-12-24 13:44  
   
 ## 一、spring security 简介  
   
@@ -134,20 +134,12 @@ regexMatchers 配置认证绕过
   
 代码部分解释：  
 1. .regexMatchers("/admin").access("hasRole('ADMIN')")  
--     - 这条规则要求访问/admin  
-路径的请求必须具有ADMIN  
-角色。  
-  
+-   
 - 这条规则要求访问/admin  
 路径的请求必须具有ADMIN  
 角色。  
 1. .antMatchers("/**").access("anonymous")  
--     - 这条规则允许所有请求通过，**不需要身份验证**  
-，即匿名用户可以访问所有路径。  
-    - anonymous  
-  
-允许未登录的用户访问所有路径，这意味着没有进行身份验证的用户也能访问所有的请求。  
-  
+-   
 - 这条规则允许所有请求通过，**不需要身份验证**  
 ，即匿名用户可以访问所有路径。  
 - anonymous  

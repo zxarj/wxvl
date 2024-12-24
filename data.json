@@ -2005,5 +2005,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502682&idx=1&sn=83e2cebbdeddd336724d291651d2bc51": "Adobe ColdFusion 路径遍历漏洞(CVE-2024-53961)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489351&idx=1&sn=01778ca696e485c04d2862adb19bfa8c": "【漏洞预警】Apache Hive&Spark信息泄露漏洞（CVE-2024-23945）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500430&idx=2&sn=51e64cf96ac475e77bba565a6f15c133": "【漏洞通告】Adobe ColdFusion路径遍历漏洞（CVE-2024-53961）",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500430&idx=3&sn=27e75fa3a6f951dd60a96f3f4b20cdc9": "【漏洞通告】Apache Hive & Spark信息泄露漏洞（CVE-2024-23945）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500430&idx=3&sn=27e75fa3a6f951dd60a96f3f4b20cdc9": "【漏洞通告】Apache Hive & Spark信息泄露漏洞（CVE-2024-23945）",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494824&idx=1&sn=b03003ad6787b8b285ca4e469940cf87": "Apache Tomcat远程代码执行漏洞（CVE-2024-56337）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486291&idx=2&sn=e7d12cbe52353178dcc3270259a41f7b": "SpringSecurity权限绕过漏洞-好玩",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247485993&idx=1&sn=dd9e46b807f5bd2742162658819f983c": "Burpsuite存储桶配置不当漏洞检测插件 - BucketVulTools",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487986&idx=1&sn=a88b5191db732c85f0b1e8f66e36f6da": "大华DSS 系统attachment_downloadAtt.action存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649166901&idx=1&sn=d6ba83a2fbc5306817e6e67072c261dc": "揭秘最为知名的黑客工具之一：Exploit-DB（开源的漏洞数据库）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310503&idx=2&sn=1ebf51f286f2b68c54b3628d8f84a6d4": "Adobe最新漏洞被披露，已有PoC代码流出",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247495498&idx=1&sn=9283e907b59aeac0ee59de44d0038e89": "“AI+Security”系列第4期（一）之“洞” 见未来：AI 驱动的漏洞挖掘新范式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523973&idx=1&sn=328a8278946c6ddc659d707dda812940": "【漏洞通告】Adobe ColdFusion任意文件读取漏洞(CVE-2024-53961)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247487964&idx=1&sn=ddd91046b72e8c7335e0fb5ee0768853": "小皮 Windows web 面板漏洞详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488008&idx=1&sn=983f22455f1e1149fbb51982dc4afa30": "直播倒计时2天：网安人做好职业规划之「如何持续保持职业竞争力」"
 }
