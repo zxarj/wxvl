@@ -2000,5 +2000,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526417&idx=1&sn=5d19b7fd81e7e92ff3cca973a60ccd22": "CVE-2024-56337：Apache Tomcat 修补关键 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502001&idx=1&sn=9ee9dbe3b289e181b228325a53fb8cfe": "B站自研动画视频生成模型全链路技术报告",
     "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614788&idx=1&sn=103b63a5b448cad699cc6cf32f1cdb5a": "一文理解条件竞争漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488285&idx=1&sn=97653bb5fd6a2d661776be1026799921": "【首发 1day】WordPress File Upload 插件存在前台任意文件读取漏洞(CVE-2024-9047)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488285&idx=1&sn=97653bb5fd6a2d661776be1026799921": "【首发 1day】WordPress File Upload 插件存在前台任意文件读取漏洞(CVE-2024-9047)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490137&idx=1&sn=78576f52ebabdecdd02f55dabd2c8688": "Apache Tomcat 漏洞 CVE-2024-56337 导致服务器遭受 RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502682&idx=1&sn=83e2cebbdeddd336724d291651d2bc51": "Adobe ColdFusion 路径遍历漏洞(CVE-2024-53961)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489351&idx=1&sn=01778ca696e485c04d2862adb19bfa8c": "【漏洞预警】Apache Hive&Spark信息泄露漏洞（CVE-2024-23945）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500430&idx=2&sn=51e64cf96ac475e77bba565a6f15c133": "【漏洞通告】Adobe ColdFusion路径遍历漏洞（CVE-2024-53961）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500430&idx=3&sn=27e75fa3a6f951dd60a96f3f4b20cdc9": "【漏洞通告】Apache Hive & Spark信息泄露漏洞（CVE-2024-23945）"
 }
