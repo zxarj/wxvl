@@ -1964,5 +1964,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247505377&idx=1&sn=8775c6c4e8a60dde7049562e2aeec313": "每周网安资讯 （12.17-12.23）|Apple多款产品存在漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517803&idx=1&sn=bbf1338350e2628431ec7659eb014097": "蓝凌EKP V16 未授权SQL注入漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499057&idx=1&sn=a4a5cfad638b65d4c903edb3115ea230": "远程代码执行漏洞检测利用工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517735&idx=1&sn=7d8c311aaec65b40784ae780af73519b": "漏洞公开——从弱口令到通杀"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517735&idx=1&sn=7d8c311aaec65b40784ae780af73519b": "漏洞公开——从弱口令到通杀",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247561298&idx=1&sn=3cc8bfff2eeb748094f92f4be51ae12a": "附下载！炼石参编《多方数据共享服务数据安全技术框架》标准发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489149&idx=1&sn=39f2e5f02dee35d38a179723aa7aed1a": "【EDU】勤云科技期刊采编CMS存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515310&idx=1&sn=0d5a90a6415efced680b61d90b5d0c8c": "Bazaar v1.4.3 任意文件读取漏洞(CVE-2024-40348)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515310&idx=2&sn=56e4be8036c18c800185e9bb1a7dc78c": "渗透测试 -- 系统漏洞扫描",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489345&idx=1&sn=91726b817300dc5b41e7c6a25ef449d4": "【漏洞预警】Poppler越界读取漏洞(CVE-2024-56378)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523969&idx=1&sn=b096f169d52f79ead83a7f4899282a8f": "【漏洞通告】Craft CMS 远程代码执行漏洞(CVE-2024-56145)"
 }
