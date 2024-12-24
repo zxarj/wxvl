@@ -1991,5 +1991,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491825&idx=1&sn=3f17b8321f3d7a18c621a9631b58033f": "漏洞预警 | CyberPanel命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491825&idx=2&sn=10017681ee52f6f356351fc448cb1d45": "漏洞预警 | SitecoreCMS任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491825&idx=3&sn=2ea9dc185f5490c84245d06a73f4e9fe": "漏洞预警 | 中科网威anysec安全网关远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509941&idx=1&sn=2fc68474fecf59e0faacac6a6a7c79c8": "在NAS中部署Jellyfin 拥有自己的影院"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247509941&idx=1&sn=2fc68474fecf59e0faacac6a6a7c79c8": "在NAS中部署Jellyfin 拥有自己的影院",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502670&idx=1&sn=479d015990e5c63cf38d46824cc7a6d5&chksm=fe79efd6c90e66c0316c6f9d4122e6c35359545aa816b07ec0b92c866870421e8eda95754a0d&scene=58&subscene=0": "安全热点周报：Windows 内核漏洞现被利用来获取系统权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxNTMzNw==&mid=2247484054&idx=1&sn=fe0f59eddecc373a8c0f4f6e0f530973": "dedecms织梦任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493396&idx=4&sn=cb28d670614d1ebf375025ab2f3a0c36": "【漏洞预警】CVE-2024-45387",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493396&idx=5&sn=cf01d14f914941546541b6a0a2f5abec": "Adobe 警告 ColdFusion 存在严重漏洞，并且 PoC 已流出",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486477&idx=1&sn=b867e1f057d49e2a34b8de245f66d834": "「漏洞复现」方正畅享全媒体新闻采编系统 reportCenter.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526417&idx=1&sn=5d19b7fd81e7e92ff3cca973a60ccd22": "CVE-2024-56337：Apache Tomcat 修补关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502001&idx=1&sn=9ee9dbe3b289e181b228325a53fb8cfe": "B站自研动画视频生成模型全链路技术报告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614788&idx=1&sn=103b63a5b448cad699cc6cf32f1cdb5a": "一文理解条件竞争漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488285&idx=1&sn=97653bb5fd6a2d661776be1026799921": "【首发 1day】WordPress File Upload 插件存在前台任意文件读取漏洞(CVE-2024-9047)"
 }
