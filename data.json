@@ -2079,5 +2079,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488110&idx=1&sn=67048c20f7a099f13195d19e8a086c93": "协众OA checkLoginQrCode接口 SQL注入漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzkyMTY1NDc2OA==&mid=2247487244&idx=1&sn=5011bd862eae6337a04f9e1673c7a184": "【漏洞文字】博斯外贸管理软件 SQL注入",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488801&idx=1&sn=60be4d8cff8f2bbedf73bf54fe8bf3e0": "【漏洞通告】Adobe ColdFusion任意文件读取漏洞（CVE-2024-53961）",
-    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484865&idx=1&sn=4c2f9b81123b4f38c3b17528a64f250d": "【漏洞复现】CVE-2024-10400"
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484865&idx=1&sn=4c2f9b81123b4f38c3b17528a64f250d": "【漏洞复现】CVE-2024-10400",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247506323&idx=1&sn=51d7b829c95d2414fab4e9beab5686c8": "Discord爆\"幽灵\"漏洞存在隐私泄漏风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496677&idx=1&sn=3606ef03556ff457f835eecc77c528fe": "获取$1600赏金的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTE0NTg4OQ==&mid=2247484051&idx=2&sn=8439fbc0ab813be475d7d9d211e7ae16": "2024 年七大零日漏洞利用趋势",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247617922&idx=3&sn=d76ead41998a71a89c38e9dab64a185d": "扩展 SAE J1939 的攻击场景：传输协议中已建立和新的漏洞的综合分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489359&idx=1&sn=7d1d4163125cfb41ce639e41c93b675a": "【漏洞预警】Apache MINA反序列化远程代码执行漏洞（CVE-2024-52046）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489359&idx=2&sn=539ab9151135b08415e5c6bd4fbe0887": "【漏洞预警】Adob​​e ColdFusion路径遍历漏洞（CVE-2024-53961）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486490&idx=1&sn=7e07e6196a70d8da4e77b7d08acf255a": "「漏洞复现」WordPress File Upload 插件 任意文件读取漏洞(CVE-2024-9047)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247514556&idx=1&sn=a10e80238c91658489ebe6cc8657315c": "网安瞭望台第18期：警惕新型攻击利用Windows Defender绕过终端检测、CVE-2024-50379 漏洞利用工具分享",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633341&idx=4&sn=e0b56625be7870c3dc28ab530dc4f4a7": "代运维电子政务数据库存在漏洞，浙江某软件厂商被罚款",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247488673&idx=1&sn=7e062376c9801c6926c6dffad21b6147": "工具 | xxl-jobExploitGUI",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500463&idx=2&sn=8797a9788659c15836d029b770e07bb5": "【漏洞通告】Apache MINA反序列化远程代码执行漏洞（CVE-2024-52046）"
 }
