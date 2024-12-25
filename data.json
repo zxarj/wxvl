@@ -2090,5 +2090,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247514556&idx=1&sn=a10e80238c91658489ebe6cc8657315c": "网安瞭望台第18期：警惕新型攻击利用Windows Defender绕过终端检测、CVE-2024-50379 漏洞利用工具分享",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633341&idx=4&sn=e0b56625be7870c3dc28ab530dc4f4a7": "代运维电子政务数据库存在漏洞，浙江某软件厂商被罚款",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247488673&idx=1&sn=7e062376c9801c6926c6dffad21b6147": "工具 | xxl-jobExploitGUI",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500463&idx=2&sn=8797a9788659c15836d029b770e07bb5": "【漏洞通告】Apache MINA反序列化远程代码执行漏洞（CVE-2024-52046）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500463&idx=2&sn=8797a9788659c15836d029b770e07bb5": "【漏洞通告】Apache MINA反序列化远程代码执行漏洞（CVE-2024-52046）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489612&idx=1&sn=c5e9cbdadaf86d1494d0ad0e20de258a": "Nuclei-Scan分布式漏洞扫描平台-可联动 AssetsDetectAPI 资产搜集|漏洞探测"
 }
