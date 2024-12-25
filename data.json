@@ -2065,5 +2065,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484506&idx=1&sn=4e8642ae5fb5ac56155c85575660f234": "Oracle WebLogic Server反序列化漏洞(CVE-2024-21216)",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580423&idx=1&sn=4a44563ed7ec0aafc5aaa48302756b22": "勒索软件攻击中利用了关键的 Cleo 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113391&idx=1&sn=f783ade6d7910acd71c8cd82c69a1c59": "红队如何暴露人工智能模型中的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485277&idx=1&sn=d9ca6d53bc55584c08aa60bc0c805df1": "Node.js 严重漏洞使数百万系统面临 RCE 攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485277&idx=1&sn=d9ca6d53bc55584c08aa60bc0c805df1": "Node.js 严重漏洞使数百万系统面临 RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094434&idx=2&sn=61f063fdf6d46e3c1b85a02e8785785f": "Adobe最新漏洞被披露，已有PoC代码流出",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066932&idx=4&sn=90071983b67d793ccd950d077faa76c0": "【安全圈】僵尸网络利用漏洞攻击网络录像机及TP-Link路由器",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513353&idx=1&sn=cc572d3391797a15aa66590d70d0ac96": "警惕！2024年全球零日漏洞利用呈现七大趋势",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513353&idx=2&sn=2e9b4bf47922e34e7c38f4143394ae0d": "代运维电子政务数据库存在漏洞，浙江某软件厂商被罚款",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521893&idx=1&sn=867f98595849107577a98fcaf043a177": "Apache Tomcat 漏洞导致服务器易受RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526433&idx=2&sn=9734352beed4645fcdc599733e607e22": "探索 NASA CryptoLib 的 SDLS 实现中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484383&idx=1&sn=aac763c4a87da3c56823e7cf08d71ac9": "第十八期 · 安钥®「漏洞处置标准作业程序（SOP）」征文启示",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484383&idx=2&sn=da1c094281f3ad7ef7bedbcde6056425": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第十五期",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587767&idx=3&sn=8d01b37f88555c9fb0dc004f40145942": "欢迎报名！系统0day安全-二进制漏洞攻防（第4期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247552595&idx=2&sn=9a57fa4c2a8631ff49dc9aa2b6ce822c": "【免费领】社会工程之解密安全体系中的人性漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488110&idx=1&sn=67048c20f7a099f13195d19e8a086c93": "协众OA checkLoginQrCode接口 SQL注入漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTY1NDc2OA==&mid=2247487244&idx=1&sn=5011bd862eae6337a04f9e1673c7a184": "【漏洞文字】博斯外贸管理软件 SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488801&idx=1&sn=60be4d8cff8f2bbedf73bf54fe8bf3e0": "【漏洞通告】Adobe ColdFusion任意文件读取漏洞（CVE-2024-53961）",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484865&idx=1&sn=4c2f9b81123b4f38c3b17528a64f250d": "【漏洞复现】CVE-2024-10400"
 }
