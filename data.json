@@ -2147,5 +2147,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513360&idx=2&sn=d8aff409483c58eb180c3a8fbbc1b6b6": "锐捷云管理平台曝严重漏洞：可从云端劫持WiFi热点",
     "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247483951&idx=1&sn=52e79cafd89081ca2eb5029d5f800d09": "从SRC漏洞挖掘到红队综合利用的思路转变",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247597059&idx=1&sn=8d38e690abab254d31724f5b79e651e5": "基于UEBA的零信任安全体系架构设计与实现",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489908&idx=1&sn=6230cac64468fc70cd66f2e69819825a": "易宝OA GetUDEFStreamID SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489908&idx=1&sn=6230cac64468fc70cd66f2e69819825a": "易宝OA GetUDEFStreamID SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499080&idx=1&sn=a05030e04b4a455ec33fa46b339296c2": "WordPress File Upload插件任意文件读取漏洞（CVE-2024-9047）批量检测脚本",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499080&idx=2&sn=a05e54e238c5cc7a609810fbdb5e2379": "渗透测试 -- Waf绕过补充和其他漏洞和代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712138&idx=1&sn=b9cca457700cad5e6c2058b54a51f37b": "Jenkins漏洞利用精华总结",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247487999&idx=1&sn=818f160852ba140400b2b152252b7d9d": "蓝凌EKP系统thirdImSyncForKKWebService接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489364&idx=1&sn=08c738c76121f332d16238129157fa32": "【漏洞预警】libxml2 XML外部实体注入漏洞（CVE-2024-40896）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486119&idx=1&sn=55695ba688dc3608b64cb12ead2b3353": "D-LINK DIR-815多次溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517892&idx=1&sn=25d86eb632264e257c289a39ce50518b": "cnvd通用型漏洞挖掘思路-从逻辑漏洞到拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489232&idx=1&sn=d7896892a6a288a20cf56f017ac79774": "一个Nmap命令扫出企业漏洞？资深黑客总结的4大扫描神器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521906&idx=1&sn=9cb8ea9b9dbfb2a32eec80f9973d8cf1": "Apache Traffic Control存在严重的SQL注入漏洞，可在数据库中执行任意命令",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486504&idx=1&sn=11a0c71bf994213bb40cd178a40c36a7": "「漏洞复现」赛诸葛数字化智能中台系统 login SQL注入漏洞"
 }
