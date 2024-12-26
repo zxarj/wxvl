@@ -2127,5 +2127,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793640&idx=3&sn=4c01c7f9ccadb39363f8239a828df037": "Apache Traffic Control 中的严重 SQL 注入漏洞 CVSS 评分为 9.9",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486637&idx=1&sn=368de1984a108e85cc78222c85b3918f": "分享最近攻防演练HVV漏洞复盘",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486374&idx=1&sn=011d3e9ddd9452107935b0384ba90d78": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247508963&idx=1&sn=fbb166b6457c9337fde785adf0fbad39": "网络勒索：技术之外，“人”为漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247508963&idx=1&sn=fbb166b6457c9337fde785adf0fbad39": "网络勒索：技术之外，“人”为漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587767&idx=3&sn=8d01b37f88555c9fb0dc004f40145942&chksm=b18c22fd86fbabeb78c1be0cfd78963697351aac1c88b9d6a582d594e7deac457ecb238d66a7&scene=58&subscene=0": "欢迎报名！系统0day安全-二进制漏洞攻防（第4期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495023&idx=1&sn=ca560627e8512fc6acbf827258d5d238": "4F级民航机场如何完善实战能力建设？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485020&idx=1&sn=8c8ad3015e570c916b4cbfb180a22303": "工具集：EZ【多功能跨平台综合漏洞扫描器】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488354&idx=1&sn=f324f79a395aabaf1272bcd76b686fe3": "【工具分享】超好用Nuclei 图形化GUI管理工具+14w poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247537880&idx=2&sn=e5d4a9c8e07347812e6399622132ef42": "Node.js 严重漏洞使数百万系统面临 RCE 攻击"
 }
