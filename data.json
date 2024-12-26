@@ -2132,5 +2132,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495023&idx=1&sn=ca560627e8512fc6acbf827258d5d238": "4F级民航机场如何完善实战能力建设？",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485020&idx=1&sn=8c8ad3015e570c916b4cbfb180a22303": "工具集：EZ【多功能跨平台综合漏洞扫描器】",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488354&idx=1&sn=f324f79a395aabaf1272bcd76b686fe3": "【工具分享】超好用Nuclei 图形化GUI管理工具+14w poc",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247537880&idx=2&sn=e5d4a9c8e07347812e6399622132ef42": "Node.js 严重漏洞使数百万系统面临 RCE 攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247537880&idx=2&sn=e5d4a9c8e07347812e6399622132ef42": "Node.js 严重漏洞使数百万系统面临 RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310663&idx=1&sn=7076305ec46f30810b825ea61d11d978": "9.9分的SQL注入漏洞，可获admin权限",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649870474&idx=1&sn=60782d890bdceb6bf3712c5474329e54": "知道创宇与《中国企业报》集团深入交流，共谋数字安全合作新篇章",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247541162&idx=1&sn=427b98d0b2a5f7dbf683f15d22824546": "大众车机系统现漏洞：黑客能获取GPS等隐私，已修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247495540&idx=1&sn=26e1bae6e77332b60b973385539b9d8e": "“AI+Security”系列第4期（三）：基于大模型的漏洞挖掘技术与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500510&idx=2&sn=a567741e50ded3bcaa476cd8205e0e51": "【漏洞通告】libxml2 XML外部实体注入漏洞（CVE-2024-40896）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587787&idx=1&sn=41d2b407676f2bc7e7673d21eaf675a4": "PWN入门：三打竞态条件漏洞-TOCTOU",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587787&idx=3&sn=21252886bea96ee3843d9aaf18ecb293": "系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247490138&idx=1&sn=244e20d29e696d95b79ea4f5883e507e": "创宇安全智脑 | 泛微e-cology 9 FileDownloadLocation SQL 注入等69个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247624078&idx=1&sn=70b1f90254305872efacca1d5f7eb2ac": "奇安信两方案荣膺中国信通院“磐安”优秀案例",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyOTk0NA==&mid=2247488497&idx=1&sn=5ae709cbefe82d4985910480bac356ff": "操作系统主机安全测试：脆弱点与漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493479&idx=1&sn=2383f9b4d9ba05bd1cbb2eddd77265a6": "【PoC】CVE-2024-50379 (9.8）Tomcat竞态条件漏洞深度分析及 PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513360&idx=2&sn=d8aff409483c58eb180c3a8fbbc1b6b6": "锐捷云管理平台曝严重漏洞：可从云端劫持WiFi热点",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTYzMzY3MQ==&mid=2247483951&idx=1&sn=52e79cafd89081ca2eb5029d5f800d09": "从SRC漏洞挖掘到红队综合利用的思路转变",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247597059&idx=1&sn=8d38e690abab254d31724f5b79e651e5": "基于UEBA的零信任安全体系架构设计与实现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489908&idx=1&sn=6230cac64468fc70cd66f2e69819825a": "易宝OA GetUDEFStreamID SQL注入漏洞"
 }
