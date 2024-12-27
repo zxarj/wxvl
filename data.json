@@ -2157,5 +2157,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247517892&idx=1&sn=25d86eb632264e257c289a39ce50518b": "cnvd通用型漏洞挖掘思路-从逻辑漏洞到拒绝服务漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489232&idx=1&sn=d7896892a6a288a20cf56f017ac79774": "一个Nmap命令扫出企业漏洞？资深黑客总结的4大扫描神器",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521906&idx=1&sn=9cb8ea9b9dbfb2a32eec80f9973d8cf1": "Apache Traffic Control存在严重的SQL注入漏洞，可在数据库中执行任意命令",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486504&idx=1&sn=11a0c71bf994213bb40cd178a40c36a7": "「漏洞复现」赛诸葛数字化智能中台系统 login SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486504&idx=1&sn=11a0c71bf994213bb40cd178a40c36a7": "「漏洞复现」赛诸葛数字化智能中台系统 login SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491878&idx=1&sn=91ecf220e0a03407099c83ab6137f11b": "漏洞预警 | BeyondTrust RS & PRA命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491878&idx=2&sn=e30356365be934c0fdb7bb3f94109abb": "漏洞预警 | 昂捷ERP任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491878&idx=3&sn=061c9046b9bb714b65ec8dc6e130c8c6": "漏洞预警 | 云供应链管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525366&idx=1&sn=5d8748115f03862342d067e1236bbbe8": "9.9分的SQL注入漏洞，可获admin权限！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526461&idx=2&sn=1db82b48c4a02c7ddf4e72990b74903b": "CVE-2024-50379 Tomcat 漏洞深度分析及 POC（严重性 9.8）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493057&idx=1&sn=1edb464ca8f33943031448334225d5f4": "Apache修复了Apache Traffic Control中的一个严重SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493057&idx=5&sn=b77285035bf6da7476846d148614e237": "Adobe已经知晓ColdFusion漏洞CVE-2024-53961存在已知的概念验证（PoC）利用代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489621&idx=1&sn=24fc522d7b044da1b0a0d1cb7ca5781d": "最新Nacos 综合漏洞利用检测工具12月更新|漏洞探测"
 }
