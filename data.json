@@ -2193,5 +2193,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486516&idx=1&sn=df2522520c1edd07b9c74c22088e3d91": "「漏洞复现」时空WMS-仓储精细化管理系统 SaveCrash.ashx 文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488369&idx=1&sn=822c9f77cbfe6f3b6da9d6c84fb874ef": "【1day】WordPress Elementor Page Builder 插件任意文件读取漏洞(CVE-2024-9935)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650623055&idx=1&sn=d45d2b3945c54d902f46c2a270eb2fd6": "且看安恒零信任如何携手钉钉，成为客户最佳拍档",
-    "https://mp.weixin.qq.com/s?__biz=MzIyMjU3MDg3Mw==&mid=2247489039&idx=1&sn=0551c5431032844d56b7cef7764aa2d5": "等级保护 | 等保要求及产品清单"
+    "https://mp.weixin.qq.com/s?__biz=MzIyMjU3MDg3Mw==&mid=2247489039&idx=1&sn=0551c5431032844d56b7cef7764aa2d5": "等级保护 | 等保要求及产品清单",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094453&idx=2&sn=717941fdf30b9ec5c0105e34f7d39995": "锐捷云管理平台曝严重漏洞：可从云端劫持WiFi热点",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066971&idx=2&sn=f33a68d33d05344d8693a65a70f992ef": "【安全圈】Apache Traffic Control 中的严重 SQL 注入漏洞 CVSS 评级为 9.9 — 立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTY5NDQyMw==&mid=2247525362&idx=1&sn=c4deb862cf6c20288271d0e0f5720331": "Qemu重入漏洞梳理 & CVE-2024-3446分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587796&idx=2&sn=206238f85596e153d2d6f3c8f6c40ced": "曝9.9分高危SQL注入漏洞！Apache Traffic Control项目遭遇严重安全危机",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587796&idx=3&sn=df30dee10bc9d3568d5c5d215558f7b2": "惊喜开班！系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494002&idx=1&sn=c0c252a716bcd167e7afd6500d3ad00c": "【CVE-2024-1609】OPPO商城APP存在Webview组件权限提升漏洞致谢公告",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247492235&idx=1&sn=77d3d93dbca1231d18edeb1486dacaaa": "回看往期ISC2网络研讨会，提升网络安全技能并获取CPE学分",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247569190&idx=2&sn=f190848ca57c17c1a886af519fc3af4e": "网络安全专家爱用的逆向工具 TOP 9",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489926&idx=1&sn=9366de1ec2a50af9183770037ca1cc41": "Mitel MiCollab 企业协作平台 任意文件读取漏洞(CVE-2024-41713)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247486460&idx=1&sn=612a1415f505da29609e45c087825d0c": "价值$3000的Google Slides IDOR漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489632&idx=1&sn=ef621ff598c100339f2b04e8cc9fe31f": "EDU-Kesion科汛开发的在线教育建站系统存在SQL注入漏洞 (大量存在含POC新接口) | 漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500618&idx=1&sn=4c4a94d321a4f44795de9c7ec943e774": "价值$3000的Google Slides IDOR漏洞"
 }
