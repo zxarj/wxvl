@@ -2205,5 +2205,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489926&idx=1&sn=9366de1ec2a50af9183770037ca1cc41": "Mitel MiCollab 企业协作平台 任意文件读取漏洞(CVE-2024-41713)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247486460&idx=1&sn=612a1415f505da29609e45c087825d0c": "价值$3000的Google Slides IDOR漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489632&idx=1&sn=ef621ff598c100339f2b04e8cc9fe31f": "EDU-Kesion科汛开发的在线教育建站系统存在SQL注入漏洞 (大量存在含POC新接口) | 漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500618&idx=1&sn=4c4a94d321a4f44795de9c7ec943e774": "价值$3000的Google Slides IDOR漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500618&idx=1&sn=4c4a94d321a4f44795de9c7ec943e774": "价值$3000的Google Slides IDOR漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489370&idx=1&sn=df60557c17a6e43934ed815009cc3408": "【漏洞预警】Apache HugeGraph-Server JWT 权限绕过漏洞（CVE-2024-43441）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626407&idx=1&sn=03d7a2320607f02314315d191da7b1a4": "网安未死，不慌烧纸",
+    "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247491382&idx=1&sn=aaabee5428c20d4501fe9e8a126d35c0": "利用AI辅助测试WEB漏洞"
 }
