@@ -1,5 +1,5 @@
 #  “AI+Security”系列第4期（三）：基于大模型的漏洞挖掘技术与实践   
-原创 知识分享者  安全极客   2024-12-26 10:08  
+ 奇安信技术研究院   2024-12-27 06:41  
   
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/vWuBpewLia8QmTLhv0jB8GS6Wtic69pG44V8Gib7ccD3FZolnOVkdOPafA3YULibw9S5AEkdO8sstRLGNFVDj7SgRg/640?wx_fmt=jpeg&from=appmsg "")  
   
