@@ -2225,5 +2225,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486705&idx=1&sn=860b4533ad361eafd6ebae77dafdbc7e": "分享Fastjson反序列化漏洞原理+漏洞复现+实战案例+POC收集",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793667&idx=3&sn=b07eadcd820da3a03e300e93d797e389": "Apache MINA CVE-2024-52046：满分漏洞可通过不安全的序列化实现 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491905&idx=1&sn=666f023e62a2a068803988c773b19572": "漏洞预警 | SeaCMS海洋影视管理系统远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489257&idx=1&sn=0525d98e188d10ddf89b58d84381d1f0": "【漏洞复现】卓软计量业务管理平台image存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489257&idx=1&sn=0525d98e188d10ddf89b58d84381d1f0": "【漏洞复现】卓软计量业务管理平台image存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526497&idx=1&sn=0635c9355f7941678e7717b787f1a91b": "Delinea 协议处理程序 - 通过更新进程执行远程代码（CVE-2024-12908）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526497&idx=3&sn=caf31731e63d13bd33e4fc65aa232bf0": "通过 X-Forwarded-Host 泄露密码重置令牌",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605884&idx=2&sn=8f48fa60078b08ca19464103b73f1abf": "2024年零日漏洞利用七大趋势"
 }
