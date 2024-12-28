@@ -2228,5 +2228,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489257&idx=1&sn=0525d98e188d10ddf89b58d84381d1f0": "【漏洞复现】卓软计量业务管理平台image存在任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526497&idx=1&sn=0635c9355f7941678e7717b787f1a91b": "Delinea 协议处理程序 - 通过更新进程执行远程代码（CVE-2024-12908）",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526497&idx=3&sn=caf31731e63d13bd33e4fc65aa232bf0": "通过 X-Forwarded-Host 泄露密码重置令牌",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605884&idx=2&sn=8f48fa60078b08ca19464103b73f1abf": "2024年零日漏洞利用七大趋势"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650605884&idx=2&sn=8f48fa60078b08ca19464103b73f1abf": "2024年零日漏洞利用七大趋势",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485759&idx=1&sn=366d391e8a5a07d0b0ac03f6640bc881": "CVE-2024-53961｜Adobe ColdFusion路径遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485759&idx=2&sn=96f564df935b660642e688cdd6f747c1": "CVE-2024-56145｜Craft CMS远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485759&idx=3&sn=35fb3858f8e435c78c6ca1bfdf176f42": "CVE-2024-55461｜SeaCMS海洋影视管理系统远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247494700&idx=1&sn=e6450fbdecaf5a1c5ea3c50dbce5503c": "自学漏洞技术90%的人都错了！"
 }
