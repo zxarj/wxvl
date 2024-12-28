@@ -1,16 +1,7 @@
 #  PostExpKit插件使用常见问题11-18   
-原创 3had0w  潇湘信安   2024-12-25 00:31  
+ TtTeam   2024-12-28 16:00  
   
-<table><tbody><tr><td width="557" valign="top" height="62" style="word-break: break-all;"><section style="margin-bottom: 15px;"><span style="font-size: 14px;"><span style="color: rgb(217, 33, 66);"><strong>声明：</strong></span>该公众号大部分文章来自作者日常学习笔记，也有部分文章是经过作者授权和其他公众号白名单转载，未经授权，严禁转载，如需转载，联系开白。</span></section><section><span style="font-size: 14px;">请勿利用文章内的相关技术从事非法测试，如因此产生的一切不良后果与文章作者和本公众号无关。</span></section></td></tr></tbody></table>  
-  
-现在只对常读和星标的公众号才展示大图推送，建议大家把  
-潇湘信安  
-“  
-设为星标  
-”，  
-否则可能看不到了  
-！  
-  
+<table><tbody><tr><td data-colwidth="557" width="557" valign="top" style="word-break: break-all;"><section style="margin-bottom: 15px;"><span style="font-size: 14px;"><span style="color: rgb(217, 33, 66);"><strong><span leaf="">声明：</span></strong></span><span leaf="">该公众号大部分文章来自作者日常学习笔记，也有部分文章是经过作者授权和其他公众号白名单转载，未经授权，严禁转载，如需转载，联系开白。</span></span></section><section><span style="font-size: 14px;"><span leaf="">请勿利用文章内的相关技术从事非法测试，如因此产生的一切不良后果与文章作者和本公众号无关。</span></span></section></td></tr></tbody></table>  
   
 **前言**  
   
@@ -75,12 +66,13 @@ beacon> spawn x64
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V9cAJL8GPrGXOBDoN36c3e78WKz8YEMFrvxJSYuUaA6Y4WQvPpHuGqdg/640?wx_fmt=png&from=appmsg "")  
   
   
-**注：**这里我为了方便测试用的脚本上线，实战中遇到Windows Defender时一般是不能使用ASP/.NET脚本上线的，因为内存会查杀（访问500报错），遇到CLR  
+**注：**  
+这里我为了方便测试用的脚本上线，实战中遇到Windows Defender时一般是不能使用ASP/.NET脚本上线的，因为内存会查杀（访问500报错），遇到CLR  
 版本问题时可参考以上解决办法。  
 ```
-[-] [-] Process refusing to load v2.0.50727 CLR version.  Try running an assembly that requires a differnt CLR version.
+[-] [-] Process refusing to load v2.0.50727 CLR version.  Try running an assembly that requires a differnt CLR version.
 
-[-] [-] Process refusing to get runtime of v2.0.50727 CLR version.  Try running an assembly that requires a differnt CLR version.
+[-] [-] Process refusing to get runtime of v2.0.50727 CLR version.  Try running an assembly that requires a differnt CLR version.
 ```  
   
   
@@ -102,7 +94,10 @@ beacon> spawn x64
 、CVE-2024-26229  
 等其他提权exp，之前有几个师傅就成功使用CLFS  
 提过几台Win2k16+Defender+Plesk  
-虚拟主机，大家遇到类似场景时可以试试，不过得注意落地的exp需自行做免杀。我本地复现测试环境为Win11+Defender  
+虚拟主机，大家遇到类似场景时可以试试，不过得注意落地的exp需自行做免杀。  
+  
+  
+我本地复现测试环境为Win11+Defender  
 ，所以这里以CVE-2024-26229  
 为例演示，使用PostExpKit  
 插件CVE-2024-26229  
@@ -127,9 +122,12 @@ beacon> spawn x64
   
 **解决办法：**  
   
-遇到以上问题时可尝试通过这三种方法解决：**1.**不加载Profile；**2.**将Profile中的spawnto_x64  
+遇到以上问题时可尝试通过这三种方法解决：**1.**  
+不加载Profile；**2.**  
+将Profile中的spawnto_x64  
 改为一个不会退出的进程msiexec.exe  
-；**3.**使用内置命令spawnto  
+；**3.**  
+使用内置命令spawnto  
 或进程注入模块修改，如下图所示。  
 ```
 spawnto x64 C:\Windows\System32\msiexec.exe
@@ -201,12 +199,12 @@ hellcode，如下图所示。
 、PotatoThread  
 进行提权测试时会出现以下报错问题，这可能是因为低版本系统中默认没有Windows Defender，如下图所示。  
 ```
-[*] Tasked beacon to run .NET program: PrintNotifyPotato
-[*] Running inlineExecute-Assembly by (@anthemtotheego)
-[+] host called home, sent: 35575 bytes
+[*] Tasked beacon to run .NET program: PrintNotifyPotato
+[*] Running inlineExecute-Assembly by (@anthemtotheego)
+[+] host called home, sent: 35575 bytes
 [-] AmsiScanBuffer failed
 
-[-] Patching AMSI failed.  Try running without patching AMSI and using obfuscation
+[-] Patching AMSI failed.  Try running without patching AMSI and using obfuscation
 ```  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V9Dqyp9ED8ibStU9cVniazqIKec1R6c30UG2IRTrA60cwlC3S219iamTbMA/640?wx_fmt=png&from=appmsg "")  
@@ -245,7 +243,10 @@ hellcode，如下图所示。
 我们实战遇到以上场景时只能通过使用spawn  
 、inject  
 命令或者重新执行一个CobaltStrike木马获取一个新会话后再次使用InlineExecute[.NET]  
-执行.NET提权exp进行提权，如下图所示。**注：**重新生成一个新会话通过ProcessExplorer  
+执行.NET提权exp进行提权，如下图所示。  
+  
+**注：**  
+重新生成一个新会话通过ProcessExplorer  
 观察到.NET提权exp已执行成功，但还是和上边那张图一样没有执行回显，这里我们还需要exit  
 终止之前执行exp的会话，然后再次执行即可。  
   
@@ -338,7 +339,8 @@ inlineExecute-Assembly - SweetPotato（Win2k12）
   
   
   
-**注：**之前NET2.0  
+**注：**  
+之前NET2.0  
 编译的EfsPotato  
 在Win10/Win2k22  
 还会出现报错5：[x] EfsRpcOpenFileRaw failed: 5  
@@ -380,7 +382,7 @@ inlineExecute-Assembly - EfsPotato（Win10）
 插件中的EfsPotato  
 进行提权时就会出现以下报错问题，如下图所示。  
 ```
-[-] Invoke_3 on EntryPoint failed.
+[-] Invoke_3 on EntryPoint failed.
 ```  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V9z7K332vJGIcIadXMpOsnJolY1r7GwGrStP1SjcwaOytUr6NQxuohww/640?wx_fmt=png&from=appmsg "")  
@@ -426,7 +428,7 @@ inlineExecute-Assembly - EfsPotato（Win10）
 执行EfsPotato  
 可能会出现以下报错问题，其他.NET的exp可能也会，但我没有都去测试，如下图所示。  
 ```
-[-] Invoke_3 on EntryPoint failed.
+[-] Invoke_3 on EntryPoint failed.
 ```  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V9sYP3RJBIzoVm2Otlic1EW1jDB2Lo0Ujibf8WwCzicH7moTCt9YS99PIGQ/640?wx_fmt=png&from=appmsg "")  
@@ -454,7 +456,7 @@ inlineExecute-Assembly - EfsPotato（Win10）
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V9KtsIjYtmFia6iaiaqMocX3WibQIU5C7cv648b5OAmGuuvOCM60QXgkuoQg/640?wx_fmt=png&from=appmsg "")  
   
   
-**0x18 DCOMPotato[BOF]执行报错的问题**  
+**0x18 DCOMPotato[BOF]执行报错的问题**  
   
 **问题描述：**  
   
@@ -475,43 +477,4 @@ inlineExecute-Assembly - EfsPotato（Win10）
 进程下执行就不会出现上图中的报错，如下图所示。  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOcgEXunATLNwKWjVTTgj7V94gvc5YFK6qqPxGFpoiaWlBBibAjNYqWibmp2vT5vSrJAFjcQZvIkLNmoQ/640?wx_fmt=png&from=appmsg "")  
-  
-  
-**关注我们**  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOeSsicAgIUNHtMib9a69NOWXw1A7mgRqqiat1SycQ0b6e5mBqC0pVJ3oicrQnCTh4gqMGiaKUPicTsUc4Tw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
- 还在等什么？赶紧点击下方名片开始学习吧 ![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOeSsicAgIUNHtMib9a69NOWXw1A7mgRqqiat1SycQ0b6e5mBqC0pVJ3oicrQnCTh4gqMGiaKUPicTsUc4Tw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-  
-  
-  
-**知 识 星 球**  
-  
-  
-  
-仅前1-400名: 99¥，400-600名  
-: 128¥，  
-600-800名  
-: 148¥，  
-800-1000+名  
-: 168¥  
-，  
-所剩不多了...！  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/XOPdGZ2MYOdma4QtfwXXJ4w35lMtvMcogAnI5u4bWIhxq1EzXI0remsQXFk5uhv0BX4eSyzpzJGYHAybgEYeVA/640?wx_fmt=png&from=appmsg "")  
-  
-**推 荐 阅 读**  
-  
-  
-  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247499188&idx=1&sn=9ce15a0e66b2595285e544aaa0c49c24&chksm=cfa559a7f8d2d0b162f00e0c1b02c85219f2668c282b32967b2530f15051b47b21ee2855a783&scene=21#wechat_redirect)  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247496043&idx=1&sn=4daa27ade9915de6021fea1c2a21d7bc&chksm=cfa55578f8d2dc6ef887ce27215f942ec233320fa6878bc1666ce0fecb0e7f6c7f96a3ba4e2b&scene=21#wechat_redirect)  
-  
-[](http://mp.weixin.qq.com/s?__biz=Mzg4NTUwMzM1Ng==&mid=2247486327&idx=1&sn=71fc57dc96c7e3b1806993ad0a12794a&chksm=cfa6af64f8d1267259efd56edab4ad3cd43331ec53d3e029311bae1da987b2319a3cb9c0970e&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/XOPdGZ2MYOdAPjIVeN2ZahG9ibP0Y3wlfg6BO1WO7MZfo1JeW7zDWcLSTQ5Ek8zXAia5w1nMnogpbpXP6OxXXOicA/640?wx_fmt=png "")  
   
