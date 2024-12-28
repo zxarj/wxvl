@@ -2212,5 +2212,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491905&idx=2&sn=29d6474005e9f8c36a129a215602547f": "漏洞预警 | 圣乔ERP系统任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491905&idx=3&sn=ef711aefb5488a75da75a83a07fb4332": "漏洞预警 | 用友U8Cloud SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247495662&idx=1&sn=fddfa588f4eae694507d64d261b1b6ea": "国家金融监督管理总局印发《银行保险机构数据安全管理办法》",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493068&idx=1&sn=b13552bac6690f5968cc9e0a6eb6c345": "Palo Alto Networks修复了一个高危PAN-OS漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493068&idx=1&sn=b13552bac6690f5968cc9e0a6eb6c345": "Palo Alto Networks修复了一个高危PAN-OS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651206813&idx=1&sn=d845643474a7eef20e59162ac0682def&chksm=bd2cd13b8a5b582d7518212f69bcddd542d7f74f5fdfa55b27995d5114a8ee63075ac709b8a5&scene=58&subscene=0": "AI猎手：我们用大模型挖到了0day漏洞！【大模型应用实践系列三】",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587796&idx=2&sn=206238f85596e153d2d6f3c8f6c40ced&chksm=b18c221e86fbab084789482d7f7860f5df8bd2915739aaf9f0f088cff784d8a4275d5d4ab1aa&scene=58&subscene=0": "曝9.9分高危SQL注入漏洞！Apache Traffic Control项目遭遇严重安全危机",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587796&idx=3&sn=df30dee10bc9d3568d5c5d215558f7b2&chksm=b18c221e86fbab083b721e441b38e0af1347d49025ad070bdbe1b2916863c67dab92e68403f3&scene=58&subscene=0": "惊喜开班！系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521918&idx=1&sn=acf8324d4a36ec4e8d37b16375da9e75&chksm=ea94a714dde32e028400f9b194d97d8affc8b68ef4e2481b9541aa9150a157b01855d8f61440&scene=58&subscene=0": "Apache MINA 存在严重的满分漏洞，可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652066971&idx=2&sn=f33a68d33d05344d8693a65a70f992ef&chksm=f36e78dbc419f1cdcdcf32755abea904b5b856bdc3e50b4b246d6fb2c1e03efbf5eba2adf433&scene=58&subscene=0": "【安全圈】Apache Traffic Control 中的严重 SQL 注入漏洞 CVSS 评级为 9.9 — 立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494002&idx=1&sn=c0c252a716bcd167e7afd6500d3ad00c&chksm=fa78e83ecd0f612836f61b8c25e63fb35ee8ce654d92ed96b971cbcf000a11f3d8b426c4a1b8&scene=58&subscene=0": "【CVE-2024-1609】OPPO商城APP存在Webview组件权限提升漏洞致谢公告",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNjk0ODYxMA==&mid=2247487545&idx=1&sn=82701065b0b2e49d07c8800023b95016": "赛克安全本周漏洞推送（12.22-12.27）涉及国威IP数字语音系统、黄药师、企企通、快云服务器、一卡通系统漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310927&idx=2&sn=5649fe7d87c68c5f55b3586571a75803": "FreeBuf周报 | AI平台1.29T数据库裸奔；9.9分SQL注入漏洞可获admin权限",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310927&idx=3&sn=f5d4155be6237b0c3a66ac895c0755ae": "Palo Alto防火墙存在高危漏洞，触发无需交互和权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486705&idx=1&sn=860b4533ad361eafd6ebae77dafdbc7e": "分享Fastjson反序列化漏洞原理+漏洞复现+实战案例+POC收集",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793667&idx=3&sn=b07eadcd820da3a03e300e93d797e389": "Apache MINA CVE-2024-52046：满分漏洞可通过不安全的序列化实现 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491905&idx=1&sn=666f023e62a2a068803988c773b19572": "漏洞预警 | SeaCMS海洋影视管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489257&idx=1&sn=0525d98e188d10ddf89b58d84381d1f0": "【漏洞复现】卓软计量业务管理平台image存在任意文件读取漏洞"
 }
