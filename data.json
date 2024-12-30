@@ -2288,5 +2288,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247498196&idx=1&sn=1fb82a841009e926aecd957f4606117c": "全球云上数据泄露风险分析简报 （第四期）：供应链攻击致39万账户凭证泄露，MFA漏洞致多个云服务被未授权访问",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500542&idx=2&sn=3fb1b5f1c2d3aeceb976ac1a854a7356": "【漏洞通告】Apache Traffic Control SQL注入漏洞（CVE-2024-45387）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247488005&idx=1&sn=62d81de1aeddc3b12a7c5e00acfa04cb": "某小型CMS漏洞复现审计",
-    "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247527681&idx=1&sn=e77aaa7db384e40d9e8ba48f6dbe15eb": "路由器运行一段时间变慢了，有定时重启路由吗？"
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247527681&idx=1&sn=e77aaa7db384e40d9e8ba48f6dbe15eb": "路由器运行一段时间变慢了，有定时重启路由吗？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485407&idx=1&sn=a1c9e810b243555ad112f189a4ba18ad": "【最新】推特蓝V公布 7zip 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496709&idx=1&sn=4459d412d70bafeeb2be8cead320a6a7": "Springboot未授权之httptrace和logfile的实战利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526526&idx=1&sn=b40e4e0b3bfdf287bdb7d6d93a01a914": "CVE-2024-21182 - Oracle Weblogic Server 漏洞利用 PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526526&idx=2&sn=cef20dd8649aac66ad56c7106ed00265": "Krueger 是一种概念验证 (PoC) .NET 后利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486138&idx=1&sn=ea815812a6b145f0e3cff283fef7d86e": "近期 Apache Struts 2 严重漏洞开始被利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310972&idx=4&sn=eeb554ed9dff33696a967625fde4879e": "Brakeman：针对Ruby on Rails应用的静态分析安全漏洞扫描器",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491006&idx=1&sn=ae1eb85988018523b6fede2de404e828": "复测 Apache Tomcat 远程代码执行漏洞(CVE-2024-50379)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067016&idx=3&sn=8a2de7555b1f2f62a08ba91e461c72ba": "【安全圈】WPA3协议存在安全漏洞，黑客可获取WiFi密码",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247498696&idx=1&sn=fcef68c5f6b8fbcdcdedc41c75753116": "国家金融监督管理总局发布 《银行保险机构数据安全管理办法》"
 }
