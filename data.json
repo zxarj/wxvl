@@ -2297,5 +2297,10 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651310972&idx=4&sn=eeb554ed9dff33696a967625fde4879e": "Brakeman：针对Ruby on Rails应用的静态分析安全漏洞扫描器",
     "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491006&idx=1&sn=ae1eb85988018523b6fede2de404e828": "复测 Apache Tomcat 远程代码执行漏洞(CVE-2024-50379)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067016&idx=3&sn=8a2de7555b1f2f62a08ba91e461c72ba": "【安全圈】WPA3协议存在安全漏洞，黑客可获取WiFi密码",
-    "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247498696&idx=1&sn=fcef68c5f6b8fbcdcdedc41c75753116": "国家金融监督管理总局发布 《银行保险机构数据安全管理办法》"
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247498696&idx=1&sn=fcef68c5f6b8fbcdcdedc41c75753116": "国家金融监督管理总局发布 《银行保险机构数据安全管理办法》",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247517945&idx=1&sn=866df104f09aad13fccf1e26c6c78bc8": "CVE-2024-42327：Zabbix SQL注入漏洞分析漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494831&idx=1&sn=5aaadb7d61edb505bc39101bbd83d4b9": "Four-Faith 路由器pre-auth 命令注入漏洞（CVE-2024-12856）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247514568&idx=1&sn=e1ee1440e4e46b8e578d912fea737838": "网安瞭望台第19期：D-Link 路由器网页管理界面漏洞，攻击者可获取设备访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489376&idx=1&sn=c143a56e17c582e5f043c8486dacb182": "【漏洞预警】Craft CMS register_argc_argv 致模板注入代码执行漏洞（CVE-2024-56145）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653931337&idx=1&sn=b3e41a0f78748e4805b7646fb2333b05": "浙江某软件科技公司被处罚，因数据库存在安全漏洞"
 }
