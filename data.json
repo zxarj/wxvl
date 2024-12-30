@@ -2259,5 +2259,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899863&idx=1&sn=4edaf85372fe606cb8ded78b4f972a46": "警惕！新型 Mirai 僵尸网络来袭，利用未公开漏洞攻击 NVR 和路由器！",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491933&idx=1&sn=b451fb7c26eff80fc80a791f35b0f699": "漏洞预警 | 灵当CRM任意文件上传和SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491933&idx=2&sn=9a6a334bae03fa826ec5f695d14eef82": "漏洞预警 | 泛微e-cology9 SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491933&idx=3&sn=762b8a222c97692a8e610f36963bbaff": "漏洞预警 | 用友NC-Cloud SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491933&idx=3&sn=762b8a222c97692a8e610f36963bbaff": "漏洞预警 | 用友NC-Cloud SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjYwODg3Ng==&mid=2247485835&idx=1&sn=a4006b0abf897b676ebfb3f3c77e395a": "【漏洞复现】某平台-Upload-login-bypass登录绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5Njg5ODM0OQ==&mid=2247485970&idx=1&sn=9b76a2caa9f387177dd7ead1489c5aad": "漏洞分析 | Apache SkyWalking SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247504597&idx=1&sn=49f9f1550dbc1059ae35e9c00a5feacd": "一款卓越防护Web漏洞的神器",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485293&idx=1&sn=1138242da1a830b127c4b00f230940f8": "急需升级，D-Link 路由器漏洞被僵尸网络广泛用于 DDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NjMwMzI3Mg==&mid=2247500509&idx=1&sn=d879aed5a495860040dfb717434d7ee2": "【漏洞通告】某凌OA fsscCommonPortle 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247510019&idx=1&sn=ef7658d9567ef58481a322510125580f": "AJ-Report 可视化大屏漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247538057&idx=2&sn=6fdb5d26fcbcf36bb8aef6816e78a238": "警惕！2024年全球零日漏洞利用呈现七大趋势",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247485325&idx=1&sn=d766f23653897e9076fc8958bb75263c": "轻量级，免费，百万POC"
 }
