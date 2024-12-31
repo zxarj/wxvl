@@ -1,5 +1,5 @@
 #  深入浅出API测试｜搜集分析与漏洞挖掘实战   
- 迪哥讲事   2024-12-19 12:30  
+ 迪哥讲事   2024-12-31 14:30  
   
           
   
@@ -345,7 +345,6 @@ image
 如果你是一个长期主义者，欢迎加入我的知识星球，我们一起往前走，每日都会更新，精细化运营，微信识别二维码付费即可加入，如不满意，72 小时内可在 App 内无条件自助退款  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/YmmVSe19Qj5EMr3X76qdKBrhIIkBlVVyuiaiasseFZ9LqtibyKFk7gXvgTU2C2yEwKLaaqfX0DL3eoH6gTcNLJvDQ/640?wx_fmt=png&from=appmsg "")  
-  
 ## 往期回顾  
   
 [一款bp神器](http://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247495880&idx=1&sn=65d42fbff5e198509e55072674ac5283&chksm=e8a5faabdfd273bd55df8f7db3d644d3102d7382020234741e37ca29e963eace13dd17fcabdd&scene=21#wechat_redirect)  
@@ -373,14 +372,6 @@ image
   
 [漏洞赏金猎人系列-如何测试注册功能以及相关Tips](http://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486764&idx=1&sn=9f78d4c937675d76fb94de20effdeb78&chksm=e8a6074fdfd18e59126990bc3fcae300cdac492b374ad3962926092aa0074c3ee0945a31aa8a&scene=21#wechat_redirect)  
   
-  
-  
-  
-ref:  
-  
-What is mass assignment? | Tutorial & examples | Snyk Learn  
-  
-Mass Assignment - OWASP Cheat Sheet Series  
   
   
   
