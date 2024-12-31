@@ -2321,5 +2321,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491934&idx=2&sn=6758c92161888dc02cd88c72fc8d6559": "漏洞预警 | 方正全媒体采编系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491934&idx=3&sn=d94a3dfc31a0ad8f9e870fdff248dc44": "漏洞预警 | Sophos Firewall SQL注入、弱凭证和代码注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899889&idx=1&sn=6060673f25972e58339a5a40ae67e4be": "警惕！锐捷网络云平台曝严重漏洞，全球约 5 万台设备或遭远程控制！",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489326&idx=2&sn=f5d4e80d03e37a0b0a8ef61195765e7e": "【大量存在】成都和力九垠科技有限公司Common存在文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489326&idx=2&sn=f5d4e80d03e37a0b0a8ef61195765e7e": "【大量存在】成都和力九垠科技有限公司Common存在文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502696&idx=1&sn=6f6eb5c064c0d4da065fa080d6b0e4c0&chksm=fe79eff0c90e66e676138f85b2cf4c46428c0300aea29adcc230023c1d655c02018f8dec1a96&scene=58&subscene=0": "安全热点周报：黑客利用 DoS 漏洞禁用 Palo Alto Networks 防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500548&idx=2&sn=8708d95f052191d0c9e4322802d02016": "【漏洞通告】Palo Alto Networks PAN-OS拒绝服务漏洞（CVE-2024-3393）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134870&idx=1&sn=24b9e69f07ded3afd191f616b0f09d54": "踏浪逐新 峥嵘满途丨梆梆安全2024年度回顾",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247493750&idx=1&sn=322743019a204e55a45f57cb47685ea7": "通过代码审计用友获取CNVD高危证书",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDA3ODY4Ng==&mid=2247488839&idx=1&sn=a4ca0c28b1dc0c3e07a648e754121b0b": "国家密码管理局公告（第50号）丨19项密码行业标准发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503248&idx=1&sn=2f516189c6b2daf10372243ffba51d08": "雷神众测漏洞周报2024.12.23-2024.12.29",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526560&idx=3&sn=54b09d4b30d2a8b749aebb0ddbeb8e05": "CVE-2024-54819 - I Librarian 服务器端请求伪造",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526560&idx=4&sn=f3a9bdb2740228cbc942151a6713f073": "Linux 内核漏洞 CVE-2023-4147：针对权限提升缺陷的 PoC 漏洞已发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493699&idx=1&sn=49d9cfc1d5844ef6529f5b46a1e1cc19": "【吃瓜】价值 3000 元的 telegram 手机号查询'0day'",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493699&idx=2&sn=cf417466e1897dc482e7e9d6c4dedc3f": "x网友使用大模型生成 7-zip的0day漏洞，7-zip 原作者辟谣0day是假的",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488496&idx=1&sn=d57be6b7475b11e878558ef1ee711237": "WordPress Wux-Blog-Editor 插件存在前台越权漏洞(直接成为管理员) CVE-2024-9932",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247496388&idx=1&sn=694eb0f7fcaf672c7a5be5fe99587188": "价值1.8k人民币漏洞：Telegram小小0day-查询任意手机号码",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485113&idx=1&sn=50df90ad4a66b95ba4c48d29d449b8b0": "CVE-2024-52046 Apache MINA反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485113&idx=2&sn=45c7416f428ce01ae543c22d001b2eaa": "CVE-2024-12856 四信Four-Faith路由器存在命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499560&idx=2&sn=7b4058c8e11cfa595e24c0fce3754f55": "上周关注度较高的产品安全漏洞(20241223-20241229)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491934&idx=1&sn=c056c4384930ffec5352c63b06b11434": "漏洞预警 | GeoServer远程代码执行漏洞"
 }

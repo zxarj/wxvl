@@ -1,8 +1,7 @@
 #  通过代码审计用友获取CNVD高危证书   
- 进击安全   2024-12-29 01:14  
+ 哈拉少安全小队   2024-12-31 06:52  
   
-文章首发奇安信攻防社区   
-https://forum.butian.net/share/3058  
+文章首发奇安信攻防社区 https://forum.butian.net/share/3058  
 ## 环境搭建  
   
 版本：用友NC65  
@@ -12,7 +11,7 @@ https://forum.butian.net/share/3058
   
 数据库：  
 ```
-sqlserver 2016 https://cloud.tencent.com/developer/article/1644863
+sqlserver 2016 https://cloud.tencent.com/developer/article/1644863
 ```  
   
   
@@ -76,7 +75,7 @@ IDEA配置
   
 工具地址：https://github.com/leibnitz27/cfr/releases/tag/0.152  
 ```
-@echo off color 17  if "%1" == "" (    for /f "delims=" %%i in ('dir /s /b /a-d /o-s *.jar') do (        echo 正在反编译 %%~ni...        title 正在反编译 %%i...        java -jar cfr-0.152.jar "%%i" --caseinsensitivefs true  --outputdir "%%~di%%~pi%%~ni"        echo ----%%i已经翻反编译---    )    goto :end ) else (    title 正在反编译 %1...    java -jar cfr-0.152.jar %1 --caseinsensitivefs true  --outputdir "%~d1%~p1%~n1"    echo 反编译完成.    goto :end )  echo 反编译完成. @pause>nul  :end pause exit 
+@echo off color 17  if "%1" == "" (    for /f "delims=" %%i in ('dir /s /b /a-d /o-s *.jar') do (        echo 正在反编译 %%~ni...        title 正在反编译 %%i...        java -jar cfr-0.152.jar "%%i" --caseinsensitivefs true  --outputdir "%%~di%%~pi%%~ni"        echo ----%%i已经翻反编译---    )    goto :end ) else (    title 正在反编译 %1...    java -jar cfr-0.152.jar %1 --caseinsensitivefs true  --outputdir "%~d1%~p1%~n1"    echo 反编译完成.    goto :end )  echo 反编译完成. @pause>nul  :end pause exit 
 ```  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRzHbictsgqf1ATZicUT2tKRsmmoKw8babiccjEhx0HYT97icEFskqdiaEjmQ/640?wx_fmt=png&from=appmsg "")  
@@ -97,49 +96,36 @@ IDEA配置
   
 - 避免重复挖掘，不然提交CNVD会重复，白费功夫  
   
-主要讲我提交的两个sql注入workflowService，PaWfm2  
-，这个系统sql注入还是很多的，只要用心都可以挖到漏洞  
+主要讲我提交的两个sql注入workflowService，PaWfm2，这个系统sql注入还是很多的，只要用心都可以挖到漏洞  
 ### workflowService sql注入漏洞  
   
 漏洞代码路径：C:\yonyou\home\modules\webimp\lib\pubwebimp_cpwfmLevel-1\nc\uap\wfm\action\WorkflowService.java  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRGgpzbpr00KvTUD6h1xEuT08F3qo0O6Iia89GkXbUz9bV7myRhkic0Kww/640?wx_fmt=png&from=appmsg "")  
   
-在WorkflowService  
-类中，将proDefPk  
-参数传入getWfmXmlByPk  
-方法  
+在WorkflowService类中，将proDefPk参数传入getWfmXmlByPk方法  
   
 跟进getWfmXmlByPk方法  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRNl3eaXzIvTxAibH8Lw8ZMFibTrAobASpecFNagAFPEzNwYaHxYNZiaiabQ/640?wx_fmt=png&from=appmsg "")  
   
-看到使用到了 getProDefVOByProDefPk   
-带入pk参数  
+看到使用到了 getProDefVOByProDefPk 带入pk参数  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRUQlmmXWVvAuzEezCBa5CXYGoT2VhQOlXb1ktibzGl9tTIyVjVSMmVUg/640?wx_fmt=png&from=appmsg "")  
   
-getProDefVOByProDefPk  
- 是 接口类IWfmProDefQry  
-定义的方法  
+getProDefVOByProDefPk 是 接口类IWfmProDefQry定义的方法  
   
-在WfmProDefQry  
-类实现getProDefVOByProDefPk  
-方法  
+在WfmProDefQry类实现getProDefVOByProDefPk方法  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRrIibJibCg8HN9MIJeuXsyBuXM03JhR234gA2JpcWBQ1JgL2a93ELyC2w/640?wx_fmt=png&from=appmsg "")  
 ```
-public WfmProdefVO getProDefVOByProDefPk(String proDefPk) throws WfmServiceException {         PtBaseDAO dao = new PtBaseDAO();         SuperVO[] superVos = null;         try {             superVos = dao.queryByCondition(WfmProdefVO.class, "pk_prodef='" + proDefPk + "'");         }         catch (DAOException e) {             WfmLogger.error((String)e.getMessage(), (Throwable)e);             throw new LfwRuntimeException(e.getMessage());         }         if (superVos == null || superVos.length == 0) {             return null;         }         return (WfmProdefVO)superVos[0]; } 
+public WfmProdefVO getProDefVOByProDefPk(String proDefPk) throws WfmServiceException {         PtBaseDAO dao = new PtBaseDAO();         SuperVO[] superVos = null;         try {             superVos = dao.queryByCondition(WfmProdefVO.class, "pk_prodef='" + proDefPk + "'");         }         catch (DAOException e) {             WfmLogger.error((String)e.getMessage(), (Throwable)e);             throw new LfwRuntimeException(e.getMessage());         }         if (superVos == null || superVos.length == 0) {             return null;         }         return (WfmProdefVO)superVos[0]; } 
 ```  
   
-getProDefVOByProDefPk  
-该方法 直接将proDefPk   
-参数 传入dao.queryByCondition   
-查询  
+getProDefVOByProDefPk该方法 直接将proDefPk 参数 传入dao.queryByCondition 查询  
 #### PtBaseDAO类中 queryByCondition 方法下断点  
   
-开启调试查看proDefP传入数据库， dao.queryByCondition  
- 连接数据库查询  
+开启调试查看proDefP传入数据库， dao.queryByCondition 连接数据库查询  
   
 D:\CodeQL\databases\nc\home\modules\webbd\lib\pubwebbd_pubLevel-1.jar!\nc\uap\cpb\persist\dao\PtBaseDAO.class  
   
@@ -147,50 +133,38 @@ D:\CodeQL\databases\nc\home\modules\webbd\lib\pubwebbd_pubLevel-1.jar!\nc\uap\cp
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRM18XLvHZDYp3vX1LiaOiaMvn2Eb31WcRbsjHSduwfpyEEogy1ooNUibKg/640?wx_fmt=png&from=appmsg "")  
   
-可以看到 sql语句 查询pk_prodef字段是使用'  
-闭合了sql，导致注入漏洞 strWhere = (isnull(dr,0)=0) and pk_prodef='11';waitfor delay '0:0:4'--'  
+可以看到 sql语句 查询pk_prodef字段是使用'闭合了sql，导致注入漏洞 strWhere = (isnull(dr,0)=0) and pk_prodef='11';waitfor delay '0:0:4'--'  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRCjpLHMHSXPR75jiaonS4YFS0Cw7cbvribKLicFMHpQ3q7B3icCwNCCjALg/640?wx_fmt=png&from=appmsg "")  
   
 注：提交sql注入给CNVD 需要跑出数据库名称等，不然会被打回。  
 ### PaWfm2 sql注入漏洞  
   
-PaWfm2 注入的原理和 workflowService都是使用了 getProDefVOByProDefPk  
-导致sql注入漏洞  
+PaWfm2 注入的原理和 workflowService都是使用了 getProDefVOByProDefPk导致sql注入漏洞  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgR9RiaqoApdH9snZWBBdwibibjicIom8BSutaibfRB1F849LmUsKju7wvaJSw/640?wx_fmt=png&from=appmsg "")  
   
-在代码的54行中，使用了getProDefVOByProDefPk   
-方法来查询，该方法实现类为WfmProdefVO  
+在代码的54行中，使用了getProDefVOByProDefPk 方法来查询，该方法实现类为WfmProdefVO  
   
 WfmProdefVO proDefVo = WfmServiceFacility.getProDefQry().getProDefVOByProDefPk(proDefPk);  
   
-跟踪WfmProdefVO  
-类实现的getProDefVOByProDefPk  
-方法  
+跟踪WfmProdefVO类实现的getProDefVOByProDefPk方法  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRxHNC0xJnBwPbCnVGYEOX7vmgJnCjuPtZUAVH0mrAmnmfWFMKftgdVQ/640?wx_fmt=png&from=appmsg "")  
   
-getProDefVOByProDefPk   
-方法 代码  
+getProDefVOByProDefPk 方法 代码  
 ```
-    public WfmProdefVO getProDefVOByProDefPk(String proDefPk) throws WfmServiceException {         PtBaseDAO dao = new PtBaseDAO();         SuperVO[] superVos = null;         try {             superVos = dao.queryByCondition(WfmProdefVO.class, "pk_prodef='" + proDefPk + "'");         }         catch (DAOException e) {             WfmLogger.error((String)e.getMessage(), (Throwable)e);             throw new LfwRuntimeException(e.getMessage());         }         if (superVos == null || superVos.length == 0) {             return null;         }         return (WfmProdefVO)superVos[0]; } 
+    public WfmProdefVO getProDefVOByProDefPk(String proDefPk) throws WfmServiceException {         PtBaseDAO dao = new PtBaseDAO();         SuperVO[] superVos = null;         try {             superVos = dao.queryByCondition(WfmProdefVO.class, "pk_prodef='" + proDefPk + "'");         }         catch (DAOException e) {             WfmLogger.error((String)e.getMessage(), (Throwable)e);             throw new LfwRuntimeException(e.getMessage());         }         if (superVos == null || superVos.length == 0) {             return null;         }         return (WfmProdefVO)superVos[0]; } 
 ```  
   
-getProDefVOByProDefPk  
-该方法 直接将proDefPk   
-参数 传入dao.queryByCondition   
-查询  
+getProDefVOByProDefPk该方法 直接将proDefPk 参数 传入dao.queryByCondition 查询  
 #### PtBaseDAO类中 queryByCondition 方法下断点  
   
-开启调试查看proDefP传入数据库， dao.queryByCondition  
- 连接数据库查询 D:\CodeQL\databases\nc\home\modules\webbd\lib\pubwebbd_pubLevel-1.jar!\nc\uap\cpb\persist\dao\PtBaseDAO.class  
- ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgR8jdwUy9TCXGeeGzpTrWvrasZeAZ3t4QjVEciaic2ibbtXS0xCDQGPC8eQ/640?wx_fmt=png&from=appmsg "")  
+开启调试查看proDefP传入数据库， dao.queryByCondition 连接数据库查询 D:\CodeQL\databases\nc\home\modules\webbd\lib\pubwebbd_pubLevel-1.jar!\nc\uap\cpb\persist\dao\PtBaseDAO.class ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgR8jdwUy9TCXGeeGzpTrWvrasZeAZ3t4QjVEciaic2ibbtXS0xCDQGPC8eQ/640?wx_fmt=png&from=appmsg "")  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRM18XLvHZDYp3vX1LiaOiaMvn2Eb31WcRbsjHSduwfpyEEogy1ooNUibKg/640?wx_fmt=png&from=appmsg "")  
   
-可以看到 sql语句 查询pk_prodef字段是使用'  
-闭合了sql，导致注入漏洞 strWhere = (isnull(dr,0)=0) and pk_prodef='11';waitfor delay '0:0:4'--'  
+可以看到 sql语句 查询pk_prodef字段是使用'闭合了sql，导致注入漏洞 strWhere = (isnull(dr,0)=0) and pk_prodef='11';waitfor delay '0:0:4'--'  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRV2ibOCoP81g6dubL9McHGEIuhoalxfR6GxQYYzcbZ6Gaffa0RbGQhXQ/640?wx_fmt=png&from=appmsg "")  
   
@@ -201,7 +175,4 @@ getProDefVOByProDefPk
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/vOGOib9z4Wz5F94KbibWuOicxEpqn7XVcgRXKKDw2hfT6ibpwyLLQ51lRNnzRmMtzSTQZPyPKnsjeXr1Q8vYJsmElg/640?wx_fmt=png&from=appmsg "")  
 ## 总结  
 - 漏洞本身没有多少技术含量，但是总归收获了用友的高危漏洞证书。  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRKuxIKRyhXhuxbCGecu4ibia3kSXD8ePQHrSvPSNtC7PmjzQwR88Hu0LpuXdQzamKBCPAXX82anLS8f0FF3LzzQ/640?wx_fmt=jpeg "")  
-  
   
