@@ -2337,5 +2337,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485113&idx=1&sn=50df90ad4a66b95ba4c48d29d449b8b0": "CVE-2024-52046 Apache MINA反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485113&idx=2&sn=45c7416f428ce01ae543c22d001b2eaa": "CVE-2024-12856 四信Four-Faith路由器存在命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499560&idx=2&sn=7b4058c8e11cfa595e24c0fce3754f55": "上周关注度较高的产品安全漏洞(20241223-20241229)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491934&idx=1&sn=c056c4384930ffec5352c63b06b11434": "漏洞预警 | GeoServer远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491934&idx=1&sn=c056c4384930ffec5352c63b06b11434": "漏洞预警 | GeoServer远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067033&idx=2&sn=6bf70d067d0bebdf78e4045b13df4439": "【安全圈】Linux 系统岌岌可危：GStreamer 漏洞威胁数百万用户",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067033&idx=3&sn=852cf568ead351f59557241b2af12032": "【安全圈】严重漏洞使大量Four-Faith路由器面临远程利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311106&idx=2&sn=4d17c81f07075c05217f769b5f513263": "利用 DoS 漏洞可瘫痪 Palo Alto 防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311106&idx=4&sn=c480deb733ce9cca529cc6125ab93315": "pwnobd：一款针对OBD-II设备的漏洞分析与渗透测试工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247505498&idx=2&sn=ff5beeae494e24f372210a8fa9ee150d": "每周网安资讯 （12.24-12.31）|Microsoft多款产品存在保护机制失效漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTU5NTI1Ng==&mid=2247486532&idx=1&sn=37417bf0416d10945d0de4e450392e6a": "你手上的漏洞poc，真能帮你解决问题吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513393&idx=1&sn=1a9e508382839d999a5a0058560e6b35": "警惕！国产工业路由器零日漏洞疑遭攻击者利用",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766425&idx=1&sn=8dd98072573d2f284b8012e96ac6082f": "蛙！请查收你的2024漏洞盒子年度报告！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653931349&idx=1&sn=cb8ce5b3ebacbb16c2b2789891fd6ac8": "银行数据安全管理新规发布：信息科技部是技术保护主责部门",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486570&idx=1&sn=3c7b1c39f72c96f3f957db2512bc4e68": "「漏洞复现」用友U8 Cloud ReleaseRepMngAction SQL注入漏洞复现(CNVD-2024-33023)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494127&idx=1&sn=66b3069772e4469f6d59fe463049c089": "OSRC 2024年度颁奖典礼在深圳完美落幕",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247488012&idx=1&sn=03cd5f595007f6e1342a05b1a4342891": "SRC挖掘之Access验证校验的漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486154&idx=1&sn=f07ce16c527fab05e35d43f5cd4daa4a": "FICORA、CAPSAICIN 僵尸网络利用旧 D-Link 路由器漏洞发起 DDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODMwNjQzMA==&mid=2247485755&idx=1&sn=2424459bff9c2f58c6001e3ab850dbd0": "瑞斯康达智能网关命令执行漏洞简单分析",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247577744&idx=1&sn=e99a3ea2349f0319f23eab9eb52cb772": "2024年度盘点之漏洞威胁：AI技术降低漏洞利用门槛，网络边缘设备成重灾区",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486264&idx=1&sn=d66a1443fa5d075f4be3fefff1faf36e": "通过代码审计用友获取CNVD高危证书"
 }
