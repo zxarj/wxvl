@@ -2384,5 +2384,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067069&idx=2&sn=516425f9b9c6da18a71ed20d3b724b4b": "【安全圈】捷某网络云平台漏洞曝光：50000 台设备面临远程攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587913&idx=1&sn=59937f7938afd40d184cb3fed087a347": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587913&idx=2&sn=98c0e76217bf3df9659f9e697ec2775d": "PWN入门：三打竞态条件漏洞-DirtyCOW",
-    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485474&idx=1&sn=62812c0cc77f99961af3de503e4c732d": "【漏洞复现】北京友数 CPAS 审计管理系统存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485474&idx=1&sn=62812c0cc77f99961af3de503e4c732d": "【漏洞复现】北京友数 CPAS 审计管理系统存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY0NDM3OA==&mid=2247484167&idx=1&sn=b3d525b35dd2e4849cdb43db78477e55": "第二十课-系统学习代码审计：Java反序列化基础-fastjson反序列化漏洞原理分析fastjson利用条件分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484020&idx=1&sn=f6e84e9f2be4cd908bfa4574c0ac5ea6": "还在手撸 POC？这个 AI 脚本让你直接起飞！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NjQ5NTIxNg==&mid=2247485358&idx=1&sn=7ed90d0cac8a364bf8ff3a27f8f3cc10": "专题丨低空经济网络和数据安全风险分析研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486595&idx=1&sn=1c92740e47085729280d2b01d344e047": "「漏洞复现」郑州时空-TMS运输管理系统 GetDataBase 信息泄露漏洞"
 }
