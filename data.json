@@ -2389,5 +2389,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484020&idx=1&sn=f6e84e9f2be4cd908bfa4574c0ac5ea6": "还在手撸 POC？这个 AI 脚本让你直接起飞！",
     "https://mp.weixin.qq.com/s?__biz=MzU3NjQ5NTIxNg==&mid=2247485358&idx=1&sn=7ed90d0cac8a364bf8ff3a27f8f3cc10": "专题丨低空经济网络和数据安全风险分析研究",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486595&idx=1&sn=1c92740e47085729280d2b01d344e047": "「漏洞复现」郑州时空-TMS运输管理系统 GetDataBase 信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633484&idx=4&sn=f462715f44bf9fac23924a3c3a12feed": "WPA3协议存在安全漏洞，黑客可获取WiFi密码"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633484&idx=4&sn=f462715f44bf9fac23924a3c3a12feed": "WPA3协议存在安全漏洞，黑客可获取WiFi密码",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484520&idx=1&sn=f5521e504c8b6e019aad5f78b8fdcf54": "【技术分享】文件上传XSS漏洞的利用方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493133&idx=1&sn=58da466e03801a32a4977feb65c2ac71": "ysoSimple：简易的Java漏洞利用工具，集成Java、Hessian、XStream、Shiro550反序列化等",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491966&idx=1&sn=9d4a99a10bebb5b5b5779656bb33a368": "漏洞预警 | 汉塔科技上网行为管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491966&idx=2&sn=0109569e3097888c035be7756d35dae4": "漏洞预警 | 蓝凌OA SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491966&idx=3&sn=9d8938cb9e5e52e23bd52f350b6a80a2": "漏洞预警 | 泛微E-Bridge SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899899&idx=1&sn=2f85cb1a3466fd4c8372b3207ce3c810": "紧急！Palo Alto Networks 防火墙遭 DoS 攻击，黑客利用 CVE-2024-3393 漏洞致其瘫痪！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489357&idx=1&sn=be87478fd82d55b1ae053e5378b40c94": "【0day】W&Jsoft-D-Security数据仿泄露系统(DLP)存在任意文件读取漏洞"
 }
