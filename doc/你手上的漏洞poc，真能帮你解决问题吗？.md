@@ -1,5 +1,5 @@
 #  你手上的漏洞poc，真能帮你解决问题吗？   
-Urkc安全  Urkc安全   2024-12-31 10:07  
+万能漏洞库  FreeBuf知识大陆APP   2025-01-02 08:01  
   
 刚开始做网安时，我有次提交SRC漏洞，因为提供的poc不给力，错过了一笔大奖励。其实那只是个简单的逻辑漏洞，但当时我缺了关键的绕过细节，所以验证没通过。后来我在网安领域经验多了，才慢慢明白：poc不光是代码，更是效率和价值的体现。在这行里，时间和质量常常决定收益。  
   
@@ -14,6 +14,8 @@ Urkc安全  Urkc安全   2024-12-31 10:07
   
 **帮会简介**  
   
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWdNR09y6wfQ2iblId7Nicjrd9uXegZ07ajediaib54u2twOeIjazia8SSYvicQ/640?wx_fmt=png&from=appmsg "")  
   
 **《万能漏洞库》**  
   
@@ -37,7 +39,14 @@ Urkc安全  Urkc安全   2024-12-31 10:07
   
 【帮会持续更新ing，每周30篇笔记】  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/FL9Xqxpicm6qcoCSlw6eiadDnyWn9nmcdAMiaNbF3Ka64lXsGMgZrfZs9E0tt8CI3nGRa8Gm9CDvjuKH6Gn6icdI1w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWd4lfZP7xEkcqicUtPvG8CJBbmlmbsccNiavcBdOUkeLhpXlxvaqCc2w7g/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWd18iaVSZlEmNeCmqZDsOZNYfsHE3buDXCg3GOFdSFHnMPsGkFiakgWicicg/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWdRQlFzajNu8V1Fn0R5Qq0gD2jXUkzYZMPjEr5XMOIMBlCSc1rJxxrvA/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWdnCYBq1ed11rguvFwVkeYKhhKkMHdLiaVbN7ibic2mDmoasSWkicvGsG0Xg/640?wx_fmt=png&from=appmsg "")  
+  
   
   
 ##   
@@ -46,7 +55,7 @@ Urkc安全  Urkc安全   2024-12-31 10:07
   
 ##   
   
-加入成功后,后台会核对并邀请各位师傅一起聊天讨论技术/分享资源  
+加入成功后，可在帮会置顶处获得群聊二维码，师傅一起聊天讨论技术/分享资源  
   
 ##   
   
@@ -73,35 +82,35 @@ Urkc安全  Urkc安全   2024-12-31 10:07
   
 ##   
   
-帮会刚建立，现在加入可享早鸟价：  
+**迎接2025年，【元旦特惠】**  
+  
+****  
+现在加入可享特惠价：  
   
 原价99月卡  
   
-现在69.9元享永久会员  
+**现在69.9元享永久会员**  
   
-！限时两周！  
+**！限时两周！**  
   
+****  
 微信扫码支付即可加入  
   
 ⬇️  
   
 【帮会二维码】  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/FL9Xqxpicm6qcoCSlw6eiadDnyWn9nmcdAOibv1a1INw32aaiazHyzzIsR9iab0ib57jibSEtSXBt67iaB28pGITRibbAkw/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/HaJr68L1tTSNZfOu7ldnq59ciaicVM5KWduW8tvK9iaXYfmCc9hIkmDTCVZFVj0iarqGDtrXeWfZCS2YuNv19iasib2w/640?wx_fmt=jpeg "")  
   
   
-转发到朋友圈或者微信群,并关注Urkc安全的师傅，  
+◀ FreeBuf知识大陆APP   
+▶  
   
-回复公众号  
-[万能漏洞库]即可参与抽奖  
+![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTR6pw9U0fjOQictdiawgIMANicKpkNibTJibKhyXu1vJ0nLnN14b3icZPBsgIpPTWlpFOT5ENqibrqY0E2dg/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-抽中的师傅，联系我免费加入帮会  
+苹果用户至App Store下载  
   
-名额共【  
-5  
-个】  
+安卓用户各大应用商城均可下载  
   
-[万能漏洞库]()  
-  
-  
+如有问题请联系vivi微信：Erfubreef121  
   
