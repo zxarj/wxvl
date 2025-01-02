@@ -2405,5 +2405,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606042&idx=2&sn=a643b8dd73810f509abdbb3f1c935808": "警惕！国产工业路由器零日漏洞疑遭攻击者利用",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247517632&idx=1&sn=f55b79811a6f8dd1ff8a1190f37f5ef3": "实战利器 50个渗透攻防命令速查！",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247490028&idx=2&sn=d61adfa8595d04cf1e03072c2aac9214": "重磅！国内最专业的 [ .NET 代码审计 ] 体系化学习互动社区，强势来袭！",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247487963&idx=1&sn=f152d932bd0d1e3b3513328ced8cf98f": "面向JS漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzI3OTczNA==&mid=2247487963&idx=1&sn=f152d932bd0d1e3b3513328ced8cf98f": "面向JS漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458587913&idx=2&sn=98c0e76217bf3df9659f9e697ec2775d&chksm=b18c238386fbaa95240d646e4dd53c0b5349a023b47590b174b1ac0717f14609242a7e933442&scene=58&subscene=0": "PWN入门：三打竞态条件漏洞-DirtyCOW",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjY4NDg1Nw==&mid=2247483907&idx=1&sn=e64a7eb7fb8ecb4ffba0df92f7de2cb0": "[武器库]-WExploit漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492816&idx=2&sn=d8dd338afd2442c7ceafb08c288b7a9f": "上周关注度较高的产品安全漏洞(20241216-20241222)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247491951&idx=1&sn=f552959dc1ebe4e8e7b692cc6f60060c": "漏洞预警 unibox checkxxxx.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526666&idx=1&sn=51464a34472921949f23f7dfe3591e96": "LdapNightmare 一个 PoC 工具，用于针对 CVE-2024-49112 易受攻击 Windows Server",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486500&idx=1&sn=a79b34d5cfc1b82f145f7c7a9ca3a725": "【漏洞通告】Oracle iStore 未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486500&idx=3&sn=bf82a52a74af24fb0803fbd8da0cd4aa": "【漏洞通告】华为产品 不充分的完整性漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486500&idx=4&sn=c1dfdfbb6c0be7000b980f0f91e37902": "【漏洞通告】Perl 安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488504&idx=1&sn=10012a6a34abcf028e17645af7561ee3": "【工具分享】开源，图形化Jeecg框架漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247493807&idx=1&sn=242601ce36b3839e1068a3ef8f1d28fb": "【Exp】古河大佬发现的 Ldap（CVE-2024-49112） 漏洞出现 Exp了，0-click",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661297669&idx=2&sn=8f3cd59e279c25009c4e77429b9dc163": "山石说AI｜突破模糊测试极限：大模型驱动的软件漏洞深度挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484399&idx=1&sn=e28404c91dc74d96bef39bff1dce0608": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第1期，总第19期]",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjA4MjMyMw==&mid=2647789866&idx=1&sn=ede8219d518f395dcf49492ebfb5fced": "mac版本微信小程序抓包学习",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485484&idx=1&sn=105f7b834b3da70b77523462ca24ac4b": "【漏洞复现】SecFox运维安全管理与审计系统FastJson反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247493226&idx=1&sn=13da22c29bc367231583674efc8db0f9": "【AE插件】23000款AE插件合集，全套插件一键安装包",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606042&idx=1&sn=115a6a68aa8b721157034b562e9492f0": "网络安全公司“内鬼”监守自盗 当黑客窃取个人信息2.08亿条；|WPA3协议存在安全漏洞，黑客可获取WiFi密码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247538451&idx=3&sn=e0d5da8061b899effd86f8e54c066daa": "【风险提示】国产工业路由器零日漏洞疑遭攻击者利用"
 }
