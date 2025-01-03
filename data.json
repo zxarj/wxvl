@@ -2513,5 +2513,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489400&idx=1&sn=c983947941f4637d6fade0c80b18ea2c": "【高危漏洞预警】Windows LDAP远程代码执行漏洞（CVE-2024-49112）",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502708&idx=1&sn=30ee0bf007924eb359c6c609b3ba1cb7": "【已复现】Windows 轻量级目录访问协议 (LDAP) 拒绝服务漏洞(CVE-2024-49113)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247502820&idx=1&sn=5ebcb4158f712c89ddc3f0c5b1ee0bed": "【成功复现】大华智能物联综合管理平台远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247552887&idx=1&sn=9fe7fc306ecf8525a4089f0857ccfd64": "Web漏洞分析与防范实战丨从\"脚本小子\"迈向\"研究员\"的第一步"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247552887&idx=1&sn=9fe7fc306ecf8525a4089f0857ccfd64": "Web漏洞分析与防范实战丨从\"脚本小子\"迈向\"研究员\"的第一步",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODY2MzMyMA==&mid=2247484481&idx=1&sn=98e543ae16027d7d521fd5389f6dfce3": "【全球首发】【6w$赏金】微软身份漏洞-未授权强制解绑任意微软账户邮箱（全球微软账户邮箱或受影响)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247495429&idx=1&sn=38b21b3d0a81ed449647cb0de481cac6": "攻防靶场(31)：日志投毒与文件包含漏洞 Solstice",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489375&idx=1&sn=3d401297a02bc6e0f6eb3ef1368dfbad": "【漏洞复现】方正畅享全媒体新闻采编系统imageProxy存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247508683&idx=1&sn=2d8afad815b3a090caa695a9c69731f8": "中孚安全荣获“山东省大数据企业50强”称号"
 }
