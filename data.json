@@ -2448,5 +2448,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489395&idx=1&sn=256650cb87713ff212758abde0e2facc": "【漏洞预警】Apache Arrow代码执行漏洞(CVE-2024-52338)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247484948&idx=1&sn=480a76ee02ac812d7b8f4f5635fff7b4": "SSTI模板注入漏洞详解（附一键getshell工具）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247519026&idx=1&sn=1199efa3c2e527406ee3ae0ae85e550d": "记一次JS中的漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498213&idx=1&sn=42949367265a2dbc23de207739cc03d9": "你乘上的是列车还是彗星？"
+    "https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498213&idx=1&sn=42949367265a2dbc23de207739cc03d9": "你乘上的是列车还是彗星？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc0Mjc3NQ==&mid=2247486620&idx=1&sn=a3c9f75946a17f69bb762ac9e19442ee": "开源代码漏洞扫描器 OSV-Scanner 新增修复和离线功能",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247498035&idx=2&sn=ae95efa731c1ad0bfb4f3907942bbcf7": "7-Zip 零日漏洞据称已在网上泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651130106&idx=1&sn=a8a6ceb0bf11ca5eb70a3e6c42c9a141": "2024年我国全行业数字化及网络安全政策标准汇总下载",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485496&idx=1&sn=30378454837adf12cd6f54952ac84eee": "【渗透书籍推荐】《Web漏洞分析与防范实战》丨文末参与抽奖免费赠书！！",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485496&idx=2&sn=f883374d1a9a9eab5602921437412041": "【漏洞复现】朗速ERP后台管理系统FileUploadApi接口文件存在文件上传漏洞||附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491967&idx=1&sn=f272d94e20068861012bfdc0fb0343c4": "漏洞预警 | Adobe ColdFusion反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491967&idx=2&sn=835396913c02e3d69338f769abed1682": "漏洞预警 | 用友NC XML实体注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491967&idx=3&sn=ae28506ae28775537a4e202b2f314308": "漏洞预警 | 用友BIP信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506527&idx=1&sn=4f478afe2ddb7c0d9505a4575c6baaa6": "超300万台未加密邮件服务器暴露，用户数据面临严重威胁！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247567927&idx=1&sn=86d6ea511f81433eb47444a7d9427df2": "一家网安劳模企业的2024全年创作合辑",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247489371&idx=1&sn=7bf3786a43261b9f5d4ca11a1815e449": "【1day edu 大量存在】大华智能物联综合管理平台(ICC) 存在远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518041&idx=1&sn=07f9f7aae2aead67b9b4558d64c61cef": "代码审计 - MCMS v5.4.1 0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633511&idx=3&sn=a3006d2615237b392a55971d9ec8ecb5": "WPA3协议存在安全漏洞，黑客可获取WiFi密码"
 }
