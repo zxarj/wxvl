@@ -2485,5 +2485,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488398&idx=1&sn=21afa7d56109b232ecfd8857479dadb3": "指导手册 | Web漏洞分析与防范实战",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247538586&idx=2&sn=4fa87eedfb67b928e4df328ad6fbc89e": "【漏洞通告】Windows LDAP远程代码执行漏洞（CVE-2024-49112）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247538586&idx=3&sn=0f21db352d546b8e521103fc73e21313": "急需升级，D-Link 路由器漏洞被僵尸网络广泛用于 DDoS 攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492825&idx=2&sn=bee7a2cc307a6c4b7272cb74bcc5188f": "上周关注度较高的产品安全漏洞(20241223-20241229)"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492825&idx=2&sn=bee7a2cc307a6c4b7272cb74bcc5188f": "上周关注度较高的产品安全漏洞(20241223-20241229)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489951&idx=1&sn=a0ac658e34aaa8913ddcdf8cfaf58749": "圣乔ERP系统 DwrUtil SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489945&idx=1&sn=a477e7aa3188a44655347cf7b1c3f64b": "圣乔ERP系统 ResultSetConvertor SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502201&idx=1&sn=f9dbc0640e326e3c63591c0ae5c533b0": "文件读取漏洞实战利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486273&idx=1&sn=25043aaddb4c641195e99dbfd8312447": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526722&idx=1&sn=c459e062a45c8e0fdb86bda7a9adad2d": "伪造的 7-Zip 漏洞代码被追溯到人工智能产生的误解",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526722&idx=2&sn=4e99985c4a7e6bb4da0031be24483dbb": "LDAPNightmare：SafeBreach Labs 发布了 CVE-2024-49113 的第一个概念验证漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526722&idx=3&sn=d639417738fd4aa1f00df58ecab69d19": "已修补但仍然存在漏洞：Windows BitLocker 加密再次被绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489936&idx=1&sn=b378d029b84650cdd266b98ff895940e": "圣乔ERP系统 SingleRowQueryConvertor SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063799&idx=1&sn=6adf30edb8fb730c3fcb98d5e6caccde": "信息安全漏洞周报【第004期】",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTU3NDEzOQ==&mid=2247492707&idx=1&sn=701686fdf382df31406c42beed964ac9": "Cyber Apocalypse 2023 硬件 CTF 题解",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485072&idx=1&sn=cd5c7085fac45bf2a9d30a905608af8c": "工具集：NacosExploit【Nacos漏洞综合利用工具2.0】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488533&idx=1&sn=3bd41daca34f543f26361bb54f403b16": "【首发 1day】WordPress Crypto 插件存在前台任意用户登录漏洞(CVE-2024-9989)"
 }

@@ -1,21 +1,5 @@
 #  记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析   
-1674701160110592  神农Sec   2025-01-03 01:00  
-  
-扫码加圈子  
-  
-获内部资料  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/b7iaH1LtiaKWXLicr9MthUBGib1nvDibDT4r6iaK4cQvn56iako5nUwJ9MGiaXFdhNMurGdFLqbD9Rs3QxGrHTAsWKmc1w/640?wx_fmt=jpeg&from=appmsg "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaaJcib7FH02wTKvoHALAMw4fchVnBLMw4kTQ7B9oUy0RGfiacu34QEZgDpfia0sVmWrHcDZCV1Na5wDQ/640?wx_fmt=png&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
-  
-  
-#   
-  
-网络安全领域各种资源，学习文档，以及工具分享、前沿信息分享、POC、EXP分享。  
-不定期分享各种好玩的项目及好用的工具，欢迎关注。  
-#   
+天启互联网工作室  天启互联网实验室   2025-01-03 06:50  
   
 原文链接：https://xz.aliyun.com/t/16959  
   
@@ -53,7 +37,6 @@
 一堆ashx文件加上一个UEditor的组件，ashx  
   
 .ashx  
-   
 文件扩展名  
 通常用于表示 ASP.NET 处理程序（ASP.NET Handler）。ASP.NET 处理程序是一种在服务器端处理特定类型请求的代码文件。这些文件通常用于执行一些特殊的服务器任务，如图像生成、文件下载或其他动态内容的处理。  
   
@@ -163,56 +146,4 @@ if __name__ == '__main__':
   
 这次感觉这个文件上传藏得还是比较深的，也是告诉自己挖掘一些漏洞的时候，千万不能放过任何一处细节，往往细节决定成败。  
   
-  
-  
-我们是神农安全，  
-**点赞 + 在看**  
- 铁铁们点起来，最后祝大家都能心想事成、发大财、行大运。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/mngWTkJEOYJDOsevNTXW8ERI6DU2dZSH3Wd1AqGpw29ibCuYsmdMhUraS4MsYwyjuoB8eIFIicvoVuazwCV79t8A/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-  
-  
-  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap086iau0Y0jfCXicYKq3CCX9qSib3Xlb2CWzYLOn4icaWruKmYMvqSgk1I0Aw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-**内部圈子介绍**  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap08Z60FsVfKEBeQVmcSg1YS1uop1o9V1uibicy1tXCD6tMvzTjeGt34qr3g/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-  
-  
-  
-圈子专注于更新src相关：  
-  
-```
-1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
-2、分享src优质视频课程
-3、分享src挖掘技巧tips
-4、微信小群一起挖洞
-5、不定期有众测、渗透测试项目
-6、需要职业技能大赛环境dd我
-```  
-  
-  
-  
-  
-  
-  
-```
-```  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWBeNFS2WNPd2FJ1SmqGkcf3s0DkMZicbriaUEuXagWt2eqxBWkUXRyQabIczmNAT5nTxc9tvaBzlww/640?wx_fmt=png&from=appmsg "")  
-  
-  
-**欢迎加入星球一起交流，券后价仅40元！！！ 即将满200人涨价**  
-  
-**长期更新，更多的0day/1day漏洞POC/EXP**  
-  
-****  
-    
   
