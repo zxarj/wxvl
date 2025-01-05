@@ -2534,5 +2534,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496735&idx=1&sn=05050cc8b07c9a49333af1d0dbd6d2e2&chksm=e8a5fe7cdfd2776ab0338be789f2f5be122c6e4e10945d24ffb5dbd8b288ff43bd987855a64c&scene=58&subscene=0": "当黑客那些年之帐户接管系列漏洞-案例一斩获1000$",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067148&idx=2&sn=b5d58580bfec4388018946e5f03f2ce6&chksm=f36e790cc419f01a2cb74d348b4855f80c5f279e8ebab8a25cf5c2f3beffb0d66622c0567162&scene=58&subscene=0": "【安全圈】开源终端工具曝重大安全漏洞，输入信息可能被窃取！",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067148&idx=3&sn=d0e8225dafa1c2fb13ad0e7f22376327&chksm=f36e790cc419f01a20528cc722e7f75d6c77ce8bb1bb4ac0f0503c3e9f9a6357c34f2172a526&scene=58&subscene=0": "【安全圈】微软 Win11 BitLocker 存在物理接触即可绕过的重大漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247509347&idx=1&sn=d8886a100e78c54f98c7172e8f3c555a&chksm=fa5270ddcd25f9cbbe87cac2d57c45350c26df28891b05bf9671c4a13d19270f167c120225c5&scene=58&subscene=0": "山石安研院2024年度代表性原创0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247509347&idx=1&sn=d8886a100e78c54f98c7172e8f3c555a&chksm=fa5270ddcd25f9cbbe87cac2d57c45350c26df28891b05bf9671c4a13d19270f167c120225c5&scene=58&subscene=0": "山石安研院2024年度代表性原创0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489981&idx=1&sn=d2a18a6d7f33b0238c87a7091e2eeb06": "杜特网上订单管理系统 Login.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489971&idx=1&sn=a69991f940624d3f9afd5836d1940ec4": "生命港湾 服务配置工具平台 Download 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500344&idx=1&sn=5a7278e5bfdaf2f714b74aec9dc6084b": "大华DSS城市安防监控平台login_init.action远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495870&idx=1&sn=4ed4226b873ada078ba36fccf2108607": "【漏洞工具】小米路由器任意文件读取漏洞python图形化框架利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094525&idx=1&sn=65e2d2894d932d82b3b385c1fecdb76b": "Windows LDAP远程代码执行漏洞（CVE-2024-49112）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633558&idx=3&sn=52cfdbc169143c290a49fffc945d77d6": "Windows 曝9.8分漏洞，已有PoC及利用情况",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=3&sn=d144262f4db66660f995538078a1b911": "【安全圈】已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=4&sn=c029416c7a5c7547cdb5718ab041f434": "【安全圈】CVE-2024-21182： 针对严重 WebLogic 漏洞发布 PoC 漏洞利用代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495864&idx=1&sn=deb2517a2a592c545416b6713def7f3f": "【漏洞工具】小米路由器任意文件读取漏洞python图形化单一利用工具"
 }
