@@ -2543,5 +2543,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633558&idx=3&sn=52cfdbc169143c290a49fffc945d77d6": "Windows 曝9.8分漏洞，已有PoC及利用情况",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=3&sn=d144262f4db66660f995538078a1b911": "【安全圈】已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=4&sn=c029416c7a5c7547cdb5718ab041f434": "【安全圈】CVE-2024-21182： 针对严重 WebLogic 漏洞发布 PoC 漏洞利用代码",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495864&idx=1&sn=deb2517a2a592c545416b6713def7f3f": "【漏洞工具】小米路由器任意文件读取漏洞python图形化单一利用工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495864&idx=1&sn=deb2517a2a592c545416b6713def7f3f": "【漏洞工具】小米路由器任意文件读取漏洞python图形化单一利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491876&idx=1&sn=1ffb723d73f1a24290998ff19c4f929e": "黑客利用 DoS 漏洞禁用 Palo Alto Networks 防火墙"
 }
