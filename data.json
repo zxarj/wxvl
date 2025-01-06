@@ -2567,5 +2567,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMTY1NDc2OA==&mid=2247487256&idx=1&sn=5f02d951d459a7c2ef37977afc806005": "【漏洞文章】大华智能物联综合管理平台远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485521&idx=2&sn=21fccb1beac3a0dcc9a565a36fcfa9a7": "【漏洞复现】快云服务器助手GetDetail接口文件任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247486903&idx=1&sn=0a066aff4189674338d0ffe68e405275": "【Nday漏洞分析】ProjectSend 身份认证绕过漏洞(CVE-2024-11680)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491992&idx=1&sn=fbd0590c31f7e295b5743345888e231c": "漏洞预警 | WordPress Plugin Tutor SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491992&idx=1&sn=fbd0590c31f7e295b5743345888e231c": "漏洞预警 | WordPress Plugin Tutor SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486408&idx=1&sn=ac34350ed2c25084cb78cec5ff40275e": "CVE-2024-50379|条件竞争Tomcat RCE POC（首发）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661297849&idx=2&sn=a308a4ae4e30195959399c63a47f2d45": "山石说AI｜精准探测 智慧守护：大模型重塑漏洞检测新标杆",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526837&idx=1&sn=bdc1792b20bbc0e3485123421c3c240c": "CVE-2024-43452：针对 Windows 特权提升漏洞的 PoC 漏洞发布",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526827&idx=3&sn=d436ecb47df01da7840466672e818830": "CVE-2024-56513：Karmada 漏洞使攻击者能够控制 Kubernetes 系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247502853&idx=1&sn=6116493ef276d07ee2f6c5105fb25d62": "【成功复现】爱数AnyShare SMTP_GetConfig 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247614973&idx=1&sn=0cb7f44aa7d6b3d7f0b82a6e1490a6cc": "从js到高危垂直越权漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ5MTM1MA==&mid=2247492762&idx=1&sn=0bc624892380a7706ceb595f6e0a5381": "漏洞盒子批量提交脚本5.1.26",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484492&idx=1&sn=7da5690238bdb790765079470195bd8e": "W&Jsoft-D-Security数据仿泄露系统(DLP)存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491992&idx=2&sn=1e67ec9b7cddeda507a7d80598525961": "漏洞预警 | 友数聚CPAS审计管理系统SQL注入和任意文件读取漏洞"
 }
