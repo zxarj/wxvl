@@ -2544,5 +2544,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=3&sn=d144262f4db66660f995538078a1b911": "【安全圈】已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067165&idx=4&sn=c029416c7a5c7547cdb5718ab041f434": "【安全圈】CVE-2024-21182： 针对严重 WebLogic 漏洞发布 PoC 漏洞利用代码",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495864&idx=1&sn=deb2517a2a592c545416b6713def7f3f": "【漏洞工具】小米路由器任意文件读取漏洞python图形化单一利用工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491876&idx=1&sn=1ffb723d73f1a24290998ff19c4f929e": "黑客利用 DoS 漏洞禁用 Palo Alto Networks 防火墙"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491876&idx=1&sn=1ffb723d73f1a24290998ff19c4f929e": "黑客利用 DoS 漏洞禁用 Palo Alto Networks 防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491992&idx=3&sn=f5877b3b5c43f92dac5db26d73ef9cc2": "漏洞预警 | 安科瑞环保用电监管云平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDM4OTM3OQ==&mid=2247505530&idx=4&sn=d74d0d52adbd4477bc0279d88f92f1e3": "研究人员发布针对 Windows LDAP 漏洞的 PoC 漏洞利用程序",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247489543&idx=1&sn=5520e054baf84c6b15efb1dcba86f33f": "漏洞盒子批量提交脚本5.1.26",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518078&idx=1&sn=d18a3a9d61850a5161557e81902b3edc": "SRC中的重置密码漏洞及案例",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247485511&idx=1&sn=24c216754ea9f84396bd3159a2ec4b0f": "【漏洞复现】内训宝 SCORM 模块存在任意文件上传漏洞"
 }

@@ -1,5 +1,5 @@
 #  SRC中的重置密码漏洞及案例   
-原创 SecEye  安全之眼SecEye   2024-12-27 00:02  
+ Z2O安全攻防   2025-01-05 13:22  
   
 点击上方「蓝字」，关注我们  
   
@@ -290,57 +290,53 @@ HTML注入也称为内容欺骗，也称为内容注入，或“任意文本注�
 **案例：**  
  https://hackerone.com/reports/111094  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/4yJaCArQwpACMJuBxI11jPgvHCxQZFQxPrt5iaQRibgGl0aIzFo4hDCYcFuyViag6zhuqNEjjeasfMEAy1rkaOahw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+建立了一个  
+src专项圈子，内容包含**src漏洞知识库**、**src挖掘技巧**、**src视频教程**等，一起学习赚赏金技巧，以及专属微信群一起挖洞  
+  
+圈子专注于更新src相关：  
+  
+```
+1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
+2、分享src优质视频课程
+3、分享src挖掘技巧tips
+4、小群一起挖洞
+```  
   
   
-**星球介绍**  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg41LkR0ezBlmjJY4Lwgg8mr1A5efwqe0yGE9KTQwLPJTe9zyv3wgYnhA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOXg868PqXyjsACp9LhuEeyfB2kTZVOt5Pz48txg7ueRUvDdeefTNKdg/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuZDDDv3NsbJDuSicLzBbwVDCPFgbmiaJ4ibf4LRgafQDdYodOgakdpbU1H6XfFQCL81VTudGBv2WniaDA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/4yJaCArQwpACMJuBxI11jPgvHCxQZFQxPrt5iaQRibgGl0aIzFo4hDCYcFuyViag6zhuqNEjjeasfMEAy1rkaOahw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuY6DfYOuUzWiaPBBq4L5bV9ZRMpUcFktl9oiazJicibKEVwZoWo5dEaXGHIoa6yOEkfnicbMibJDALxuk1w/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+图片  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4Bd1oBmTkA5xlNwZM5fLghYeibMBttWrf57h8sU7xDyTe5udCNicuHo8w/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuYrUoo5XZpxN9Inq87ic71D6aUeMdaWrKXgYYia2On8nMA7bqWDySa8odAq1a0kkp3WFgf0Zp0Eut0A/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+图片![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4KKlic4yiafWTpLdejicQe3MllEQc24ypeI3anaK7IjJDVyq1WVQN2yKBA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-高质量漏洞利用工具、漏洞POC/EXP、实战tips、学习教程分享社区，日常更新0Day/Nday/1day及对应漏洞的批量利用工具，内部POC分享，星球不定时更新内外网攻防渗透技巧、src挖掘技巧、网安学习培训视频等。  
-同时，内部的交流群有很多行业老师傅可以为你解答学习上的疑惑  
-，实战或者攻防中遇到的技术、非技术难题我们也可以通过自己的途径帮你一起解决。  
   
-**【星球服务】**  
+图片  
   
-1，  
-**Fofa**  
-永久高级会员  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOHgjJxnq1ibibJgVUx3LwCjZj62vygx8w6rxia1icmIWiax2YlP6S6LmlmlQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-2，常态化更新最新的漏洞  
-**POC/EXP**  
-，未公开、半公开漏洞POC  
+图片![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOApVm8H605qOibxia5DqPHfbWD6lmcweDjGv4DLl45waD068ugw2Iv2vg/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-3，不定时更新  
-**SRC挖掘**  
-小技巧、SRC挖掘报告  
+图片  
   
-4，各种漏洞利用  
-**工具**  
-，渗透工具、学习资料文档分享、网安各方向学习  
-**视频课程**  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOwldaSATYOh1WQpk1qz15rLxehOAn4aK7tdbSyNEuHDZpIISCtl6Q8w/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-5，安全圈兼职、全职工作内推途径；职业生涯发展路线答疑解惑  
+图片![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4jFsKRMMNDKbsAZhscCiagnyJScMVmFUqMtae5omlLRdu095mywWszjQ/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-6，加入内部微信群，认识更多的行业朋友（各大安全厂商以及互联网、金融行业甲方安全师傅），遇到任何技术问题都可以进行快速提问、讨论交流；  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76lsQnxkEwH0keL6OLfic5KN2icjCAkmeHepQdoHTVABBM5bkWfxvP8Ptnn0DFoYHRVdvOGlLxh8G36w/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76lZiaGzzQ0ibNU40ObwvicSibO16ianEyuXbg4SVu9rONaQSo790oFWyWCn6LjDFibwfll46pzdKfJTKQdA/640?wx_fmt=png "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76ka2ANYQlVIhkXasR9YZGpJ5c9ul2HC5TvKsbgQhlC9nzMF99lIrmjdgEeHohZkowvkKQNQmoUJvg/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76l3j7hotPU0e675ADxtwsGPLrYm67TkBuSZnoWU39B5TDxrZRsxolfAa7gasyyFMEgMTapFI6kmdg/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X7oyC9n7e6sZgYBdeAaD6q44R4nTia9WEGTDcshY5OWy8WCSEZTlkuo2Q/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X77hWOuBIwoZ7lrajLWQ6eiaYTxSC3AVjbbutcfcibmyuJcR9Qcrm5xblA/640?wx_fmt=png&from=appmsg "")  
+图片![](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4uGJ2SA5BhZ3UyibZvVmcP3sozQEOfVr0jftWpC3YkpDiaAicS1ib3EgXHA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X7mc06OG32Y2tR1q3sBlr36xcLy7yvWbP6nErVMuzw0SfZOY2VDxXFoQ/640?wx_fmt=png&from=appmsg "")  
-  
-  
-点个「在看」，你最好看  
   
