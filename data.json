@@ -2585,5 +2585,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488816&idx=1&sn=40e56b606871ab82673a8eb5107edcb4": "【漏洞通告】Windows LDAP拒绝服务漏洞（CVE-2024-49113）",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247548436&idx=1&sn=baec9456357a098350c006c6186d0d2e": "日系三大车企纷纷投靠华为",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134506&idx=2&sn=9a67c145a1539839b820660b74a1ee6e": "三部委联合印发《国家数据基础设施建设指引》；PoC漏洞利用工具LDAPNightmare或导致Windows服务器崩溃",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489999&idx=1&sn=483eb2d814c97345bcfadb2755a0fc9b": "大华智能物联综合管理平台 GetClassValue.jsp 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489999&idx=1&sn=483eb2d814c97345bcfadb2755a0fc9b": "大华智能物联综合管理平台 GetClassValue.jsp 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260378&idx=1&sn=8a397791da177ade1828327c43faa20b": "如何在M芯片的Mac上流畅游玩Windows游戏",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518105&idx=1&sn=0ee740b5265c89d5769a9d72c63546e5": "如何将低危的 SSRF 盲注升级为严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489406&idx=1&sn=54cef714873b5f9d9ffca2150ee957b3": "【漏洞预警】Windows LDAP拒绝服务漏洞（CVE-2024-49113）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247486468&idx=1&sn=42f66efd85076e48ece76d7e8711f8bd": "某教学平台支付逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500670&idx=1&sn=12cd707e76414099093fc21cf65e7a9e": "某教学平台支付逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247494699&idx=1&sn=5359d9bd1ac4044079ed06a503a44c85": "360SRC&360漏洞云丨洞力拉满，泰国出发！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483839&idx=1&sn=191cc600e45bc1c15207cee93794e1f0": "CVE-2024-25600 WordPress Bricks Builder远程代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495877&idx=1&sn=6e0705560c0d368671c89ae43f6439b9": "【漏洞工具】小米路由器任意文件读取漏洞python图形化框架利用工具(poc|exp)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094538&idx=1&sn=05dcbb09f205fa96a19b7a50cbbb52ec": "ASUS 路由器漏洞允许执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094538&idx=2&sn=3684eb5a5603b04f77d47066b15a50fa": "针对 Windows 注册表权限提升漏洞发布的 PoC 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247505572&idx=2&sn=5ea3a759ef146c95cce6966628d3e02e": "每周网安资讯 （12.31-1.6）|HP多款产品存在漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492674&idx=1&sn=e33ed0bd30aa7b5dd0ebce7fab0ae54f": "【已复现】Windows 轻量级目录访问协议 (LDAP) 信息泄漏漏洞（CVE-2024-49113）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODg1MDMwOQ==&mid=2247506905&idx=1&sn=41f6c85975d441705ce630e3b05992df": "优秀案例｜谋乐科技入围“2024年度数据安全优秀案例评选”政务场景",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134940&idx=1&sn=9d1fe08b8959e5098f587a666230b4a4": "【梆品推荐】梆梆安全移动应用合规平台 快速识别违规风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490009&idx=1&sn=29a640c65606ac3b71a0eccf8cf01537": "蓝凌OA WebService sysTagWebService 任意文件读取漏洞"
 }
