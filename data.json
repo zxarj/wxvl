@@ -2580,5 +2580,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495665&idx=2&sn=12f9e3cc2b5d3e22e02af2d000cf0588": "上周关注度较高的产品安全漏洞(20241230-20250105)",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526827&idx=1&sn=02106475443306b2005d8031e320d35f": "CVE-2024-47575：FortiManager FortiManager Cloud 缺少身份验证允许执行任意代码或命令",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489990&idx=1&sn=3bbe2aaccd2b7d99ff183f18e3509de7": "协众OA checkLoginQrCode SQL注入漏洞(XVE-2024-34879)",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655263381&idx=1&sn=899ccf90b6a54fb98818c2c375e2fe91": "2025年人工智能产业发展趋势"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655263381&idx=1&sn=899ccf90b6a54fb98818c2c375e2fe91": "2025年人工智能产业发展趋势",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247530812&idx=2&sn=80bce7fb3e712bd40ba29b66f8b49d68": "快讯丨工信部：关于防范Apache Struts2任意文件上传超危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488816&idx=1&sn=40e56b606871ab82673a8eb5107edcb4": "【漏洞通告】Windows LDAP拒绝服务漏洞（CVE-2024-49113）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247548436&idx=1&sn=baec9456357a098350c006c6186d0d2e": "日系三大车企纷纷投靠华为",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134506&idx=2&sn=9a67c145a1539839b820660b74a1ee6e": "三部委联合印发《国家数据基础设施建设指引》；PoC漏洞利用工具LDAPNightmare或导致Windows服务器崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247489999&idx=1&sn=483eb2d814c97345bcfadb2755a0fc9b": "大华智能物联综合管理平台 GetClassValue.jsp 远程代码执行漏洞"
 }
