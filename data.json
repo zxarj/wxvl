@@ -2607,5 +2607,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490158&idx=1&sn=e538e6e053ca4c9fa711c39b2c7530b1": "已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过",
     "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489577&idx=1&sn=e5b5f2ca0ca54cfad72ee3061f19209e": "【已复现】Windows 轻量级目录访问协议 (LDAP) 信息泄漏漏洞（CVE-2024-49113）",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462544&idx=1&sn=8ef4f6d5ce9ce4a58b596bbbad1a0aa3": "2024年度（第二期）CNNVD漏洞奖励评选结果公告",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247519062&idx=1&sn=3f7b5a21dfbaf02d2294efec6c27e29b": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247519062&idx=1&sn=3f7b5a21dfbaf02d2294efec6c27e29b": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507635&idx=1&sn=3ed64fc475689a3cd2c08cc3a146a471&chksm=cfcabda7f8bd34b1a7fff4bf9e12a26159edba95f80ef2dcc1f6be93e3254b732b48b0593b5f&scene=58&subscene=0": "漏洞通告 | Windows 轻量级目录访问协议 (LDAP) 拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492674&idx=1&sn=e33ed0bd30aa7b5dd0ebce7fab0ae54f&chksm=96f7fb2fa18072399da0de5e3ce959dfe5751d0de1d90a0ce55ff2c4ffe9327da53542d690cd&scene=58&subscene=0": "【已复现】Windows 轻量级目录访问协议 (LDAP) 信息泄漏漏洞（CVE-2024-49113）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491534&idx=1&sn=6b91592832e349d474acaf9011cc85bf&chksm=fe2ee045c959695389234cb3754f83d9d20c4e8b837cf16ca737ce9a1ad7394770d7dfffb68d&scene=58&subscene=0": "爱丁堡大学&剑桥大学|漏洞赏金生态系统中的团队与合作",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503267&idx=1&sn=47e29ccabd62c421ba1c885bb208e109&chksm=f2585f50c52fd6463212a9fd5aecd87a4312f82d5052052717ab05ab56d27ffc80ea48ae57c5&scene=58&subscene=0": "雷神众测漏洞周报2024.12.30-2025.1.5",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247502144&idx=1&sn=a9ca57845adb8a3cee52b994bb6dd9ed&chksm=cfc56e1ff8b2e709b8109abb20e08bbaee22bfde3ae080d57ca440e74f4721945aeacb1b3f9b&scene=58&subscene=0": "360漏洞云&360SRC丨洞力拉满，泰国出发！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495665&idx=1&sn=a84870c57ea8a9900f3d9c8fbc890d0c&chksm=fd74df38ca03562e9c63d183c47b2855ecebcc1ac30cdcbfcc0463c4a83637f0971607570404&scene=58&subscene=0": "CNVD漏洞周报2025年第1期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495665&idx=2&sn=12f9e3cc2b5d3e22e02af2d000cf0588&chksm=fd74df38ca03562e01745622acea53aacac64553a82441b46fdf1dc72d16062a1f8bea2ba7cf&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20241230-20250105)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247516929&idx=1&sn=a715db45df94a45c7c28e803faee7416": "2025 OWASP 大语言模型应用程序10大风险",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDEyNTkwNA==&mid=2247497075&idx=1&sn=1d041504e40dfbb400c230c0dcbb1bd0": "《2024年度漏洞态势分析报告》重磅出炉！文末扫码下载",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484549&idx=1&sn=a88bf7fad8fe67e1040afaefb128bffe": "【漏洞复现】急诊急救快速联动平台ServicePage.aspx任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491415&idx=1&sn=d4d4fe16a360f1ea8a4ef40228053f8b": "【全球首发】【6w$赏金】微软身份漏洞-未授权强制解绑任意微软账户邮箱（全球微软账户邮箱或受影响)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498056&idx=3&sn=213fffbf1af5721831386a359b2a979f": "漏洞的尽头竟然是玄学，随机触发学会了！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113760&idx=1&sn=567513461a25da6871c790aeadb56353": "AWS在4年内出现3次重复同一个严重RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247491993&idx=2&sn=dc36d96c8a03d2594b7d75c14af249c7": "漏洞预警 | 科汛网校KesionEDU SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247506599&idx=1&sn=1af5738b55e3fad98549d5c4ec287791": "暗网情报5则：涉国外赌场、金融企业、国内化工上市企业、VPN漏洞等"
 }
