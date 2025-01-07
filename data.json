@@ -2600,5 +2600,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492674&idx=1&sn=e33ed0bd30aa7b5dd0ebce7fab0ae54f": "【已复现】Windows 轻量级目录访问协议 (LDAP) 信息泄漏漏洞（CVE-2024-49113）",
     "https://mp.weixin.qq.com/s?__biz=MzAxODg1MDMwOQ==&mid=2247506905&idx=1&sn=41f6c85975d441705ce630e3b05992df": "优秀案例｜谋乐科技入围“2024年度数据安全优秀案例评选”政务场景",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651134940&idx=1&sn=9d1fe08b8959e5098f587a666230b4a4": "【梆品推荐】梆梆安全移动应用合规平台 快速识别违规风险",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490009&idx=1&sn=29a640c65606ac3b71a0eccf8cf01537": "蓝凌OA WebService sysTagWebService 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490009&idx=1&sn=29a640c65606ac3b71a0eccf8cf01537": "蓝凌OA WebService sysTagWebService 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247494715&idx=1&sn=bf26df8257d19255a8f2d86ad69b7e49": "【神兵利器】内网全方位漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493088&idx=1&sn=04f75d2cce65b0ea93a8576f38355a24": "Nuclei 漏洞允许绕过签名并执行代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247502144&idx=1&sn=a9ca57845adb8a3cee52b994bb6dd9ed": "360漏洞云&360SRC丨洞力拉满，泰国出发！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490158&idx=1&sn=e538e6e053ca4c9fa711c39b2c7530b1": "已打补丁但仍有漏洞 Windows BitLocker 加密再次被绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489577&idx=1&sn=e5b5f2ca0ca54cfad72ee3061f19209e": "【已复现】Windows 轻量级目录访问协议 (LDAP) 信息泄漏漏洞（CVE-2024-49113）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462544&idx=1&sn=8ef4f6d5ce9ce4a58b596bbbad1a0aa3": "2024年度（第二期）CNNVD漏洞奖励评选结果公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247519062&idx=1&sn=3f7b5a21dfbaf02d2294efec6c27e29b": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析"
 }
