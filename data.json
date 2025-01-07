@@ -2642,5 +2642,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484304&idx=1&sn=83efb53eb231adb8b58b258bb481d547": "【漏洞预警】用友 U8cloud CTExecDraftAction SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525456&idx=1&sn=9adbaee1f78b980d00fe5586bf04e796": "Windows 曝9.8分漏洞，已有PoC及利用情况",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495439&idx=1&sn=4b64e083c51bf2ab52aa684915c41cd0": "第八届网络空间安全西湖论坛在浙江大学成功举办",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485504&idx=1&sn=4e308c22e892ba7903ac17cd10ca98da": "【漏洞复现】EasyCVR视频管理平台存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485504&idx=1&sn=4e308c22e892ba7903ac17cd10ca98da": "【漏洞复现】EasyCVR视频管理平台存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496300&idx=1&sn=6a4b98953e18f9b7389819dfae63d82c": "Burp Suite插件 SQL Injection Scout，检测SQL注入漏洞而生",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490164&idx=1&sn=76ce8521d56046c9be42f0e7e4a9ac5f": "Moxa 提醒用户注意蜂窝和安全路由器中的高严重性漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247516802&idx=1&sn=55aac04f8e0d96649f8c08142a4255f7": "漏洞预警｜Redis代码执行漏洞(CVE-2024-46981)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311528&idx=1&sn=3491451dbb5738352f29c97dc37aa221": "Redis服务器曝2个严重的RCE漏洞，数百万系统面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311528&idx=2&sn=3c6c85bc8d3fa2ea029e88506d563efd": "4年内重复出现3次，AWS屡曝严重RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489411&idx=1&sn=24e2689a0859703412b2e6d0e5e237cf": "【漏洞预警】Redis代码执行漏洞（CVE-2024-46981）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526927&idx=2&sn=ddf256ebc16b6cac294434e36d71f0d4": "CVE-2024-43096 及更多：Android 安全更新中修复的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247488592&idx=1&sn=fc646cf9f3bafe2141ec9fc2a186dd0d": "渗透测试速查表",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588181&idx=3&sn=ed0557407f95454c25c98501fe8cac6e": "更新：第3章-AFL原理！系统0day安全-二进制漏洞攻防（第4期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500582&idx=2&sn=026e0c07bdb2acfdb3773dc0cfa906e3": "【漏洞通告】Redis代码执行漏洞（CVE-2024-46981）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247483853&idx=1&sn=bf46a58ec18d74abdc86c483d03ec6a8": "Gayfemboy：一个利用四信工业路由0DAY传播的僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485701&idx=1&sn=668e8f8056e8407ee9d22479bddeba41": "帆软Finebi_V5.1.10_channel反序列化漏洞复现"
 }
