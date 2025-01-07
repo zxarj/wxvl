@@ -2654,5 +2654,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588181&idx=3&sn=ed0557407f95454c25c98501fe8cac6e": "更新：第3章-AFL原理！系统0day安全-二进制漏洞攻防（第4期）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500582&idx=2&sn=026e0c07bdb2acfdb3773dc0cfa906e3": "【漏洞通告】Redis代码执行漏洞（CVE-2024-46981）",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247483853&idx=1&sn=bf46a58ec18d74abdc86c483d03ec6a8": "Gayfemboy：一个利用四信工业路由0DAY传播的僵尸网络",
-    "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485701&idx=1&sn=668e8f8056e8407ee9d22479bddeba41": "帆软Finebi_V5.1.10_channel反序列化漏洞复现"
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485701&idx=1&sn=668e8f8056e8407ee9d22479bddeba41": "帆软Finebi_V5.1.10_channel反序列化漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447899958&idx=1&sn=f4f1a9debde61c9fff15b9e825658880": "Nuclei漏洞CVE-2024-43405曝光：攻击者可绕过签名验证执行恶意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490028&idx=1&sn=0fe8e60a6363b5c36c11baf7a66fc49d": "蓝凌OA WebService sysNotifyTodoWebService 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486682&idx=1&sn=814bc66c684aab336ebe82fb0a00e77f": "「漏洞复现」深科特 LEAN MES系统 SMTLoadingMaterial.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484885&idx=1&sn=76d3670fefa33234544d26edae8cb63b": "【漏洞复现】CVE-2025-22214",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247490202&idx=1&sn=7c720e0270ddcb56fc28f38bfd88491a": "某公众号作者擅自发布安全漏洞被处罚",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247487698&idx=1&sn=f277fd2202cdf84e622dca83d0aa70a7": "Linux的常用持久化手段",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495889&idx=1&sn=98de8ca8d70849d91b142cf839c268d5": "【漏洞工具】某路由器任意文件读取漏洞go命令行跨平台利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247526927&idx=1&sn=d79b7d33ed9e4462609d073a835901ed": "CVE-2024-8474：OpenVPN Connect 漏洞泄露私钥"
 }
