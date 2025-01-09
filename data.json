@@ -2733,5 +2733,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486517&idx=1&sn=d8f0dc692de8c3c03a854b8096ff97f2": "【漏洞通告】大华智能物联综合管理平台(ICC) GetClassValue 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486517&idx=2&sn=5350237eaacb408cb4375251aff26aec": "【漏洞通告】Inspur ClusterEngine 安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489432&idx=1&sn=ee6d0c07de1e3e93c55193d9bf7bef7e": "【高危漏洞预警】Ivanti Connect Secure缓冲区溢出漏洞可导致远程代码执行",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486034&idx=1&sn=b5c2764f924dacf40943eec6c1fc3731": "网络攻防战白热化！乌克兰黑客摧毁俄罗斯ISP"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486034&idx=1&sn=b5c2764f924dacf40943eec6c1fc3731": "网络攻防战白热化！乌克兰黑客摧毁俄罗斯ISP",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490083&idx=1&sn=6808904e8930808449beab13f87e481b": "蓝凌OA WebService wechatWebserviceService 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247495932&idx=1&sn=c4bc1fa39abaee86b165a6b0b3c77e6d": "【漏洞工具】某路由器任意文件读取漏洞railgun利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311637&idx=3&sn=3d8a1497d5bd9ac4931bbf2245900ff9": "戴尔系统更新包框架现严重漏洞，可提升攻击者权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067236&idx=3&sn=d7fa7834d01e924cd20217efa4042c0c": "【安全圈】戴尔更新包框架漏洞可让攻击者提升权限",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490263&idx=1&sn=7aa3fe9c411a7f366330a4ff8aeec162": "《2024年度漏洞态势分析报告》重磅出炉！文末扫码下载",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063823&idx=1&sn=64f118a492d3875cfc0cb56a7d79b2c7": "信息安全漏洞周报【第005期】",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485030&idx=1&sn=d1c94b79a2330434a22d2ebb9a349f3b": "tomcat自动化漏洞扫描利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486517&idx=3&sn=4499f4a577509cf4c43d26aa687203bf": "【漏洞通告】Aviatrix Controller命令注入漏洞"
 }
