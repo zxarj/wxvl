@@ -2688,5 +2688,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486695&idx=1&sn=477702ac13b879f52f8409dd3f90ec12": "「漏洞复现」以柔资讯-D-Security终端文件保护系统 logFileName 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyODYwODkyMA==&mid=2247484888&idx=1&sn=7013dedfe9013c53a4d427d05d370b02": "2024年零日漏洞攻击的七大演变趋势",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484370&idx=1&sn=ff7652568d2e3f2aa0449bcab22ff891": "无视加固，无视加解密，无视证书校验，不需要脱壳，半步无敌APP抓包通杀方案YYDS！",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522013&idx=1&sn=9f3081df1533336e5c1747667ca72291": "联发科芯片集存在严重的RCE漏洞，影响数百万台设备"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522013&idx=1&sn=9f3081df1533336e5c1747667ca72291": "联发科芯片集存在严重的RCE漏洞，影响数百万台设备",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492013&idx=1&sn=a92e52ff8ae22ef1aace5d50b4a5f46a": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492013&idx=2&sn=09a0e1e42fb16edb8974c8a1c4654c61": "漏洞预警 | 数字通云平台智慧政务敏感信息泄露和任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504441&idx=1&sn=f771b11e87512e682d7b81a9455c9b49": "大多数 Bug Hunter 忽略的简单漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247568200&idx=1&sn=565468f80dec063b08e69e60c9cd9621": "喜报！炼石入选上海市“2024年度数据安全优秀案例”名单",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490046&idx=1&sn=3836e56c102c9357df406be92f1bdf9e": "蓝凌OA WebService kmImeetingBookWebService 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496793&idx=1&sn=8e3f34c066cd604eccf73f6d511b4524": "利用js挖掘漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489427&idx=1&sn=e6de3aebbb68abcd75b71caedc884021": "【漏洞预警】Aviatrix Aviatrix Controller 未授权命令注入漏洞 (CVE-2024-50603)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489427&idx=2&sn=a4654292c790b717569913b689dffa98": "【漏洞预警】Gogit Go-Git 未授权表达式注入漏洞 (CVE-2025-21613)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311586&idx=3&sn=bf6a8c41adf32f587f4ad8673e9b94cc": "知名基因测序仪曝BIOS漏洞，可禁用疾病监测和疫苗开发",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311586&idx=4&sn=a440576445d2d6de4200ba600d7a2d68": "Group3r：一款针对活动目录组策略安全的漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247490921&idx=1&sn=98e7a65ec729258c484f301ae0a79ac2": "【国际视野】卡巴斯基：EAGERBEE后门变种瞄准中东",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588408&idx=3&sn=a36534a4e2a7625285916966113f109b": "Apache Struts 2 再曝远程代码执行漏洞 CVE-2024-53677",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588408&idx=4&sn=2f1a6f106c5b4a9c85840b817a044222": "更新第1章！系统0day 安全-企业级网络设备固件漏洞挖掘（第7期）"
 }
