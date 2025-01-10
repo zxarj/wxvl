@@ -2762,5 +2762,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247486266&idx=2&sn=38421824f3817e1e1eb99afb6060b4f9": "ksmbd 漏洞研究",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247486643&idx=1&sn=307b37d0723f16d80c9525f2236e2992": "年度包揽！长亭科技荣获2024年度（第二期）CNNVD漏洞奖励评选一级贡献奖",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523980&idx=1&sn=00c541e42b5d70c852de427d37e2f096": "【漏洞通告】Ivanti Connect Secure,Policy Secure&ZTA Gateways缓冲区溢出漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247485452&idx=1&sn=e8e90d2fe130da35a13cdcf3ecd44222": "快来cnvd找工作必备"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247485452&idx=1&sn=e8e90d2fe130da35a13cdcf3ecd44222": "快来cnvd找工作必备",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067236&idx=3&sn=d7fa7834d01e924cd20217efa4042c0c&chksm=f36e79e4c419f0f2715d10259d56af993acf26a7cd9cb2e0ee31dd8c02ead0683bf3dc502c49&scene=58&subscene=0": "【安全圈】戴尔更新包框架漏洞可让攻击者提升权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067236&idx=4&sn=b0147296a18e71da729ab28bc5c2ff3d&chksm=f36e79e4c419f0f2a35ef7ccb2f9e02e1ff05a8932fae3aec068182b76b3971be1050410a85a&scene=58&subscene=0": "【安全圈】Redis服务器曝2个严重的RCE漏洞，数百万系统面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522025&idx=1&sn=5fd3517667080fa3c953fe0d2afa966b&chksm=ea94a783dde32e9525f0fb0b763e86e9b9f4e7b2b0e8472055ffc4a880291d848b42241fefb1&scene=58&subscene=0": "SonicWall：立即修复已遭利用的SSLVPN漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522025&idx=2&sn=f67e98879ae334210339981b77e939e9&chksm=ea94a783dde32e95cdc7f507b228d2e8c85822c8950419c515b096009972bdf7a059d31d6dfc&scene=58&subscene=0": "Ivanti提醒注意 Connect Secure 产品中的新0day",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498100&idx=1&sn=ff112648ce0fae2852f5b79963e28f49&chksm=fa595799cd2ede8ff4a679bf8626e583b72433563a159a817c84571918c4ce14e1699abea334&scene=58&subscene=0": "无独有偶，通过.NET反序列化漏洞实现 Visual Studio 钓鱼攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523980&idx=1&sn=00c541e42b5d70c852de427d37e2f096&chksm=ce46159cf9319c8a729953194779090bd1c84ad058c699f94cbd276f6cbf3556d6387638af95&scene=58&subscene=0": "【漏洞通告】Ivanti Connect Secure,Policy Secure&ZTA Gateways缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462550&idx=1&sn=14197e04f863684b1613f3c69429b623": "信息安全漏洞周报（2025年第1期 ）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247483753&idx=1&sn=72ffd029fa620587c8102e17ec4058f1": "2025最新挖漏洞给报酬的网站汇总，零基础入门到精通，收藏这篇就够了",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793802&idx=1&sn=30cf3033e8ffaf45d47fd6f3b7649198": "Ivanti Connect Secure VPN 成为新0day攻击的目标",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492027&idx=2&sn=d1c82024b3cfaa3f584d0809b4cd1a2d": "漏洞预警 | 亿赛通电子文档安全管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493118&idx=1&sn=1e3059333f8849a83961a304d66c9fb3": "SonicWall 警告存在可利用的 SonicOS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493118&idx=2&sn=1da6abe8b64254dea9ec4afad005c257": "Gayfemboy 僵尸网络瞄准 Four-Faith 路由器漏洞"
 }
