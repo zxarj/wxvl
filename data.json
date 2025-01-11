@@ -2793,5 +2793,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247519568&idx=1&sn=a136e2cd3ab3db52ce3b8f15811f0411&chksm=ce5daf31f92a2627e42e6f140583642241a9cce471e1727c960141e4bda457f55374ea16de47&scene=58&subscene=0": "Pwn入门之格式化字符串漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522035&idx=2&sn=71c00b294647fadae4e56ffc500f1300&chksm=ea94a799dde32e8fec367a20f0630181350a5ca556cc26cfaa9fcbefdac76ae3c3831523c87e&scene=58&subscene=0": "Palo Alto Networks 修复退市 Migration Tool中的高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486728&idx=1&sn=a2987c4ca400a3a3686e1c8ebff60b66": "「漏洞复现」瑞友天翼应用虚拟化系统 GetPwdPolicy SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525574&idx=1&sn=71fbd1aa0ae586008514d626ad81cd1e": "大模型安全的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525574&idx=1&sn=71fbd1aa0ae586008514d626ad81cd1e": "大模型安全的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486253&idx=1&sn=62124571618afa3afa400518ed8a9638": "基于大模型（LLM）的黑盒RCE漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655263668&idx=1&sn=ac8c38d0522ed2d4c979644a09ff179d": "2024年网络空间安全漏洞态势分析研究报告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793817&idx=3&sn=76e96780b09c070feb5068ffc86b1d38": "Google Project Zero 研究人员发现针对三星设备的零点击漏洞"
 }
