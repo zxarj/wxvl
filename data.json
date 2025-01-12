@@ -2809,5 +2809,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492691&idx=1&sn=e1d64db4b8957907e6417a61d2c40fa4&chksm=96f7fb3ea1807228c78b8469fdfa3a9fad83374094781eb88c48ae6e598331b3bd87ae4c659c&scene=58&subscene=0": "【已复现】Ivanti Connect Secure 堆栈溢出致远程代码执行漏洞（CVE-2025-0282）",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498152&idx=3&sn=a45de16edbca5168f73ea7ed4ffeca36&chksm=fa595745cd2ede53cd0f763edff055aeced78d85bdeea1f2be5fd2d80d72a65ed86e0df928f3&scene=58&subscene=0": "无独有偶，通过.NET反序列化漏洞实现 Visual Studio 钓鱼攻击",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067274&idx=3&sn=8eb5cc6c0a00bef351ca6ec387133310&chksm=f36e798ac419f09cca9472d89e0009706062cc803d7b61065e39083441ba8c9e646c932b6efe&scene=58&subscene=0": "【安全圈】Ivanti VPN 零日漏洞正在被黑客利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487016&idx=1&sn=740c4dccda5bc675cb15d583a7867ad6": "禅道CMS开源版SQL注入漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487016&idx=1&sn=740c4dccda5bc675cb15d583a7867ad6": "禅道CMS开源版SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492518&idx=1&sn=d4196de8b812e3a2d29209b50328cec0": "网络安全领域研究人员遭遇假PoC专项攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486764&idx=1&sn=69cdc86ba9528ef7448abb4bdd976484": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDY3MTY3MA==&mid=2247486739&idx=1&sn=6463b2b41421b6514b200a5d9b397ac6": "「漏洞复现」某源地产ERP Service.asmx X-Forwarded-For注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247494172&idx=1&sn=8437b6bd83d4cea051dbc558260056d8": "古河大佬发现CVE-2024-49113 被黑客利用，发布恶意 PoC（好害怕发布带毒 poc 啊）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546664&idx=2&sn=4c18d53fa9dcc5cfebddcb4102d7baaf": "区块链 智能合约安全 重入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247615101&idx=1&sn=1c11d3cd73b424e3335a64efba88679c": "通过高效的侦察发现关键漏洞接管整个IT基础设施",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247487572&idx=1&sn=598542b01490ec8a8f9825c4a20f54f6": "文件包含漏洞等你来看",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311815&idx=1&sn=40eddfee1242b4b1518db9b0ecb9e786": "大量恶意npm包盯上了开发者",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311815&idx=3&sn=e6c5675db6f0e57973dcd1817459dc10": "2025年需要防范的五大恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900022&idx=1&sn=468ab732933d168f76e10f10d930551d": "CISA紧急警告：Oracle与Mitel高危漏洞正被攻击者利用，企业需立即修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491552&idx=1&sn=f1a376f0e49cff2ddca8fd74d0ecb5d9": "2024年度上海网络与信息安全测评工程技术研究中心开放课题申请指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247495935&idx=2&sn=00a08f04efcb34f608a0a212fe9f18a0": "中信银行日照分行因“未及时处置数据安全漏洞风险”等被罚54万元"
 }
