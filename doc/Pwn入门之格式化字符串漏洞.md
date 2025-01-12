@@ -1,5 +1,5 @@
 #  Pwn入门之格式化字符串漏洞   
-原创 ShadowCui  Tide安全团队   2025-01-10 09:01  
+ sec0nd安全   2025-01-11 13:06  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/DuibU3GqmxVmRsdItbBVRKegNHicHQvAHDdZsGpLVU7touSU1AU1twHTfRjG3Vu5aUh0RnPPllfVUhs4qdWF5QYQ/640?wx_fmt=png "")  
   
