@@ -2827,5 +2827,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247488478&idx=1&sn=0e94195de32c6cc2af2df00db511b92a": "【相关分享】记一次小程序逻辑漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247489945&idx=1&sn=16fddd51cbca85affc9474949cbe7245": "Pwn入门之格式化字符串漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247484161&idx=1&sn=4fedc2c070e311189f636deb084deda5": "【安全产品】堡垒机-安全问题分析-漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484899&idx=1&sn=ebdbb1fe5f94622276851862e5a4dbb5": "【漏洞复现】CVE-2024-50603"
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484899&idx=1&sn=ebdbb1fe5f94622276851862e5a4dbb5": "【漏洞复现】CVE-2024-50603",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489895&idx=1&sn=d395d20867558882eeb0fd816863cd20": "记一次某SRC信息管理系统多个漏洞组合Getshell|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496832&idx=1&sn=5c72712e20772f2279b09ca9a748afc2": "SSRF 漏洞自动化 寻找",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490122&idx=1&sn=53609c160a2964063bb4bc1b113c77b8": "JeecgBoot passwordChange 任意用户密码重置漏洞"
 }
