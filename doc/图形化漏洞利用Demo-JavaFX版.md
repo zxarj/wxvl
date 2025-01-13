@@ -1,22 +1,21 @@
 #  图形化漏洞利用Demo-JavaFX版   
-yhy0  实战安全研究   2025-01-09 01:00  
+原创 Iuochen  网络安全杂记   2025-01-13 04:46  
   
-## 这是个嘛？  
+## 0x00 引言  
+  
+     这是一个专注于构建图形化漏洞利用工具的项目。项目目前已经搭建好了基本的框架结构，就像一座大厦已经建好了骨架，现在只需要往里面填充漏洞利用代码（exp）就可以了。这个项目的目标是助力安全人员迅速打造一个具备图形化界面并且能在多个平台使用的漏洞利用工具。  
+  
+在众多的漏洞利用工具里，虽然命令行工具也有其优秀之处，但是图形化的工具具有独特的优势。它更加方便、直观，能够让使用者更轻松地操作和理解。  
+  
+使用这个项目的时候，你不需要精通Java语言，只要对Java的基本语法有所了解就行。我们可以参照项目中自带的EXP示例，按照示例的模式和要求进行操作，这样就能够快速开发出独属于自己的漏洞利用工具，进而构建起自己的漏洞利用库。  
   
   
-这是一个构建图形化漏洞利用的一个项目，已经写好架子，只需要往里填充exp即可，帮助安全人员快速构建一个图形化的、跨平台的漏洞利用工具。  
+源地址：  
+https://github.com/yhy0/ExpDemo-JavaFX  
+## 0x01 正文  
   
-虽然有很多优秀的命令行利用工具，但我觉得还是带界面的方便、直观。  
-  
-使用本项目，你不需要懂太多Java语言，只需要了解基本的语法，参考自带的EXP例子，即可快速开发一款**属于你自己**  
-的漏洞利用工具，建立自己的漏洞利用库。  
-##   
-## 编写属于你的图像化漏洞利用工具  
-  
-#### 项目结构  
-####   
+ |   项目结构  
 ```
-.
 ├── ExpDemo-JavaFX.iml
 ├── logs          运行日志文件
 │   ├── debug.log
@@ -81,72 +80,75 @@ yhy0  实战安全研究   2025-01-09 01:00
             │   └── weixin.jpg
             └── log4j.properties   日志相关设置
 ```  
-####   
-####   
-#### 编写EXP  
   
+|  编写EXP  
   
 编写EXP时，要使用 implements  
 实现ExploitInterface  
 接口，实现接口中的几个方法  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/zBdps5HcBF0Jb1gh2bjWyeAZApCxVw70EW25vvBEPHxRypT5KEgbS3dvKeBVA6cficIIAiadBtnEkQUT0XJCVcUQ/640?wx_fmt=png&from=appmsg "")  
-- checkVUL 使用poc 检查是否漏洞  
+ExpDemo-JavaFX工具新增漏洞编写教程  
   
-- exeCMD 使用exp执行命令  
-  
-- uploadFile 使用命令执行 写webshell，上传文件  
-  
-- getWebPath 获取网站的web目录，供上传文件使用  
-  
-- isVul 是否存在漏洞，检查时会根据结构自动赋值，供后续调用  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/gjZLjBKtmAtFGQ3C6SGKiacrFpJw80tkNiaku0iblujlI5pxXT35llRo4kVHr2Viaa8Pp2jyf7Dia0KkvGeFH8sPwLQ/640?wx_fmt=png&from=appmsg "")  
+```
+-   checkVUL     使用poc 检查是否漏洞
+-   exeCMD            使用exp执行命令
+-   uploadFile        使用命令执行 写webshell，上传文件
+-   getWebPath        获取网站的web目录，供上传文件使用
+-   isVul              是否存在漏洞，检查时会根据结构自动赋值，供后续调用
+```  
   
 EXP具体编写请参考 fun/fireline/exp  
  下的各种漏洞实现  
   
-当编写完EXP后，转到 fun/fireline/controller  
+当编写完EXP后，  
+转到 fun/fireline/controller  
  下对应的**xxController.java**  
 文件，比如新编写了Struts2的相关漏洞，修改**Struts2Controller.java**  
 的**STRUTS2**  
 变量，新加入一个漏洞名称，这里对应的是图像化界面中可供选择的漏洞列表  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/zBdps5HcBF0Jb1gh2bjWyeAZApCxVw70yVVsEX4Ivz14l0erEGfg4dnVywfqzWibGGxIib6hyTqEwUcaYgrYvMrw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/gjZLjBKtmAtFGQ3C6SGKiacrFpJw80tkNw5MkVOib0zqniaK2EyDktJMSrLQxdOaJv4O8Amu2uE4tcwibaVxQj4sJA/640?wx_fmt=png&from=appmsg "")  
   
 之后进入和 fun/fireline/tools/Tools.java  
  的**getExploit**  
 方法中新增一个**else if**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/zBdps5HcBF0Jb1gh2bjWyeAZApCxVw70yJSG3vSVxTgNaobgYcEhFDpcYGKa5NfDvAUaLuGPgaZzPZA4wGAa8Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/gjZLjBKtmAtFGQ3C6SGKiacrFpJw80tkNKhnNiaLSIfUaGOHxDeFOQibvicVBBFEhEzuRNUWT6AqAvnuibPg6M6G7sA/640?wx_fmt=png&from=appmsg "")  
   
 编写完后，可以直接执行fun/fireline/AppStartUp.java  
 类, 查看是否正常运行。  
   
 开发过程中每次修改完运行前，最好将生成的**target**  
 目录删除再运行  
-####   
-#### 部署，发布  
+## 0x02 部署  
   
   
-当一切编写完成，bug修复完毕，在项目根目录下执行 **mvn package assembly:single**  
- 即可生成 **jar**  
- 文件。  
-  
-运行使用**target目录下最大的jar文件**  
-  
-对方没有Java环境怎么办？  
-  
-使用 **mvn jfx:native**  
- 命令生产对应平台的文件，比如Mac下，执行命令**mvn jfx:native**  
-命令就会在 **target/jfx/native**  
- 目录下生成打包后应用(win下生成exe)，带可执行文件，带 JRE 运行环境，超大，200+M。  
-  
-**mvn clean**  
-用于清除生成的文件。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/zBdps5HcBF0Jb1gh2bjWyeAZApCxVw70o3k9dDyI49wpJPY6wvqtUrcPn1Kaa2U1YplV9ibD3p2vqf7TUaiaBmPg/640?wx_fmt=png&from=appmsg "")  
+在项目开发和测试完成后，一旦所有的编写工作结束并且bug得到了修复，您可以在项目的根目录下执行以下命令：  
 ```
-作者：yhy0
-原文连接：https://github.com/yhy0/ExpDemo-JavaFX
+mvn package assembly:single
 ```  
   
+这条命令将会生成一个可执行的JAR文件。为了运行这个项目，您可以使用target  
+目录下生成的较大JAR文件。  
+  
+如果您在没有Java环境的机器上运行，可以使用以下命令来生成对应平台的可执行文件：  
+```
+mvn jfx:native
+```  
+  
+例如，在Mac系统下执行此命令，将会在target/jfx/native  
+目录下生成一个打包后的应用程序（在Windows系统下会生成.exe  
+文件）。这个打包的应用程序包含了可执行文件和JRE运行环境，因此文件体积较大，通常超过200MB。  
+  
+如果您需要清除之前生成的文件，可以使用以下命令：  
+```
+mvn clean
+```  
+  
+此外，您也可以通过双击ExpDemo-JavaFX-1.9/src/main/java/fun/fireline/AppStartUp.java  
+来启动项目，这种方式适用于开发过程中的快速测试。  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/gjZLjBKtmAtFGQ3C6SGKiacrFpJw80tkNTOYSug2ic0QicQ9qF7Al3yyIGMo4AQicfBtWGBMkeXPm5ib2obBqN3XnNQ/640?wx_fmt=png&from=appmsg "")  
   
