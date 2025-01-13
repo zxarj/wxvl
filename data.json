@@ -2830,5 +2830,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484899&idx=1&sn=ebdbb1fe5f94622276851862e5a4dbb5": "【漏洞复现】CVE-2024-50603",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489895&idx=1&sn=d395d20867558882eeb0fd816863cd20": "记一次某SRC信息管理系统多个漏洞组合Getshell|挖洞技巧",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496832&idx=1&sn=5c72712e20772f2279b09ca9a748afc2": "SSRF 漏洞自动化 寻找",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490122&idx=1&sn=53609c160a2964063bb4bc1b113c77b8": "JeecgBoot passwordChange 任意用户密码重置漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490122&idx=1&sn=53609c160a2964063bb4bc1b113c77b8": "JeecgBoot passwordChange 任意用户密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzYzMzkzNg==&mid=2650962428&idx=1&sn=b6d1444de2a91eaf1aa348721b0ce44f": "【安全工具】一款免费的APP IOS抓包工具 支持Flutter应用抓包|漏洞探测"
 }
