@@ -2833,5 +2833,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490122&idx=1&sn=53609c160a2964063bb4bc1b113c77b8": "JeecgBoot passwordChange 任意用户密码重置漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzYzMzkzNg==&mid=2650962428&idx=1&sn=b6d1444de2a91eaf1aa348721b0ce44f": "【安全工具】一款免费的APP IOS抓包工具 支持Flutter应用抓包|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496832&idx=1&sn=5c72712e20772f2279b09ca9a748afc2&chksm=e8a5fee3dfd277f5990fbe3dfe7247c7dd7bf125a233ad4ec99a8afb49b1b2e29ae25f7866b6&scene=58&subscene=0": "SSRF 漏洞自动化 寻找",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490141&idx=1&sn=9bdeb4a82982b626048e1a9069b4d1e9": "泛微-云桥e-Bridge addTasteJsonp SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490141&idx=1&sn=9bdeb4a82982b626048e1a9069b4d1e9": "泛微-云桥e-Bridge addTasteJsonp SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485124&idx=1&sn=de4ced0e1f786160e9142f28356cf6df": "章管家前台任意文件上传漏洞(XVE-2024-19042)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492049&idx=1&sn=477ca1693572ddef742c786b293ae30d": "漏洞预警 | 圣乔ERP系统任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492049&idx=2&sn=52de5365cf3ce21c05a7c7f3642a5aca": "漏洞预警 | 快云服务器助手任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492049&idx=3&sn=71a228b16c671fab21ef6cf7b601ecfa": "漏洞预警 | 朗速ERP SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492049&idx=4&sn=99166247f103a1d00bedee0880079409": "工具 | WExploit",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493254&idx=1&sn=df664e419cb1cabf2589f72b88d8570d": "Java漏洞集合工具更新2.0",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651130319&idx=1&sn=345bdcb858d6db350bb617bf16fd1016": "5G+AI+信创，深度揭秘智慧矿山工业控制网络构建之道",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDgzOTk2Mg==&mid=2247484579&idx=1&sn=1dcf41285d17a8a40ef114a371a0bb31": "Bp神级插件：二次开发，让API漏洞挖掘，效率倍增！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484669&idx=1&sn=909446a8538d5c33d7507c15d7839988": "CVE-2025-22777 (CVSS 9.8)：WordPress | GiveWP 插件的严重漏洞"
 }
