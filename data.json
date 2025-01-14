@@ -2874,5 +2874,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MzQ0Ng==&mid=2247484513&idx=1&sn=ce8323e3947ba30d7a9cf7463b3233db": "macos高危漏洞CVE-2024-54498 解析+复现",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247491409&idx=1&sn=6765857872fa1625c539e95acd152fc3": "macos高危漏洞CVE-2024-54498 解析+复现",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553025&idx=1&sn=d33ddf7981da6d85626bbe6362bea3b9": "PWN入门之格式化字符串漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499598&idx=2&sn=3ffda804485324be45ad5358707cb07f": "上周关注度较高的产品安全漏洞(20250106-20250112)"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499598&idx=2&sn=3ffda804485324be45ad5358707cb07f": "上周关注度较高的产品安全漏洞(20250106-20250112)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489457&idx=1&sn=56aacbec2792c121e13929fa55c1d15c": "【漏洞预警】科拓全智能停车收费系统Webservice.asmx存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489687&idx=1&sn=c004c654be6ef71290e6cc23b82a8083": "网站篡改入门,一个SQL注入漏洞就能让整个网站大变样，原理详解|!|从SQL注入到XSS攻击，完整还原黑客是如何篡改网站的",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490196&idx=1&sn=c5f5b38d186df545679f4ea625394a55": "2025年首个满分漏洞，PoC已公布，可部署后门",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651311991&idx=3&sn=db90b0dc624faaae95f965931adc5423": "议题征集 | 关于征集第六期移动互联网APP产品安全漏洞技术沙龙议题的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522060&idx=1&sn=562313e7f413152c3399933007b147f5": "微软：macOS 漏洞可导致黑客安装恶意内核驱动",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522060&idx=2&sn=77945a6bc936ca2cbd6fe400e106a420": "严重的 Aviatrix Controller RCE 漏洞已遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMDQxODk4NQ==&mid=2247484070&idx=1&sn=2b629af5319545695cfc98285cba1226": "泛洪攻击模拟复现详解"
 }
