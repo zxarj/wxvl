@@ -2898,5 +2898,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247569683&idx=1&sn=450e5eb00d776c71a52dff655d3bea37": "使用自动化工具寻找sql注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500613&idx=2&sn=d5c38be468308035c9a6b96cc0e63381": "【漏洞通告】Ivanti多款产品缓冲区溢出漏洞(CVE-2025-0282)",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499598&idx=1&sn=d578eee42f5b23ecb425d9237117eec6": "CNVD漏洞周报2025年第2期",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490178&idx=1&sn=e824a1b3f07a5bd2d4c1f0be104264cc": "云连POS-ERP管理系统 download.action 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490178&idx=1&sn=e824a1b3f07a5bd2d4c1f0be104264cc": "云连POS-ERP管理系统 download.action 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247488940&idx=1&sn=ed88e703d586aa3766308140d9a5eb49": "Java综合漏洞平台",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484691&idx=1&sn=95419e2c9d5264ef3cae38b7a8c3b31e": "Tomcat 弱密码检测 与漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492068&idx=1&sn=bb03b038fe74e7465d289991964f9bd3": "漏洞预警 | Aviatrix Controller命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492068&idx=2&sn=772981c8cda216d044abf4d11fd02576": "漏洞预警 | WordPress Plugin Hurrakify SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492068&idx=3&sn=2ea4264d66dca6b6c037f3101d15fb06": "漏洞预警 | go-git参数注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493280&idx=1&sn=0c9de072c4b55977c5623ecbd68293a6": "专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247495707&idx=1&sn=fb5fa5579021060d10ad9011e147c66f": "攻防靶场(40)：破壳漏洞利用 Sumo"
 }
