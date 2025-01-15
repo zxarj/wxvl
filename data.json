@@ -2925,5 +2925,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546762&idx=1&sn=f6235edee8a9ec9a66cb08012d395141": "某公交管理系统简易逻辑漏洞+SQL注入挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484413&idx=2&sn=44e275abbacd91b885c76cc35ffbbc80": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第十八期",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502769&idx=1&sn=7d06f9d258b0145e52d6fa7cef2430ad": "微软1月补丁日多个产品安全漏洞风险通告：3个在野利用、12个紧急漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486055&idx=1&sn=c3a3856c3515f17a7311649acaec0f82": "震惊！OA 系统漏洞竟让 1400 多名学生敏感信息“裸奔”"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486055&idx=1&sn=c3a3856c3515f17a7311649acaec0f82": "震惊！OA 系统漏洞竟让 1400 多名学生敏感信息“裸奔”",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486028&idx=1&sn=63cc8acc3287aeb74b0cce36bc0a9450": "一款java漏洞集合工具 - Hyacinth",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067360&idx=3&sn=dd1e289ee05448049f4a12db1949c772": "【安全圈】Windows 远程桌面网关漏洞导致系统遭受 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490281&idx=3&sn=f0e14c938102524a28c241ea4cd11ce7": "【风险通告】FortiOS and FortiProxy存在身份验证绕过漏洞（CVE-2024-55591）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTk2OTY5MA==&mid=2247485644&idx=1&sn=88b3cd3828c67e43ba86c0cf353e4c8a": "Microsoft 1 月 CVE 漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497068&idx=1&sn=49fbe931deff728264c4219f91c14f28": "内推 | 上海奇安信渗透测试岗火热招聘中",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488851&idx=2&sn=72adc51b645adaa0690545cb0629a826": "【安全更新】微软1月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787737&idx=1&sn=6725317e45de42aa994fa2977db726ae": "强制报告与禁止支付，英国拟立法打击勒索软件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=3&sn=2fce995dcb779b108d4f3f7a3043c743": "CNVD漏洞周报2025年第2期",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496932&idx=1&sn=9181bae32d56d3f63bef793502f84541": "2025年1月微软补丁日多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900030&idx=1&sn=17d56b9e55e22290f5e4b5db44ddb42c": "Ivanti VPN 零日漏洞遭攻击，敏感信息面临风险！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507683&idx=1&sn=29566d48b96920586ff08527eba2517a": "微步情报局发现Apache Linkis漏洞，再获Apache官方致谢",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzQ4MzA4Ng==&mid=2247485142&idx=1&sn=9248b2bec85645f833189256dc099724": "工信部发布关于加强互联网数据中心客户数据安全保护的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502786&idx=1&sn=9c3ec9f73e5c305b28c6848870adc528": "Ivanti Endpoint Manager 多个信息泄露漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500622&idx=2&sn=2416996e9c00d93ee656f46111cca28d": "【漏洞通告】微软1月多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113945&idx=1&sn=8dea64f5407a935a2d3399a9e5c4700d": "微软2025年1月份于周二补丁日针对161漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484413&idx=1&sn=5a913058c41dbc584efcca2e7d0473a4": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第3期，总第21期]"
 }
