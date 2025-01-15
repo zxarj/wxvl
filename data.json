@@ -2954,5 +2954,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=2&sn=25be5b60ca7f2aba3a6a82b4164656f5": "【漏洞通告】FortiOS和FortiProxy身份验证绕过漏洞(CVE-2024-55591)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484318&idx=1&sn=a38565417660cc105376398c8dfcd649": "【漏洞预警】用友nc 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485139&idx=1&sn=54b2149c95610c6fe3934255ce276b75": "Jeecg存在JNDI代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580791&idx=2&sn=3e0e732784e4fc45d8352e89c2f44690": "Adobe 发布带有 PoC 漏洞代码的严重 ColdFusion 错误提醒"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580791&idx=2&sn=3e0e732784e4fc45d8352e89c2f44690": "Adobe 发布带有 PoC 漏洞代码的严重 ColdFusion 错误提醒",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490281&idx=1&sn=0325c7ec2ff2d46851b13f8bf8b78895": "【风险通告】微软1月安全更新补丁和多个高危漏洞风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490281&idx=2&sn=091bfbb3502c26c5666cea0aab41c9c7": "【风险通告】Ivanti Endpoint Manager存在路径穿越敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134691&idx=2&sn=8abe952e69d2d777f3d51b3b941be282": "又一BeyondTrust漏洞遭黑客利用；Fortinet修复已被在野利用零日漏洞，可攻破FortiGate防火墙 | 牛览"
 }
