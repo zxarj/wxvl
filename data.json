@@ -2905,5 +2905,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492068&idx=2&sn=772981c8cda216d044abf4d11fd02576": "漏洞预警 | WordPress Plugin Hurrakify SSRF漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492068&idx=3&sn=2ea4264d66dca6b6c037f3101d15fb06": "漏洞预警 | go-git参数注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493280&idx=1&sn=0c9de072c4b55977c5623ecbd68293a6": "专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247495707&idx=1&sn=fb5fa5579021060d10ad9011e147c66f": "攻防靶场(40)：破壳漏洞利用 Sumo"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247495707&idx=1&sn=fb5fa5579021060d10ad9011e147c66f": "攻防靶场(40)：破壳漏洞利用 Sumo",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522060&idx=1&sn=562313e7f413152c3399933007b147f5&chksm=ea94a666dde32f706b2b66b455dfbe3a9b106e8c0a4a379c3b30ac5c0aa916c5ad8b092cddd1&scene=58&subscene=0": "微软：macOS 漏洞可导致黑客安装恶意内核驱动",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522060&idx=2&sn=77945a6bc936ca2cbd6fe400e106a420&chksm=ea94a666dde32f702c05d9f642f0ea1c7cbc525dd3805a10ce8441a93f2412a10b40fc913587&scene=58&subscene=0": "严重的 Aviatrix Controller RCE 漏洞已遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588667&idx=3&sn=af4f2eb4bededa0cea574e3cd7963382&chksm=b18c257186fbac670637d659a7511de8c3ead88069367df522ef629a278eaa02c9daf567134d&scene=58&subscene=0": "2025年首个满分漏洞：云攻击者利用Aviatrix Controller漏洞植入恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067342&idx=1&sn=533ba142831a3c994e00cb6ec7d6d36c&chksm=f36e7a4ec419f35879a33af360eded6ccc081b3546a86d7a969a48f0eeb7b2f5eecb5be455a9&scene=58&subscene=0": "【安全圈】2025年首个满分漏洞，PoC已公布，可部署后门",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067342&idx=4&sn=380dc9803cf52db7c5d1771d404c4279&chksm=f36e7a4ec419f35821fb42bc3692d2e2ea1220de0c7f64fc0b4a684c0758e137b27573afb929&scene=58&subscene=0": "【安全圈】为网络安全研究人员定制的虚假漏洞利用攻击利用恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247579028&idx=1&sn=3d580b0d7ca47a7f72c3197a1199540b&chksm=9f8d259ca8faac8a4d409dfed08e3cc488bb728732fb1f7fb2472e8da2de36263fd911a68379&scene=58&subscene=0": "工信部认可！360荣获车联网产品安全漏洞专业库“优秀技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247485780&idx=1&sn=fe6bca078339d21ec48c776cb91bf35c": "教育SRC邀请码",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513504&idx=1&sn=838af406a4e2aec5e99b37399b5f1a2e": "警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247525600&idx=2&sn=23e00124c12854cb6304e7288cb06680": "一次简单的五千赏金漏洞挖掘记录",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247431&idx=1&sn=a6081b4026a24d8266ae4134b9d7b0bd": "网络安全不是一场漏洞游戏",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490188&idx=1&sn=32d6ea76d777eab4ef66495f15f2c73b": "杜特网上订单管理系统 getUserImage.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485045&idx=1&sn=5a2c7e17aba8e20ef5e6946f1dca470f": "腾讯云安全中心推出2024年12月必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDc0MjUxMw==&mid=2247486064&idx=1&sn=92fb71427c6a7c2662b4af74ada963fb": "GiveWP 插件发现严重安全漏洞，影响超 100,000 活跃安装",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDE5OTQyNQ==&mid=2247488262&idx=1&sn=ec9f25c9ffed936584c999474fe4edd8": "漏洞挖掘|还没开始就结束了？行不行啊！毫无体验感",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793859&idx=3&sn=6feb2f42906876e5a265b8ea0c08a1d2": "Google OAuth 漏洞使攻击者可以访问废弃的帐户"
 }
