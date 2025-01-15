@@ -2941,5 +2941,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502786&idx=1&sn=9c3ec9f73e5c305b28c6848870adc528": "Ivanti Endpoint Manager 多个信息泄露漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500622&idx=2&sn=2416996e9c00d93ee656f46111cca28d": "【漏洞通告】微软1月多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652113945&idx=1&sn=8dea64f5407a935a2d3399a9e5c4700d": "微软2025年1月份于周二补丁日针对161漏洞发布安全补丁",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484413&idx=1&sn=5a913058c41dbc584efcca2e7d0473a4": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第3期，总第21期]"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484413&idx=1&sn=5a913058c41dbc584efcca2e7d0473a4": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第3期，总第21期]",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094588&idx=1&sn=22477d94e3cc095b191a3d45b6408d58": "Windows 远程桌面网关漏洞使系统面临 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094588&idx=2&sn=d50bc460ab394f7613b6a4a752b5b07d": "Chrome 132 发布，修复了 16 个漏洞，包括远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312048&idx=2&sn=edf59767d3cde5fb51a5c4cedf4f7ca5": "Windows远程桌面网关出现重大漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488851&idx=1&sn=8bbefd6a3b4790e4dbd4a22948abf009": "【漏洞通告】Fortinet FortiOS&FortiProxy身份验证绕过漏洞(CVE-2024-55591)通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650620729&idx=2&sn=9ae566c901d483735134cfae8ae373b3": "涉及161个漏洞！微软发布2025年1月补丁日安全通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522078&idx=1&sn=fed0749158dda91f61f1f60a96b5230c": "微软2025年1月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522078&idx=2&sn=a6a418ea6abb9635205b06203e061801": "Fortinet：注意这个认证绕过0day漏洞可用于劫持防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247521500&idx=1&sn=dbfbda5d6c733a82e7ba8fea37ab095c": "2025-01微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588686&idx=3&sn=ce937ad7e954fd8fd09c398e4390e7e5": "更新4节！系统0day 安全-企业级网络设备固件漏洞挖掘（第7期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=2&sn=25be5b60ca7f2aba3a6a82b4164656f5": "【漏洞通告】FortiOS和FortiProxy身份验证绕过漏洞(CVE-2024-55591)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484318&idx=1&sn=a38565417660cc105376398c8dfcd649": "【漏洞预警】用友nc 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485139&idx=1&sn=54b2149c95610c6fe3934255ce276b75": "Jeecg存在JNDI代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580791&idx=2&sn=3e0e732784e4fc45d8352e89c2f44690": "Adobe 发布带有 PoC 漏洞代码的严重 ColdFusion 错误提醒"
 }
