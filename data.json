@@ -2976,5 +2976,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=2&sn=25be5b60ca7f2aba3a6a82b4164656f5&chksm=ce461586f9319c90b60080bc38d4b323421538400a6d33d5ab80c53d36e43c70bbe62dddbb72&scene=58&subscene=0": "【漏洞通告】FortiOS和FortiProxy身份验证绕过漏洞(CVE-2024-55591)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=3&sn=2fce995dcb779b108d4f3f7a3043c743&chksm=ce461586f9319c90c720e6944c39d523aaeb1d6470d92e490976429209d03b330dc6928c10fd&scene=58&subscene=0": "CNVD漏洞周报2025年第2期",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580791&idx=2&sn=3e0e732784e4fc45d8352e89c2f44690&chksm=e9146c4dde63e55b5249f4be18838e67a88b372b998ce763cc396ba2eae000e4a532d5e95311&scene=58&subscene=0": "Adobe 发布带有 PoC 漏洞代码的严重 ColdFusion 错误提醒",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485045&idx=1&sn=5a2c7e17aba8e20ef5e6946f1dca470f&chksm=c2b10403f5c68d15bacf8d35f04232b77eff1e2f6ee56669d305aa9369e9f78fe33d0a4d8af6&scene=58&subscene=0": "腾讯云安全中心推出2024年12月必修安全漏洞清单"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485045&idx=1&sn=5a2c7e17aba8e20ef5e6946f1dca470f&chksm=c2b10403f5c68d15bacf8d35f04232b77eff1e2f6ee56669d305aa9369e9f78fe33d0a4d8af6&scene=58&subscene=0": "腾讯云安全中心推出2024年12月必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502769&idx=1&sn=7d06f9d258b0145e52d6fa7cef2430ad&chksm=fe79ef29c90e663ff53242fa005d37436aed5ad942c81d3b48cef872513d967c9d43618ce402&scene=58&subscene=0": "微软1月补丁日多个产品安全漏洞风险通告：3个在野利用、12个紧急漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633819&idx=4&sn=b42f35d0033d76515787da43b6980128": "警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489470&idx=1&sn=8039e7153319192c8d4d0ed048188aae": "【漏洞预警】Fortinet FortiOS等身份验证缺陷漏洞"
 }

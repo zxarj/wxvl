@@ -1,37 +1,11 @@
 #  警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用   
-安全内参编译  安全内参   2025-01-15 03:21  
+安全内参  商密君   2025-01-15 15:30  
   
-**关注我们**  
-  
-  
-**带你读懂网络安全**  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7sMXyB0LNiawyjYlNYg8MN3q3SljmSYVrqpNTMqHnhMFD2VL4YBgEib9tyPpjO0U9CbbayhiakjRMzhA/640?wx_fmt=webp&from=appmsg "")  
-  
-  
-**针对公网暴露的FortiGate设备管理接口的一系列持续攻击，导致未经授权的管理员登录、配置更改、新账号创建以及SSL VPN认证执行。**  
-  
-前情回顾·**零日漏洞层出不穷**  
-- [警惕！国产工业路由器零日漏洞疑遭攻击者利用](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513393&idx=1&sn=1a9e508382839d999a5a0058560e6b35&scene=21#wechat_redirect)  
-  
-  
-- [网安巨头Palo Alto全球数千防火墙被攻陷：因开发低级错误造成零日漏洞](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513156&idx=1&sn=4ff7c148a1693c0de1be122e65851155&scene=21#wechat_redirect)  
-  
-  
-- [苹果官方警告：零日漏洞攻击瞄准Mac电脑用户](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513122&idx=1&sn=2328bb653dc07fdeeef3cf0c73e59668&scene=21#wechat_redirect)  
-  
-  
-- [警惕！2024年全球零日漏洞利用呈现七大趋势](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513353&idx=1&sn=cc572d3391797a15aa66590d70d0ac96&scene=21#wechat_redirect)  
-  
-  
-  
-  
-安全内参1月15日消息，近期一系列针对Fortinet FortiGate防火墙设备的攻击可能源于一个零日漏洞。这些设备的管理接口暴露在互联网上。研究人员发现，攻击者利用这些接口实施了未经授权的管理员登录、修改配置、创建新账号，并执行了SSL VPN认证操作。  
+1月15日消息，近期一系列针对Fortinet FortiGate防火墙设备的攻击可能源于一个零日漏洞。这些设备的管理接口暴露在互联网上。研究人员发现，攻击者利用这些接口实施了未经授权的管理员登录、修改配置、创建新账号，并执行了SSL VPN认证操作。  
   
 安全厂商Arctic Wolf的研究人员在最新的博客文章中透露，自2024年12月初首次发现FortiGate设备上的可疑活动以来，他们一直在追踪这一攻击活动。他们观察到，威胁行为者通过访问受影响防火墙的管理接口（固件版本为7.0.14至7.0.16）更改了设备配置。此外，在受侵入的环境中，攻击者还利用DCSync工具提取了凭证。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sMXyB0LNiawyjYlNYg8MN3qibMmmjUNoZQibFp3ObkCCw14yR6QXsicQnzF9pCca4KiaLvyHbABC5Kia8A/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7sMXyB0LNiawyjYlNYg8MN3qibMmmjUNoZQibFp3ObkCCw14yR6QXsicQnzF9pCca4KiaLvyHbABC5Kia8A/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
 2024年12月，Arctic Wolf发布了一份安全公告，披露了这起攻击事件。最新的博客文章提供了更深入的细节，指出攻击者可能利用了一个零日漏洞。然而，研究人员尚未“明确确认”初始攻击的具体方法。但结合受影响组织的时间线紧凑性及固件版本范围，他们推测，攻击者正在利用一个尚未公开披露的漏洞。  
@@ -44,7 +18,6 @@
 **Fortinet管理员控制台遭到攻击滥用**  
   
   
-  
 根据博客文章，与合法的防火墙活动相比，研究人员发现攻击者“频繁使用来自少量异常IP地址的jsconsole界面”进行恶意活动。研究人员解释道，FortiGate下一代防火墙产品提供了一项标准且“便捷”的功能，允许管理员通过基于Web的管理界面访问命令行界面（CLI）。  
   
 他们写道：“根据FortiGate的知识库，当管理员通过基于Web的CLI控制台进行更改时，用户界面会记录为jsconsole，同时记录下进行更改的源IP地址。而通过SSH进行更改时，则会记录为SSH。”  
@@ -55,7 +28,6 @@
   
   
 **四阶段攻击活动仍在持续**  
-  
   
   
 研究人员将此次攻击活动划分为四个阶段，自2024年11月中旬开始：  
@@ -79,7 +51,6 @@
 **不要将管理接口暴露在公网上**  
   
   
-  
 Fortinet设备长期以来是威胁行为者的热门目标，其产品中的漏洞经常被广泛利用以实施网络入侵。研究人员建议，为了预防攻击，组织应避免将任何Fortinet设备的管理接口暴露在公共互联网上，而应仅限受信任的内部用户访问。  
   
 他们在文章中写道：“将这些接口暴露在公共互联网上，会扩大威胁行为者的攻击面，从而使本应仅供受信任管理员使用的功能面临风险。”  
@@ -87,25 +58,35 @@ Fortinet设备长期以来是威胁行为者的热门目标，其产品中的漏
 此外，研究人员建议管理员遵循以下最佳安全实践：定期更新设备固件，修补漏洞和其他安全问题；为所有防火墙设备配置syslog监控，以便尽早捕获恶意活动的迹象。  
   
   
-**参考资料：darkreading.com**  
+编辑：陈十九  
+  
+审核：商密君  
+  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-**推荐阅读**  
-- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：安全内参  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点分享  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点点赞  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-  
-点击下方卡片关注我们，  
-  
-带你一起读懂网络安全 ↓  
-  
-  
-  
+点在看  
   
