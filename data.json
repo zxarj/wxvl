@@ -2980,5 +2980,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502769&idx=1&sn=7d06f9d258b0145e52d6fa7cef2430ad&chksm=fe79ef29c90e663ff53242fa005d37436aed5ad942c81d3b48cef872513d967c9d43618ce402&scene=58&subscene=0": "微软1月补丁日多个产品安全漏洞风险通告：3个在野利用、12个紧急漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633819&idx=4&sn=b42f35d0033d76515787da43b6980128": "警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489470&idx=1&sn=8039e7153319192c8d4d0ed048188aae": "【漏洞预警】Fortinet FortiOS等身份验证缺陷漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484697&idx=1&sn=41f33dac5bec6ee1a38fe28b75e95977": "哔哩哔哩网页端疑似曝出存储型XSS漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484697&idx=1&sn=41f33dac5bec6ee1a38fe28b75e95977": "哔哩哔哩网页端疑似曝出存储型XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247569765&idx=2&sn=8cdde0bcc80f23fd58938ae6a1b4f361": "实战|拿下了自己学校的大屏幕",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247485723&idx=1&sn=7c957b9f8d1e7a6f0094a12068b8720d": "记某OA系统Ajax旧服务的0day漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496947&idx=1&sn=cfb80fee4820f74fe4d4da502d629282": "【漏洞通告】FortiOS and FortiProxy身份验证绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496947&idx=2&sn=4d5f7bf05f88fe132cade2806d79c596": "【漏洞通告】Ivanti Endpoint Manager多个信息泄露漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247488407&idx=1&sn=9f14c87a5bd0069bcb81779ce3d4c4d2": "美国CISA将Fortinet FortiOS列入已知漏洞目录"
 }
