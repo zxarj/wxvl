@@ -2962,5 +2962,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247488515&idx=1&sn=305bbcdc6b74a5b775bcad8028dbd7f1": "【相关分享】记一次小程序支付逻辑漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489927&idx=1&sn=4585f639e37390f637445498148b70f7": "API漏洞挖掘神器API_kit的二开版本|Burp Suite 插件",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499165&idx=2&sn=1bcea16d2d17f234caf752fcf51a3d66": "CTF赛前指导 -- 文件上传漏洞&一句话木马",
-    "https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247505809&idx=1&sn=c07f5dca2e5dd2b96c314afab7cb5947": "华为通过BSI全球首批漏洞管理体系认证"
+    "https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247505809&idx=1&sn=c07f5dca2e5dd2b96c314afab7cb5947": "华为通过BSI全球首批漏洞管理体系认证",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzQwNjQ4Ng==&mid=2247484231&idx=1&sn=ea5d98ddd1243530833e65653ffbd993": "漏洞精讲之SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588686&idx=3&sn=ce937ad7e954fd8fd09c398e4390e7e5&chksm=b18c268486fbaf92b82fc5e7057e5bb1db98f28d4a848caacc69c598a5b1aaaf9e0c32438f1d&scene=58&subscene=0": "更新4节！系统0day 安全-企业级网络设备固件漏洞挖掘（第7期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488851&idx=1&sn=8bbefd6a3b4790e4dbd4a22948abf009&chksm=c2c64258f5b1cb4e4ea09f9e1653dbbf820bfe174f16bc60f7d11a666bddb072904d3ee124f5&scene=58&subscene=0": "【漏洞通告】Fortinet FortiOS&FortiProxy身份验证绕过漏洞(CVE-2024-55591)通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488851&idx=2&sn=72adc51b645adaa0690545cb0629a826&chksm=c2c64258f5b1cb4ec720febcf81ab881c06fc326415629c510aa72067b8f2c97578e7e864640&scene=58&subscene=0": "【安全更新】微软1月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507683&idx=1&sn=29566d48b96920586ff08527eba2517a&chksm=cfcabdf7f8bd34e1ca83fd7941f968ada22248471dd9bbf34b15a1a397430773c6f60ba4ced9&scene=58&subscene=0": "微步情报局发现Apache Linkis漏洞，再获Apache官方致谢",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522078&idx=1&sn=fed0749158dda91f61f1f60a96b5230c&chksm=ea94a674dde32f62ea3ed400292ee76e412bf917e9ab6353b5ab3a366cc9bf33b30ce40f79d3&scene=58&subscene=0": "微软2025年1月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522078&idx=2&sn=a6a418ea6abb9635205b06203e061801&chksm=ea94a674dde32f62e340df7526ae866edd01027763fdd8db25677b2bb7e7c464421387b42417&scene=58&subscene=0": "Fortinet：注意这个认证绕过0day漏洞可用于劫持防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067360&idx=3&sn=dd1e289ee05448049f4a12db1949c772&chksm=f36e7a60c419f37664451d32533fc9dba66931e403bde86f72a4f7ef3b78553b57dfeeb6e14f&scene=58&subscene=0": "【安全圈】Windows 远程桌面网关漏洞导致系统遭受 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513504&idx=1&sn=838af406a4e2aec5e99b37399b5f1a2e&chksm=ebfaf280dc8d7b968ce0db3f897d6f574332777571c283b2da9a2cbafb3599b03550dd229ae3&scene=58&subscene=0": "警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247521500&idx=1&sn=dbfbda5d6c733a82e7ba8fea37ab095c&chksm=eb704ae3dc07c3f55f54f5e989b6ec0a24c8892bd61203abc7f361460cd9a0541884db86aa4d&scene=58&subscene=0": "2025-01微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=2&sn=25be5b60ca7f2aba3a6a82b4164656f5&chksm=ce461586f9319c90b60080bc38d4b323421538400a6d33d5ab80c53d36e43c70bbe62dddbb72&scene=58&subscene=0": "【漏洞通告】FortiOS和FortiProxy身份验证绕过漏洞(CVE-2024-55591)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247523990&idx=3&sn=2fce995dcb779b108d4f3f7a3043c743&chksm=ce461586f9319c90c720e6944c39d523aaeb1d6470d92e490976429209d03b330dc6928c10fd&scene=58&subscene=0": "CNVD漏洞周报2025年第2期",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580791&idx=2&sn=3e0e732784e4fc45d8352e89c2f44690&chksm=e9146c4dde63e55b5249f4be18838e67a88b372b998ce763cc396ba2eae000e4a532d5e95311&scene=58&subscene=0": "Adobe 发布带有 PoC 漏洞代码的严重 ColdFusion 错误提醒",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485045&idx=1&sn=5a2c7e17aba8e20ef5e6946f1dca470f&chksm=c2b10403f5c68d15bacf8d35f04232b77eff1e2f6ee56669d305aa9369e9f78fe33d0a4d8af6&scene=58&subscene=0": "腾讯云安全中心推出2024年12月必修安全漏洞清单"
 }
