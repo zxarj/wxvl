@@ -2979,5 +2979,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485045&idx=1&sn=5a2c7e17aba8e20ef5e6946f1dca470f&chksm=c2b10403f5c68d15bacf8d35f04232b77eff1e2f6ee56669d305aa9369e9f78fe33d0a4d8af6&scene=58&subscene=0": "腾讯云安全中心推出2024年12月必修安全漏洞清单",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502769&idx=1&sn=7d06f9d258b0145e52d6fa7cef2430ad&chksm=fe79ef29c90e663ff53242fa005d37436aed5ad942c81d3b48cef872513d967c9d43618ce402&scene=58&subscene=0": "微软1月补丁日多个产品安全漏洞风险通告：3个在野利用、12个紧急漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633819&idx=4&sn=b42f35d0033d76515787da43b6980128": "警惕！近期Fortinet防火墙频遭攻击，疑似零日漏洞被利用",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489470&idx=1&sn=8039e7153319192c8d4d0ed048188aae": "【漏洞预警】Fortinet FortiOS等身份验证缺陷漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489470&idx=1&sn=8039e7153319192c8d4d0ed048188aae": "【漏洞预警】Fortinet FortiOS等身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484697&idx=1&sn=41f33dac5bec6ee1a38fe28b75e95977": "哔哩哔哩网页端疑似曝出存储型XSS漏洞"
 }
