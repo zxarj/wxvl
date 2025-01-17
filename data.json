@@ -3021,5 +3021,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTU5NTI1Ng==&mid=2247487185&idx=1&sn=139315f62af5162df6c20bf93a99917b": "一文解锁网络安全交流群，HW 课提能，漏洞库护航，SXF 内推进阶",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjY1MjY3OQ==&mid=2247488192&idx=1&sn=5230537241103a68f2b04683e00e9429": "一款容器镜像漏洞扫描器-Trivy",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522104&idx=2&sn=eb5266f7ac15b9afa33c145e179f4b25": "W3 Total Cache 插件漏洞导致100万WordPress站点遭暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247534414&idx=2&sn=73bf0833c3bb12ee08861ceb729eee8f": "银狐叒进化，溯源不了，清理不掉！"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247534414&idx=2&sn=73bf0833c3bb12ee08861ceb729eee8f": "银狐叒进化，溯源不了，清理不掉！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499191&idx=1&sn=1df42533b3acc04c05ce14167cfb5bc8": "java漏洞集合工具 -- Hyacinth",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247491970&idx=1&sn=942362e32fb21fcc10dc1e43eafade1a": "开源漏洞扫描器Nuclei 漏洞可使恶意模板绕过签名验证",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489480&idx=1&sn=94cd72de934fea315c3cda6436f85fd2": "【漏洞预警】NetVision airPASS信息泄露漏洞(CVE-2025-0455)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjg3NTQ4NA==&mid=2247485581&idx=1&sn=e6b9fcb1d7395d24b75c2788fe77c394": "pikachu漏洞靶场通关手册（万字图文解析）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc0Mjc3NQ==&mid=2247486626&idx=1&sn=0b601e90fca3b769a570d7a5576f8cfb": "CVE-2024-3661，又可以考验发行版补丁及时性了",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494902&idx=1&sn=e942a959eb4ef9c69caf9dedbf984b16": "SIP 绕过漏洞允许攻击者在 macOS 上安装 Rootkit（CVE-2024-44243）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094624&idx=2&sn=7e81f2c4eff7aa2a747ed951a160b652": "针对 Ivanti Connect Secure RCE 漏洞 （CVE-2025-0282） 发布 PoC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312407&idx=3&sn=038818ab5651a46363c9fda9f15249d1": "新的UEFI安全启动漏洞可能允许攻击者加载恶意Bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067425&idx=3&sn=ca5d0f47ca765e96d6aca2175ef92b2a": "【安全圈】新的 UEFI 安全启动绕过漏洞使系统暴露于恶意 Bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500636&idx=1&sn=689cf133b8d52186aea81c6dc5544f45": "【漏洞通告】Rsync 缓冲区溢出漏洞(CVE-2024-12084)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTY5NDQyMw==&mid=2247525402&idx=1&sn=7868570982251b31fc9800aa6e26e17b": "Windows CVE-2023-29360漏洞的研究与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522104&idx=1&sn=c06ab4d6c64169ea92baf711cd9ca06f": "谷歌OAth 漏洞导致弃用账号遭访问",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553095&idx=1&sn=e139cf48710f64da0487ee89d80064e7": "红队实战之通达OA系统漏洞POC脚本一键编写",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484912&idx=1&sn=a9cf3afb132950a54b3709c905ee9737": "【漏洞通告】疑似CVE-2024-55591POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDg3OTc0OA==&mid=2247489395&idx=1&sn=6e54d3c664b63cc91f2a731afdd5e39d": "CVE-2023-24860 拒绝服务攻击"
 }
