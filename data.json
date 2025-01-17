@@ -2987,5 +2987,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247496947&idx=2&sn=4d5f7bf05f88fe132cade2806d79c596": "【漏洞通告】Ivanti Endpoint Manager多个信息泄露漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247488407&idx=1&sn=9f14c87a5bd0069bcb81779ce3d4c4d2": "美国CISA将Fortinet FortiOS列入已知漏洞目录",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489929&idx=1&sn=5a5cb71d997259c5fd89a14ae79f829f": "2025最新Invicti-Professional-V25.1 WEB漏洞扫描器更新|近期漏洞合集更新",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247597488&idx=1&sn=b742395aa377ae841d5658003e035f50": "译文｜韩国国家网络安全战略"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247597488&idx=1&sn=b742395aa377ae841d5658003e035f50": "译文｜韩国国家网络安全战略",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588707&idx=2&sn=d8b388917808b4ab77f7526a37a8f228&chksm=b18c26a986fbafbfafefb07442a2524806b1f3c1598ea59eff936f42c6f1d5c9c7346e8eb91e&scene=58&subscene=0": "Palo Alto Networks Expedition 工具曝关键漏洞，明文密码或泄露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588707&idx=3&sn=e956cfff8deabe1f7326baacac64eef9&chksm=b18c26a986fbafbf0481872368b731450bf7c0dd4efa35180ae1fdcb91d09ff87bfcfda869c7&scene=58&subscene=0": "Windows内核漏洞分析与EXP编写技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513518&idx=2&sn=e3691228661dd921114c81bc336d3c7a&chksm=ebfaf28edc8d7b987cbca67e7facee84ece62bb9db75aeb0b865aafa069342f157193c760e9b&scene=58&subscene=0": "微信支付存漏洞？用户被异地刷脸支付成功，官方回应",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522089&idx=1&sn=a04239b89ce2032e8e28b49d05782135&chksm=ea94a643dde32f55fd65e0ec66115b17b1cfe6c18f35bb55ece3c45dfce09c46bdf368f9009f&scene=58&subscene=0": "Ivanti修复Endpoint Manager中的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522089&idx=2&sn=46178e7445995e2b3a605d7fd3c37a93&chksm=ea94a643dde32f5500a0b9ba085731e8b6fcd21c96d42f6dbb5597cd5ac92f61c77907616c88&scene=58&subscene=0": "SimpleHelp 多个严重漏洞可导致文件窃取、提权和RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507685&idx=1&sn=f6f13d9e6ca46b986c4c17ce7424d252&chksm=cfcabdf1f8bd34e7a4bb18b1d16702e6a4feb5c65a3c5642728ea446c51edaaba876ffe2c928&scene=58&subscene=0": "Rsync修复数个高危漏洞，两个RCE需要重点关注",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067407&idx=4&sn=0e43cb3c3a8763dcfcbd7b70a9d16464&chksm=f36e7a0fc419f319a7965eec0e32510033e5b2543bbe6ce51c54334af84e58c2c68a4a803549&scene=58&subscene=0": "【安全圈】Fortinet 又被确认存在新的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664234775&idx=3&sn=82b000440fa4c60ceae4b17d4472d670&chksm=8b59fdeebc2e74f8f1e114cc8a17881077bd3708e814560f198b1085ef506d998bb5bd1dec9b&scene=58&subscene=0": "CNNVD | 关于Fortinet FortiOS和FortiProxy安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664234775&idx=4&sn=ec548ccac6f3d80540906533ca87ecf9&chksm=8b59fdeebc2e74f8c64ef4317b09ff932b30314e4bf6a8856a5aa49afbd1509722c124378ab7&scene=58&subscene=0": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580839&idx=1&sn=9bbf94cef195dc62ef4e9c2767e40736&chksm=e9146c9dde63e58b38dc1102ff184f3f04def7647e879875cf84eea98fd90bd0fb589e54a1ae&scene=58&subscene=0": "Nuclei 漏洞允许恶意模板绕过签名验证",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247486892&idx=1&sn=a6724b98a3098cb4aafd29db4607bbea&chksm=fbd9a610ccae2f06142212f5bb3152632f1397c33284590d3a060c069821d719e57417138604&scene=58&subscene=0": "Atropos：对Web应用程序服务器端漏洞的模糊测试技术",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793889&idx=2&sn=b498ab3fe02cf49771f55c3772496fac": "新的 UEFI 安全启动漏洞可能允许攻击者加载恶意 Bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247505535&idx=1&sn=1f991ed49fc06c72e9eb89d151038ee8": "大连中远海运川崎招聘网络安全运行维护",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247488538&idx=1&sn=a97ec9a3e0b0d1426f592ca73c8a0826": "【相关分享】记一次SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492081&idx=1&sn=8f5e671b12dc165c2b101543d51d52b4": "漏洞预警 | Netis Wifi路由器信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493301&idx=1&sn=14d3843029a33e9ea975e81ed20fab0d": "SimpleIAST- 基于污点追踪的灰盒漏洞扫描工具。"
 }
