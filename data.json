@@ -3047,5 +3047,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=1&sn=b27485da37f7eef604851eddd114d810": "漏洞预警 | Ivanti Connect Secure栈溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=2&sn=d34b7d393afa2629d555d68405f5175b": "漏洞预警 | CraftCMS模板注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=3&sn=066c072aeb8c8dca5f78f1c1addfe03a": "漏洞预警 | WordPress Plugin Radio Player SSRF漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504688&idx=1&sn=9e1211dcc443c27b4bfc26fc1fb7639c": "掌握现代红队基础设施第 3 部分 — 使用 DNS 记录和 OPSEC 绕过邮件安全网关保护邮件服务"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504688&idx=1&sn=9e1211dcc443c27b4bfc26fc1fb7639c": "掌握现代红队基础设施第 3 部分 — 使用 DNS 记录和 OPSEC 绕过邮件安全网关保护邮件服务",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485250&idx=1&sn=cc481b4d430eb2516b235f762c1047cb": "Graphql内审查询漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489123&idx=1&sn=228fa0630cebdc58c6b961b96752dc2f": "DataCon2024解题报告WriteUp—漏洞分析赛道",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486547&idx=2&sn=a6ca41fa15cd7e03ba221df57d0eb859": "影响多数UEFI系统的CVE-2024-7344漏洞可绕过安全启动"
 }
