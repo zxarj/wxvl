@@ -3050,5 +3050,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504688&idx=1&sn=9e1211dcc443c27b4bfc26fc1fb7639c": "掌握现代红队基础设施第 3 部分 — 使用 DNS 记录和 OPSEC 绕过邮件安全网关保护邮件服务",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485250&idx=1&sn=cc481b4d430eb2516b235f762c1047cb": "Graphql内审查询漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489123&idx=1&sn=228fa0630cebdc58c6b961b96752dc2f": "DataCon2024解题报告WriteUp—漏洞分析赛道",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486547&idx=2&sn=a6ca41fa15cd7e03ba221df57d0eb859": "影响多数UEFI系统的CVE-2024-7344漏洞可绕过安全启动"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486547&idx=2&sn=a6ca41fa15cd7e03ba221df57d0eb859": "影响多数UEFI系统的CVE-2024-7344漏洞可绕过安全启动",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488622&idx=1&sn=baced76f27759525c3de42cb9abd4668": "【代码审计】WeGIA 存在前台任意文件上传漏洞 (RCE)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247485359&idx=1&sn=fc0b810b0174b166b92e61fedd91fe77": "强力工具助你一臂之力：XXECheck–全面提升XML安全，防护XXE漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067460&idx=1&sn=7e41cdf5b76e20186089903f7171a588": "【安全圈】高危！rsync被爆出多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjg3NTQ4NA==&mid=2247485767&idx=1&sn=93b546f9ce1febe8901087238dc96ee7": "DVWA漏洞靶场通关手册（万字图文解析）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490256&idx=1&sn=86fcd7775b4baa4c1dfe975633d73730": "方正畅享全媒体新闻采编系统 reportCenter.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485778&idx=1&sn=f2bab6ffd22425efb72f8b20eeeab29b": "CVE-2024-53704｜SonicOS SSLVPN认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485778&idx=2&sn=691f85f7d7a345f2ed5607454b84333b": "CVE-2024-55591｜FortiOS和FortiProxy身份认证绕过漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588749&idx=1&sn=c07163014dddf5e352e4f3683251b0d4": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588749&idx=2&sn=6fc809be9ede10a46f7d204c536cd5bf": "PWN入门：误入格式化字符串漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490248&idx=1&sn=1eba3e69ef0279c4fc7796abe9ca32c6": "方正畅享全媒体新闻采编系统 screen.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606788&idx=1&sn=1d92761760abe35316e9dcf0f7bc34f5": "关于利用人工智能技术绕过图形类验证机制新型犯罪手法预警通报；|2025年首个满分漏洞，PoC已公布，可部署后门",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633889&idx=5&sn=0eaed00ffbd92d4c0652fd3e9340e6f4": "微信支付存漏洞？用户被异地刷脸支付成功，官方回应",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzMzMA==&mid=2247484176&idx=1&sn=f4be63e1e0f295963d861967f27eb595": "Nuclei POC 管理工具（附POC地址）"
 }
