@@ -3037,5 +3037,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553095&idx=1&sn=e139cf48710f64da0487ee89d80064e7": "红队实战之通达OA系统漏洞POC脚本一键编写",
     "https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247484912&idx=1&sn=a9cf3afb132950a54b3709c905ee9737": "【漏洞通告】疑似CVE-2024-55591POC",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MDg3OTc0OA==&mid=2247489395&idx=1&sn=6e54d3c664b63cc91f2a731afdd5e39d": "CVE-2023-24860 拒绝服务攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496884&idx=1&sn=d38c05cf3d7a7403c9f249d8ecd87af6": "漏洞挖掘|还没开始就结束了？行不行啊！毫无体验感"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496884&idx=1&sn=d38c05cf3d7a7403c9f249d8ecd87af6": "漏洞挖掘|还没开始就结束了？行不行啊！毫无体验感",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134752&idx=2&sn=a71898ac89bc6a622d04a05f120c6232&chksm=bd15abf38a6222e533ed0132f7e77a2fbe6dadae33791ddb480978c0dd57c2e79ff8c100c51b&scene=58&subscene=0": "2025年值得关注的十大漏洞管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522104&idx=1&sn=c06ab4d6c64169ea92baf711cd9ca06f&chksm=ea94a652dde32f443f096355df3c5a3997325d38720f9646c7552c718d40938546c2d64368d6&scene=58&subscene=0": "谷歌OAth 漏洞导致弃用账号遭访问",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522104&idx=2&sn=eb5266f7ac15b9afa33c145e179f4b25&chksm=ea94a652dde32f4477d3c5c788245a1f1ecc01c280aa362dd3674132ba4d864bea67b8230155&scene=58&subscene=0": "W3 Total Cache 插件漏洞导致100万WordPress站点遭暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496884&idx=1&sn=d38c05cf3d7a7403c9f249d8ecd87af6&chksm=e8a5fed7dfd277c164b94e6fcd54793e8ea061a609e3423fe38f6262c15958c980166fad5eb1&scene=58&subscene=0": "漏洞挖掘|还没开始就结束了？行不行啊！毫无体验感",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067425&idx=3&sn=ca5d0f47ca765e96d6aca2175ef92b2a&chksm=f36e7a21c419f33735e1a2f656bff36d74b3e5985a2b7e2a91ea9d174696c43a8489e586be9b&scene=58&subscene=0": "【安全圈】新的 UEFI 安全启动绕过漏洞使系统暴露于恶意 Bootkit",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487115&idx=1&sn=338d1d8129bc7b7f75ae6ad22e4cef7e": "渗透测试 | 某系统垂直越权漏洞的挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=1&sn=b27485da37f7eef604851eddd114d810": "漏洞预警 | Ivanti Connect Secure栈溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=2&sn=d34b7d393afa2629d555d68405f5175b": "漏洞预警 | CraftCMS模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492093&idx=3&sn=066c072aeb8c8dca5f78f1c1addfe03a": "漏洞预警 | WordPress Plugin Radio Player SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504688&idx=1&sn=9e1211dcc443c27b4bfc26fc1fb7639c": "掌握现代红队基础设施第 3 部分 — 使用 DNS 记录和 OPSEC 绕过邮件安全网关保护邮件服务"
 }
