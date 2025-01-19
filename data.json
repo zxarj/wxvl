@@ -3063,5 +3063,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490248&idx=1&sn=1eba3e69ef0279c4fc7796abe9ca32c6": "方正畅享全媒体新闻采编系统 screen.do SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606788&idx=1&sn=1d92761760abe35316e9dcf0f7bc34f5": "关于利用人工智能技术绕过图形类验证机制新型犯罪手法预警通报；|2025年首个满分漏洞，PoC已公布，可部署后门",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633889&idx=5&sn=0eaed00ffbd92d4c0652fd3e9340e6f4": "微信支付存漏洞？用户被异地刷脸支付成功，官方回应",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzMzMA==&mid=2247484176&idx=1&sn=f4be63e1e0f295963d861967f27eb595": "Nuclei POC 管理工具（附POC地址）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzMzMA==&mid=2247484176&idx=1&sn=f4be63e1e0f295963d861967f27eb595": "Nuclei POC 管理工具（附POC地址）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486096&idx=1&sn=dee2f6b912c394e375ccb0dc69bb1de5": "strust2_CVE-2024-53677漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499201&idx=1&sn=d479b7a4fca1420e0d84bc8efa5959af": "1314个自定义goby-poc（1月8日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484053&idx=1&sn=f2f7d10b6cf4337e7ab2212e103f702a": "一次通用cnvd案例分享"
 }
