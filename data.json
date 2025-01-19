@@ -3066,5 +3066,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5NzMzMA==&mid=2247484176&idx=1&sn=f4be63e1e0f295963d861967f27eb595": "Nuclei POC 管理工具（附POC地址）",
     "https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486096&idx=1&sn=dee2f6b912c394e375ccb0dc69bb1de5": "strust2_CVE-2024-53677漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499201&idx=1&sn=d479b7a4fca1420e0d84bc8efa5959af": "1314个自定义goby-poc（1月8日更新）",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484053&idx=1&sn=f2f7d10b6cf4337e7ab2212e103f702a": "一次通用cnvd案例分享"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTQwNjQ4OA==&mid=2247484053&idx=1&sn=f2f7d10b6cf4337e7ab2212e103f702a": "一次通用cnvd案例分享",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588749&idx=2&sn=6fc809be9ede10a46f7d204c536cd5bf&chksm=b18c26c786fbafd14e4e451e21e415e3d96e93feb517543db94006ba90a0f748c9b78f0cc838&scene=58&subscene=0": "PWN入门：误入格式化字符串漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489123&idx=1&sn=228fa0630cebdc58c6b961b96752dc2f&chksm=fe5d0ee3c92a87f539db8736eee19d3b20b91e5cf731b6a9630bc1339b0cd1dfb5e2e9ecca66&scene=58&subscene=0": "DataCon2024解题报告WriteUp—漏洞分析赛道",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067460&idx=1&sn=7e41cdf5b76e20186089903f7171a588&chksm=f36e7ac4c419f3d2506b8a4fda50d186484d0b429b68fbc2c9fa6a6d793e423ec4e7374d18b2&scene=58&subscene=0": "【安全圈】高危！rsync被爆出多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247510270&idx=1&sn=6e0dfb575d641bc67a2b3f00196df49c&chksm=fa527d40cd25f4569e895e911f8d3e8f3e3bc366ffc8598627f89ba3a175f3b65e348be9866b&scene=58&subscene=0": "2024年度人工智能相关重点安全漏洞盘点",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312409&idx=1&sn=cb68df3d11a9480a16e2eab801cc662c": "2025年十大最佳漏洞管理工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485265&idx=1&sn=cfeefce93d801ab805be4f712eb7925f": "OneThink文件缓存漏洞及日志读取",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486551&idx=1&sn=ccef527f35f3e3ebe676d7e3916acac0": "ESET发现可绕过UEFI安全启动的严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489758&idx=1&sn=c26ab657c20bf97835120f44faa38b93": "2025年值得关注的十大漏洞管理工具"
 }
