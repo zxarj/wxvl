@@ -3075,5 +3075,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485265&idx=1&sn=cfeefce93d801ab805be4f712eb7925f": "OneThink文件缓存漏洞及日志读取",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486551&idx=1&sn=ccef527f35f3e3ebe676d7e3916acac0": "ESET发现可绕过UEFI安全启动的严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489758&idx=1&sn=c26ab657c20bf97835120f44faa38b93": "2025年值得关注的十大漏洞管理工具",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588749&idx=1&sn=c07163014dddf5e352e4f3683251b0d4&chksm=b18c26c786fbafd14670241f07726032e76e13980b4ff50732d34c76fea9f03ae8979ccaba96&scene=58&subscene=0": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588749&idx=1&sn=c07163014dddf5e352e4f3683251b0d4&chksm=b18c26c786fbafd14670241f07726032e76e13980b4ff50732d34c76fea9f03ae8979ccaba96&scene=58&subscene=0": "欢迎报名！​“系统0day安全”系列课程：掌握漏洞挖掘重要技能",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484259&idx=1&sn=888da6c5443cb2f2ae0c03c3c922dd17": "KONE-通力电梯管理系统-app_show_log_lines.php-任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488641&idx=1&sn=af12c4534abac0d07a82bbdb894ba5a7": "【工具分享】Swagger API Exploit 1.2 - 信息泄露利用工具"
 }
