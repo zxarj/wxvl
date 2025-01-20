@@ -3094,5 +3094,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247484792&idx=1&sn=c4cc7279d562c9286b0ab2291a614eeb": "Confluence认证后RCE（CVE-2024-21683）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492105&idx=1&sn=6b3de2fc54f10c818f7f5d69cf9011df": "漏洞预警 | Apache Linkis任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492105&idx=2&sn=819ec9928f504767b95f35183bdd0a6a": "漏洞预警 | 家装ERP管理系统SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493309&idx=1&sn=c520f39f9b4ac2af95887b6e3492a9a4": "一个支持被动代理的调用 KIMI AI 进行越权漏洞检测的工具"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493309&idx=1&sn=c520f39f9b4ac2af95887b6e3492a9a4": "一个支持被动代理的调用 KIMI AI 进行越权漏洞检测的工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067480&idx=4&sn=8dc7094933166fceeb2e467f38e23545&chksm=f36e7ad8c419f3ce413fdcd09b7fbf2c3828fe34b5aca8c6a3b0d570a1f213c166b9943c4be8&scene=58&subscene=0": "【安全圈】CL-UNK-0979 利用 Ivanti Connect Secure 中的零日漏洞获取网络访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484280&idx=1&sn=40cc233e8d31ab8b8f0ce418a1e1f056": "锐捷-云课堂主机-pool-目录遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488326&idx=1&sn=64bed920635cd5aa06b69d18c24050be": "漏洞挖掘 | 开始既结束？快速挖洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606873&idx=2&sn=94e58d88c55ad6f451d6a5fdc6fb990e": "2025年十大最佳漏洞管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650606873&idx=4&sn=73681423b45d2c3ba8f33e5d75587249": "专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247486007&idx=1&sn=754dfb823942baaf0606ffee489adcef": "MS14-068 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486183&idx=1&sn=476ee9505122d0e825cd0976774e74f6": "CVE-2023-33440源码分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485719&idx=1&sn=594e1286af1bd496465685b0b9d35ff8": "【漏洞分享】万能门店小程序管理系统存在任意文件读取漏洞"
 }

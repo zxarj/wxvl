@@ -1,20 +1,7 @@
 #  专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。   
-murphysec  夜组安全   2025-01-15 00:00  
+ 黑白之道   2025-01-20 03:19  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**baobeiaini_ya**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 ## 工具介绍  
   
@@ -27,10 +14,10 @@ murphysec  夜组安全   2025-01-15 00:00
 ### 效果截图  
 - CLI 运行结果  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdKibAMHWYiaVQdA8ic0KurPwdfAyO8bQQibgicViaZ4nP3ibrotcV0dS5Kdjibg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdKibAMHWYiaVQdA8ic0KurPwdfAyO8bQQibgicViaZ4nP3ibrotcV0dS5Kdjibg/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
 - 检测结果页面  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdAMubniaYU0VS6AM7pl5QIicyDvnbTjibWPdhvw914Qg50jfcxfIupjKMA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdAMubniaYU0VS6AM7pl5QIicyDvnbTjibWPdhvw914Qg50jfcxfIupjKMA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
 ## 支持的语言  
   
 目前支持 Java、JavaScript、Golang、Python、PHP、C#、Ruby、Objective-C、.NET 语言项目的检测，后续会逐渐支持其他的开发语言。  
@@ -39,7 +26,7 @@ murphysec  夜组安全   2025-01-15 00:00
   
 1. 项目的依赖信息会上传到服务端，并基于墨菲安全持续维护的漏洞知识库来识别项目中存在安全缺陷的依赖  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdXOQ1nnqKZdH0uiapK3b9fUGHfdlceRMHFicJhK0JnLaBZfbdEOG0Gia5w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdXOQ1nnqKZdH0uiapK3b9fUGHfdlceRMHFicJhK0JnLaBZfbdEOG0Gia5w/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
 >   
 > 说明：CLI 工具只会将检测项目的依赖和基本信息发送到墨菲安全服务端，用于识别存在安全缺陷的依赖，不会上传任何本地代码。  
   
@@ -74,7 +61,7 @@ powershell -Command "iwr -useb https://s.murphysec.com/release/install.ps1 
   
 进入墨菲安全控制台，点击设置 - 访问令牌  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdLrkichZUgvgYvnj2gTIgvXm9m9MBic5ibuHIdsAGGBG0HnjfETG1vMfjA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2UQTTjTicKhZB3ENlSzlSNIdLrkichZUgvgYvnj2gTIgvXm9m9MBic5ibuHIdsAGGBG0HnjfETG1vMfjA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
 ### 3. 认证  
   
 目前有两种认证方式可用：命令行交互认证、命令行参数认证  
@@ -163,17 +150,15 @@ Powershell默认不允许从远程加载安装脚本，需要使用管理员权�
   
   
   
-点击关注下方名片  
-进入公众号  
-  
-回复关键字【  
-250115  
-】获取  
-下载链接  
+https://github.com/murphysecurity/murphysec/tree/v3> **文章来源：夜组安全**  
   
   
-## 往期精彩 Zentao-GetShell | 禅道认证绕过后台命令执行Getshell 我的评价是雀氏不错！ Java漏洞集合工具更新2.0   
+  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
+**END**  
+  
   
