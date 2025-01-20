@@ -3087,5 +3087,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501315&idx=1&sn=d85a30ae678cadbcaa0d69068c18dc6d": "春秋杯WP | 2024春秋杯冬季赛第三天题目部分解析",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490002&idx=2&sn=d5528443216703026dbb5befe50a87c2": "一次通用cnvd案例分享",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488420&idx=1&sn=08034823ae10fcec92f62940ef7d6e49": "记一次CNNVD通用漏洞证书挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMDY1MDI3OA==&mid=2247483794&idx=1&sn=31e5bf60bafe8e52c06509a0827328b2": "记一次CNNVD通用漏洞证书挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDY1MDI3OA==&mid=2247483794&idx=1&sn=31e5bf60bafe8e52c06509a0827328b2": "记一次CNNVD通用漏洞证书挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484324&idx=1&sn=86bc6803db897c208c21fdbf04f469f5": "【漏洞预警】Rsync缓冲区溢出漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063841&idx=1&sn=d71d882f0aff0331d4d02e32a966d237": "信息安全漏洞周报【第006期】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1MjY5OQ==&mid=2247486238&idx=1&sn=0d0e11190ce7cebaf3d1a0e829230713": "中间件安全|Tomcat漏洞汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247484792&idx=1&sn=c4cc7279d562c9286b0ab2291a614eeb": "Confluence认证后RCE（CVE-2024-21683）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492105&idx=1&sn=6b3de2fc54f10c818f7f5d69cf9011df": "漏洞预警 | Apache Linkis任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492105&idx=2&sn=819ec9928f504767b95f35183bdd0a6a": "漏洞预警 | 家装ERP管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493309&idx=1&sn=c520f39f9b4ac2af95887b6e3492a9a4": "一个支持被动代理的调用 KIMI AI 进行越权漏洞检测的工具"
 }
