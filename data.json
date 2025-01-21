@@ -3165,5 +3165,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492106&idx=1&sn=24a16b5a8753b2c225c2b40ba13cc668": "漏洞预警 | Fortinet FortiOS与FortiProxy身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492106&idx=2&sn=b34e8532a2316c79e30ac8b4f056ad4c": "漏洞预警 | 飞企互联FE业务协作平台SQL注入、远程代码执行和任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492106&idx=3&sn=09eac68654025a44625cdc87fced6098": "漏洞预警 | 九思OA任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484742&idx=1&sn=6d549c467e115dc1e740ed698f4fab70": "XXL-job漏洞综合利用工具"
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247484742&idx=1&sn=6d549c467e115dc1e740ed698f4fab70": "XXL-job漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094668&idx=1&sn=162ecc38d487773f0cc1d476a900423c": "OWASP 2025 年 10 大漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094668&idx=2&sn=b4a3efa0f4f65c3bbcf7595b75c318bd": "7-Zip 漏洞允许通过绕过网络标记执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489181&idx=1&sn=7dcb50d0a8af27d1c24feb4eb98aaf44": "关于防范开源文件同步工具rsync多个安全漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247624525&idx=1&sn=7f84b31a4512522433da75e3ef67fcdb": "持续领先！奇安信斩获5个CNNVD漏洞贡献奖",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247484807&idx=1&sn=abe41dbf3b287ee6084ee20f4fb0503f": "CTF:Phar反序列化漏洞学习笔记",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247579167&idx=3&sn=9adcb35ed05747f7530c83f59de0ea37": "喜讯！360获评2024软件和信息服务业年度领航企业及创新成果两项大奖",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488402&idx=1&sn=60dd6d424657d00eb3c9d18f333f261e": "【新年快乐】2024-EXP合集下载链接~随时删",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODQ0MTE2MQ==&mid=2247483749&idx=1&sn=762084442aa00a999fea80eed8b17326": "中小企业及创业公司信息安全建设指南",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247506533&idx=1&sn=e0384f942eb95e019890cdd57d901334": "观安信息荣获“铸网2024”暨上海市“铸盾2024”车联网网络安全实战攻防活动优秀支撑单位",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247570185&idx=1&sn=be31eb813a71b58e0f28b8de1d176cb9": "2025年首个满分漏洞，PoC已公布，可部署后门",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIyNjM1OA==&mid=2247485035&idx=1&sn=d144d6395901bfcd213ae90752d58504": "蛇年新禧，祥福并济|360漏洞云漏洞众包响应平台放假公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247502873&idx=3&sn=ab3d8ccd96f17d0a3040c85d24e35be3": "蛇年新禧，祥福并济|360漏洞云平台放假公告",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488646&idx=1&sn=55f0e893bbbe3ba7916fcf2c21d94349": "【漏洞速递】PHP 8.1.0-dev RCE &SQLi",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488918&idx=1&sn=158d8df04d4080e7902083a76fd24d26": "【漏洞通告】MongoDB Mongoose搜索注入漏洞（CVE-2025-23061）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490294&idx=1&sn=361afa1ff2c71de2ba6e7340aace060b": "卓软计量业务管理平台 image.ashx 任意文件读取漏洞"
 }
