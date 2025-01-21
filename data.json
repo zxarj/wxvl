@@ -3116,5 +3116,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489950&idx=1&sn=8471a28c7c14a45df7f2091f0c5866cd": "Catcher外网打点指纹识别+Nday漏洞验证工具|指纹识别",
     "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486273&idx=1&sn=9a0ebba7a700f0ae0410be83b4b1df00": "如何mongodb未授权访问漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490011&idx=3&sn=696b18cad8b2a463ec2185c4ac088e12": "【库迪咖啡|全场饮品任选券|多店可用】现价仅需7.9 低至2.3折",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094653&idx=2&sn=c69dfb1b57a25f58f75e9a9f5422bd0c": "严重远程代码执行漏洞（CVE-2024-53691）在QNAP 系统中被发现"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094653&idx=2&sn=c69dfb1b57a25f58f75e9a9f5422bd0c": "严重远程代码执行漏洞（CVE-2024-53691）在QNAP 系统中被发现",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900082&idx=1&sn=dc3053c2d874f9da5853c72c38c7c519": "SimpleHelp远程访问软件曝高危漏洞，可导致文件窃取、权限提升和远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489485&idx=1&sn=e5ea1e03489d9276fac40db96a823bb7": "【漏洞预警】ZZCMS index.php SQL注入漏洞(CVE-2025-0565)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448682463&idx=1&sn=6b0cf0e4166f632f756e6d7185550a0c": "金盾信安 | 网络和数据领域资讯第44期(2025.1.14-2025.1.20)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094653&idx=1&sn=0a8f46713971d1eae5f9bc98fe0e3049": "利用 Windows 常见日志文件系统零日漏洞 （CVE-2024-49138）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495715&idx=1&sn=c02f8d40b18ff20468aa338efd776c5d": "CNVD漏洞周报2025年第3期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495715&idx=2&sn=b9b9d870553d36e181ba7d1702fde7da": "上周关注度较高的产品安全漏洞(20250113-20250119)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588763&idx=2&sn=987fea6e7bc8cce2c77f2e2035072ac4": "开源工具 rsync 曝重大漏洞，黑客可越界写入缓冲区远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484461&idx=1&sn=b866a874c1d918dd649f80acfedc093f": "从国赛到西湖论剑：fenjing进阶通杀jinjia2_SSTI",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490287&idx=1&sn=70c96ed0de707107589c47460e4867aa": "【风险通告】Rsync存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490064&idx=1&sn=9f929a8b28422c1087a84c56aadbbfa1": "公示",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651618728&idx=2&sn=904dfe22108a734b8b461c189289de40": "美国候任总统特朗普推出个人加密货币",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490274&idx=1&sn=c5d8baaa4e674daef4881916a48159d0": "泛微-云桥e-Bridge checkMobile SQL注入漏洞(XVE-2024-34435)"
 }
