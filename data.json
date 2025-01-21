@@ -3128,5 +3128,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490287&idx=1&sn=70c96ed0de707107589c47460e4867aa": "【风险通告】Rsync存在多个高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490064&idx=1&sn=9f929a8b28422c1087a84c56aadbbfa1": "公示",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651618728&idx=2&sn=904dfe22108a734b8b461c189289de40": "美国候任总统特朗普推出个人加密货币",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490274&idx=1&sn=c5d8baaa4e674daef4881916a48159d0": "泛微-云桥e-Bridge checkMobile SQL注入漏洞(XVE-2024-34435)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490274&idx=1&sn=c5d8baaa4e674daef4881916a48159d0": "泛微-云桥e-Bridge checkMobile SQL注入漏洞(XVE-2024-34435)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518279&idx=1&sn=7d44805e31cccc886d5a926e01ac7338": "意外发现谷歌Slides越权漏洞，获得赏金$3133.70的故事",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522124&idx=1&sn=8b928d650502c3cebc7b2ae0e85282a2": "WGS-804HPT 交换机中存在多个严重漏洞，可导致RCE和网络利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522124&idx=1&sn=8b928d650502c3cebc7b2ae0e85282a2&chksm=ea94a626dde32f303236d54cf10c68cbf25ac8104fe9a6280306ddbcce4f3ce7624240d24d9d&scene=58&subscene=0": "WGS-804HPT 交换机中存在多个严重漏洞，可导致RCE和网络利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502869&idx=1&sn=53f5cfd343a3cd7a4e8a32a6fe638138&chksm=fe79e88dc90e619b8c2c010457c1e44f3ff06dd47f4a8abd602deff354192c4b2842a3c0dfc3&scene=58&subscene=0": "安全热点周报：Fortinet 警告利用身份验证绕过零日漏洞劫持防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588763&idx=2&sn=987fea6e7bc8cce2c77f2e2035072ac4&chksm=b18c26d186fbafc74e6a05aa86e92183c63d2d9a959a88738a9e938d04954b0f5f417afec628&scene=58&subscene=0": "开源工具 rsync 曝重大漏洞，黑客可越界写入缓冲区远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498340&idx=1&sn=f9aecfc3de35b8fac05e7e7d352da9e4&chksm=fa595489cd2edd9f317b3ce1a2e10a23a2a5c3c3fc4a16daa713ac76716cec8ef519e525b37a&scene=58&subscene=0": "举一反三 ，通过 Sharp4SuoPoc 从原理上复现 Visual Studio 投毒事件的来龙去脉",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247534891&idx=1&sn=442f5697287365e019e20cb29c0a8008&chksm=c1443b96f633b280e3859a3441a858dda1412ce36b7957734a73bf3c683102b57bad82ee504a&scene=58&subscene=0": "新西兰跻身云安全漏洞排名前十",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495715&idx=1&sn=c02f8d40b18ff20468aa338efd776c5d&chksm=fd74c0eaca0349fcf48893554150aa62b8d148205e3198526c654194241638eafab9530bc6b5&scene=58&subscene=0": "CNVD漏洞周报2025年第3期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495715&idx=2&sn=b9b9d870553d36e181ba7d1702fde7da&chksm=fd74c0eaca0349fcd7eabae533b4d6bf7f8a8cf66309cb1e93c0c20500d376dc0ac4c5436fe6&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250113-20250119)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499617&idx=1&sn=2c0ace8ad777eef414c8c2a9bd88f67a": "CNVD漏洞周报2025年第3期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499617&idx=2&sn=9bc261752d64c6b77c44994df9de434b": "上周关注度较高的产品安全漏洞(20250113-20250119)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502937&idx=1&sn=c80cc1036d35183287d46040fa66d3f2": "年度报告 | 2024年应该知道的漏洞都在这了！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484275&idx=1&sn=09de46038ff584ab2e4f04beb9323471": "锐捷-Smartweb管理系统-密码信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607107&idx=4&sn=259fcba73be50f943c126eb6e146fb91": "一个支持被动代理的调用 KIMI AI 进行越权漏洞检测的工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTY1MzcyOQ==&mid=2247490124&idx=1&sn=fe99bee07e59e88ae95e3ffc9d0d2df4": "一款java漏洞集合工具"
 }

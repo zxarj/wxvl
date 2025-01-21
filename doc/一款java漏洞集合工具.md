@@ -1,59 +1,98 @@
 #  一款java漏洞集合工具   
-pureqh  夜组安全   2024-11-16 04:01  
+Hyacinth  安全之眼SecEye   2025-01-21 00:10  
   
-免责声明  
+点击上方「蓝字」，关注我们  
   
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+因为公众号现在只对常读和星标的公众号才能展示大图推送，建议大家进行星标  
+。操作方法：点击右上角的【...】，然后点击【设为星标】即可。  
   
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2Xvvlzc5lra8XdgLYGCfX5ooaMiaUJy4vKvStTngQp4122jauXltltcCuYib5WBBdaXu5dh91dGvibyQ/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76k4fD8m0rkPrAict2lkdiaUHasZshA7Yibv0OpnNzpPKLRbGBC8ib7Fngn81sYBPpOaObsyU2iceZ4XPicQ/640?wx_fmt=png&from=appmsg "")  
   
   
-**01**  
+01  
   
-**工具介绍**  
-  
-一款java漏洞集合工具，  
-包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块，由于图形化比较简明易懂，所以也不需要使用说明吧 。  
+# 免责声明  
   
   
-本项目的部分payload进行了一些混淆，具备一定过waf能力，有空会更新所有的payload。  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2XRr1WGB0jCkb7yoWJg7YRduYcPfnYCUibDdmkyMg3dou0VdZ5PrSwY5eJXp0MKT1ebawcmagF3ySg/640?wx_fmt=png "")  
-  
-  
-**02**  
-  
-**工具下载**  
-  
-**点击关注下方名片****进入公众号**  
-  
-**回复关键字【241116****】获取**  
-**下载链接**  
+**免责声明：**  
+该公众号分享的安全工具和项目均来源于网络，仅供安全研究与学习之用，如用于其他用途，由使用者承担全部法律及连带责任，与工具作者和本公众号无关。  
   
   
-**03**  
+02  
   
-**往期精彩**  
-  
-[ 一款集成高危漏洞exp的实用性工具 ](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492694&idx=1&sn=593e032dc17a72a4ca4250d4a3f210f1&chksm=c36ba0aef41c29b832e8f14aafe90179de166338058ad1d6096d5b9f956e771a308d9824db65&scene=21#wechat_redirect)  
-
-						  
+# 文章正文  
   
   
-[ 飞企互联平台一键漏洞探测工具，支持单 url 以及批量探测 ](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492693&idx=1&sn=8851d74c488cd340383f0ee3e81e6b10&chksm=c36ba0adf41c29bbc7c735e4e1d186c6f0803f60c81337816df768810e0f3ac9251155ff9ab5&scene=21#wechat_redirect)  
-
-						  
+之前攻防的时候，总是需要打开多个jar包，觉得很麻烦，就做了一款集合工具。  
+  
+其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等，由于图形化比较简明易懂，所以也不需要使用说明吧 。  
+  
+本项目的部分payload进行了一些混淆，具备一定过waf能力，有空会更新所有的payload  
+  
+项目参考了许多师傅们的优秀项目，感谢  
+  
+最新版本已支持MAC和Windows，如有bug，烦请提出  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76koFr5UUcEPxB2wtMwWnr2166w2NMnqAe0vjjf6e7RibQWJJzTu9WZhrTDhjuMnibhVQkzQ4jALTR0w/640?wx_fmt=png&from=appmsg "")  
   
   
-[ 一款常规的渗透攻防武器库！ ](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247492676&idx=1&sn=aa23e6c95b94fd25c4421d89147eb170&chksm=c36ba0bcf41c29aa7a9e655bc743e19d0c2397e61779c49bf10a40c73cfc4bfc2c0b9c6767ef&scene=21#wechat_redirect)  
-
-						  
+**点击下方名片进入公众号**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557 "")  
+**回复关键字【250120****】获取下载链接**  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/4yJaCArQwpACMJuBxI11jPgvHCxQZFQxPrt5iaQRibgGl0aIzFo4hDCYcFuyViag6zhuqNEjjeasfMEAy1rkaOahw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+**星球介绍**  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/4yJaCArQwpACMJuBxI11jPgvHCxQZFQxPrt5iaQRibgGl0aIzFo4hDCYcFuyViag6zhuqNEjjeasfMEAy1rkaOahw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+高质量漏洞利用工具、漏洞POC/EXP、实战tips、学习教程分享社区，日常更新0Day/Nday/1day及对应漏洞的批量利用工具，内部POC分享，星球不定时更新内外网攻防渗透技巧、src挖掘技巧、网安学习培训视频等。  
+同时，内部的交流群有很多行业老师傅可以为你解答学习上的疑惑  
+，实战或者攻防中遇到的技术、非技术难题我们也可以通过自己的途径帮你一起解决。  
+  
+**【星球服务】**  
+  
+1，  
+**Fofa**  
+永久高级会员  
+  
+2，常态化更新最新的漏洞  
+**POC/EXP**  
+，未公开、半公开漏洞POC  
+  
+3，不定时更新  
+**SRC挖掘**  
+小技巧、SRC挖掘报告  
+  
+4，各种漏洞利用  
+**工具**  
+，渗透工具、学习资料文档分享、网安各方向学习  
+**视频课程**  
+  
+5，  
+安全圈兼职、全职工作内推途径；  
+职业生涯发展路线答疑解惑  
+  
+6，认识更多的行业朋友（各大安全厂商以及互联网、金融行业甲方安全师傅），遇到任何技术问题都可以进行快速提问、讨论交流；  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76lsQnxkEwH0keL6OLfic5KN2icjCAkmeHepQdoHTVABBM5bkWfxvP8Ptnn0DFoYHRVdvOGlLxh8G36w/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76lZiaGzzQ0ibNU40ObwvicSibO16ianEyuXbg4SVu9rONaQSo790oFWyWCn6LjDFibwfll46pzdKfJTKQdA/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76l3j7hotPU0e675ADxtwsGPwiaVicpbKVeAt2KCNzj4RUuLGy3PV6Tx6afNqe0EsE8gHBhkhvVHC9gA/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76ka2ANYQlVIhkXasR9YZGpJFvaibxN1GrFRiasJU81bWrSuu7iab10wdI65zA9rcMd8ga2Ys4ztzYH1A/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X7oyC9n7e6sZgYBdeAaD6q44R4nTia9WEGTDcshY5OWy8WCSEZTlkuo2Q/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X77hWOuBIwoZ7lrajLWQ6eiaYTxSC3AVjbbutcfcibmyuJcR9Qcrm5xblA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/FUKJN1fH76mSP53bAh3KOBvX6tibKL9X7mc06OG32Y2tR1q3sBlr36xcLy7yvWbP6nErVMuzw0SfZOY2VDxXFoQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
   
