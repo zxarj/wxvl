@@ -3193,5 +3193,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485410&idx=1&sn=c516da4c5bcf9729e270e70dc0c6e61d": "ViewState反序列化漏洞详解",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652114147&idx=2&sn=0ec2b581bd93714c8ff60c69bcc70f8b": "126个Linux内核漏洞可让攻击者利用78个 Linux子系统",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247489961&idx=1&sn=f40f050019a99e6f65fa036bc9a7da16": "1Scan一键渗透扫描器|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247492936&idx=1&sn=bb3bb218d18652b9951e26d6cf5f8ab8": "奇安信2024《漏洞态势报告》：新增漏洞再创新高，总体威胁持续加深"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247492936&idx=1&sn=bb3bb218d18652b9951e26d6cf5f8ab8": "奇安信2024《漏洞态势报告》：新增漏洞再创新高，总体威胁持续加深",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589041&idx=3&sn=f23e141f9f2559ffdfdd86d3d8f3ef1f&chksm=b18c27fb86fbaeede1ae14775b2e06f51d9ff39aea062676c42180f7f320b879996baf3f7ff8&scene=58&subscene=0": "报名中！即将开班 | 无人机安全攻防入门：从整体架构到漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247502873&idx=2&sn=b244ada36b1a87162f083c5a17af9c04&chksm=cfc56b46f8b2e25026712ae5023c6dc56a4c50092057dd3a58850b41c210c29b5bb60a729b85&scene=58&subscene=0": "《网信自主创新调研报告》表彰大会召开，360漏洞云获多项荣誉",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247502873&idx=3&sn=ab3d8ccd96f17d0a3040c85d24e35be3&chksm=cfc56b46f8b2e250435ced6a4be9d9a5c5bd4bd692a7fbe65aed030690c7fddd6791331fd27b&scene=58&subscene=0": "蛇年新禧，祥福并济|360漏洞云平台放假公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488918&idx=1&sn=158d8df04d4080e7902083a76fd24d26&chksm=c2c6429df5b1cb8bc86e5d57a7d589ef30a23ca11cd0bb38269afe2125cd10f152606ce4ea98&scene=58&subscene=0": "【漏洞通告】MongoDB Mongoose搜索注入漏洞（CVE-2025-23061）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502937&idx=1&sn=c80cc1036d35183287d46040fa66d3f2&chksm=fe79e8c1c90e61d7169d6a42f15d0c02941c362881e765d760f9c7317c8bd10f66e565995bb1&scene=58&subscene=0": "年度报告 | 2024年应该知道的漏洞都在这了！",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513551&idx=2&sn=f50c04a1adb0a92b26906f0e29ecabdb&chksm=ebfaf2efdc8d7bf9ab0f5e0cbcbc04e62cceea6c6ef61ed92d88aeb2fc987c5cabce1bd08cec&scene=58&subscene=0": "B站员工植入恶意代码报复用户，官方：漏洞已修补，员工已处罚",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499617&idx=1&sn=2c0ace8ad777eef414c8c2a9bd88f67a&chksm=973acc03a04d45150eee133cf3ae4786f50bc20f2a1af53ec7434b10c80e8f59831a23fd48bc&scene=58&subscene=0": "CNVD漏洞周报2025年第3期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499617&idx=2&sn=9bc261752d64c6b77c44994df9de434b&chksm=973acc03a04d4515f9832db1f4bf68dd1429f5d2152ca1b0fc12e931442a861b7b4043801e92&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250113-20250119)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067526&idx=2&sn=35fd8cf175959d2493340598399f5c01&chksm=f36e7a86c419f390ae47d611d4f4561da13239e89f5e649487a4ddd152221306aa899f53951d&scene=58&subscene=0": "【安全圈】梅赛德斯—奔驰信息娱乐系统漏洞详细信息披露",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650085835&idx=1&sn=55b9b7d447e31ed5e6a7016fc118aba7": "梅赛德斯—奔驰信息娱乐系统漏洞详细信息披露",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492118&idx=2&sn=0cc8d46b2006a58fe76e0aceeec3f5e3": "漏洞预警 | 叁拾叁OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655264326&idx=2&sn=edd9feb6f1f3d5fb7467e5a4a1bc8ea3": "2024年度网络安全漏洞威胁态势研究报告"
 }
