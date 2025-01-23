@@ -3216,5 +3216,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489507&idx=1&sn=cdbcc7dac604210a7fa351e96c1bbaa9": "【漏洞预警】pearProjectApi存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489507&idx=2&sn=43309d019012fc2d5146638f21cf4cdb": "【漏洞预警】YesWiki 存在经过身份验证的任意文件删除漏洞(CVE-2025-24019)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490015&idx=2&sn=e906ce0834778a54573549a04e207af6": "CTF:Phar反序列化漏洞学习笔记",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067553&idx=4&sn=2c06e2c2a5011eb86894033a1e6c41fc": "【安全圈】7-Zip 漏洞可让远程攻击者绕过保护并执行任意代码"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067553&idx=4&sn=2c06e2c2a5011eb86894033a1e6c41fc": "【安全圈】7-Zip 漏洞可让远程攻击者绕过保护并执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIyMTU1Nw==&mid=2247485220&idx=5&sn=5c373b4d772f9ce5160eed1cb8773743": "【网安前沿】人数超TikTOK！……"
 }
