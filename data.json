@@ -3217,5 +3217,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489507&idx=2&sn=43309d019012fc2d5146638f21cf4cdb": "【漏洞预警】YesWiki 存在经过身份验证的任意文件删除漏洞(CVE-2025-24019)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490015&idx=2&sn=e906ce0834778a54573549a04e207af6": "CTF:Phar反序列化漏洞学习笔记",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067553&idx=4&sn=2c06e2c2a5011eb86894033a1e6c41fc": "【安全圈】7-Zip 漏洞可让远程攻击者绕过保护并执行任意代码",
-    "https://mp.weixin.qq.com/s?__biz=MzIyNTIyMTU1Nw==&mid=2247485220&idx=5&sn=5c373b4d772f9ce5160eed1cb8773743": "【网安前沿】人数超TikTOK！……"
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIyMTU1Nw==&mid=2247485220&idx=5&sn=5c373b4d772f9ce5160eed1cb8773743": "【网安前沿】人数超TikTOK！……",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502951&idx=1&sn=09d5b62b3cc3e71fec3a8595f18318a2&chksm=fe79e8ffc90e61e905225d9918798d40f77be91e0a5961c95f1ab8235b4d42623eb0ecca28ad&scene=58&subscene=0": "【已复现】Rsync 堆缓冲区溢出漏洞(CVE-2024-12084)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502951&idx=2&sn=21655dd26fe10def4a6c6546fdf240d4&chksm=fe79e8ffc90e61e9fd1b2697f079954e6002507bd3d9fe45bf9331fc3c21481d0b14887ce263&scene=58&subscene=0": "Oracle 2025年1月补丁日多产品高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522153&idx=1&sn=b0d2973a6eb87e554fb62b7ddfa10dfb&chksm=ea94a603dde32f1580de59ef6a2b8fb600c6cbb237024a672b5a02660c7fc1f7184f617fce4c&scene=58&subscene=0": "7-Zip 修复高危的 Windows MoTW 安全告警绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498371&idx=1&sn=d7e51b293b5afd36bf501f82d547e678&chksm=fa59546ecd2edd789772877b71ddaf889a171c0baebaed5bc5d84e1dc59ec80a6efff9da250e&scene=58&subscene=0": ".NET 通过代码审计发现 ERP 系统中两个任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498371&idx=3&sn=81f6211052fdbd84bfa5f5b833c14bea&chksm=fa59546ecd2edd78667ab8745d36715a39fb789abb78742e20b611f6645859db72e35cbd719d&scene=58&subscene=0": "通过 Sharp4SuoPoc 从原理上复现 Visual Studio 投毒事件",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488946&idx=1&sn=64c5620996cc0710ef9e2507f0fc0365&chksm=c2c642b9f5b1cbaf3667d5aae3b668b4e34e0cd89d95893a59c258488748706a1a17b3cd727e&scene=58&subscene=0": "【漏洞通告】Oracle WebLogic Server远程代码执行与拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589076&idx=2&sn=d0f764edebe291ce5b96f036fabe1a56&chksm=b18c271e86fbae08b860c61d822fe9c14f3216204f7890876285cf7d58d7086a9d18b2c2002e&scene=58&subscene=0": "7-Zip高危漏洞曝光！攻击者可绕过安全机制远程执行代码，速升级",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MzQ0Ng==&mid=2247484515&idx=1&sn=7626bbc733c1de7e73a860df756a9589": "7-Zip高危漏洞CVE-2025-0411 poc 攻击者可绕过安全机制远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247491493&idx=1&sn=74fc8816c35069edd449608952df076f": "7-Zip高危漏洞CVE-2025-0411 poc 攻击者可绕过安全机制远程执行代码"
 }
