@@ -3259,5 +3259,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTA0MzgxNQ==&mid=2247489862&idx=1&sn=4b83e533ed54cf2bdf044047eff9bdb9": "『漏洞复现』XXL-JOB 默认 accessToken 身份绕过 RCE 漏洞分析及复现",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247495647&idx=3&sn=735cc5a7d53697ce267d9c016405b7df": "7-Zip高危漏洞，攻击者可绕过安全机制远程执行代码",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580942&idx=2&sn=c68b08970aacfb2f3445a422c4e35b40": "新的 Cleo 零日 RCE 漏洞在数据盗窃攻击中被利用",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527057&idx=3&sn=634fffd60e2e7360134637a74720981b": "Windows BitLocker 漏洞暴露了 AES-XTS 加密"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527057&idx=3&sn=634fffd60e2e7360134637a74720981b": "Windows BitLocker 漏洞暴露了 AES-XTS 加密",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490017&idx=3&sn=dc5d3eba018ab7577e00f5d983516dd0": "SSRF漏洞简单练习",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489513&idx=1&sn=a4053925c18ddf9d81d07fda3c0ceb59": "【漏洞预警】AdForest <= 5.1.8 — 身份验证绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzUxMjc0MTE3Mw==&mid=2247494909&idx=1&sn=4a1e102c06f1136d8a4b19f56adf8d80": "SonicWall SMA 1000 系列设备面临严重漏洞，亟需立即修补（CVE-2025-23006）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518295&idx=1&sn=29dba99e1641c1bec1e6ff2582d7c277": "记一次SRC挖掘实战|签约漏洞的意外之喜",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553170&idx=1&sn=1787de3c0d1bdd3f4f78fef06cf7ea28": "从靶场到实战--双一流高校多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247484600&idx=1&sn=59cc623040da7fc41c0ec693eae05f01": "使用WindTerm工具针对IT运维人员的定向钓鱼样本分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094681&idx=1&sn=18f3ea0a72637260c73cc9fc9f9fb166": "Windows 文件资源管理器权限提升漏洞 （CVE-2024-38100）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651148667&idx=1&sn=d180e4864f7fc7caffe5c5bea0629de2": "【资料】理解监控技术：间谍设备的起源与应用"
 }
