@@ -3248,5 +3248,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247488435&idx=1&sn=fe347684a39fe042876e6a13dd103054": "Cloudflare CDN漏洞泄露用户位置数据，即使是通过安全聊天应用程序",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247517944&idx=1&sn=c9a035ae82d527f2ebe884518dc3e56e": "工具 | 一款替代Frp完美消除网络特征的内网穿透神器",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900135&idx=1&sn=2675c56bb02cacdcbcb554cf291065ce": "高危预警！思科ClamAV漏洞PoC代码公开，多款终端安全产品告急",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492124&idx=2&sn=ac29f876f9b78d99d35ad00ae9c7351e": "漏洞预警 | 广联达Linkworks信息泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492124&idx=2&sn=ac29f876f9b78d99d35ad00ae9c7351e": "漏洞预警 | 广联达Linkworks信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312640&idx=2&sn=652ed0300126215df5cdfd30b50e7afb": "关于公示2025年工业和信息化部移动互联网APP产品安全漏洞专业库支撑单位的通知",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312640&idx=3&sn=9904195ae2cf70bd87a4d4dca9ffdcfe": "Pwn2Own 2025首日，16个零日漏洞和200万奖金",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664235572&idx=3&sn=fdc022660aa90ba5340b382eee49227a": "CNNVD | 关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135209&idx=1&sn=63393f68bd3cf2051d22136b780192cf": "梆梆安全发布《2024年Q4移动应用安全风险报告》 全国78.37%以上APP存在中高危漏洞风险",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063847&idx=1&sn=4fe2c06629d11317089a12ef0f79552d": "信息安全漏洞周报【第007期】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247488629&idx=1&sn=0e40bfd703c383a6954c90bdb7c0325a": "CVE-2024-49113“LDAP 噩梦”：2025 年首个 PoC 漏洞针对关键 Windows 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTA0MTY2Mw==&mid=2247485791&idx=1&sn=a856f6c4d684f19e115d59fc9035e3d0": "ChatGPT Crawler漏洞可以通过HTTP请求进行DDoS攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTA0MzgxNQ==&mid=2247489862&idx=1&sn=4b83e533ed54cf2bdf044047eff9bdb9": "『漏洞复现』XXL-JOB 默认 accessToken 身份绕过 RCE 漏洞分析及复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247495647&idx=3&sn=735cc5a7d53697ce267d9c016405b7df": "7-Zip高危漏洞，攻击者可绕过安全机制远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580942&idx=2&sn=c68b08970aacfb2f3445a422c4e35b40": "新的 Cleo 零日 RCE 漏洞在数据盗窃攻击中被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527057&idx=3&sn=634fffd60e2e7360134637a74720981b": "Windows BitLocker 漏洞暴露了 AES-XTS 加密"
 }
