@@ -3279,5 +3279,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247493538&idx=1&sn=c65b7640d0dd63b357e0138fc10213d6": "保护托管服务提供商及其客户免受网络威胁",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486597&idx=1&sn=4adff9311fb5f458ba301e4c5c226598": "【漏洞通告】通过使用特制文件名导致移动端崩溃(CVE-2025-0476)",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247547524&idx=1&sn=7ac5df0b17b1330bca7210825464a7bb": "某系统webpack接口泄露引发的一系列漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485575&idx=1&sn=d70e6f03b4c4364b95475edb267f52e3": "黑客在 Pwn2Own Automotive 2025 第一天利用了 16 个0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485575&idx=1&sn=d70e6f03b4c4364b95475edb267f52e3": "黑客在 Pwn2Own Automotive 2025 第一天利用了 16 个0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094694&idx=1&sn=4585dbd6a2385bcc0d9f83cd29f7b622": "phpMyAdmin 触发 XSS 攻击的安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067590&idx=1&sn=32ea96086da2a1f7d7b7c25530ca8d55": "【安全圈】斯巴鲁汽车漏洞让黑客利用 Starlink 远程控制数百万辆汽车",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067590&idx=3&sn=7379d9127186d37af92f08f7a9ced06e": "【安全圈】思科曝9.9分关键权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312790&idx=1&sn=f164fbd58d9d173bbc7eae3626f9ab40": "斯巴鲁曝关键漏洞，凭车牌号可远程入侵汽车",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312790&idx=3&sn=83ffd20b9fd4d5d2da935ff3246e1ce6": "美国前中央情报局分析师承认泄露国防信息",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489518&idx=1&sn=4af05b6c62e451e4665c358a9b06bb24": "【漏洞预警】Elastic Fleet Server信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247484992&idx=1&sn=32c786903ab1ff5e499415b69a5dfc4b": "【再发一遍】新春抽奖开启！与奉天安全团队 & 禾信智安共迎新年好运!",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494044&idx=1&sn=356681967a014551977e5051389b8f15": "每周蓝军技术推送（2025.1.18-1.24）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589258&idx=3&sn=1ee9c0b4428aba7d94dead806b1d1cb1": "特斯拉汽车被“重点关注”，Pwn2Own Automotive 2024首日曝出24个零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513589&idx=1&sn=1b70e6f4b48c39927bb2af1c0178da71": "知名车企漏洞：只需车牌号，就能远程监控劫持数百万辆车",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTA4OTI5Mg==&mid=2647712815&idx=1&sn=2d3a1abdb2818d828c34a375ffb93e5b": "安全保障不停歇|嘉韦思与您共度安心年",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486597&idx=5&sn=c423e5a5dd67afe6874eb9335352b8a0": "【漏洞通告】字符串定位器 <= 2.6.6 - 未经身份验证的 PHP 对象注入 (CVE-2024-10936)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486597&idx=6&sn=7ac28eba7ee329dd9cef429fd4088c0c": "【漏洞通告】Podman：buildah：竞争条件导致容器突破(CVE-2024-11218)"
 }
