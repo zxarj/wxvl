@@ -3309,5 +3309,19 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5ODI2MTg3Mw==&mid=2649818820&idx=1&sn=b69e6f16ae7e3b9d2c9c6180aaf5045d": "新战略、新生态、新篇章，速来回顾ISC.AI的荣耀一年",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523158&idx=1&sn=bbc5f15525a0e008b85e3497338d48c6": "SonicWall 呼吁立即修补可能被利用的严重 CVE-2025-23006 缺陷",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523158&idx=3&sn=a689073727de3e49818a00ed23a4c052": "新的 Cleo 零日 RCE 漏洞在数据盗窃攻击中被利用",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523158&idx=4&sn=e304292fd5c48e2a5dc5d82c6ddd9302": "新的 UEFI 安全启动漏洞使系统暴露于 bootkit"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523158&idx=4&sn=e304292fd5c48e2a5dc5d82c6ddd9302": "新的 UEFI 安全启动漏洞使系统暴露于 bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522169&idx=1&sn=fce75986029eae4069d3b0638d1202bd": "Oracle 2025年1月补丁日多产品高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522169&idx=1&sn=fce75986029eae4069d3b0638d1202bd&chksm=ea94a613dde32f05ef7826dcffe2b3decd7b00ebdf610c08b0715fb2887545ac34d0f7f964dc&scene=58&subscene=0": "Oracle 2025年1月补丁日多产品高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589258&idx=3&sn=1ee9c0b4428aba7d94dead806b1d1cb1&chksm=b18c28c086fba1d68376c00b114728f746f713fc2982b933066eb6ecbdc12c0081c2b3bb1411&scene=58&subscene=0": "特斯拉汽车被“重点关注”，Pwn2Own Automotive 2024首日曝出24个零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067590&idx=1&sn=32ea96086da2a1f7d7b7c25530ca8d55&chksm=f36e7b46c419f2508759cde38a0b63b3f4b1442bc7655fa88acfdb556c1fefa5e78211594fc2&scene=58&subscene=0": "【安全圈】斯巴鲁汽车漏洞让黑客利用 Starlink 远程控制数百万辆汽车",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067590&idx=2&sn=0963e1001cd7415a1987cb9c33807d8c&chksm=f36e7b46c419f2503cd6ccf7191847d24b6e5135071daedb82309bbc01b97545402cc0ff010b&scene=58&subscene=0": "【安全圈】GhostGPT – 黑客用来生成恶意软件和漏洞的新型 AI 黑帽工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067590&idx=3&sn=7379d9127186d37af92f08f7a9ced06e&chksm=f36e7b46c419f25055741d6542936063bf1b5787923201949d2998d3f1120257c12deaab9a8f&scene=58&subscene=0": "【安全圈】思科曝9.9分关键权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513589&idx=1&sn=1b70e6f4b48c39927bb2af1c0178da71&chksm=ebfaf2d5dc8d7bc3abdb845b15e34f01c5f9cc9f45c71804e231873a3c9b8be109f58083ea60&scene=58&subscene=0": "知名车企漏洞：只需车牌号，就能远程监控劫持数百万辆车",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247580965&idx=2&sn=35ac8cf9ec1bfacb175b8622720863e2&chksm=e9146d1fde63e40910e314cac61af17533c328067d6bd015df8402266ba7692efae9a049c79f&scene=58&subscene=0": "新的 UEFI 安全启动漏洞使系统暴露于 bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496940&idx=1&sn=a33f04e5fdb7818531eeda42ebf4b6e7&chksm=e8a5fe8fdfd277997c45b33df7177e2c0c39f4bb4e23b55308bf8a8ad59a087cb0ab7dace1d4&scene=58&subscene=0": "通用漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507077&idx=2&sn=a77c8b230188d7463b5a1fbe504403f6": "5th域安全微讯早报【20250125】022期",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793986&idx=2&sn=5bd96b403c792589e06daa0964fd0cf2": "RANsacked：LTE 和 5G 网络实施中发现 100 多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492144&idx=1&sn=d68efac5403df1daa1950b60e73e5dcb": "漏洞预警 | 7-Zip Mark-of-the-Web绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492144&idx=2&sn=040fc67f0e0e387db31ee307eb136e25": "漏洞预警 | 红帆OA SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492144&idx=4&sn=7e5ef4c1ae5a1491c1a278b161e197d1": "工具 | GeoServerExploit"
 }

@@ -1,5 +1,5 @@
 #  Oracle 2025年1月补丁日多产品高危漏洞安全风险通告   
- 奇安信 CERT   2025-01-22 01:10  
+ 代码卫士   2025-01-24 11:00  
   
 ●   
 点击↑蓝字关注我们，获取更多安全风险通告  
@@ -171,18 +171,54 @@ protocols 是要进行匹配的协议名列表。(必须指定下列其中一个
   
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/3tG2LbK7WG3tezJEzJsicLSWCGsIggLbcfk4LB5WK7pdSwMksxPOAoHuibjQpBlEId4nyIIw52n2J8N8MowYZcjA/640?wxfrom=5&wx_lazy=1&wx_co=1&wx_fmt=other&tp=webp "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/EkibxOB3fs4ic9MrG2xydb7ibvlliaJy5hSRNiczgXkCbn5Ca7F9ND19ZMa62TRibWNYwy5icTIZTh91gtp9CNt30tKQQ/640?wxfrom=5&wx_lazy=1&wx_co=1&wx_fmt=other&tp=webp "CERT LOGO.png")  
-  
-**奇安信 CERT**  
-  
-**致力于**  
-第一时间为企业级用户提供**权威**漏洞情报和**有效**  
-解决方案。  
   
   
-点击↓**阅读原文**，到**ALPHA威胁分析平台**  
-订阅更多漏洞信息。  
+  
+  
+  
+  
+  
+**推荐阅读**  
+  
+[Oracle 修复已遭利用的 Agile PLM 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247521546&idx=2&sn=c7f1dbf820ea6f896c4235e2f649c13e&scene=21#wechat_redirect)  
+  
+  
+[Pwn2Own 大赛赐我灵感，让我发现仨Oracle VirtualBox 漏洞，其中俩提权](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247509396&idx=1&sn=09b11f725ded56f10eeadd369fc07c50&scene=21#wechat_redirect)  
+  
+  
+[Oracle 警告：Weblogic 服务器中含有多个可遭远程利用的严重漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247506536&idx=2&sn=68965a70130088ebfe03c8e0bf0a6557&scene=21#wechat_redirect)  
+  
+  
+[朝鲜黑客被指从黑市购买Oracle Solaris 0day，入侵企业网络](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247496657&idx=2&sn=27658cff17f89a0c1f5e185c4bd67a56&scene=21#wechat_redirect)  
+  
+  
+[奇安信代码卫士帮助微软和 Oracle 修复多个高危漏洞，获官方致谢](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247494066&idx=1&sn=b5425e8a3cdf93914c19274f0a915ab6&scene=21#wechat_redirect)  
+  
+  
+  
+  
+**转载请注明“转自奇安信代码卫士 https://codesafe.qianxin.com”。**  
+  
+  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oBANLWYScMSf7nNLWrJL6dkJp7RB8Kl4zxU9ibnQjuvo4VoZ5ic9Q91K3WshWzqEybcroVEOQpgYfx1uYgwJhlFQ/640?wx_fmt=jpeg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/oBANLWYScMSN5sfviaCuvYQccJZlrr64sRlvcbdWjDic9mPQ8mBBFDCKP6VibiaNE1kDVuoIOiaIVRoTjSsSftGC8gw/640?wx_fmt=jpeg "")  
+  
+**奇安信代码卫士 (codesafe)**  
+  
+国内首个专注于软件开发安全的产品线。  
+  
+   ![](https://mmbiz.qpic.cn/mmbiz_gif/oBANLWYScMQ5iciaeKS21icDIWSVd0M9zEhicFK0rbCJOrgpc09iaH6nvqvsIdckDfxH2K4tu9CvPJgSf7XhGHJwVyQ/640?wx_fmt=gif "")  
+  
+   
+觉得不错，就点个 “  
+在看  
+” 或 "  
+赞  
+” 吧~  
+  
   
