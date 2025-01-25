@@ -3328,5 +3328,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247486058&idx=1&sn=94c417bfac0de38346155df588db3dd4": "MS17-010漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312806&idx=1&sn=5a40997e2166b5b730a46ae577b831a1": "思科曝9.9分关键权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649793986&idx=3&sn=b951bb5b8e3502708e251c22f873a652": "超过 2,000 台 SonicWall 设备易受严重0day漏洞攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492144&idx=3&sn=3b364eb801a05419d2b65c14ce311eb9": "漏洞预警 | 通达OA SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492144&idx=3&sn=3b364eb801a05419d2b65c14ce311eb9": "漏洞预警 | 通达OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247484704&idx=1&sn=410d5b5fae6bf9431286297a0a2c6170": "【云安全】云原生-Docker（五）容器逃逸之漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067606&idx=3&sn=6473d53d9a207bfac9888ca3a543bbf8": "【安全圈】新的 Cleo 零日 RCE 漏洞在数据盗窃攻击中被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067606&idx=4&sn=e8ae1a9dfb9fb649575b0d8a5414a82d": "【安全圈】新的 UEFI 安全启动漏洞使系统暴露于 bootkit",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527185&idx=1&sn=e316e52a9c3df272305888245af343f8": "CVE-2024-43451 Windows NTLM 漏洞，允许攻击者使用恶意快捷方式强制身份验证并捕获 NTLM 哈希",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527185&idx=2&sn=67cbf97affd8106486d5097a7d773cf7": "CVE-2024-43468 ：通过 PoC 代码揭示 Microsoft Configuration Manager 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589259&idx=2&sn=4356dec55931f1257ae44561ca3f0d3e": "别错过！“系统0day安全”课程，带你精通漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490322&idx=1&sn=25c1352e1b349a1302486f7e519f7d5d": "友数聚 CPAS审计管理系统V4 downPlugs 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247485448&idx=1&sn=5888106f1aed20b020b5c7cf2e2d7d53": "xray图形化工具-Super Xray,支持自定义导入poc库",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247484826&idx=1&sn=5f81afa2c8c6ec0ad22c685de58a12d2": "对 404 站点的漏洞挖掘"
 }
