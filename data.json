@@ -3353,5 +3353,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607310&idx=1&sn=fd7cbe9d4363d477ead1d88c79cddbc6": "思科曝9.9分关键权限提升漏洞；|知名车企漏洞：只需车牌号，就能远程监控劫持数百万辆车",
     "https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017526&idx=1&sn=e452849723ece70271aac0e8c9bba31e": "携程SRC漏洞贡献值排行榜奖励揭晓",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134990&idx=2&sn=58403bc9b1f187d4eeb8a0040555e426": "航空防务公司Stark被曝遭遇勒索攻击，4TB机密数据疑被窃取；华硕意外泄露AMD处理器漏洞，补丁被提前公开 | 牛览",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247494146&idx=1&sn=f92e0740e89d5b79e20ba17ee33efbcf": "ChatGPT在漏洞管理中的创新应用"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247494146&idx=1&sn=f92e0740e89d5b79e20ba17ee33efbcf": "ChatGPT在漏洞管理中的创新应用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490023&idx=1&sn=846a609d96c5cc54f73d7ed7607539ec": "【云安全】云原生-Docker（五）容器逃逸之漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313204&idx=3&sn=af9e7adb9e7886cc3ec234d15e060a0d": "Pwn2Own Automotive 2025落幕，累计成功利用49个零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317461&idx=5&sn=7becd6dc617d0acb19f79e2562a68616": "【InForSec 2025年会顶会论文回顾】刘沛宇：探究 ChatGPT 在漏洞管理任务中的能力",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODc4NjE1OQ==&mid=2247483918&idx=1&sn=54c42da49fd35bed728491560deb1a6c": "简单的反调试技术实现",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527239&idx=1&sn=9121f5406d8c67b5a55ce5549891886d": "Spring WebFlux 授权绕过：CVE-2024-38821 详解",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489833&idx=1&sn=3d00b164b7af585d9c5ea5877e41b19e": "子域名劫持漏洞高阶利用：从发现到利用完整攻略"
 }
