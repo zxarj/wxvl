@@ -3361,5 +3361,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527239&idx=1&sn=9121f5406d8c67b5a55ce5549891886d": "Spring WebFlux 授权绕过：CVE-2024-38821 详解",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489833&idx=1&sn=3d00b164b7af585d9c5ea5877e41b19e": "子域名劫持漏洞高阶利用：从发现到利用完整攻略",
     "https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672529&idx=1&sn=cdc7f3d0c6553b9b1c05425ba64820b9": "紧急告警！Meta Llama框架漏洞，AI系统面临远程代码执行风险",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488723&idx=1&sn=b6dcde79af26f7316bf47c73990a2c54": "WordPress CF Link Shortcode 插件存在前台SQL注入漏洞(CVE-2024-12404)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488723&idx=1&sn=b6dcde79af26f7316bf47c73990a2c54": "WordPress CF Link Shortcode 插件存在前台SQL注入漏洞(CVE-2024-12404)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317461&idx=5&sn=7becd6dc617d0acb19f79e2562a68616&chksm=8bc4ba9bbcb3338d471b5f27bb2983f32ebb8b14c928d3ddbf68b363b2b7a2700e9ca475d8bc&scene=58&subscene=0": "【InForSec 2025年会顶会论文回顾】刘沛宇：探究 ChatGPT 在漏洞管理任务中的能力",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134996&idx=2&sn=82356d56bcca2787f9016513ed4f3cbf": "LTE和5G网络实现中存在119个安全漏洞，可导致大规模通信中断；调查显示：仅7%受害者在支付勒索软件赎金后成功恢复数据 |牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzY2NjEyMQ==&mid=2247485954&idx=1&sn=4afd6ee87cbe00a5909abfde0103953f": "Oracle MySQL Server 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247485569&idx=1&sn=dcdcc1a80c070b6685ae6bd051bc0450": "一次混合双打出来的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507117&idx=2&sn=2b0142722d4a7ab4ac2d0536274592ce": "5th域安全微讯早报【20250127】023期",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484311&idx=1&sn=009372da290f38f7bc6ff482b95c7429": "锐捷EWEBauth远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794002&idx=3&sn=54c10d70c6a93ada65ccf73b58cd558d": "思科修复 ClamAV 拒绝服务 (DoS) 漏洞，专家警告称概念验证 (PoC) 漏洞代码可用"
 }
