@@ -3368,5 +3368,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247485569&idx=1&sn=dcdcc1a80c070b6685ae6bd051bc0450": "一次混合双打出来的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507117&idx=2&sn=2b0142722d4a7ab4ac2d0536274592ce": "5th域安全微讯早报【20250127】023期",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484311&idx=1&sn=009372da290f38f7bc6ff482b95c7429": "锐捷EWEBauth远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794002&idx=3&sn=54c10d70c6a93ada65ccf73b58cd558d": "思科修复 ClamAV 拒绝服务 (DoS) 漏洞，专家警告称概念验证 (PoC) 漏洞代码可用"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794002&idx=3&sn=54c10d70c6a93ada65ccf73b58cd558d": "思科修复 ClamAV 拒绝服务 (DoS) 漏洞，专家警告称概念验证 (PoC) 漏洞代码可用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134990&idx=2&sn=58403bc9b1f187d4eeb8a0040555e426&chksm=bd15acdd8a6225cb148a4aac712178ac0f5b93c6a31929a25b66f04ad2541cae3e31269ab937&scene=58&subscene=0": "航空防务公司Stark被曝遭遇勒索攻击，4TB机密数据疑被窃取；华硕意外泄露AMD处理器漏洞，补丁被提前公开 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=1&sn=70bff0dcfddcafcf645feed59f012888": "CNVD漏洞周报2025年第4期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=2&sn=c1eb11a7df482ea02fe0bb114eaa29bc": "上周关注度较高的产品安全漏洞(20250120-20250126)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523229&idx=2&sn=596a96b2b96c941baeb9a5420fc9bbc2": "GitHub漏洞允许恶意仓库泄露用户凭据",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523229&idx=4&sn=fae6c9befec51a70547603cfc08bdd67": "LTE和5G基础设施中的100多个漏洞导致远程核心泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489846&idx=1&sn=e482f93c982f9f2c47febe82748759f6": "一个URL参数就能黑掉整个网站？这个漏洞价值10万美金",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484703&idx=1&sn=6ceac299607701f6e5dd0becc89a12d2": "DrayTek Vigor3910 CVE-2024-41592分析"
 }
