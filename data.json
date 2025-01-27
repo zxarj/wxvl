@@ -3375,5 +3375,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523229&idx=2&sn=596a96b2b96c941baeb9a5420fc9bbc2": "GitHub漏洞允许恶意仓库泄露用户凭据",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523229&idx=4&sn=fae6c9befec51a70547603cfc08bdd67": "LTE和5G基础设施中的100多个漏洞导致远程核心泄露",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247489846&idx=1&sn=e482f93c982f9f2c47febe82748759f6": "一个URL参数就能黑掉整个网站？这个漏洞价值10万美金",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484703&idx=1&sn=6ceac299607701f6e5dd0becc89a12d2": "DrayTek Vigor3910 CVE-2024-41592分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484703&idx=1&sn=6ceac299607701f6e5dd0becc89a12d2": "DrayTek Vigor3910 CVE-2024-41592分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313205&idx=4&sn=fd39b2e5339a4dbd516501e208e06b3e": "pwndbg：一款专为安全漏洞分析设计的GDB插件",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484429&idx=1&sn=d365c76773989b993a162b0224f21e0f": "紧盯风险，防治漏洞：七步闭环",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247491776&idx=1&sn=4e17c660387c6776b88e397c64e7ed57": "运维风险管控、数据安全规范普及与漏洞情报处置：技术与管理并重的综合策略探讨。｜总第278周",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523229&idx=3&sn=741cf9ea3ae359cfcb2e7cafb292b025": "Kubernetes 集群远程代码执行漏洞致攻击者可接管所有 Windows 节点",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527322&idx=3&sn=e655cc619c0bfa0ab8a7f45ea8a2c268": "Spring WebFlux 授权绕过：CVE-2024-38821 详解",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247635825&idx=1&sn=555c70635c9b65303fc907c0c7427c1b": "人物丨悬镜安全张弛：解密悬镜二进制SCA技术背后的黑客大佬"
 }
