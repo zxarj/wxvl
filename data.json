@@ -3393,5 +3393,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651134996&idx=2&sn=82356d56bcca2787f9016513ed4f3cbf&chksm=bd15acc78a6225d149fe16de3316f0735ac8eb52adf8cea1638c72eb92dc9122d6eb960a5ce0&scene=58&subscene=0": "LTE和5G网络实现中存在119个安全漏洞，可导致大规模通信中断；调查显示：仅7%受害者在支付勒索软件赎金后成功恢复数据 |牛览",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496957&idx=1&sn=5ef897f46f3bf16bce1a83b45b0611c3&chksm=e8a5fe9edfd27788ba026eddd3fbb4541a0037c8be19dcb77460d206bd14339fb2c1bd0ebf83&scene=58&subscene=0": "通过js进行模糊测试所拿到的一次五千漏洞赏金记录",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485552&idx=1&sn=4f12fa7c096f587688a8f217b3b38267": "fastjson1.2.24 1.2.27漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247494549&idx=2&sn=a31765a36a10d95d268b4f4b4c244eee": "多个 Git 漏洞导致凭证泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247494549&idx=2&sn=a31765a36a10d95d268b4f4b4c244eee": "多个 Git 漏洞导致凭证泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=1&sn=70bff0dcfddcafcf645feed59f012888&chksm=fd74c0f2ca0349e471d5a0cede4e3ed7bdd0d788c211c68cc80dfd224e519f19650dbc8d8c70&scene=58&subscene=0": "CNVD漏洞周报2025年第4期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=2&sn=c1eb11a7df482ea02fe0bb114eaa29bc&chksm=fd74c0f2ca0349e47edcfe201c0666f5f1252b026ececf6de03bbe19fda17ce7ae900d728649&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250120-20250126)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5Mzk2OQ==&mid=2247486395&idx=1&sn=50dc41dcfced9c9468c1ca4bc8a25dee": "原创工具|Venom-JWT渗透工具 - 针对JWT漏洞和密钥爆破服务渗透测试",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487259&idx=1&sn=d2c93ec1be08ddb9cef647f750e66c51": "【burpsuite靶场-服务端2】身份认证漏洞-15个实验（全）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515161&idx=1&sn=3f2f882686de333d655eeacd52bf2dbc": "白帽一百祝大家除夕快乐 | 文末抽奖",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649766494&idx=1&sn=dec3029bc7658feff85b8fde230df8c3": "春节放假通知 | 漏洞盒子祝大家蛇年大吉！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247489191&idx=1&sn=97236ff45aedf7c7abef4a24f63ba8d6": "Nuclei GUI POC管理工具"
 }
