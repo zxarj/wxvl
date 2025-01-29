@@ -3407,5 +3407,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486261&idx=1&sn=a99fd42137a2c3a4e337746ba8d1c4d7": "新年记",
     "https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247516969&idx=1&sn=808e750d8993693d7aa298868f1d68f8": "赛博研究院祝您新春快乐！",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247494577&idx=2&sn=2a3b9a9481760f2c54d584ed72cf307c": "苹果修补了 2025 年首个被利用的 iOS 0day(CVE-2025-24085)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496966&idx=1&sn=c49dbe1213cb5a1afa836901e2c13038&chksm=e8a5ff65dfd27673a9c0d7fdd99094847b291a7b8434f16f408af60943322f7ba539d1f82082&scene=58&subscene=0": "0day 挖到手软，403 到 getshell"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496966&idx=1&sn=c49dbe1213cb5a1afa836901e2c13038&chksm=e8a5ff65dfd27673a9c0d7fdd99094847b291a7b8434f16f408af60943322f7ba539d1f82082&scene=58&subscene=0": "0day 挖到手软，403 到 getshell",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247547532&idx=1&sn=a25d3179451f39184a2c2306e222d2f5": "记一次SRC利用github搜索拿下中危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527357&idx=3&sn=a9547ba6b29ff579585ca08ae6e20652": "零日漏洞正在推动 Fortinet 防火墙攻击（CVE-2024-55591 已确认）"
 }
