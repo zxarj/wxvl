@@ -3415,5 +3415,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492127&idx=1&sn=31c2fc46637844b4f512ae831dc989f1": "W3 Total Cache 插件漏洞导致 100 万个 WordPress 网站遭受攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247620239&idx=1&sn=f618950670cfc9c09175456bfcc15191": "扩展 SAE J1939 的攻击场景：传输协议中已建立和新的漏洞的综合分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488743&idx=1&sn=6012eb58be312daa5822e88d4cdb7630": "【代码审计】RGCMS 2.0 存在 phar 反序列化RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485440&idx=1&sn=bd01dcfd0a6df81151e8df8c374c6695": "【项目推荐】PDF FUD 漏洞利用"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485440&idx=1&sn=bd01dcfd0a6df81151e8df8c374c6695": "【项目推荐】PDF FUD 漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488775&idx=1&sn=2b8f2e1154eb0de5e1422589ee7b4f95": "DeepSeek 数据库被攻击，国外团队已公开披露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485665&idx=1&sn=ce7d065feabad43d7bd144eb57ba1115": "可能这就是你deepseek无法访问的原因——deepseek 漏洞（已修复）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjczNzEyMw==&mid=2247484157&idx=1&sn=597aa22f30bf086e39d157e7ba9082ad": "（吃瓜）刘农TV之渗透中遇到的神人运维",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTg3ODYxNg==&mid=2247485094&idx=1&sn=300233e404ea534282f994bd51e38594": "越权漏洞实战漏洞报告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247547534&idx=1&sn=89f840ad1397911a18d5776cb54ed32c": "代码审计 | 如何获取CVE漏洞编号",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515759&idx=1&sn=e9782fc3eeea1a312412a0e67944247e": "xxl-job漏洞综合利用工具 -- xxl-job-attack",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607338&idx=3&sn=d40fb23bebe952ee4310c3f5c51349a0": "瑞斯康达智能网关命令执行漏洞简单分析"
 }
