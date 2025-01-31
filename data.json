@@ -3432,5 +3432,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313290&idx=2&sn=44a6a38890bbe1cf23af0cb8162a8362": "新的“双击劫持”漏洞绕过主要网站上的点击劫持保护",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313290&idx=3&sn=c9beec9c5ce5078f2a7e260af8dc140f": "虚假PoC漏洞利用正用来攻击研究人员",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487416&idx=1&sn=3071e9e82d12510b732a50c8e22cd596": "Java反序列化漏洞 | Fastjson反序列化漏洞原理+漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485185&idx=1&sn=b8349c313ac09f29240c61f055433ddd": "CVE-2024-49138 poc windows CLFS.sys提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485185&idx=1&sn=b8349c313ac09f29240c61f055433ddd": "CVE-2024-49138 poc windows CLFS.sys提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247493840&idx=1&sn=3482149c0823f566085f61a99735ad9e": "哥斯拉二开从0到1-2(免杀)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484326&idx=1&sn=ec20d154a16e5fff47cb40da8080cff7": "WVP-GB28181摄像头管理平台user信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607360&idx=3&sn=cac10cb8e85c07f523764294668f4fec": "经典华为路由器漏洞复现详细分析(包括整个漏洞链)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484093&idx=1&sn=368784930a6a478e041b84cfcb1d463a": "【安全预警】明源云ERP报表服务GetErpConfig存在信息泄露漏洞"
 }
