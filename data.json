@@ -3425,5 +3425,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607338&idx=3&sn=d40fb23bebe952ee4310c3f5c51349a0": "瑞斯康达智能网关命令执行漏洞简单分析",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498569&idx=1&sn=a273094850e815c5dccaf5c9fbb7956f": "收藏 | dotNet安全矩阵 2024 年度目标权限维持阶段文章和工具汇总",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496981&idx=1&sn=1b88708a474086d96cf22a9428c93835": "深入浅出API测试｜搜集分析与漏洞挖掘实战",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489853&idx=1&sn=080eaada0f65b07415f5e8a922bfb1ad": "网络安全不是一场漏洞游戏"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247489853&idx=1&sn=080eaada0f65b07415f5e8a922bfb1ad": "网络安全不是一场漏洞游戏",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247496981&idx=1&sn=1b88708a474086d96cf22a9428c93835&chksm=e8a5ff76dfd276605ae35037c735c6cb3cb39f0962d2b476be2284664584944a6e21d112112a&scene=58&subscene=0": "深入浅出API测试｜搜集分析与漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504783&idx=1&sn=0b286a996a793e420114b78a4ab28260": "如何找到更多漏洞赏金的子域？深入了解 Recon",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500544&idx=1&sn=ebf9f3fcb46a7bcadad135da1b6e8fd8": "DeepSeek 数据库未授权访问漏洞，导致大量数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313290&idx=2&sn=44a6a38890bbe1cf23af0cb8162a8362": "新的“双击劫持”漏洞绕过主要网站上的点击劫持保护",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313290&idx=3&sn=c9beec9c5ce5078f2a7e260af8dc140f": "虚假PoC漏洞利用正用来攻击研究人员",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487416&idx=1&sn=3071e9e82d12510b732a50c8e22cd596": "Java反序列化漏洞 | Fastjson反序列化漏洞原理+漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485185&idx=1&sn=b8349c313ac09f29240c61f055433ddd": "CVE-2024-49138 poc windows CLFS.sys提权漏洞"
 }
