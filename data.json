@@ -3450,5 +3450,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313321&idx=3&sn=2d401e6e743d4029238b04acea892e1b": "OWASP发布2025十大智能合约安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313321&idx=4&sn=87670a1665432dda01a0ca651d6f847a": "卡巴斯基公布奔驰汽车十几个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037464&idx=1&sn=439f05b2a2f5523c148d07a794aff60a": "Android Intent 重定向漏洞分析总结",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527447&idx=2&sn=0ab2f693c54ddb608b553da95edaa698": "CVE-2025-0065：TeamViewer 修补 Windows 客户端中的权限提升漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527447&idx=2&sn=0ab2f693c54ddb608b553da95edaa698": "CVE-2025-0065：TeamViewer 修补 Windows 客户端中的权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589300&idx=2&sn=e9f874ab1024ce5d7a8a2a424b891a7f": "关于PAN-OS DoS(CVE-2024-3393)的研究"
 }
