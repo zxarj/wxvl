@@ -3452,5 +3452,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037464&idx=1&sn=439f05b2a2f5523c148d07a794aff60a": "Android Intent 重定向漏洞分析总结",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527447&idx=2&sn=0ab2f693c54ddb608b553da95edaa698": "CVE-2025-0065：TeamViewer 修补 Windows 客户端中的权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589300&idx=2&sn=e9f874ab1024ce5d7a8a2a424b891a7f": "关于PAN-OS DoS(CVE-2024-3393)的研究",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589300&idx=2&sn=e9f874ab1024ce5d7a8a2a424b891a7f&chksm=b18c28fe86fba1e8336887843dd4ab08afa58ca810f485f7a4efd1b50cb9fd256fc84de3faef&scene=58&subscene=0": "关于PAN-OS DoS(CVE-2024-3393)的研究"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589300&idx=2&sn=e9f874ab1024ce5d7a8a2a424b891a7f&chksm=b18c28fe86fba1e8336887843dd4ab08afa58ca810f485f7a4efd1b50cb9fd256fc84de3faef&scene=58&subscene=0": "关于PAN-OS DoS(CVE-2024-3393)的研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTYwMDI2OA==&mid=2247484342&idx=1&sn=fbf99114ba0a7734a34ca35d09047003": "[靶场复现计划]CSLAB Thunder",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247485684&idx=1&sn=ca0044c1a5698a1a8bad3d17b325b3a4": "Zyxel CPE 设备遭遇大规模攻击：关键漏洞（CVE-2024-40891）仍未修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607394&idx=1&sn=387b2dc9dd6ebd7d27288d882c5d9832": "时间强盗漏洞：ChatGPT绕过敏感话题安全防护",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607394&idx=4&sn=d21b7373ba4514475e76fc1e86673954": "Burpsuite存储桶配置不当漏洞检测插件"
 }
