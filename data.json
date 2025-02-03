@@ -3460,5 +3460,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247486459&idx=1&sn=bdb973718eb5b746ffb36010c1126ab7": "【oscp】SickOS系列全教程",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483819&idx=1&sn=f720e0623daf07c7838527d03dce27e1": "FUZZ出来的一系列漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247549670&idx=2&sn=5f3fb6a0f0d849bdcf52c3b088620c0e": "揭示AUTOSAR中隐藏的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515830&idx=1&sn=e5a9baf92665cd050d7e003448c06174": "帆软bi反序列化漏洞利用工具（V3.0）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515830&idx=1&sn=e5a9baf92665cd050d7e003448c06174": "帆软bi反序列化漏洞利用工具（V3.0）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247504845&idx=1&sn=8c8fa9f474d370a021e30aa8209268ac": "500 美元的漏洞：Censys 搜索如何引导我获得快速漏洞赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487001&idx=1&sn=eaae88e6f2b15e26732ca6b90fb5ca69": "Active Directory Domain Services 权限提升漏洞 (CVE-2025-21293)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499318&idx=1&sn=96bfdd5cb231800f2140600f3986e952": "Redis 漏洞利用工具 -- RedisEXP"
 }
