@@ -3482,5 +3482,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247485604&idx=1&sn=7af7078f51ceb95c8c158ffe8245f066": "GitHub Copilot 越狱漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037469&idx=1&sn=aef7ec48f7f73fb2e4636d85c66b59f2": "从SkyWalking历史漏洞学习h2db注入利用",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487542&idx=1&sn=c93b83f06a03d6a97c751abe0a6f99bd": "漏洞挖掘 | 从零开始的路由器漏洞挖掘之旅",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506086&idx=3&sn=3ef7426560d405d2dd89587e5bb876e1": "【焕新领先】捷普漏洞扫描系统"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506086&idx=3&sn=3ef7426560d405d2dd89587e5bb876e1": "【焕新领先】捷普漏洞扫描系统",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527545&idx=1&sn=245f83f5ca6897c7478765b67f6dc5c9": "TRAVERTINE (CVE-2025-24118) macOS 内核中存在绝对疯狂的竞争条件",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487044&idx=1&sn=0c652e63de486d897bafd5a9adfdd016": "Docker API 漏洞利用实战：构建一键式远程代码执行（RCE）链",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247547540&idx=1&sn=7394f6726bf7ce83ddc5e376d3895a7d": "记一次网上阅卷系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313472&idx=1&sn=2810e4a377d48e43544c74ac7a2e49e2": "2024年CVE漏洞数据回顾：漏洞等级正在被重塑"
 }
