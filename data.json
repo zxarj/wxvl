@@ -3486,5 +3486,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527545&idx=1&sn=245f83f5ca6897c7478765b67f6dc5c9": "TRAVERTINE (CVE-2025-24118) macOS 内核中存在绝对疯狂的竞争条件",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487044&idx=1&sn=0c652e63de486d897bafd5a9adfdd016": "Docker API 漏洞利用实战：构建一键式远程代码执行（RCE）链",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247547540&idx=1&sn=7394f6726bf7ce83ddc5e376d3895a7d": "记一次网上阅卷系统漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313472&idx=1&sn=2810e4a377d48e43544c74ac7a2e49e2": "2024年CVE漏洞数据回顾：漏洞等级正在被重塑"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313472&idx=1&sn=2810e4a377d48e43544c74ac7a2e49e2": "2024年CVE漏洞数据回顾：漏洞等级正在被重塑",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486241&idx=1&sn=42301175cbc8633a71f78d3d218df92b": "无点击钓鱼？微软超高危RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247570696&idx=1&sn=9cc57dc2e85ffaab5367dae31cdb200e": "5款常用的漏洞扫描工具，网安人得会吧~"
 }
