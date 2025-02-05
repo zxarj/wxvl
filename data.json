@@ -3508,5 +3508,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607416&idx=4&sn=160178c5674fef2239d1035bb05aacaa": "sqlmap Xplus 基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开！更新V1.6",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484508&idx=1&sn=b705f461a428d8aa34a7aebce836857c": "【漏洞复现】锐明Crocus系统存在任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794057&idx=1&sn=d2e030673abaffe0a3cbfe291ebcaabb": "7-Zip MotW 绕过漏洞被用于针对乌克兰的0day攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498740&idx=1&sn=16729f4e599a69352876c7c8cc33cbfa": "2025 持续防范 GitHub 投毒，通过 Sharp4SuoExplorer 分析 Visual Studio 隐藏文件"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498740&idx=1&sn=16729f4e599a69352876c7c8cc33cbfa": "2025 持续防范 GitHub 投毒，通过 Sharp4SuoExplorer 分析 Visual Studio 隐藏文件",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247615426&idx=1&sn=8445d2d2086336110de24023dea94d56": "一次OSS存储桶的任意数据上传挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486115&idx=1&sn=cb43122e33f4dbdf63f15667bda204bb": "7-Zip漏洞遭俄罗斯黑客利用，乌克兰多个政府组织中招！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484459&idx=1&sn=d14e0510f2c328f0e763085ebef123e6": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第5期，总第23期]",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484459&idx=2&sn=19045ae24ac7fcbb4a3334e2855ac1cb": "Apache Commons Fileupload拒绝服务漏洞（CVE-2023-24998）处置标准作业程序（SOP）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484459&idx=3&sn=ab11543dc260ae956c905b66c6d0309e": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第二十期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484094&idx=1&sn=15ab769c5bdec630c5d45746069bb451": "【安全预警】浪潮HCM-Cloud云端专业人力资源平台存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247485688&idx=1&sn=ad305e3624e600a9b92530845df693e7": "警惕！黑客利用政府网站漏洞发动钓鱼攻击，全球多国受害",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247494810&idx=4&sn=d8efe231b9677487c664e9170885c0e6": "7-Zip MotW 绕过漏洞被用于针对乌克兰的零日攻击"
 }
