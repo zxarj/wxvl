@@ -3493,5 +3493,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493428&idx=1&sn=47039c762156ca739f4badbe020d9d88": "帆软bi反序列化漏洞利用工具更新V3.0",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486597&idx=1&sn=883c0b328f0619d96e93697b90252de7": "俄罗斯网络犯罪团伙利用7-Zip零日漏洞攻击乌克兰",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900163&idx=1&sn=e0d9d8eb42685d661a0731fa5c7b89a4": "420万台主机面临安全风险！VPN、路由器等设备因隧道协议漏洞暴露",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507284&idx=2&sn=9b36d26dd2b9fe39250305eb1bc2500d": "五眼联盟发布网络边缘设备安全指导，强调取证可见性"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507284&idx=2&sn=9b36d26dd2b9fe39250305eb1bc2500d": "五眼联盟发布网络边缘设备安全指导，强调取证可见性",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498718&idx=1&sn=0bbf3d272f4c72302d21c151106a9275&chksm=fa595533cd2edc25867405807f8e4bfdee1cf510746683efe669fd6a09f3f08f97c6e86ca47a&scene=58&subscene=0": "最后一天福利 | 2024年度WebShell专题、内存马技术、反序列化漏洞文章和工具汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523273&idx=1&sn=93b3e227d4fa9991192622539f963393": "谷歌修复安卓内核零日漏洞，攻击者已利用该漏洞发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523273&idx=3&sn=7f4bba28b5ae9d5b82a1b6fbe59203af": "以色列间谍软件公司Paragon涉嫌利用WhatsApp零点击漏洞发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519424&idx=1&sn=fdbc725551179d2861feca5472776053": "基于DeepSeek AI 代码审计漏洞 v1.0上线！可本地ollama调用 | 工具",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260527&idx=1&sn=eb0df8daaf5798cb9fae2b60346a8e8a": "GitHub Dorking 高级利用-更多自动化、更多发现【部分】",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499626&idx=1&sn=05db5599f68bac92168ecdfd9fd60e6e": "CNVD漏洞周报2025年第4期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499626&idx=2&sn=ee9c229cecafd1cfe426dce51fc7d03a": "上周关注度较高的产品安全漏洞(20250120-20250126)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037473&idx=1&sn=2e6b2a606dfad6754a67fd146cea44c0": "自动化软件漏洞利用技术研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247502226&idx=1&sn=b9a3524d17296a87a51d12ae983b2caf": "首款色情应用登录苹果第三方应用商店",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484347&idx=1&sn=828e443845536de2ad0b2be8f4b236c5": "【漏洞复现】锐明技术Crocus系统存在任意文件读取",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484342&idx=1&sn=8fe6f034b3a56ecadd6473c3b09f87dd": "【漏洞预警】招标采购平台存在未授权访问",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607416&idx=4&sn=160178c5674fef2239d1035bb05aacaa": "sqlmap Xplus 基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开！更新V1.6",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484508&idx=1&sn=b705f461a428d8aa34a7aebce836857c": "【漏洞复现】锐明Crocus系统存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794057&idx=1&sn=d2e030673abaffe0a3cbfe291ebcaabb": "7-Zip MotW 绕过漏洞被用于针对乌克兰的0day攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498740&idx=1&sn=16729f4e599a69352876c7c8cc33cbfa": "2025 持续防范 GitHub 投毒，通过 Sharp4SuoExplorer 分析 Visual Studio 隐藏文件"
 }
