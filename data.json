@@ -3562,5 +3562,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzM4NzI1MA==&mid=2247486253&idx=1&sn=a49bda6cf802802fa854206a54ebb938": "Solr 文件上传路径遍历漏洞（CVE-2024-52012）",
     "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247492400&idx=1&sn=5c7dc308f10f7c382d3ed8bb0be0ba5f": "没想到，“漏洞”竟然比“脆弱性”小太太太太多！",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489535&idx=1&sn=b3da75dbb9a3a6cd24e4da4308d06cca": "【漏洞预警】libxml2代码执行漏洞(CVE-2022-49043)",
-    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496231&idx=1&sn=144e76f1d7add444a1f7e0c82a0ce9a8": "OWASP发布2025十大智能合约安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496231&idx=1&sn=144e76f1d7add444a1f7e0c82a0ce9a8": "OWASP发布2025十大智能合约安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484341&idx=1&sn=62cf45b5a2524acde5199aca80e542f4": "好视通云会议upLoad2.jsp文件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515895&idx=2&sn=1e563e94b277c1fa42e577f6bcca38fd": "APP渗透测试 -- janus漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499368&idx=1&sn=a994edf96eccc4c4f6252b01f25668c6": "xss漏洞挖掘插件 -- Jssx（2月6日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDE3NDUwNg==&mid=2247483957&idx=1&sn=2ad699a3f2895d566eab7c2bb52f925e": "实战缓冲区溢出漏洞攻击：从信息收集到成功提权",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490217&idx=1&sn=507f8b70b295803eb96f084dd6f0b379": "思科修补启用 Root CmdExec 和 PrivEsc 的关键 ISE 漏洞"
 }
