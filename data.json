@@ -3527,5 +3527,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489186&idx=1&sn=db9532a3b205fcb2f4b41bca0f65c25f": "支付安全堡垒中的隐藏漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067643&idx=4&sn=cee4f0162f4215b03faa784f2a08ca29": "【安全圈】以色列间谍软件公司Paragon涉嫌利用WhatsApp零点击漏洞发动攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489362&idx=1&sn=1c32dc4896be7f5c2357a63ac383bbc8": "【安全月报】| 1月份因漏洞、黑客和诈骗造成的损失约为9800万美元",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492134&idx=1&sn=68d59f072d4a1ef49284ec15f0c3b1df": "全球超过 660,000 个 Rsync 服务器遭受代码执行漏洞攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492134&idx=1&sn=68d59f072d4a1ef49284ec15f0c3b1df": "全球超过 660,000 个 Rsync 服务器遭受代码执行漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589307&idx=2&sn=1e8443c86a1b26b4a73e6078462430a8&chksm=b18c28f186fba1e7a28649d6a8fb1c87d7c29365a89398d0ecde7835384df8242d1736b52d38&scene=58&subscene=0": "紧急提醒！Netgear 路由器高危漏洞来袭，速更新固件！",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498740&idx=1&sn=16729f4e599a69352876c7c8cc33cbfa&chksm=fa595519cd2edc0f745a12d51cace66879bf69a7dd8f9d49253179bb5426e85f4d593cee86b9&scene=58&subscene=0": "2025 持续防范 GitHub 投毒，通过 Sharp4SuoExplorer 分析 Visual Studio 隐藏文件",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067643&idx=3&sn=15fafdc5115ba7e7a871e108304d8284&chksm=f36e7b7bc419f26d569f3c4268dfb46a07276cd2ab126e6e16e07a81aacd5d7c66313b916f53&scene=58&subscene=0": "【安全圈】Pwn2Own Automotive 2025 黑客因破解 49 个零日漏洞获 886,250 美元奖励",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067643&idx=4&sn=cee4f0162f4215b03faa784f2a08ca29&chksm=f36e7b7bc419f26d6f8b29e660074eec7afa31ceab45050537a035abfaf9877ed194deecfbca&scene=58&subscene=0": "【安全圈】以色列间谍软件公司Paragon涉嫌利用WhatsApp零点击漏洞发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499626&idx=1&sn=05db5599f68bac92168ecdfd9fd60e6e&chksm=973acc08a04d451ed97dce01b77478e936e677958ef090bdb59df5abb7d03b73da59a07658f9&scene=58&subscene=0": "CNVD漏洞周报2025年第4期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499626&idx=2&sn=ee9c229cecafd1cfe426dce51fc7d03a&chksm=973acc08a04d451ebbe28a7c3de5be26ab8afc81b12d158148abbcdbe1dfb673f0508f8e6f4d&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250120-20250126)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500584&idx=1&sn=4654aab4518633538b330c38c3e6b796": "deepseek官方API太卡？DeepSeek本地部署+代码审计，漏洞都是捡的",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251295&idx=1&sn=911b7c9c3f819ea69b1a9439f65f1d66": "AMD SEV 漏洞允许以管理员身份恶意注入 CPU 微码",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDI0MjEwMQ==&mid=2247483769&idx=1&sn=21ca6a1aabb318353828f506e939abb4": "kkFileView漏洞不出网任意文件写入利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037474&idx=1&sn=f6d98a8574505e387e426f85daf263af": "DCCE MAC1000 PLC漏洞测试总结二",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487600&idx=1&sn=0a049efc835c9a359c81625e4b8cf46e": "漏洞挖掘之再探某园区系统",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607513&idx=3&sn=e24eb929a25fa3b7151efa46c423cc78": "实战 | 微信小程序EDUSRC渗透漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607513&idx=4&sn=a731ed25e18ec4af0a94055c31d72dc8": "帆软bi反序列化漏洞利用工具更新V3.0",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486221&idx=1&sn=b75de0fe4053df9c09fac3b2a0213225": "记录某次APP漏洞挖掘案例"
 }
