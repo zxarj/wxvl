@@ -3526,5 +3526,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247488981&idx=1&sn=d78b34f028d95c7af7b084c6561c79ef": "Git交互式凭证提示和凭据重定向漏洞CVE-2024-50349 CVE-2024-52006",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489186&idx=1&sn=db9532a3b205fcb2f4b41bca0f65c25f": "支付安全堡垒中的隐藏漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067643&idx=4&sn=cee4f0162f4215b03faa784f2a08ca29": "【安全圈】以色列间谍软件公司Paragon涉嫌利用WhatsApp零点击漏洞发动攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489362&idx=1&sn=1c32dc4896be7f5c2357a63ac383bbc8": "【安全月报】| 1月份因漏洞、黑客和诈骗造成的损失约为9800万美元"
+    "https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489362&idx=1&sn=1c32dc4896be7f5c2357a63ac383bbc8": "【安全月报】| 1月份因漏洞、黑客和诈骗造成的损失约为9800万美元",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492134&idx=1&sn=68d59f072d4a1ef49284ec15f0c3b1df": "全球超过 660,000 个 Rsync 服务器遭受代码执行漏洞攻击"
 }
