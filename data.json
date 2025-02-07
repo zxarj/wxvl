@@ -3604,5 +3604,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496352&idx=1&sn=0a2c89e7fa30bf859d137d0f56375ee0": "sqlmap Xplus 基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开！V1.6版本",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487081&idx=1&sn=c5ac65576e36d6b75ccf5146d8628600": "Google Project Zero 的 Windows 漏洞研究：通过 IDispatch 访问受困 COM 对象的漏洞模式",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523327&idx=3&sn=4e33113f92591aa05af6697be895f856": "CISA将Microsoft Outlook、Sophos XG Firewall等漏洞列入已知被利用漏洞目录",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484354&idx=1&sn=650a15a82bb7b4367ab6c54c21b1a5a4": "宏景eHRDisplayFiles存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484354&idx=1&sn=650a15a82bb7b4367ab6c54c21b1a5a4": "宏景eHRDisplayFiles存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484537&idx=1&sn=a88144bf56d786c19865fdc9154c54eb": "深入了解宽字节注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODkzNjU4NA==&mid=2247485669&idx=1&sn=20e7f986f8347c84be154fd1405464e5": "Microsoft Outlook高危在野漏洞正被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247492477&idx=1&sn=16c26ef230f9404e60d06bb5e07f1749": "我问deepseek，程序员会被AI取代吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247488445&idx=1&sn=3da2540bcb060b11a566b3d21f81ab1d": "【2025-02-07】黑客新闻摘要——“Cisco漏洞修复：Java序列化的‘坑’填平了！”",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247484984&idx=1&sn=6ac5afdceada749543cbe5edc56b08d8": "来角色互换吧"
 }
