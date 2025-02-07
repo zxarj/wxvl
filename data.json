@@ -3590,5 +3590,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247488889&idx=1&sn=32ce7e8b631ad9bdbb746484d4a5ec62": "某渐变头像合成网站系统存在任意文件上传漏洞(RCE)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247532996&idx=3&sn=1d02961a612db601d05420c562deb8f0": "上周关注度较高的产品安全漏洞(20250120-20250126)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTM5MTk0OA==&mid=2247496728&idx=1&sn=01adce867262b6b78f37a6cbc0b3e4a7": "AnyDesk本地提权漏洞：CVE-2024-12754",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492179&idx=2&sn=9ab63e92cd4f8ac91a67fec0698a2e02": "漏洞预警 | 通达OA未授权访问漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492179&idx=2&sn=9ab63e92cd4f8ac91a67fec0698a2e02": "漏洞预警 | 通达OA未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094746&idx=2&sn=317abb4981260b599c7f515e9d3c1e3b": "微软Outlook严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489550&idx=1&sn=ceacf239a0181cc84ea4827f600a1ce6": "【漏洞预警】Apache Struts2代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313675&idx=3&sn=f746885f658ca0d1f5c02ae5e71dbed2": "Zyxel多款旧DSL设备存在2个零日漏洞，无修复措施",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313675&idx=4&sn=e34312e7836613491b513d0e8160e100": "CISA将Microsoft Outlook等漏洞列入已知被利用漏洞目录",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067692&idx=4&sn=76887cf1be0295b8075d662f2451e94d": "【安全圈】CISA将Microsoft Outlook、Sophos XG Firewall等漏洞列入已知被利用漏洞目录",
+    "https://mp.weixin.qq.com/s?__biz=MzU2OTcxNjE4Mw==&mid=2247486013&idx=1&sn=92709dc9add6e0b7ad6f9e3283711575": "DeepSeek 相关安全事件分析报告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527611&idx=2&sn=5e2150104f131c85b1d196c791697ff3": "CVE-2024-6387 OpenSSH 任意代码执行漏洞 PoC 漏洞发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MjE1NjQ0NA==&mid=2247514183&idx=1&sn=e2338623e805f43a817166209014c938": "盘古石取证12款产品再度入围公安部警用取证设备框架协议采购项目",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589336&idx=2&sn=71772d009fe80e5339e6925f517765da": "微软示警 ASP.NET 重大安全漏洞，超3000公开密钥恐致服务器沦陷",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589336&idx=3&sn=6bb091b8297338121511850425838973": "本周更新：虚拟机镜像调试 | 系统0day安全（第7期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496352&idx=1&sn=0a2c89e7fa30bf859d137d0f56375ee0": "sqlmap Xplus 基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开！V1.6版本",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487081&idx=1&sn=c5ac65576e36d6b75ccf5146d8628600": "Google Project Zero 的 Windows 漏洞研究：通过 IDispatch 访问受困 COM 对象的漏洞模式",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247523327&idx=3&sn=4e33113f92591aa05af6697be895f856": "CISA将Microsoft Outlook、Sophos XG Firewall等漏洞列入已知被利用漏洞目录",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484354&idx=1&sn=650a15a82bb7b4367ab6c54c21b1a5a4": "宏景eHRDisplayFiles存在任意文件读取漏洞"
 }
