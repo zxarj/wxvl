@@ -3567,5 +3567,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515895&idx=2&sn=1e563e94b277c1fa42e577f6bcca38fd": "APP渗透测试 -- janus漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499368&idx=1&sn=a994edf96eccc4c4f6252b01f25668c6": "xss漏洞挖掘插件 -- Jssx（2月6日更新）",
     "https://mp.weixin.qq.com/s?__biz=Mzk2NDE3NDUwNg==&mid=2247483957&idx=1&sn=2ad699a3f2895d566eab7c2bb52f925e": "实战缓冲区溢出漏洞攻击：从信息收集到成功提权",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490217&idx=1&sn=507f8b70b295803eb96f084dd6f0b379": "思科修补启用 Root CmdExec 和 PrivEsc 的关键 ISE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490217&idx=1&sn=507f8b70b295803eb96f084dd6f0b379": "思科修补启用 Root CmdExec 和 PrivEsc 的关键 ISE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651135004&idx=2&sn=c7edbd6741477e964cbf32f7a36b481c&chksm=bd15accf8a6225d93290b88cd648c6600766748e242afc021eb41721345d332dee91f46226e3&scene=58&subscene=0": "Elon Musk团队操作引发美国政府数据安全危机与网络安全漏洞担忧；2024 网安（亏损）TOP 10 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490342&idx=1&sn=f4533ea13d5504bd9c65988afc062689": "安科瑞环保用电监管云平台 GetEnterpriseInfoY SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247487601&idx=1&sn=4b10692d978eebaeddabd829e22c0c60": "实战 | 微信小程序EDUSRC渗透漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5MDM3NA==&mid=2247488330&idx=1&sn=df35169ec817642389ae70f8e6bdb924": "小技巧 - 文件读取漏洞原来也这么严重",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247487402&idx=1&sn=5098a7c4ed62e8c58fb26046ff5b6a41": "【漏洞复现】XXL-JOB-Admin 前台api未授权 hessian2反序列化",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg2NzI5OA==&mid=2247484903&idx=1&sn=b11f2f96c0bedc1b456fc48d98e68188": "实战如何通过Druid提升至高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794086&idx=2&sn=271029c6e35f86eee8224f862ac34c8f": "微软Sysinternals工具中的0day漏洞允许攻击者对Windows 发起 DLL 注入攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247490422&idx=1&sn=9e05b648524bd832b5f1a3e20fb67c77": "codeql 之 SSRF 漏洞自动化 寻找",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486523&idx=1&sn=f0c21970b06ddddfdaea1feb43fdd4e2": "实战如何通过Druid提升至高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486601&idx=1&sn=9246562802f2add62594bf3316bd09ef": "如何通过漏洞管理避免被攻击：组织的应对之道",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484468&idx=1&sn=7aef03abb5647fd09257c0c90aa2659a": "01 漏洞从哪里来？——综述",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492179&idx=1&sn=fe28986085d4baab58d0589cb204bfea": "漏洞预警 | Cisco ISE反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492179&idx=3&sn=02795d96b61494f550efb00f94b9931b": "漏洞预警 | 泛微E-Cology信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493505&idx=1&sn=43863913422ebc87a720632851afd46c": "XSS漏洞挖掘插件"
 }
