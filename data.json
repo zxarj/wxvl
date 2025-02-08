@@ -3613,5 +3613,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODY5NjQ0OQ==&mid=2247483727&idx=1&sn=5204b4ac8620c49effc035e503f0611c": "Solr 文件上传路径遍历漏洞（CVE-2024-52012）分析漏洞成因",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499377&idx=1&sn=5a2949aa2988b69b635b859da8c6be21": "网络摄像头漏洞审计 -- ipcsuite（2月6日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499377&idx=2&sn=6034b6ee7cf6e893c7cc3babf0df2049": "APP渗透测试 -- ZipEntry漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492136&idx=1&sn=a64994323b497dfaf7d398189de8e839": "黑客利用 Aviatrix Controller RCE 关键漏洞发起攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492136&idx=1&sn=a64994323b497dfaf7d398189de8e839": "黑客利用 Aviatrix Controller RCE 关键漏洞发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589336&idx=3&sn=6bb091b8297338121511850425838973&chksm=b18c281286fba1045630eefd0381d9c40f980abae3d9886ef414683b7341785cfb2624d23f5d&scene=58&subscene=0": "本周更新：虚拟机镜像调试 | 系统0day安全（第7期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067692&idx=4&sn=76887cf1be0295b8075d662f2451e94d&chksm=f36e7b2cc419f23ad385d4f1bb5daf905b462f9d61cf8091e3ceaa1d78b77eccb6abc6d07299&scene=58&subscene=0": "【安全圈】CISA将Microsoft Outlook、Sophos XG Firewall等漏洞列入已知被利用漏洞目录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484021&idx=1&sn=d6c8d46d68afea44f3465437139ff4e1&chksm=c006ca85f7714393548eb1eac7158adf7ccbb19b0a2e3e47e6e139da340ddaeb1cab1bef276c&scene=58&subscene=0": "Google 是如何做漏洞管理的？"
 }
