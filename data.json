@@ -3675,5 +3675,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247535347&idx=1&sn=0808616c79a4ed7ba6480d99bbb327f5&chksm=c144384ef633b158e939ba678d6f41044991803e662527a37e16277b07549c6729a87271e18b&scene=58&subscene=0": "调查显示：75%的员工被要求为网络安全漏洞“背锅”",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497102&idx=1&sn=874c6c307b4935d0a06c833df9de5362": "【漏洞通告】Go Darwin 构建代码执行漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589341&idx=2&sn=698cf3be8150d9f8778afdf43da1a5ae&chksm=b18c281786fba10119471d2669a6ee3e5ea59ed667e0f945a2b14c65bca52e844932e4e21204&scene=58&subscene=0": "打开邮件即中招！Outlook高危漏洞曝光：黑客可远程执行代码",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484105&idx=1&sn=0385781cc613eaf899e81dd04c04eb4b": "【安全预警】万户ezoffice协同办公平台SignatureEditFrm存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484105&idx=1&sn=0385781cc613eaf899e81dd04c04eb4b": "【安全预警】万户ezoffice协同办公平台SignatureEditFrm存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247488458&idx=1&sn=06f5e7c2a2da232dd0e71e5e696e5f6c": "【2025-02-09】黑客新闻摘要——黑客新招数！利用pickle文件漏洞，Hugging Face平台被攻陷？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492137&idx=1&sn=129692b1cf9a1c276a935851ae6e6600": "英国域名注册局 Nominet 确认遭 Ivanti VPN零日漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491496&idx=1&sn=78b401fef93cacf90def378d04473b80": "实战如何通过Druid提升至高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653931508&idx=1&sn=490a2501fdd930ea66587e6f13860220": "中信银行收罚单，因未及时处置数据安全漏洞风险等",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490381&idx=1&sn=668e66e20525eb06027401e4485177cf": "朗速ERP FileUploadApi.ashx 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247491543&idx=1&sn=fdd2ab29e1c8feebb02ea202f932be76": "Tabby 2.0 自动化代码静态审计：CVE-2024-53675&53676 HPE IRS XXE&RCE 漏洞"
 }
