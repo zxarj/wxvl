@@ -3666,5 +3666,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247498473&idx=2&sn=b6da33081772c4dfa4cc55df265c0b4c": "人工智能和云漏洞并不是当今CISO 面临的唯一威胁",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTYzMjIwNQ==&mid=2247496904&idx=1&sn=c777a7fc689c87dda03b125280d42a76": "新一代商用密码算法全球征集启动",
     "https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247484425&idx=3&sn=94a5a80093b8dea9ce8dcc03c82e1f80": "快速上手渗透测试报告写作：从WP到甲方报告的一站式指南",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094759&idx=1&sn=227da65909f44fef215dcd2b6251cf3e": "微软 Edge 存在允许攻击者执行远程代码漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094759&idx=1&sn=227da65909f44fef215dcd2b6251cf3e": "微软 Edge 存在允许攻击者执行远程代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498815&idx=3&sn=9a01cd47406b7a4683da0dae1b3e9b18&chksm=fa5952d2cd2edbc442b759c403bdf0a059de4fa968c34f1b0caf0c87bbef6cd428d5f73435b5&scene=58&subscene=0": ".NET 通过代码审计发现 ERP 系统中两个任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485714&idx=1&sn=d2721f2a3ceb2471b5a257e93513b64f&chksm=fe32b9e5c94530f35ade04d90f80611efc881e3e30cb0e2ec02661c6e253734c31c0b5e2062d&scene=58&subscene=0": "jeecg boot queryFieldBySql RCE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589341&idx=1&sn=c57db95a9d3d5f4d3d5993b9e4d2398e&chksm=b18c281786fba101700fc813e084e65b0cbcf50b8690c4c0193b006c0228dc298b9dfb187189&scene=58&subscene=0": "关于PAN-OS DoS(CVE-2024-3393)的研究",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589341&idx=3&sn=93b6b8d3c44c60ab4582c45b60e2897c&chksm=b18c281786fba10123550320b55552ba721f86ea5f81ef616fca26681ceb7184764156e8d489&scene=58&subscene=0": "招生中！系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067706&idx=3&sn=42ec007bcefb5e73b814bbd77c03cb62&chksm=f36e7b3ac419f22c0aa5f3c78e3e31516b294c0da5d9a1a774b2f775fabec0b7b1f7b067ad5d&scene=58&subscene=0": "【安全圈】微软示警 ASP.NET 重大安全漏洞，超3000公开密钥恐致服务器沦陷",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247535347&idx=1&sn=0808616c79a4ed7ba6480d99bbb327f5&chksm=c144384ef633b158e939ba678d6f41044991803e662527a37e16277b07549c6729a87271e18b&scene=58&subscene=0": "调查显示：75%的员工被要求为网络安全漏洞“背锅”",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497102&idx=1&sn=874c6c307b4935d0a06c833df9de5362": "【漏洞通告】Go Darwin 构建代码执行漏洞安全风险通告"
 }
