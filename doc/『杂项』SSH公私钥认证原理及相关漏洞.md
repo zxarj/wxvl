@@ -1,15 +1,7 @@
 #  『杂项』SSH公私钥认证原理及相关漏洞   
-pbfochk  宸极实验室   2025-02-08 09:00  
+ 黑白之道   2025-02-10 01:51  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKmLJnmmuicAFZCJWbgHC5j1vvlEGhxskDPOEOzicfzkw6RcDTdHmDI38A/640?wx_fmt=png&from=appmsg "")  
-  
-点击蓝字，关注我们  
-  
-  
-  
-> 日期：2025年2月8日  
-> 作者：pbfochk  
-> 介绍：SSH公私钥认证原理及相关漏洞。  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 ## 0x01 前言  
   
@@ -28,7 +20,7 @@ SSH
   
 **用于加密数据，可以公开分享。**  
   
-私  
+**私**  
   
 **钥**  
   
@@ -46,14 +38,17 @@ SSH
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```  
 - **-t rsa**  
+  
 ：指定使用RSA  
 算法。  
   
 - **-b 4096**  
+  
 ：指定密钥长度为4096  
 位，增强安全性。  
   
 - **-C "your_email@example.com"**  
+  
 ：为生成的密钥添加注释（通常是你的邮箱）。  
   
 执行后，系统将提示你保存密钥的位置：  
@@ -66,7 +61,7 @@ Enter file in which to save the key (/home/your_user/.ssh/id_rsa): 
  使用默认路径（~/.ssh/id_rsa  
 ）。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKyvQicmGJzpMulibLNE8CMagrJzZT7aAaDIGF7cAhsfKMCGMJAuZun6Rw/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKyvQicmGJzpMulibLNE8CMagrJzZT7aAaDIGF7cAhsfKMCGMJAuZun6Rw/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 （2）**设置私钥密码**  
 ：  
@@ -79,10 +74,12 @@ Enter same passphrase again:
   
 此时，密钥对已经生成，包含以下两个文件：  
 - **私钥**  
+  
 ：~/.ssh/id_rsa  
 （务必妥善保管，不要分享给他人）  
   
 - **公钥**  
+  
 ：~/.ssh/id_rsa.pub  
 （可以公开分享）  
   
@@ -114,14 +111,14 @@ ssh username@server_ip
 ：  
 服务器验证回应的正确性，认证通过，允许连接。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKxriazvFWSw4ae9D7SV68KSrSp7tmYWc7mkC3ibAF2KIDkGlogojbHZVA/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKxriazvFWSw4ae9D7SV68KSrSp7tmYWc7mkC3ibAF2KIDkGlogojbHZVA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 这种方式避免了在网络上传输密码，提升了安全性。  
 ### 2.3 公私钥认证的优点  
   
 1  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 **抗暴力破解**  
   
@@ -130,7 +127,7 @@ ssh username@server_ip
   
 2  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 **免密登录**  
   
@@ -139,7 +136,7 @@ ssh username@server_ip
   
 3  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKozLbnNQzS7oNTaiawxCsJFhIYNEKicRjc0y6YcKYf3lf6BEmWiaFP0xXA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 **安全性强**  
   
@@ -150,12 +147,15 @@ ssh username@server_ip
   
 虽然公私钥机制本身是安全的，但其安全性依赖于私钥的保密性。一旦私钥被窃取，攻击者可以伪装成合法用户访问服务器。常见的泄露途径包括：  
 - **私钥未加密**  
+  
 ：用户生成私钥时，未设置密码保护，导致私钥文件一旦被获取便可直接使用。  
   
 - **私钥存储不当**  
+  
 ：私钥文件权限设置不当，其他用户或恶意程序可能读取该文件。  
   
 - **恶意软件攻击**  
+  
 ：攻击者通过恶意软件窃取私钥文件。  
   
 ### 3.2 弱密钥攻击  
@@ -209,7 +209,7 @@ SSH-1
 1.Redis  
 存在弱口令或空密码漏洞。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKHQrgP9yxSmygNJxEbVUdNUWkcerFRakwfuFMMjBIUxia3eQxR4kKQ9w/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKHQrgP9yxSmygNJxEbVUdNUWkcerFRakwfuFMMjBIUxia3eQxR4kKQ9w/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 2.连接后确定Linux  
 系统后依次执行命令：  
@@ -227,17 +227,20 @@ save
   
 3.选择连接方式为公钥连接。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKCM3xPZTWyNdWjJBgntdCS3k8PCZWXDhpjibcx8tQ39ctHSMOJMOibhrQ/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/4136w7o9JvfIhEKcicTtwn9wb09piaSHQKCM3xPZTWyNdWjJBgntdCS3k8PCZWXDhpjibcx8tQ39ctHSMOJMOibhrQ/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
 ## 0x04 防御措施  
 ### 4.1 私钥的安全存储  
 - **加密私钥**  
+  
 ：生成密钥时为私钥设置密码，以防止私钥文件被直接使用。  
   
 - **权限设置**  
+  
 ：确保私钥文件仅对当前用户可读（chmod 600）。  
   
 - **硬件密钥存储**  
+  
 ：通过硬件安全模块（如YubiKey）存储私钥，避免私钥存储在易受攻击的硬盘上。  
   
 ### 4.2 使用强加密算法  
@@ -248,9 +251,11 @@ save
 密钥。  
 ### 4.3 第一处定期审查公钥文件  
 - **定期检查authorized_keys文件**  
+  
 ：确保没有未经授权的公钥被添加。  
   
 - **监控文件变化**  
+  
 ：使用文件完整性检测工具，如Tripwire  
 ，监控服务器上关键文件（如~/.ssh/authorized_keys  
 ）的变动。  
@@ -266,23 +271,15 @@ SSH
 公私钥认证反而可能成为攻击者打开后门的工具。通过定期审查公钥文件、监控服务器活动以及使用强加密算法，可以有效减少攻击者利用SSH  
 后门的机会，进一步提升服务器的安全性。  
   
-**免责声明：本文仅供安全研究与讨论之用，严禁用于非法用途，违者后果自负。**  
-  
-  
-点此亲启  
-  
-**ABOUT US**  
+> **文章来源：宸极实验室**  
   
   
   
-**宸极实验室**  
-隶属山东九州信泰信息科技股份有限公司，致力于网络安全对抗技术研究，是山东省发改委认定的“网络安全对抗关键技术山东省工程研究中心”。团队成员专注于 Web 安全、移动安全、红蓝对抗等领域，善于利用黑客视角发现和解决网络安全问题。  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-团队自成立以来，圆满完成了多次国家级、省部级重要网络安全保障和攻防演习活动，并积极参加各类网络安全竞赛，屡获殊荣。  
-  
-对信息安全感兴趣的小伙伴欢迎加入宸极实验室，关注公众号，回复『招聘』，获取联系方式。  
+如侵权请私聊我们删文  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/YCOL3hU8ffUqCzyREqVSq3AFOuib0FwZVRlWXWOXsYozHV0XiaYJVGoTian40eVZcGbhUIs9Vltp8YCicncMWEVm9XUSIP0Bj3cA/640?wx_fmt=svg "")  
+**END**  
   
   
