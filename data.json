@@ -3697,5 +3697,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484514&idx=1&sn=4af86ec87a1ce3c14ccfe289ae28f901": "[工具推荐]jeecgBoot漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247485971&idx=1&sn=a32cbb842ad50d26aec1b4da11054d03": "修复 Rsync 漏洞 CVE-2024-12084",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607748&idx=3&sn=d07f78159a157bd8d952dbb04cae6ecb": "『杂项』SSH公私钥认证原理及相关漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518581&idx=1&sn=b1c53ae68fd4b0ed06d5530be30acae1": "Bombon 方法论：我将如何测试Web缓存漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518581&idx=1&sn=b1c53ae68fd4b0ed06d5530be30acae1": "Bombon 方法论：我将如何测试Web缓存漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247486987&idx=1&sn=4fb50aefa5785393e944f832b3694a9d": "DayDayPoc-2024十大漏洞盘点",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484366&idx=1&sn=24e25e66ad89c2f14234dd765efcbc22": "宏景eHRview存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247490873&idx=1&sn=ead63f2369f52b1dbbf7ba6addd59a5e": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODY0NjE5MA==&mid=2247485013&idx=1&sn=284df912da27de8052737eb12ebf3199": "2025《L师傅SRC业务逻辑漏洞课程》全线升级！！！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NTM2Nw==&mid=2247492258&idx=1&sn=f3ba4eed5a1fc4cc0d2e084e4136cff7": "从数据看风险，从趋势寻策略 | 2024年网络安全漏洞趋势",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527698&idx=1&sn=8cdce138dd5361420a2a8fc552205a2f": "滥用 libxml2 特性绕过 GitHub Enterprise 上的 SAML 身份验证 (CVE-2025-23369)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247488676&idx=1&sn=94458e94fc2dceeea5eb0b33208af2bb": "网络安全人速领！整理了八大方向AI提示词+思维导图",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501979&idx=1&sn=5fa7a1296da73415206e2d1f485314ae": "【霄享·安全】任意文件读取漏洞简介（第49期月刊）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247487693&idx=1&sn=d914d313721ba2d7800c618fb52051ac": "JWT漏洞初步了解"
 }
