@@ -3721,5 +3721,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495763&idx=2&sn=81dbf95c95307188cb89cd1961d46621": "上周关注度较高的产品安全漏洞(20250127-20250209)",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503311&idx=1&sn=cc1b030ee4e0aa887458dd2d42b6e1f7": "雷神众测漏洞周报2024.1.20-2024.2.9",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650620998&idx=1&sn=038833fbf100b99ba44221dcd1c84582": "数字世界危机四伏，谁是云上安全的“齐天大圣”？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MDg3OTc0OA==&mid=2247489459&idx=1&sn=ca8ad552ca94bf47604c2bc682aef1e9": "通过符号链接致盲EDR复现"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDg3OTc0OA==&mid=2247489459&idx=1&sn=ca8ad552ca94bf47604c2bc682aef1e9": "通过符号链接致盲EDR复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzQwNjQ4Ng==&mid=2247485013&idx=1&sn=be0d1fb46c8bc3e033b38a5074dcad48": "经典漏洞复现：CrossFire老版本缓冲区溢出漏洞GetShell全解析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247529040&idx=1&sn=30c75f230f8a0d1382be803f6e605fe1": "从量子威胁到人工智能防御：2025年网络安全将如何发展",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247485780&idx=1&sn=13897dbb76848e06e02f82ceeb9f02f9": "用友U8Cloud FileTransportServlet 反序列化漏洞（附利用脚本地址）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490027&idx=2&sn=e8ca69fcaa971711d4cc7da69be5f51f": "DayDayPoc-2024十大漏洞盘点",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=1&sn=a941f758474e8e5434b59e39022ad320": "【漏洞通告】gzip 整数溢出(CVE-2025-0725)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=2&sn=dc419e38b478f0c76636a664037140ff": "【漏洞通告】eventfd 双重关闭(CVE-2025-0665)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=3&sn=33d4818fde869574b0d39c35f90a9229": "【漏洞通告】Adobe Experience Manager | 跨站点脚本(存储型 XSS)(CVE-2024-53966)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=4&sn=c3e95d6c5c1122bb4ffa63f29cceb3c3": "【漏洞通告】IBM Cloud Pak for Business Automation跨站点脚本(CVE-2024-52364)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=5&sn=3366e40713e490852fbe74db093b0b5b": "【漏洞通告】IBM Cognos Anaytics XML 外部实体注入(CVE-2024-49352)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486607&idx=6&sn=92fafbc939585f16bcf6ae82adef8c1c": "【漏洞通告】IBM 安全验证目录命令执行 (CVE-2024-51450)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489059&idx=1&sn=8f2e05660dcd8edef098cf5f50fb16cb": "【相关分享】记两份逻辑漏洞(重码)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497063&idx=1&sn=04369f8cd24a50a4e95af97f3349dee0": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313856&idx=1&sn=ed039a6940a4a920030ae6e8af7e94d0": "月神漏洞实战分享 | 推广系统的“隐秘高危漏洞”",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522190&idx=2&sn=9702cf83b7bdb3ee94d30829bea9f51b": "思科ISE严重漏洞导致攻击者以root权限运行命令"
 }
