@@ -3735,5 +3735,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489059&idx=1&sn=8f2e05660dcd8edef098cf5f50fb16cb": "【相关分享】记两份逻辑漏洞(重码)",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497063&idx=1&sn=04369f8cd24a50a4e95af97f3349dee0": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313856&idx=1&sn=ed039a6940a4a920030ae6e8af7e94d0": "月神漏洞实战分享 | 推广系统的“隐秘高危漏洞”",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522190&idx=2&sn=9702cf83b7bdb3ee94d30829bea9f51b": "思科ISE严重漏洞导致攻击者以root权限运行命令"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522190&idx=2&sn=9702cf83b7bdb3ee94d30829bea9f51b": "思科ISE严重漏洞导致攻击者以root权限运行命令",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484373&idx=1&sn=ad6eee9c2e3fb1cd9e629dd0cab89a90": "富通天下外贸ERPUploadEmailAttr存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489561&idx=1&sn=4d41cddc1c57f90001393fad9353a7e3": "【漏洞预警】CoinRemitter SQL注入漏洞(CVE-2025-1117)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490027&idx=1&sn=959d43f81ac390197794b45f3986dbc6": "Java代码审计 || 通过某博客系统实战学习一个有趣的 SSRF 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496474&idx=1&sn=3b7f619a49b28f35d8362dd8109d4f10": "转载 | 浅析K8S各种未授权攻击方法"
 }
