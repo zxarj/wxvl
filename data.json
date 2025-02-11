@@ -3805,5 +3805,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488457&idx=1&sn=918fff81c542afba3c62ed6ab597737a": "一次渗透过程中的CVE-2022-45460撞洞RCE",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313909&idx=3&sn=2590df76d28cb088d070b9119d34bb02": "苹果0-Day漏洞被用于“极其复杂”的特性攻击中",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651135067&idx=2&sn=032f618504363a24b36aa09bcb1de2a2": "AI驱动的安全漏洞发现正在重塑网络安全新模式",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485495&idx=1&sn=7adc25b7ef40b89ca08e3f70ca43aff5": "iOS 18.3.1 紧急更新发布：两大安全漏洞修复，iPhone 用户必升！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485495&idx=1&sn=7adc25b7ef40b89ca08e3f70ca43aff5": "iOS 18.3.1 紧急更新发布：两大安全漏洞修复，iPhone 用户必升！",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515966&idx=1&sn=48ff535f701ee7bb4f5909debc29da6a": "重点系统指纹漏洞验证工具 -- Catcher",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515966&idx=2&sn=8c0391d1bd952362e009e4d04044d4d1": "APP渗透测试 -- 越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492140&idx=1&sn=18c1953b65a305fa321b66bd107120e0": "GitHub 上的虚假 LDAPNightmware 漏洞传播信息窃取恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522200&idx=1&sn=7bf07566564fbc663142355517974f16": "微软扩展Copilot AI漏洞奖励计划范围，提高赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522200&idx=2&sn=a8084137286ce6cbebda935ab8c0d5c2": "苹果紧急修复被用于“极其复杂”攻击中的0day漏洞"
 }
