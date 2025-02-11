@@ -3787,5 +3787,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTkxNzg4MA==&mid=2247489976&idx=1&sn=33536be8b38f84509f71074a646fd952": "记一次ssrf漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495032&idx=3&sn=a795cc5e80a0ecc937a7f5a4fce5ec1e": "由于CVE-2025-24200被应用到针对特定人极其复杂的攻击，苹果更新了iOS 18.3.1",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490401&idx=1&sn=b75abc0ace7c4cb105337ae5c7eb0ef8": "虹安Heimdall DLP数据泄漏防护系统 pushSetup.do SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492929&idx=3&sn=1de220ea50cdc4fc0a70f524e90355b6": "上周关注度较高的产品安全漏洞(20250127-20250209)"
+    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247492929&idx=3&sn=1de220ea50cdc4fc0a70f524e90355b6": "上周关注度较高的产品安全漏洞(20250127-20250209)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247620738&idx=1&sn=895c4e67c640da2b28f6ea62f0d47e86": "车辆漏洞管理 - 从设计开始有效保护软件定义车辆",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067763&idx=2&sn=6f436c8b629c5b79837b0940cb025969": "【安全圈】苹果修复了在“极其复杂”的攻击中被利用的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247546875&idx=1&sn=d9b18c05b05ea8484c12487babb3a2d5": "一月漏洞信息简报",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553533&idx=1&sn=de7628d92873de621ebb993a6d7810f5": "Mysql LOAD DATA 读取客户端任意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247541526&idx=1&sn=91a08aea7ee6248f5917836862a46872": "黑客承认劫持 SEC 社媒账户以散播虚拟货币谣言，面临最高5年监禁",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489231&idx=1&sn=1673c57affefad636063799dce6a79ad": "Nftables整型溢出分析（CVE-2023-0179）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247493344&idx=1&sn=21f8996426ad7ba73456c05e578e92b9": "【干货资源分享 】CNVD捡证书小技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247486838&idx=1&sn=2eaf81a0e3a11a2a5a3aa79ff165f19d": "「深蓝洞察」2024年度最狂躁不安的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492139&idx=1&sn=b07468143e486aa2834f249402b59156": "Fortinet 警告黑客利用身份验证绕过零日漏洞可劫持防火墙"
 }
