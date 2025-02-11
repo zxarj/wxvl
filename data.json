@@ -3796,5 +3796,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489231&idx=1&sn=1673c57affefad636063799dce6a79ad": "Nftables整型溢出分析（CVE-2023-0179）",
     "https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247493344&idx=1&sn=21f8996426ad7ba73456c05e578e92b9": "【干货资源分享 】CNVD捡证书小技巧",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247486838&idx=1&sn=2eaf81a0e3a11a2a5a3aa79ff165f19d": "「深蓝洞察」2024年度最狂躁不安的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492139&idx=1&sn=b07468143e486aa2834f249402b59156": "Fortinet 警告黑客利用身份验证绕过零日漏洞可劫持防火墙"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492139&idx=1&sn=b07468143e486aa2834f249402b59156": "Fortinet 警告黑客利用身份验证绕过零日漏洞可劫持防火墙",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489569&idx=1&sn=6a7922cf90fae39507c7be1ef4ac1c88": "【漏洞预警】Trimble Cityworks需授权反序列化漏洞 (CVE-2025-0994)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489569&idx=2&sn=9edca56049be68398ae6382b8440cb0f": "【漏洞预警】Apache James未授权输入验证不当漏洞可导致拒绝服务",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488011&idx=1&sn=efb1aeec73cf9a20254c5e9d6bbf4752": "锐捷网络-EWEB系统auth接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247486527&idx=1&sn=5eb827911e56f33fa2de3029c2a1b225": "【oscp】JOY，ProFTPd拷贝漏洞提权",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247490015&idx=1&sn=9f25bb09138615022f6300c237d3ee27": "一个参数就能控制全站：IDOR漏洞深度剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488457&idx=1&sn=918fff81c542afba3c62ed6ab597737a": "一次渗透过程中的CVE-2022-45460撞洞RCE",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651313909&idx=3&sn=2590df76d28cb088d070b9119d34bb02": "苹果0-Day漏洞被用于“极其复杂”的特性攻击中",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651135067&idx=2&sn=032f618504363a24b36aa09bcb1de2a2": "AI驱动的安全漏洞发现正在重塑网络安全新模式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485495&idx=1&sn=7adc25b7ef40b89ca08e3f70ca43aff5": "iOS 18.3.1 紧急更新发布：两大安全漏洞修复，iPhone 用户必升！"
 }
