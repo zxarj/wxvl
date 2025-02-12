@@ -3885,5 +3885,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497076&idx=1&sn=32e9b394b57251b8176752acb816e6af": "从云服务器 SSRF 漏洞到接管你的阿里云控制台",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527787&idx=1&sn=7cfa7b7e910e6b385f935a6371e0e701": "CVE-2024-29510 – 使用格式字符串利用 Ghostscript",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067786&idx=2&sn=c497b609a80250b639e05ac4c19e5d69": "【安全圈】OpenSSL 修补了高严重性漏洞 CVE-2024-12797",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649170729&idx=1&sn=3537c5685ac0d672104eea3d559eaf64": "汽车供应链攻击、0day漏洞攻击……2024年网络安全领域呈现这些态势"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649170729&idx=1&sn=3537c5685ac0d672104eea3d559eaf64": "汽车供应链攻击、0day漏洞攻击……2024年网络安全领域呈现这些态势",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518627&idx=1&sn=f016e24f5e2b7700f035fd83e69d0a77": "Beanshell 反序列化分析（CVE-2016-2510）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247515986&idx=1&sn=485cc5fa917fc24da3e447fc7b7e044d": "【漏洞挖掘】记一次985证书站Oracle注入绕WAF",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527787&idx=2&sn=40e61a0596f3a5df8025c00e03865215": "CVE-2024-29509：Artifex Ghostscript PDFPassword 处理期间的堆缓冲区溢出 _"
 }
