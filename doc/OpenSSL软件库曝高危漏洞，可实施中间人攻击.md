@@ -1,10 +1,5 @@
 #  OpenSSL软件库曝高危漏洞，可实施中间人攻击   
-AI小蜜蜂  FreeBuf   2025-02-12 10:53  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LWZibRwEuPn9hEibyTcrpiaXJqMzhG3icReEqTv4yHG2D8dIPRMCF7Aric1pW8Nv8GyvFOgfRuibdYYEg/640?wx_fmt=jpeg&from=appmsg "")  
+FreeBuf  商密君   2025-02-12 14:45  
   
 ## OpenSSL 修补了由苹果发现的高严重性漏洞 CVE-2024-12797，该漏洞可能导致中间人攻击。  
   
@@ -12,14 +7,15 @@ AI小蜜蜂  FreeBuf   2025-02-12 10:53
 OpenSSL 项目在其安全通信库中修复了一个高严重性漏洞，编号为 CVE-2024-12797。OpenSSL 软件库用于在计算机网络中实现安全通信，防止窃听并确保通信双方的认证。该库包含了安全套接层（SSL）和传输层安全（TLS）协议的开源实现。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LWZibRwEuPn9hEibyTcrpiaXlwdZh17aXP1zGaszBeSjmM3utD1IgtTclgkjtx5vhoQTdqUVJZeFSA/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38LWZibRwEuPn9hEibyTcrpiaXlwdZh17aXP1zGaszBeSjmM3utD1IgtTclgkjtx5vhoQTdqUVJZeFSA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
 **项目地址**  
   
   
   
-该漏洞影响使用 RFC7250 原始公钥（RPK）的客户端 TLS/DTLS 连接。由于在 SSL_VERIFY_PEER 模式下服务器认证检查失败，攻击者可能利用此漏洞发起中间人攻击。苹果研究人员于 2024 年 12 月 18 日报告了该漏洞，并由 Viktor Dukhovni 修复。  
+该漏洞影响使用 RFC7250 原始公钥（  
+RPK）的客户端 TLS/DTLS 连接。由于在 SSL_VERIFY_PEER 模式下服务器认证检查失败，攻击者可能利用此漏洞发起中间人攻击。苹果研究人员于 2024 年 12 月 18 日报告了该漏洞，并由 Viktor Dukhovni 修复。  
   
   
 **影响范围**  
@@ -49,35 +45,35 @@ OpenSSL 项目在其安全通信库中修复了一个高严重性漏洞，编号
 这种缓冲区溢出可能导致服务拒绝，甚至引发远程代码执行。  
   
   
-【  
-FreeBuf粉丝交流群招新啦！  
+编辑：陈十九  
   
-在这里，拓宽网安边界  
+审核：商密君  
   
-甲方安全建设干货；  
+**征文启事**  
   
-乙方最新技术理念；  
-  
-全球最新的网络安全资讯；  
-  
-群内不定期开启各种抽奖活动；  
-  
-FreeBuf盲盒、大象公仔......  
-  
-扫码添加小蜜蜂微信回复「加群」，申请加入群聊】  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ich6ibqlfxbwaJlDyErKpzvETedBHPS9tGHfSKMCEZcuGq1U1mylY7pCEvJD9w60pWp7NzDjmM2BlQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：FreeBuf  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ic5icaZr7IGkVcd3DT6vXW4B4LOZ1M7YkTPhS1AT2DQJaicFjtCxt5BRO7p5AOJqvH3EJABCd0BFqYQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点分享  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点点赞  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312407&idx=1&sn=60289b6b056aee1df1685230aa453829&token=1964067027&lang=zh_CN&scene=21#wechat_redirect)  
+点在看  
   

@@ -3879,5 +3879,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488964&idx=1&sn=5c9f88f88b6352a5f7228166b197151c": "【安全更新】微软2月安全更新多个产品高危漏洞通告",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462608&idx=1&sn=1493cf1f1e068c644c55ac02d47b6182": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462608&idx=2&sn=bb7717a397d4fb7d06626e907d254b79": "信息安全漏洞周报（2025年第6期）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489242&idx=1&sn=97336de5da8017c565b14e6075329edc": "Nftables整型溢出提权利用（CVE-2023-0179）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489242&idx=1&sn=97336de5da8017c565b14e6075329edc": "Nftables整型溢出提权利用（CVE-2023-0179）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247634294&idx=3&sn=7a815fd526eea90c6ccf81873a35cd7a": "OpenSSL软件库曝高危漏洞，可实施中间人攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489574&idx=1&sn=75ecacddccc20c979ffa81423deae9ce": "【漏洞预警】WinZip 7Z 文件解析越界写入远程代码执行漏洞 (CVE-2025-1240)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497076&idx=1&sn=32e9b394b57251b8176752acb816e6af": "从云服务器 SSRF 漏洞到接管你的阿里云控制台",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527787&idx=1&sn=7cfa7b7e910e6b385f935a6371e0e701": "CVE-2024-29510 – 使用格式字符串利用 Ghostscript",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067786&idx=2&sn=c497b609a80250b639e05ac4c19e5d69": "【安全圈】OpenSSL 修补了高严重性漏洞 CVE-2024-12797",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649170729&idx=1&sn=3537c5685ac0d672104eea3d559eaf64": "汽车供应链攻击、0day漏洞攻击……2024年网络安全领域呈现这些态势"
 }
