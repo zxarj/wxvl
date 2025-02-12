@@ -1,5 +1,5 @@
 #  Java代码审计 || 通过某博客系统实战学习一个有趣的 SSRF 漏洞分析   
- sec0nd安全   2025-02-10 13:49  
+ 实战安全研究   2025-02-12 01:00  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_gif/FFcgFn6WVc2ribkEhzXXbiaAE31xwNoCLjKDDibq9HkTiab5BllP8wbSSabd7CIoJSLfHQHjq6ZBf0CoVJaEdKgibNA/640?wx_fmt=gif&from=appmsg "")  
   
