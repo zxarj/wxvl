@@ -3929,5 +3929,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497167&idx=2&sn=f9e6ae6b326c6d68d72a718670c40128": "【漏洞通告】iPhone&iPad USB限制模式绕过漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497167&idx=3&sn=369b86d1da2f505afa10761b12cb8adb": "【漏洞通告】Trimble Cityworks反序列化漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497167&idx=4&sn=5d593989fb7beda78f5f86f0bd543591": "【漏洞通告】IBM Security Verify Directory命令执行漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492238&idx=2&sn=4463eba0669de844db1b00e50e83363f": "漏洞预警 | 视频话机设备信息泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492238&idx=2&sn=4463eba0669de844db1b00e50e83363f": "漏洞预警 | 视频话机设备信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488964&idx=1&sn=5c9f88f88b6352a5f7228166b197151c&chksm=c2c642cff5b1cbd9c7666dcb0fadf92f57c3869762078c3bc3e9e1feeb1b67141c5fbfcc5cfb&scene=58&subscene=0": "【安全更新】微软2月安全更新多个产品高危漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063928&idx=1&sn=b264dbdf71d2950c59bfa9e0307f59b2": "信息安全漏洞周报【第009期】",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500740&idx=2&sn=2939c49e8bb0231cd34cbd3b2a3ae1d4": "【漏洞通告】Palo Alto Networks PAN-OS管理界面认证绕过漏洞(CVE-2025-0108)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500740&idx=3&sn=99b5f73b93c1efe5c9cb814100a07c95": "【漏洞通告】Ivanti CSA管理控制台命令注入漏洞(CVE-2024-47908)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247485948&idx=1&sn=133364b6eb92e6c4ab3ced4329a740eb": "手把手教你构建企业级本地AI漏洞文库：基于Ollama + DeepSeek R1+ Anything LLM 完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489584&idx=1&sn=8f38f1b4888f62f56d92a034996d972d": "【高危漏洞预警】Palo Alto Networks PAN-OS身份验证绕过漏洞CVE-2025-0108",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247490876&idx=1&sn=207c131f116c7e9fec181ea13a703b9e": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTYwMzc5OQ==&mid=2247500730&idx=1&sn=ea2c3ad10d4c8db36d2505d91d6f6432": "分享两个漏洞，含$3133 Google IDOR",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493189&idx=1&sn=86e0c579d46ccd91b3ef83ddf0346f5d": "2025年2月微软补丁星期二安全更新修复了2个被积极利用的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489629&idx=1&sn=c6f781b20ff35b2d1d19e4a4b61b261a": "Ollama 远程代码执行漏洞 CVE-2024-37032",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484598&idx=1&sn=9b702765222da3a104987fb5ae98ead4": "【漏洞预警】Palo Alto Networks PAN-OS 身份验证绕过漏洞(CVE-2025-0108)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486610&idx=5&sn=b55276c212815c172696415648e34207": "【漏洞通告】QingScan 安全漏洞(CVE-2024-57278)",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247598&idx=1&sn=79fd58e6ca4a35bd46d233ea66b410b5": "OpenSSL软件库曝高危漏洞，可实施中间人攻击 | 微软：生成式AI可导致人类认知能力下降",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650607914&idx=4&sn=b2cdf087af5e06f3cdb6328668060dc8": "自动化扫描利器，指纹识别更精准，漏洞扫描更全面"
 }
