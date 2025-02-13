@@ -1,5 +1,5 @@
 #  DeepSeek黑客工具箱！代码审计POC 漏洞报告输出 支持第三方API～拒绝卡顿！！   
- TtTeam   2025-02-12 00:48  
+ 哈拉少安全小队   2025-02-13 01:06  
   
 前言  
   
@@ -7,7 +7,16 @@
   
   
   
-关注我们并精选，第一时间推送文章  
+文章来源为原公众号，文内ai邀请链接更改了0.0  
+  
+硅基流动为邀请好友注册两人都可以获得  
+14余额  
+  
+```
+注册地址：
+https://cloud.siliconflow.cn/i/aiivEvzy
+```  
+  
   
   
 更新内容：  
@@ -28,17 +37,14 @@
 【省流：第三方API解决官方API卡顿问题】  
   
 DeepSeek的api还在卡，对于本地性能不够的师傅，已经用不了了，所以稍微改了一下，支持了  
-第三方的API  
-，这样就可以用其他网站的api了，如果你是第一次看文章，请先点开公众号看看往期两篇文章。  
+第三方的API，这样就可以用其他网站的api了，如果你是第一次看文章，请先点开公众号看看往期两篇文章。  
   
 这里我以  
-硅基流动  
-为例子（主要是送钱，邀请好友注册两人都可以获得  
-14余额  
-，理论上左脚踩右脚直接升天。）  
+硅基流动为例子（主要是送钱，邀请好友注册两人都可以获得  
+14余额，理论上左脚踩右脚直接升天。）  
 ```
 注册地址：
-https://cloud.siliconflow.cn/i/A0ii7AzW
+https://cloud.siliconflow.cn/i/aiivEvzy
 ```  
   
 安装完DeepSeekTools之后，你需要配置config.py文件  
@@ -58,8 +64,7 @@ https://cloud.siliconflow.cn/i/A0ii7AzW
   
 config文件配置  
   
-API_TYPE，必须二选一，  
-deepseek或者ollama  
+API_TYPE，必须二选一，deepseek或者ollama  
   
 然后在下面继续配置  
   
@@ -75,9 +80,9 @@ config配置：https://www.bilibili.com/video/BV1skNoeuEZu/
   
   
 ```
-下载代码到本地（后台回复DStools）
+https://github.com/ChinaRan0/DeepSeekSelfTool
 然后
-cd DeepSeekSelfTool
+cd DeepSeekSelfTool
 pip install -r requirements.txt
 配置config.py
 python DeepSeekSelfTool.py
@@ -86,5 +91,13 @@ python ollamaMain.py
   
   
 欢迎大家留言区讨论新功能。  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
