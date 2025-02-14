@@ -3996,5 +3996,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247495722&idx=1&sn=893e66971463f7661828ab04451e1212": "LLM 提高 SAST 的代审效率的思考方向",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247486936&idx=1&sn=62a7d979e9c737398d16067065173053": "DeepSeek 大火下的本地部署问题：Ollama + 暴露端口 = 安全漏洞？",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247485834&idx=1&sn=c40fa31994263b8762d85e6b500f7453": "手把手教你审计PHP CMS漏洞 | 某腾CMS漏洞实战案例分析",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500635&idx=1&sn=3c3d582f04eee3e1dc7388c4509d9e1f": "【高危】AI大模型部署软件Ollama 未授权访问漏洞，警惕你部署的大模型被别人使用。"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500635&idx=1&sn=3c3d582f04eee3e1dc7388c4509d9e1f": "【高危】AI大模型部署软件Ollama 未授权访问漏洞，警惕你部署的大模型被别人使用。",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247502983&idx=1&sn=193e4bb2d3d87a5c4ff9a65953e88b49&chksm=fe79e81fc90e6109745c95265119dc1eff73587d94844b038a36c42632175edc0d6ede0c1767&scene=58&subscene=0": "【已复现】Palo Alto Networks PAN-OS 身份验证绕过漏洞(CVE-2025-0108)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247501146&idx=1&sn=90497fe1fb951860c7927052f13be74d": "连环作案｜zkLend 被黑深度分析，关联 EraLend 事件",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247490877&idx=1&sn=935ce4d49048978d07a6d6b6e366d4d9": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485658&idx=1&sn=4cde13c89f470e234da4fb928192b9e2": "如何使用AI进行漏洞挖掘？完结！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjQ4OTU3NA==&mid=2247510118&idx=1&sn=f017ba4c2496a969dc6ca729f1a57426": "关于天际友盟",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486403&idx=1&sn=9d92e338d6da7fa3703918469be653c3": "今日推荐容器漏洞扫描器：Trivy",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794168&idx=1&sn=d30fb9948566c2faef3b286cf3e6cd46": "Salt Typhoon 威胁组织利用较旧的漏洞破坏了思科边缘设备"
 }
