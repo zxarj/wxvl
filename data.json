@@ -4013,5 +4013,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489589&idx=1&sn=ec59249fd16d4bf096fe03c2284fe995": "【漏洞预警】Orthanc身份认证绕过漏洞(CVE-2025-0896)",
     "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491083&idx=1&sn=bd75366a99a44d73b6ebf64acd3824ad": "【国际视野】美国网络安全和基础设施安全局和联邦调查局联合发布《设计安全警报：消除缓冲区溢出漏洞》",
     "https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247492393&idx=2&sn=1ab4e7a169bb4e9d0bc14e13b44af581": "全新改版！ISC2云概要证书上线",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247486815&idx=1&sn=3284ddeee179003ec71c466d57ddfb5a": "长亭X魅族：All in AI与多云安全擦出火花"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247486815&idx=1&sn=3284ddeee179003ec71c466d57ddfb5a": "长亭X魅族：All in AI与多云安全擦出火花",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=1&sn=e17d9f9642717ffc7fa622dcfb5417a3": "Microsoft Excel 资源控制不当漏洞 可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=2&sn=b2fa2128cbc00826d9f4799ea38254c3": "Microsoft Windows Storage 需授权 解析缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=3&sn=d3b84a8fc9064cddb1e550fab0e81b0b": "Microsoft Windows 缓冲区溢出漏洞 可导致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=4&sn=7a6994da926b697ec8f30c485db1661f": "Trimble Cityworks 需授权 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=5&sn=759e01e16b89d41a25716b5c5619971f": "Google Goland 代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=6&sn=7cdbacb059f6dd73f824304d42ea6217": "Apple iOS等 安全缺陷漏洞 可导致功能失控",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=8&sn=f7686cd3dff5c4052e5a8c6973829ed8": "用友网络 GRP-U8Cloud 逻辑缺陷漏洞 可导致敏感信息泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484095&idx=1&sn=4291f26d60d708ee44796c81558c2a91": "Gen AI 如何将漏洞分析效率提升 9.3 倍",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484384&idx=1&sn=6b9ac958f8cda1f1eff9d636e24f9ee5": "IDocView在线文档预览qJvqhFt.json任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496492&idx=1&sn=e1f08ec0aa1aa4a2a11eaed5ffa5d888": "一款基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314211&idx=1&sn=08c8f322b781afd8c36557acc5c18407": "WinZip高危漏洞曝光：远程攻击者可任意执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314211&idx=4&sn=0409ead48650099d21cf3c406df480bd": "黑客利用Pyramid渗透测试工具进行隐蔽的C2通信",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094810&idx=2&sn=656be39cd85d609346a7d34be32580d1": "30,000个WordPress网站因文件上传漏洞暴露于攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522232&idx=2&sn=3bc7a4466c3c33ff643ca604524fa401": "Palo Alto Networks 修复PAN-OS 中的认证绕过漏洞"
 }
