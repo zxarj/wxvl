@@ -1,40 +1,21 @@
 #  WinZip高危漏洞曝光：远程攻击者可任意执行代码   
-AI小蜜蜂  FreeBuf   2025-02-14 11:58  
+ 船山信安   2025-02-14 17:02  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/7nIrJAgaibicP1kSMrsgV7Ozib48j86IfPtDO5pqzoXE2jLKVTIxFMn1vfST8wLRMdrvAmeLPy3Y1Iun54VcI0fmQ/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibS68M2J8HH4TbtJCJa8icwg7DfGiazW3LxpS2cwo7MctdYaJ4gMn3RelYRGQjRKibiala4BxyyAKtWcA/640?wx_fmt=jpeg&from=appmsg "")  
+近日，WinZip曝出一个编号为CVE-2025-1240的高危漏洞，远程攻击者可通过利用畸形的7Z压缩包文件，在受影响的系统上执行任意代码。该漏洞的CVSS评分为7.8，影响WinZip 28.0（版本号16022）及更早版本，用户需升级至WinZip 29.0以规避风险。  
+## 漏洞成因与利用条件  
   
-  
-近日，WinZip曝出一个编号为CVE-2025-1240的高危漏洞，远程攻击者可通过利用畸形的7Z压缩包文件，在受影响的系统上执行任意代码。  
-该漏洞的CVSS评分为7.8，影响WinZip 28.0（版本号16022）及更早版本，用户需升级至WinZip 29.0以规避风险。  
-  
-  
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibS68M2J8HH4TbtJCJa8icwg0XLWSQE1a7RPkwH6STx6iakOXSicfuPrUs48vibfZ4TTzd90IUtlSVtxw/640?wx_fmt=jpeg&from=appmsg "")  
-  
-  
-**漏洞成因与利用条件**  
-  
-  
-  
-该漏洞源于WinZip在解析7Z文件数据时验证不充分，导致攻击者可构造恶意压缩包，引发内存中的越界写入。  
-这种内存损坏可被利用，在WinZip进程的上下文中执行代码，如果与其他漏洞结合使用，甚至可能导致整个系统被攻陷。  
-  
+该漏洞源于WinZip在解析7Z文件数据时验证不充分，导致攻击者可构造恶意压缩包，引发内存中的越界写入。这种内存损坏可被利用，在WinZip进程的上下文中执行代码，如果与其他漏洞结合使用，甚至可能导致整个系统被攻陷。  
 ### 关键利用条件包括：  
-  
 - 用户交互（例如打开恶意7Z文件或访问被入侵的网页）。  
   
 - 攻击针对WinZip的7Z文件处理组件，这是压缩数据的常见格式。  
   
 安全公司Zero Day Initiative（ZDI）将该漏洞编号为ZDI-CAN-24986，并指出鉴于WinZip在全球范围内的广泛用户基础，该漏洞存在被大规模滥用的风险。  
-##   
-  
-**影响与潜在风险**  
-  
-  
+## 影响与潜在风险  
   
 成功利用该漏洞的攻击者可获得与当前登录用户相同的权限，可能导致以下后果：  
-  
 - 安装恶意软件或勒索软件。  
   
 - 窃取敏感数据。  
@@ -42,68 +23,27 @@ AI小蜜蜂  FreeBuf   2025-02-14 11:58
 - 在内部网络中横向移动。  
   
 尽管攻击需要用户交互，但由于7Z文件在软件分发和数据共享中的普遍性，成功的网络钓鱼攻击概率显著增加。  
-  
 ## 缓解措施与补丁更新  
   
-****  
 WinZip已于2024年12月发布的WinZip 29.0（版本号16250）中修复了该漏洞。此次更新还引入了以下增强的安全措施：  
-  
 - 升级了7Z和RAR库，以改进文件验证机制。  
   
 - 优化了补丁部署流程，确保用户及时获取关键修复。  
   
-###   
 ### 用户建议：  
-  
 1. 立即通过官方网站或内置更新程序升级至WinZip 29.0。  
   
 1. 避免打开来源不明的7Z文件。  
   
 1. 启用自动更新功能，防范未来可能的漏洞。  
   
-##   
-  
-**行业背景与警示**  
-  
-  
+## 行业背景与警示  
   
 该漏洞的曝光正值文件解析漏洞激增之际，例如最近曝光的Windows OLE零点击漏洞（CVE-2025-21298）就允许通过恶意电子邮件实现远程代码执行。这类事件凸显了主动补丁管理的重要性，尤其是像WinZip这样年处理超过10亿压缩文件的广泛使用工具。  
   
-  
 安全分析师呼吁各组织优先更新受影响的软件，并教育用户识别可疑的文件附件。WinZip对CVE-2025-1240的迅速响应也体现了厂商在网络安全中的责任。用户和企业应尽快应用更新，以化解这一高风险威胁。  
   
-  
-【  
-FreeBuf粉丝交流群招新啦！  
-  
-在这里，拓宽网安边界  
-  
-甲方安全建设干货；  
-  
-乙方最新技术理念；  
-  
-全球最新的网络安全资讯；  
-  
-群内不定期开启各种抽奖活动；  
-  
-FreeBuf盲盒、大象公仔......  
-  
-扫码添加小蜜蜂微信回复「加群」，申请加入群聊】  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ich6ibqlfxbwaJlDyErKpzvETedBHPS9tGHfSKMCEZcuGq1U1mylY7pCEvJD9w60pWp7NzDjmM2BlQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&retryload=2&tp=webp "")  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ic5icaZr7IGkVcd3DT6vXW4B4LOZ1M7YkTPhS1AT2DQJaicFjtCxt5BRO7p5AOJqvH3EJABCd0BFqYQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-  
-  
-  
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651312407&idx=1&sn=60289b6b056aee1df1685230aa453829&token=1964067027&lang=zh_CN&scene=21#wechat_redirect)  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+来源：https://www.freebuf.com/ 感谢【  
+AI小蜜蜂  
+】  
   

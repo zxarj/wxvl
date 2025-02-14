@@ -4027,5 +4027,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314211&idx=1&sn=08c8f322b781afd8c36557acc5c18407": "WinZip高危漏洞曝光：远程攻击者可任意执行代码",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314211&idx=4&sn=0409ead48650099d21cf3c406df480bd": "黑客利用Pyramid渗透测试工具进行隐蔽的C2通信",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094810&idx=2&sn=656be39cd85d609346a7d34be32580d1": "30,000个WordPress网站因文件上传漏洞暴露于攻击风险",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522232&idx=2&sn=3bc7a4466c3c33ff643ca604524fa401": "Palo Alto Networks 修复PAN-OS 中的认证绕过漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522232&idx=2&sn=3bc7a4466c3c33ff643ca604524fa401": "Palo Alto Networks 修复PAN-OS 中的认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495157&idx=1&sn=9a828441f89b4ab116ea1f4a6b143732": "【吃瓜】疑似国内某 oa系统存在 0day rce",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495157&idx=2&sn=eb45716106d7be7e660cc5d1bb272c55": "美国政府效率部网站 doge 存在漏洞，任何人都能推送内容到网站上",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518674&idx=1&sn=8a5839f4bd6aea08c59543e1fc84b3b8": "WinZip高危漏洞曝光：远程攻击者可任意执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485016&idx=1&sn=3f8f30a52b34bb167cd7d0fafcd990c2": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492244&idx=1&sn=cd102439425274e98b1ecb56a3899bea": "PostgreSQL 漏洞与 BeyondTrust 零日漏洞一起被利用进行针对性攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=7&sn=d14025c2eb40663492236ab68aaa73af": "Apache James 未授权 输入验证不当漏洞 可导致拒绝服务"
 }
