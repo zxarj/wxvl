@@ -4057,5 +4057,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485812&idx=2&sn=75ac3bc6111bd2c99e9f112d5230b51b": "CVE-2025-0108｜Palo Alto Networks PAN-OS管理界面认证绕过漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485812&idx=3&sn=59502076ba73b38962af8c4347429207": "CVE-2025-25064｜Zimbra存在SQL注入漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589653&idx=1&sn=433781729a15abe45f89994393707a90": "PWN入门：异常变漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484095&idx=1&sn=4291f26d60d708ee44796c81558c2a91&chksm=c006ca4ff771435967a52c3bc89a5f6d4765067a03d5b26f5187e7731299e0c9549df93d839d&scene=58&subscene=0": "Gen AI 如何将漏洞分析效率提升 9.3 倍"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484095&idx=1&sn=4291f26d60d708ee44796c81558c2a91&chksm=c006ca4ff771435967a52c3bc89a5f6d4765067a03d5b26f5187e7731299e0c9549df93d839d&scene=58&subscene=0": "Gen AI 如何将漏洞分析效率提升 9.3 倍",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499437&idx=1&sn=bbbbf3016991c2b228c54ce492fae81a": "Palo Alto Networks PAN-OS 身份验证绕过漏洞批量检测脚本(CVE-2025-0108)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492245&idx=1&sn=5c3da14e0619b953b786741ae36ed742": "黑客利用 Cityworks RCE 漏洞入侵 Microsoft IIS 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=1&sn=a2d8c702dc1223d85a28e0f7b4c9932a": "Rsync Rsync 未授权 缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=2&sn=b8fb248bcb0171caf5d15b3c2a71241f": "Fortinet FortiSwitch 凭证管理不当漏洞 可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=3&sn=75531a889717b200ac12ddb226e86d3d": "SAP NetWeaver Application Server 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=4&sn=fa110e1c88ed8ea6e80dbf638f172b83": "Fortinet FortiOS等 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=5&sn=499042d799975b7f2a9e114d995895e3": "蓝凌软件 EKP系统 sysTagWebService 未授权 外部资源引用不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=6&sn=41e072b192f7fc3e34c3f8f06adf6e85": "蓝凌软件 EKP系统 sysNotifyTodoWebService 未授权 外部资源引用不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=7&sn=652391caae54e84b6dd500006e9f9ba5": "蓝凌软件 EKP系统 kmImeetingBookWebService 未授权 外部资源引用不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502017&idx=8&sn=9bc958d15dc346ade48637d500a2a65f": "用友网络 用友NC linkVoucher 未授权 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484106&idx=1&sn=f398b5755112251a67ba7163915a09b7": "2024年CVE漏洞数量激增38%：2024年CVE漏洞数据全景分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487208&idx=1&sn=fdbfc3e75595ab7e36245db8e8891bcf": "网络安全中的“人性漏洞”：如何解决员工安全意识问题？",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649166981&idx=2&sn=be8aa9a973159960c5a2529b3646bc08": "OpenAI 用于对抗高度依赖英伟达芯片的秘密武器成形",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODc4NjE1OQ==&mid=2247483939&idx=1&sn=45a4d08a8f56870c03669742f5e13133": "攻防技战术动态一周更新 - 20250210",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527809&idx=1&sn=4c9a289c886b612b0aa4b0d377e9ace3": "首次分析 Apple 的 USB 限制模式绕过 (CVE-2025-24200)"
 }
