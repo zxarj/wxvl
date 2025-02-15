@@ -4038,5 +4038,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492261&idx=2&sn=38f4cc5c746eb7fe09e36ad29e85710a": "漏洞预警 | Ivanti CSA管理控制台命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492261&idx=3&sn=90e0d9a96c3684327bddafcb1b4acefe": "漏洞预警 | 思迅商旗商业管理系统任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247571037&idx=1&sn=a4c20709fcd4e91ee6dc2c0bca97864b": "2025年全新网络安全大师班培训（Web安全、攻防渗透、代码审计、云安全等）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjY1NjI2MQ==&mid=2247483972&idx=1&sn=95cc21cf1d38bb9e9b6468de8580c3cc": "jeecgBoot漏洞利用工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjY1NjI2MQ==&mid=2247483972&idx=1&sn=95cc21cf1d38bb9e9b6468de8580c3cc": "jeecgBoot漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522232&idx=1&sn=cb025b96489e2100ef0f614b779833d4&chksm=ea94a6d2dde32fc4881deaa6fe80b16f9fb9423766568a24dd3e955367ff92ff773531a49a84&scene=58&subscene=0": "斯巴鲁Starlink漏洞可导致汽车遭劫持，主要影响美加日三国",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522232&idx=2&sn=3bc7a4466c3c33ff643ca604524fa401&chksm=ea94a6d2dde32fc44365c182de4b7d412b22857b005666e0a04d2e8302f064eab2a2baa037d6&scene=58&subscene=0": "Palo Alto Networks 修复PAN-OS 中的认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499780&idx=1&sn=e4354abba5ca24eaf695664592528fea&chksm=ec1df02cdb6a793a54bb368bf79e0da3163647e9d2b1d4783547193caaf21633120acb60ef13&scene=58&subscene=0": "Deepseek 有多强？延时注入检测 POC 只需一步，即可获取完美 POC 模板！",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489640&idx=1&sn=e57ea32bd4a7e9114628507c2d6e8d87&chksm=fb029530cc751c263986fd9ab93607d64eb1341f2b764780f3f5f69306e7b32e29f5b645bd47&scene=58&subscene=0": "Ollama zipslip 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727844111&idx=1&sn=1ded95f6c8b62f80377dbb25fabb5124&chksm=80504e87b727c7918e8e9aaea57fad6779dc790c53037ca8cb0c028817d857bba077cb58dab3&scene=58&subscene=0": "浪漫来袭，单个漏洞达3w+，为你的恋爱基金添砖加瓦！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314214&idx=1&sn=a1056bf9ab3938cd65066bb748645eab": "超大规模物联网漏洞事件曝光：27亿条数据泄露，含WiFi密码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314214&idx=2&sn=ef30c6d1e6b611c95807734158569fb1": "FreeBuf周报 | 全球VPN设备遭遇大规模暴力破解攻击；OpenSSL 软件库曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491524&idx=1&sn=8f7c279bc6618681ec27b68cbc6ebec5": "DeepSeek 大火下的本地部署问题：Ollama + 暴露端口 = 安全漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608048&idx=4&sn=da8eb02ada2d9899ca9e2d88a50bba9e": "基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794184&idx=1&sn=b981b65c831b421f1865a13d8f41a3ce": "以色列威胁情报公司ClearSky发现 APT 组织利用 Windows 新0day漏洞"
 }
