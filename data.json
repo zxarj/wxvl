@@ -4056,5 +4056,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527809&idx=2&sn=2d61b3262a97ddc66b583f26e7636c73": "CVE-2025-1240：Winzip漏洞打开了远程代码执行的门",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485812&idx=2&sn=75ac3bc6111bd2c99e9f112d5230b51b": "CVE-2025-0108｜Palo Alto Networks PAN-OS管理界面认证绕过漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485812&idx=3&sn=59502076ba73b38962af8c4347429207": "CVE-2025-25064｜Zimbra存在SQL注入漏洞（POC）",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589653&idx=1&sn=433781729a15abe45f89994393707a90": "PWN入门：异常变漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589653&idx=1&sn=433781729a15abe45f89994393707a90": "PWN入门：异常变漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484095&idx=1&sn=4291f26d60d708ee44796c81558c2a91&chksm=c006ca4ff771435967a52c3bc89a5f6d4765067a03d5b26f5187e7731299e0c9549df93d839d&scene=58&subscene=0": "Gen AI 如何将漏洞分析效率提升 9.3 倍"
 }
