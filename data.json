@@ -4033,5 +4033,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518674&idx=1&sn=8a5839f4bd6aea08c59543e1fc84b3b8": "WinZip高危漏洞曝光：远程攻击者可任意执行代码",
     "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485016&idx=1&sn=3f8f30a52b34bb167cd7d0fafcd990c2": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492244&idx=1&sn=cd102439425274e98b1ecb56a3899bea": "PostgreSQL 漏洞与 BeyondTrust 零日漏洞一起被利用进行针对性攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=7&sn=d14025c2eb40663492236ab68aaa73af": "Apache James 未授权 输入验证不当漏洞 可导致拒绝服务"
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247501999&idx=7&sn=d14025c2eb40663492236ab68aaa73af": "Apache James 未授权 输入验证不当漏洞 可导致拒绝服务",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492261&idx=1&sn=15542626bc61f3c2d79fd1e2ad622101": "漏洞预警 | Palo Alto Networks PAN-OS管理界面身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492261&idx=2&sn=38f4cc5c746eb7fe09e36ad29e85710a": "漏洞预警 | Ivanti CSA管理控制台命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492261&idx=3&sn=90e0d9a96c3684327bddafcb1b4acefe": "漏洞预警 | 思迅商旗商业管理系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247571037&idx=1&sn=a4c20709fcd4e91ee6dc2c0bca97864b": "2025年全新网络安全大师班培训（Web安全、攻防渗透、代码审计、云安全等）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjY1NjI2MQ==&mid=2247483972&idx=1&sn=95cc21cf1d38bb9e9b6468de8580c3cc": "jeecgBoot漏洞利用工具"
 }
