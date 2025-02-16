@@ -1,8 +1,7 @@
 #  利用js挖掘漏洞   
-中铁13层打工人  Z2O安全攻防   2025-02-13 13:05  
+ 黑白之道   2025-02-16 13:56  
   
-   
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
 # 前言：  
   
 在漏洞挖掘中，通过对js的挖掘可发现诸多安全问题，此文章主要记录学习如何利用JS测试以及加密参数逆向相关的漏洞挖掘。  
@@ -19,7 +18,7 @@
   
 js中内含大量接口，可通过敏感字匹配爬取接口的方式来集中测试；也可结合目标测试功能点，通过截取父目录后到源码中搜索从而找到隐藏的接口，进而得到前端未显示的业务模块代码。  
   
-![image-20240906094445923](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNGSdw7oLKicXvRPiad0ZBbpYe0XwUdQL6Wfc5CSbKzicMTicOcpEa8QsIicA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240906094445923](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNGSdw7oLKicXvRPiad0ZBbpYe0XwUdQL6Wfc5CSbKzicMTicOcpEa8QsIicA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240906094445923  
 ## 四、js异步加载  
@@ -36,7 +35,7 @@ image-20240906094445923
   
 访问目标系统，发现其主页的登录页面没有注册点且测试过其他的方法发现无法绕过登录。这种情况下考虑从前端源码入手看能否找到其他功能点。开发者模式下利用network工具，可查看相关请求接口引入了哪些js文件，着重关注类型为“XHR”或“Script”的请求，这些中通常包含异步加载的js文件，为了更直观看到完整的解析源码下一步可将当前网站下的JS全部异步加载到首页。  
   
-![image-20240906152623744](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNyQGwsfh44UOELzAxh3kNymtaYbCHAMZPqv1IO6JiaKqEW0csKkRBshA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240906152623744](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNyQGwsfh44UOELzAxh3kNymtaYbCHAMZPqv1IO6JiaKqEW0csKkRBshA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240906152623744  
   
@@ -56,31 +55,31 @@ document.getElementsByTagName('head')[0].appendChild(script);
   
 在控制台中调试代码，运行后结果如下：  
   
-![image-20240906153313909](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNFY3keEdmMYic4p5L6mWBSbb9PtzI0D2GdQGZNXibhNOicRyBgY4fGyc6Q/640?wx_fmt=png&from=appmsg "null")  
+![image-20240906153313909](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNFY3keEdmMYic4p5L6mWBSbb9PtzI0D2GdQGZNXibhNOicRyBgY4fGyc6Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240906153313909  
   
 运行后可看到完整的js代码，后对代码进行查看发现了一个包含file接口，猜测应为文件相关的接口。  
   
-![image-20240910140401715](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNj8picicUnoMhb9Xl79mN0FHMoL4rgJOUHXfl5p9AiaeT29pOtubbh5uvQ/640?wx_fmt=png&from=appmsg "null")  
+![image-20240910140401715](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNj8picicUnoMhb9Xl79mN0FHMoL4rgJOUHXfl5p9AiaeT29pOtubbh5uvQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240910140401715  
   
 跟进源码查看哪里调用了这个接口方法进而构造发包需要的参数。  
   
-![image-20240906153540450](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNdkAoS0BOWsHVPPC29rr4J2kgL2luibXGR6strsXIVFGT4heVUiaQGmicw/640?wx_fmt=png&from=appmsg "null")  
+![image-20240906153540450](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNdkAoS0BOWsHVPPC29rr4J2kgL2luibXGR6strsXIVFGT4heVUiaQGmicw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240906153540450  
   
 测试发包的返回中包含云服务资源链接：  
   
-![image-20240910141112610](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNakjxxQpaVRborib3kpVIBJG8ia5H5wv3xOOEPCDSp4AQOaCrmzvwhbFg/640?wx_fmt=png&from=appmsg "null")  
+![image-20240910141112610](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNakjxxQpaVRborib3kpVIBJG8ia5H5wv3xOOEPCDSp4AQOaCrmzvwhbFg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240910141112610  
   
 访问返回的链接发现其为存储桶资源信息，至此测试完毕。  
   
-![image-20240910141227988](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNGV0F1rlCOZNpMJJ08sZdzNTfBlOlJYO2SSKAOuElQ1IaoR48m088ibg/640?wx_fmt=png&from=appmsg "null")  
+![image-20240910141227988](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNGV0F1rlCOZNpMJJ08sZdzNTfBlOlJYO2SSKAOuElQ1IaoR48m088ibg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240910141227988  
 ## 五、js逆向破解加密  
@@ -95,7 +94,7 @@ image-20240910141227988
   
 测试某系统，访问该系统某功能点查看信息根据抓包情况进行分析，发现传参部分都做了加密操作，同时得到查询接口为/rxxx/xxxxxte，其中nonce 是一个随机字符串，用于防止重放攻击；skey用于加密或身份验证的密钥；sign 是请求的签名。  
   
-![image-20240914141619505](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNZUbjXIKNF1piavD9vYaVvYcv2RI851ZyaY0s3icTCwzGlBPz3lpM20RA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240914141619505](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNZUbjXIKNF1piavD9vYaVvYcv2RI851ZyaY0s3icTCwzGlBPz3lpM20RA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240914141619505  
   
@@ -103,25 +102,25 @@ image-20240914141619505
   
 对抓到的数据接口/rxxxx/xxxxxxte进行分析，一般都是先进行一波搜索，看能否定位到加密位置，如果定位不到就在接口调用位置下断点再访问接口进行调试。  
   
-![image-20240914141813988](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNEdtlYQM3ExBhIy9ichdXt47GgzZltDIgiajW8A5b7uy0Ub4ibAibBdz3rQ/640?wx_fmt=png&from=appmsg "null")  
+![image-20240914141813988](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNEdtlYQM3ExBhIy9ichdXt47GgzZltDIgiajW8A5b7uy0Ub4ibAibBdz3rQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240914141813988  
   
 经过搜索找到其中一个JS中有很多条记录，进入JS中进行整体分析。  
   
-![image-20240914141854026](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNAhy3c7F9TRJKEOicQkaticUv3ibSeiaVHfXNv8ic8XnfqtyVvdYOvzHySnw/640?wx_fmt=png&from=appmsg "null")  
+![image-20240914141854026](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNAhy3c7F9TRJKEOicQkaticUv3ibSeiaVHfXNv8ic8XnfqtyVvdYOvzHySnw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240914141854026  
   
 对该JS进行整体检索时，发现该代码块存在请求体内所有的加密参数  
   
-![image-20240914141944791](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNeRL6OPOdYQL9gu2dok3WOmHmd0mk89Ly9QdUMDIBv3bTUoNRouFSSA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240914141944791](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNeRL6OPOdYQL9gu2dok3WOmHmd0mk89Ly9QdUMDIBv3bTUoNRouFSSA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240914141944791  
   
 即对该部分进行断点分析，发现该请求在此处断掉，且传入的e参数是rsa公钥。  
   
-![image-20240924173603020](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN1ed8CRNgc9ryB1jPdJNPssu8yLo6m5DSJ1XuYDBMVhHmDWPHwbhGnA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240924173603020](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN1ed8CRNgc9ryB1jPdJNPssu8yLo6m5DSJ1XuYDBMVhHmDWPHwbhGnA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240924173603020  
   
@@ -254,13 +253,13 @@ if __name__ == '__main__':
   
 运行加解密py脚本，通过更改body实现加密：  
   
-![image-20241016162855836](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNJGsPjkqehsnf8cictlsShooKVNN1YA13eUSIBgDyI3u4RF3Z5iczT7Eg/640?wx_fmt=png&from=appmsg "null")  
+![image-20241016162855836](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNJGsPjkqehsnf8cictlsShooKVNN1YA13eUSIBgDyI3u4RF3Z5iczT7Eg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20241016162855836  
   
 下来就可以直接发包，替换加密参数进行测试了：  
   
-![image-20240914154014371](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNmLg89dKNLef0b7KVOvNI1Zstjg1wH1oCqjrUmPia9LmaibtJYXJwzBJg/640?wx_fmt=png&from=appmsg "null")  
+![image-20240914154014371](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNmLg89dKNLef0b7KVOvNI1Zstjg1wH1oCqjrUmPia9LmaibtJYXJwzBJg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240914154014371  
 ## 六、jsrpc：远程调用浏览器方法，免去抠代码补环境  
@@ -273,7 +272,7 @@ JSrpc工作原理就是在浏览器控制台中注入JSRPC环境，通过websock
   
 1、下载项目后本地运行：  
   
-![image-20240923171946721](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNVT9kwRbZa1eXVFFdGicd7q6KSFvukDgaJmUDvGn6ZibDWTXicziaVykdLQ/640?wx_fmt=png&from=appmsg "null")  
+![image-20240923171946721](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNVT9kwRbZa1eXVFFdGicd7q6KSFvukDgaJmUDvGn6ZibDWTXicziaVykdLQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240923171946721  
   
@@ -282,7 +281,7 @@ image-20240923171946721
   
 把js中的内容直接复制粘贴进控制台运行。  
   
-![image-20240923172212902](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN5C8kALJ5DiaGN2TAJOSkpnApvcwwia82O8IwOrVialwZ78eA6JDbOVIJg/640?wx_fmt=png&from=appmsg "null")  
+![image-20240923172212902](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN5C8kALJ5DiaGN2TAJOSkpnApvcwwia82O8IwOrVialwZ78eA6JDbOVIJg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240923172212902  
   
@@ -294,13 +293,13 @@ var demo = new Hlclient("ws://127.0.0.1:12080/ws?group=zzz");
 //var demo = new Hlclient("ws://127.0.0.1:12080/ws?group=zzz&clientId=hliang/"+new Date().getTime())
 ```  
   
-![image-20240923172243141](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNjXibDquVk8NicOGMevibxqA4GbZcAQuCcJvWUYQqakJMPnhM7gHD9UDfw/640?wx_fmt=png&from=appmsg "null")  
+![image-20240923172243141](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNjXibDquVk8NicOGMevibxqA4GbZcAQuCcJvWUYQqakJMPnhM7gHD9UDfw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240923172243141  
   
 完成后效果图如下：  
   
-![image-20240923183234826](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN2nblNaYgIgsbGVsjx4RSJicKnibnaNP5BYDIZIYFfTIoBxQoqFeb6LlA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240923183234826](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFN2nblNaYgIgsbGVsjx4RSJicKnibnaNP5BYDIZIYFfTIoBxQoqFeb6LlA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240923183234826  
   
@@ -319,7 +318,7 @@ res = requests.post(url, data=data)
 print(res.text)
 ```  
   
-![image-20240923183627225](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNSGufmE6Ecv5uf7eZg2Sg4meT86mIkuoicpKgvFnof807mYjTU9uQIvg/640?wx_fmt=png&from=appmsg "null")  
+![image-20240923183627225](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNSGufmE6Ecv5uf7eZg2Sg4meT86mIkuoicpKgvFnof807mYjTU9uQIvg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240923183627225  
   
@@ -329,17 +328,17 @@ image-20240923183627225
   
 结合上面提到的案例已知加密主函数是getKeyparams，下来需要把加密函数改为全局函数。  
   
-![image-20240925152757706](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNl98sFZvrZBc7gGAl55icGnQHUry31icyDoviaghsKynTMz6BiaibXVtPGmw/640?wx_fmt=png&from=appmsg "null")  
+![image-20240925152757706](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNl98sFZvrZBc7gGAl55icGnQHUry31icyDoviaghsKynTMz6BiaibXVtPGmw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240925152757706  
   
-![image-20240925170525907](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNftib69eZibY58nK4RKyYGDPbXpKq3uVictLRFiciajFASSjSRPr31seUmyw/640?wx_fmt=png&from=appmsg "null")  
+![image-20240925170525907](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNftib69eZibY58nK4RKyYGDPbXpKq3uVictLRFiciajFASSjSRPr31seUmyw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240925170525907  
   
 已知e是rsa公钥，所以传入密钥看下通过自定义的函数传参后的加密结果：  
   
-![image-20240925155910814](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNyXzxrib2pfFye0OWk0vrx40taYmXRmV4VWFc2G0KkqFA4MJ9qF7XMhA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240925155910814](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNyXzxrib2pfFye0OWk0vrx40taYmXRmV4VWFc2G0KkqFA4MJ9qF7XMhA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240925155910814  
   
@@ -362,7 +361,7 @@ demo.regAction("key", function(resolve, param) {
   
 http://127.0.0.1:12080/go?group=zzz&action=key&param=123456（action是你注册的函数方法，param是你要加密的参数）  
   
-![image-20240925184215848](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNj116LInzvXNBkbjpNTzdlmrrYPETT105zsyia60vXyI5ak5MtMhk0bA/640?wx_fmt=png&from=appmsg "null")  
+![image-20240925184215848](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaM3Jmdq9juoUn7If5BsEFNj116LInzvXNBkbjpNTzdlmrrYPETT105zsyia60vXyI5ak5MtMhk0bA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "null")  
   
 image-20240925184215848  
   
@@ -373,75 +372,12 @@ image-20240925184215848
 作者：  
 中铁13层打工人  
   
-   
   
-建立了一个  
-src专项圈子，内容包含**src漏洞知识库**、**src挖掘技巧**、**src视频教程**等，一起学习赚赏金技巧，以及专属微信群一起挖洞  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-圈子专注于更新src相关：  
-  
-```
-1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
-2、分享src优质视频课程
-3、分享src挖掘技巧tips
-4、小群一起挖洞
-```  
+如侵权请私聊我们删文  
   
   
+**END**  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg41LkR0ezBlmjJY4Lwgg8mr1A5efwqe0yGE9KTQwLPJTe9zyv3wgYnhA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOXg868PqXyjsACp9LhuEeyfB2kTZVOt5Pz48txg7ueRUvDdeefTNKdg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuZDDDv3NsbJDuSicLzBbwVDCPFgbmiaJ4ibf4LRgafQDdYodOgakdpbU1H6XfFQCL81VTudGBv2WniaDA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "null")  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuY6DfYOuUzWiaPBBq4L5bV9ZRMpUcFktl9oiazJicibKEVwZoWo5dEaXGHIoa6yOEkfnicbMibJDALxuk1w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4Bd1oBmTkA5xlNwZM5fLghYeibMBttWrf57h8sU7xDyTe5udCNicuHo8w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuYrUoo5XZpxN9Inq87ic71D6aUeMdaWrKXgYYia2On8nMA7bqWDySa8odAq1a0kkp3WFgf0Zp0Eut0A/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4KKlic4yiafWTpLdejicQe3MllEQc24ypeI3anaK7IjJDVyq1WVQN2yKBA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOHgjJxnq1ibibJgVUx3LwCjZj62vygx8w6rxia1icmIWiax2YlP6S6LmlmlQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOApVm8H605qOibxia5DqPHfbWD6lmcweDjGv4DLl45waD068ugw2Iv2vg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOwldaSATYOh1WQpk1qz15rLxehOAn4aK7tdbSyNEuHDZpIISCtl6Q8w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4jFsKRMMNDKbsAZhscCiagnyJScMVmFUqMtae5omlLRdu095mywWszjQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4uGJ2SA5BhZ3UyibZvVmcP3sozQEOfVr0jftWpC3YkpDiaAicS1ib3EgXHA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-### 关注我们  
-  
-  
-  
-**关注福利：**  
-  
-**回复“**  
-**书籍****" 获取  网络安全书籍PDF教程**  
-  
-**回复“**  
-**字典****" 获取 针对一些字典重新划分处理，收集了几个密码管理字典生成器用来扩展更多字典的仓库。**  
-  
-**回复“资料" 获取 网络安全、渗透测试相关资料文档合集**  
-  
-****  
-点个【 在看 】，你最好看  
-  
-  
-   
   

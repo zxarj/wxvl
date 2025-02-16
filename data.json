@@ -4087,5 +4087,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067846&idx=2&sn=cd94ea7cada0daf8d439805d2653a055": "【安全圈】PostgreSQL漏洞与BeyondTrust零日漏洞被联合利用",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067846&idx=3&sn=4a1a9e96de810a8e68ea6951a76de7f0": "【安全圈】黑客利用智能合约漏洞盗取价值950万美元以太币",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487199&idx=1&sn=d06894113d47469c531261fc1e859ab0": "PowerShell 漏洞利用 — 现代 APT 组织及其恶意脚本战术",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485743&idx=1&sn=60e704c3d5508664425da33ec5bdaff5": "S2-007远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485743&idx=1&sn=60e704c3d5508664425da33ec5bdaff5": "S2-007远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608065&idx=3&sn=c7d34eae06f416be4c6d10c950b6ec07": "利用js挖掘漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608065&idx=4&sn=9ed3b6993146eb17d459b44de92badb4": "JeecgBoot漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527833&idx=1&sn=dc636474fb5e3a741caa55302a0cfb0a": "AMD贴片会影响EPYC和RYZEN处理器的高度SMM漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495192&idx=3&sn=ededea1ced7cf9f38255b6d817b81182": "SonicWall 防火墙身份验证绕过漏洞在 PoC 发布后遭广泛利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484027&idx=1&sn=b1625984432833d38ddd1cb19a0da306": "Deepseek 有多强？延时注入检测 POC 只需一步，即可获取完美 POC 模板"
 }
