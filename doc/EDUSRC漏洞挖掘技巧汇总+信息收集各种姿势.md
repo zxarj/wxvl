@@ -1,5 +1,5 @@
 #  EDUSRC漏洞挖掘技巧汇总+信息收集各种姿势   
-原创 神农Sec  神农Sec   2025-02-14 02:00  
+ sec0nd安全   2025-02-15 12:49  
   
 扫码领资料  
   
@@ -722,7 +722,7 @@ true,"msg"
   
 （新人优惠卷20，扫码或者私信我即可领取）  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWVsxbULEhU6VQ8Oax3kWlkSg0OGhRI7Ep3Bx4QMicCjuZicJqicfeeA4wjUzyF6jkQ2GvQ0k4ibicuOic0g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXfdoYZ7FZXSES8r9QFcDXjpbIibhYUVEuvibILfCP7TkwhCLQoawUxv7RNcEfbuIPKKs8pHw7tYJNQ/640?wx_fmt=png&from=appmsg "")  
   
   
 **欢迎加入星球一起交流，券后价仅40元！！！ 即将满300人涨价**  
@@ -735,7 +735,7 @@ true,"msg"
   
 有需要的师傅们直接扫描文章二维码加入，然后要是后面群聊二维码扫描加入不了的师傅们，直接扫描文章开头的二维码加我（备注加群）  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUFHRFrovMmVsgNgErMUkzSxDyjjgbIxnpydTnErGWicrELxeRL9mWpD2zaWaoPgMMDiapyQC423nxQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXfdoYZ7FZXSES8r9QFcDXjP3ZF0lU2nKHTIUqLbA2LYMFryx9ibkicj2eLJ1LwiaxnXkibgS2UNeqZmg/640?wx_fmt=png&from=appmsg "")  
   
 ****  
     
