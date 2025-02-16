@@ -4092,5 +4092,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608065&idx=4&sn=9ed3b6993146eb17d459b44de92badb4": "JeecgBoot漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527833&idx=1&sn=dc636474fb5e3a741caa55302a0cfb0a": "AMD贴片会影响EPYC和RYZEN处理器的高度SMM漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495192&idx=3&sn=ededea1ced7cf9f38255b6d817b81182": "SonicWall 防火墙身份验证绕过漏洞在 PoC 发布后遭广泛利用",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484027&idx=1&sn=b1625984432833d38ddd1cb19a0da306": "Deepseek 有多强？延时注入检测 POC 只需一步，即可获取完美 POC 模板"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY3ODg5MQ==&mid=2247484027&idx=1&sn=b1625984432833d38ddd1cb19a0da306": "Deepseek 有多强？延时注入检测 POC 只需一步，即可获取完美 POC 模板",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247514781&idx=1&sn=1b7c5c1a2812367b70f1b070ebed172a": "DeepSeek代码审计技术解析：从模型革新到漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490243&idx=1&sn=cf746a0875a33ba4fd3c919e3ed69c15": "让Druid未授权访问漏洞危害最大化案例和利用工具|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY1Nzc5MQ==&mid=2247483815&idx=1&sn=70578fd573bed32f8b903487d3956a95": "CVE-2025-1127 严重漏洞：利用非特权用户执行和未经授权的数据修改",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527833&idx=2&sn=55af17a0449fcbd2f2f16d0de9034c6a": "PowerShell 漏洞 - 现代 APT 及其恶意脚本策略"
 }
