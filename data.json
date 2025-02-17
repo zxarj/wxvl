@@ -4107,5 +4107,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247496266&idx=2&sn=5002e0a3e9ac066d9c7320a3c9256b6b": "美国CISA敦促开发人员消除缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493216&idx=3&sn=7f08465fc9a6ad10cdb766a2a6986184": "专家发现PostgreSQL漏洞与BeyondTrust零日漏洞在针对性攻击中被串联利用",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493216&idx=4&sn=58f19b6b973f5738f83d2dae141e44b0": "CISA已将Apple iOS和iPadOS以及Mitel SIP电话的漏洞添加到其已知被利用漏洞目录中",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507535&idx=2&sn=291601681d4a5ee3b757d32d4ee44478": "全球谍影扫描【20250217】007期"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507535&idx=2&sn=291601681d4a5ee3b757d32d4ee44478": "全球谍影扫描【20250217】007期",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513743&idx=1&sn=bbb290f45690884b2d92cb3ec0bf760f&chksm=ebfaf1afdc8d78b92f3fb8b13ebc111cdad67d8be35c9a874ee997f4c9d499be3a46bd60a3bd&scene=58&subscene=0": "美国政府未来四年或加大零日漏洞储备以支持网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067846&idx=2&sn=cd94ea7cada0daf8d439805d2653a055&chksm=f36e7446c419fd50cde0d3757dc46b33e360ae50088fab68c8f1bf59a63968103fa017346904&scene=58&subscene=0": "【安全圈】PostgreSQL漏洞与BeyondTrust零日漏洞被联合利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067846&idx=3&sn=4a1a9e96de810a8e68ea6951a76de7f0&chksm=f36e7446c419fd504982da27ae887c04989ac69ea58bb83a114c6f744af86431bbbc9d786afe&scene=58&subscene=0": "【安全圈】黑客利用智能合约漏洞盗取价值950万美元以太币",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247487151&idx=1&sn=6437eeee03cd6a0c9213f5e797660259&chksm=c1f44a67f683c371aaaf437521f445b7dd0eba5ee90307695745c9edfa0ac424789b37c0091b&scene=58&subscene=0": "「深蓝洞察」2024年度最憋屈的漏洞披露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037499&idx=1&sn=ab6f919570228078e38934b31cb0b23e": "Android-Webview中的漏洞利用总结",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608108&idx=3&sn=48fbe58add90888e5fcf96de6a81dab2": "让 Deepseek 帮我写 POC，又快又准确！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492273&idx=1&sn=079cc9a5565d053368fb80e9eeb88f8a": "漏洞预警 | 福建科立讯通信指挥调度管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260587&idx=1&sn=96691b525746ca862a4236f44e77b573": "【未经核实】Zabbix RCE PoC 公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247486534&idx=1&sn=1a37dd48a06207e3a729a10594112ca4": "探索|DeepSeek免杀-弱道德限制的AI才是网络安全的顶流",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247540851&idx=2&sn=383851ac8ce307efc3652c13c8f2ad61": "网络安全中的“人性漏洞”：如何解决员工安全意识问题？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486793&idx=1&sn=90f5f24e0bb7d2b3f4e1b5fad6542844": "软件供应链攻击：一次价值50,500美元的重大漏洞发现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493216&idx=1&sn=f41b256657a71a23085921b184805b40": "攻击者利用最近披露的Palo Alto Networks PAN-OS防火墙漏洞"
 }
