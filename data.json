@@ -4141,5 +4141,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581171&idx=3&sn=404de23a42d642551b4263a4ef5e5e03": "安全动态回顾|国家网络安全通报中心通报重点防范境外恶意网址和恶意IP 微软2月补丁星期二发布多个漏洞安全更新",
     "https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247493695&idx=1&sn=a2b364d43e5f2d83ca3fefd3f12fa0f5": "医疗行业数据安全风险评估实践指南（4.3）",
     "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489662&idx=1&sn=9edd69a151d726cc1fb0956037207142": "揭秘NVIDIA AI安全漏洞：CVE-2024-0132深度剖析",
-    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499795&idx=1&sn=0e6f5223c5dcf3b6c27eb6bda791e21d": "AI 的加持下，不懂代码，也能完成 POC 编写！多种语言 POC 一键转换！"
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499795&idx=1&sn=0e6f5223c5dcf3b6c27eb6bda791e21d": "AI 的加持下，不懂代码，也能完成 POC 编写！多种语言 POC 一键转换！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488025&idx=1&sn=c363ba5ade07c0ff910cb675933e817a": "锐明Crocus系统Service.do接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490037&idx=1&sn=75ac0191e779b60a0a67beee4b37b6ef": "S2-007远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496511&idx=1&sn=092c1a55a23f5c7c0c8de0d40107c128": "Apache Tomcat 条件竞争致远程代码执行漏洞（CVE-2024-50379）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489604&idx=1&sn=b2c28b868e4f74ee12cccc280fb80df7": "【漏洞预警】jsonpath-plus存在远程代码执行漏洞(CVE-2025-1302)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=2&sn=5301a0f00db8f69567b6be8758e4b7e1": "上周关注度较高的产品安全漏洞(20250210-20250216)"
 }
