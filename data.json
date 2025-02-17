@@ -4146,5 +4146,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490037&idx=1&sn=75ac0191e779b60a0a67beee4b37b6ef": "S2-007远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496511&idx=1&sn=092c1a55a23f5c7c0c8de0d40107c128": "Apache Tomcat 条件竞争致远程代码执行漏洞（CVE-2024-50379）",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489604&idx=1&sn=b2c28b868e4f74ee12cccc280fb80df7": "【漏洞预警】jsonpath-plus存在远程代码执行漏洞(CVE-2025-1302)",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=2&sn=5301a0f00db8f69567b6be8758e4b7e1": "上周关注度较高的产品安全漏洞(20250210-20250216)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=2&sn=5301a0f00db8f69567b6be8758e4b7e1": "上周关注度较高的产品安全漏洞(20250210-20250216)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516050&idx=1&sn=643f1d46fcb1881ecbd4e91a6798dfd5": "Aboutxxl-job最新漏洞利用工具（2月14日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518721&idx=1&sn=2cfe5c67aa07e392ab707e85320267eb": "Go语言ssti漏洞"
 }
