@@ -4198,5 +4198,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489623&idx=1&sn=0eb82923c11d936eda41661733bab356": "【漏洞预警】ChurchCRM系统中通过EditEventTypes.php文件的newCountName参数进行SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527921&idx=2&sn=15dd9f4e59983a9c588916d3058ae171": "无休止的漏洞：macOS 漏洞被利用九次",
     "https://mp.weixin.qq.com/s?__biz=MzU1MzEzMzAxMA==&mid=2247499921&idx=1&sn=dd53eca4974397a099fb2c0461221fc0": "网络安全动态 - 2025.02.18",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650621078&idx=1&sn=da289a9ddcd5331afac177cfbef1d7eb": "CVSS评分9.8！亚信安全率先发现大模型关联Ray架构高危漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650621078&idx=1&sn=da289a9ddcd5331afac177cfbef1d7eb": "CVSS评分9.8！亚信安全率先发现大模型关联Ray架构高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484415&idx=1&sn=768fbab36a3a8a77bd3a61a03f3b85db": "快排CMS-后台XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652114499&idx=2&sn=db67506c69d25d3cedf1fe676cd469b3": "安全设计警报：消除缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516066&idx=2&sn=3a67f704ae6f8bdb1dc089aa86160a0d": "APP渗透测试 -- 支付逻辑漏洞"
 }
