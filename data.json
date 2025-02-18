@@ -4149,5 +4149,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=2&sn=5301a0f00db8f69567b6be8758e4b7e1": "上周关注度较高的产品安全漏洞(20250210-20250216)",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516050&idx=1&sn=643f1d46fcb1881ecbd4e91a6798dfd5": "Aboutxxl-job最新漏洞利用工具（2月14日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247518721&idx=1&sn=2cfe5c67aa07e392ab707e85320267eb": "Go语言ssti漏洞",
-    "https://mp.weixin.qq.com/s/wmr9SyAr06iEGdQrWIFwKQ": "Tips | 提取java应用内存从而直接获取明文密码和配置信息的方法"
+    "https://mp.weixin.qq.com/s/wmr9SyAr06iEGdQrWIFwKQ": "Tips | 提取java应用内存从而直接获取明文密码和配置信息的方法",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589660&idx=3&sn=a91d86cb6388b5fca042190152a82a3b&chksm=b18c295686fba0405028d21d01ca475c2f5977e443c1390564f6e2ed0f90e748e3bbebb4c5d6&scene=58&subscene=0": "今日更新第2章！系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990591&idx=1&sn=a1f162313bc06603add4797b30daeba3&chksm=8079a5cdb70e2cdbf24d9224c9e37cd8f28d322fd0c0105e52a6df2eb03d42b32330d0deef5b&scene=58&subscene=0": "原创 Paper | Zyxel Telnet 漏洞分析(CVE-2025-0890、CVE‑2024‑40891)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513752&idx=1&sn=39cc6a0e87b2d70d65cdc8731d42f1e2&chksm=ebfaf1b8dc8d78aed3b262ebed3c3e9207675e5c248f4b6c714f4f7c338ca163c87d2b47751b&scene=58&subscene=0": "Palo Alto防火墙又被黑：最新漏洞披露后第二天就遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247536265&idx=1&sn=e73697b8bc66609c73db9ca14c3de805&chksm=c1443c34f633b5224f04715d99a20822536d3836e947fc0147f42487b54dabea4d09d081df97&scene=58&subscene=0": "24%的网络漏洞在被修补前已被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581171&idx=1&sn=322267dfcff7b72c9907e1bfeb0e3ac5&chksm=e9146dc9de63e4dff4e79f5350c061c75033f964a32277104652b1f9f46fcf63f657ace60f6d&scene=58&subscene=0": "利用旧的ThinkPHP和ownCloud漏洞的攻击事件激增",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581171&idx=3&sn=404de23a42d642551b4263a4ef5e5e03&chksm=e9146dc9de63e4dfda7d02413c4532741be6c8ffd08d34059dd420df09540650f37aa97b115c&scene=58&subscene=0": "安全动态回顾|国家网络安全通报中心通报重点防范境外恶意网址和恶意IP 微软2月补丁星期二发布多个漏洞安全更新",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489662&idx=1&sn=9edd69a151d726cc1fb0956037207142&chksm=fb029526cc751c30d264d60549dab39848c3ad5272da09129cab78331d34a98ff89c61c88e6a&scene=58&subscene=0": "揭秘NVIDIA AI安全漏洞：CVE-2024-0132深度剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=1&sn=336bdb3940503b48c6b589da97ae2ffe&chksm=fd74c0abca0349bd2a6819953409e46e022bb025703e71c337791d57486835fae0820371fc05&scene=58&subscene=0": "CNVD漏洞周报2025年第6期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495778&idx=2&sn=5301a0f00db8f69567b6be8758e4b7e1&chksm=fd74c0abca0349bda00cbecfd10c863cbfe595e618aa28168db0a4d932bba1204870ce418fa8&scene=58&subscene=0": "上周关注度较高的产品安全漏洞(20250210-20250216)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247491560&idx=1&sn=38207e5d3b964e6a72dc91d14270d4fe&chksm=c3125089f465d99fffe85999e70840ee74fbd39c746d4e0535aabf91042cea36fdd25c061eea&scene=58&subscene=0": "CVE-2024-49194 Databricks JDBC 驱动 JNDI 注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498952&idx=1&sn=a08ebc1ce872683b07a16218dbcbc8e9": ".NET 通过代码审计发现某 OA 系统全局性权限访问绕过漏洞"
 }
