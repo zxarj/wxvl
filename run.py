@@ -129,7 +129,18 @@ def get_issue_url():
         urls = [url.rstrip(')') for url in urls]
         return urls
     return []
-
+    
+def rep_filename(result_path):
+    ''' 
+    替换不能用于文件名的字符
+    '''
+    for root, _, files in os.walk(result_path):
+        for file in files:
+            if file.endswith(".md"):
+                file_path = os.path.join(root, file)
+                new_file = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', file)
+                shutil.move(os.path.join(root, file), os.path.join(root, new_file))
+                
 def main():
     '''主函数'''
     data_file = 'data.json'
@@ -155,6 +166,6 @@ def main():
                 data[url] = name
                 write_json(data_file,data)
                 print(name,end='、')
-
+    rep_filename(result_path)
 if __name__ == '__main__':
     main()
