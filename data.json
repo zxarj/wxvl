@@ -4203,5 +4203,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652114499&idx=2&sn=db67506c69d25d3cedf1fe676cd469b3": "安全设计警报：消除缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516066&idx=2&sn=3a67f704ae6f8bdb1dc089aa86160a0d": "APP渗透测试 -- 支付逻辑漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499486&idx=1&sn=f1288ef1eda52db67635c3cfdb6af90f": "备案查询、空间测绘、漏洞测试、编码及加解密工具 -- MoonLight",
-    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499486&idx=2&sn=e314f580efe2e6b6c2e655555e9f1e0d": "APP渗透测试 -- 文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499486&idx=2&sn=e314f580efe2e6b6c2e655555e9f1e0d": "APP渗透测试 -- 文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503318&idx=1&sn=b5b13cfc554a840876a561de454e8f7e&chksm=f2585ea5c52fd7b368ebc5c86a95e6425d2a601f7df5519e543aa82f70e7d68e5de1882a350e&scene=58&subscene=0": "雷神众测漏洞周报2024.2.10-2024.2.16",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499808&idx=1&sn=1c6724f7a6565b221b60843413d36b8a&chksm=ec1df008db6a791e8fc2c1cc0d8c4d81737f1e79e1f95761924835b7161ff5f21f80c0724268&scene=58&subscene=0": "高效检测 SQL 注入漏洞，自动化实战经验分享",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498952&idx=1&sn=a08ebc1ce872683b07a16218dbcbc8e9&chksm=fa595225cd2edb33e2e0624ce93a8e1ad168afdaa762794a6062913e3d523289e1c16b3749af&scene=58&subscene=0": ".NET 通过代码审计发现某 OA 系统全局性权限访问绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067874&idx=2&sn=634853ba2d9852cc240a7d5d46ce82c5&chksm=f36e7462c419fd74d29690ade86cd94c8f1353765e594a85d6f64779b2262b4aad515e3ff40c&scene=58&subscene=0": "【安全圈】俄罗斯黑客利用 7-Zip 零日漏洞攻击乌克兰",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522257&idx=1&sn=f4ba8096e5c48add46aab6c9f0f9b6db&chksm=ea94a6bbdde32fad212f6cefd231e991e6b3aa181b89c3c4f8942edda2b8c87b959349dba3ab&scene=58&subscene=0": "美国政府：开发人员应停止制造“不可原谅的”缓冲溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522257&idx=2&sn=9b28d0ae22a8aee011365d83bbe3e244&chksm=ea94a6bbdde32fad583ad06bb5abe8c191b454c50e40661e1fbba804d5ae0e3a6d9cc4164ad8&scene=58&subscene=0": "VeraCore 两个0day漏洞被用于实施供应链攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485049&idx=1&sn=2c3c26e2c4796c0f8af116747bc1187b&chksm=c2b1040ff5c68d1908d6d0b9c78e0d0ecc9ac81fef4dbf443c42b396962becfe491f85323aaa&scene=58&subscene=0": "腾讯云安全中心推出2025年1月必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247486550&idx=1&sn=767fc770ad44864d7b3c4b445d59f817": "想本地化部署DeepSeek？这些漏洞要注意！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247505145&idx=1&sn=f3f6f2766d76d987ba42cffb94bc77f9": "PowerShell 漏洞 — 现代 APT 及其恶意脚本策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjczNzAzMA==&mid=2247485478&idx=1&sn=53eda1c680e45837913c4ff850011941": "漏洞扫描 · 详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507561&idx=1&sn=4a2a2cdf4b27de7e5b3515dd1530f63f": "黑客批量售卖多国VPN权限：漏洞利用+社会工程威胁多国关键行业"
 }
