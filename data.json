@@ -4268,5 +4268,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486497&idx=1&sn=b6699a63779636dfdbb736ce74f9ef07": "深度修复 DeepSeek 云端部署潜在威胁漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503060&idx=1&sn=3a5570a5f7c2b81a23c0df999dd5f7b8": "【水文章】自动化漏洞验证日记：每天的进步与发现",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581221&idx=1&sn=a58c1531f1796814173c3ec02e2d75ee": "超过12000个KerioControl防火墙暴露于被利用的RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MzA0ODUwNw==&mid=2247487153&idx=1&sn=b859e9fb7ddd736a259222d2a545d591": "2025年1月考试成绩"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzA0ODUwNw==&mid=2247487153&idx=1&sn=b859e9fb7ddd736a259222d2a545d591": "2025年1月考试成绩",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490303&idx=1&sn=0cf97d3df2509c3607132cac86990998": "基于BurpSuite MontoyaApi的自动SSRF漏洞探测插件|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516076&idx=1&sn=5a3e8111bf52b68d9909ea1fa8cb836e": "Apache Druid 远程代码执行 漏洞检测和利用工具 -- CVE-2021-25646-exp",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzQwNjQ4Ng==&mid=2247485248&idx=1&sn=a75fe515c6351305920279a9ac9bba05": "DVWA靶场保姆级通关教学",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489642&idx=1&sn=6064face8a43bfbd44bb352849d43c27": "【漏洞预警】Citrix NetScaler控制台认证权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492639&idx=1&sn=c6b920e5f54817df1df5840de70ac89e": "漏洞复现 || Palo Alto Networks PAN-OS Management 管理端权限绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488048&idx=1&sn=6a4503bd7111e4c49102df95342ccf2a": "泛微e-cology 9 x.FileDownloadLocation接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzU5MDMxOA==&mid=2247484258&idx=1&sn=5ae6363b4f7ed200faa6bae001de4bb9": "Cloudflare + IP白名单仍被绕过？伪造X-Forwarded-For绕过IP白名单漏洞实战",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094840&idx=2&sn=ecc022d7717f5159d2ecb8d5dd385c3c": "Microsoft Bing 远程代码执行漏洞 CVE-2025-21355",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211348&idx=1&sn=a1bbb57d4065a6539e329c6d33c2704d": "Goby工具分享——2250个POC等你来拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNDI0MjkzOA==&mid=2247485878&idx=1&sn=140b24e60ec33962f14d916f17c5908b": "2025HW选手大量招募",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487285&idx=1&sn=39b5ae82c68a7a4e6c428a720d9acbb5": "springboot actuator漏洞总结",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247553801&idx=1&sn=99ae54f86adaca86af608a1c81bc699a": "Mongoose 搜索注入漏洞 CVE-2024-53900 到 CVE-2025-23061"
 }
