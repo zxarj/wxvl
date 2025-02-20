@@ -4219,5 +4219,20 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493215&idx=1&sn=1f6dfb712932a51bf044a0154d86867d": "【红队】geoserver图形化漏洞利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247489662&idx=1&sn=bf35f2a58e1a6121e3f3ab5e20886407": "带你解锁编码新世界！--随波逐流CTF编码工具使用教程53 --汤姆码Tomtom密码",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247486837&idx=1&sn=873504acffe5b721cad8340ba89cff36": "探索协程世界：原理、现实与漏洞模式（下篇）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247495879&idx=1&sn=e854ce6f524f5e693ed5c29a51437c34": "Neat Reader存在命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247495879&idx=1&sn=e854ce6f524f5e693ed5c29a51437c34": "Neat Reader存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462621&idx=1&sn=aca0dcf45b6a35456297791968051abb": "信息安全漏洞周报（2025年第7期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507692&idx=1&sn=7311ec648e06da0783dc83eec9aba48f&chksm=cfcabdf8f8bd34ee59ae8a8d4d1d23ee9224edae49635d0a8ac5b4a6c828c18248f443cc9aad&scene=58&subscene=0": "永洪BI远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787902&idx=1&sn=71b8270b1a8d55b1d42e0de55fd7e386&chksm=8893bd91bfe4348780e7243fe4eb695ee9392d77466acc10faa16ee4244d947aa83e80320feb&scene=58&subscene=0": "时空穿越攻击！新型LLM漏洞让ChatGPT秒变黑客助手",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522278&idx=1&sn=7cfb4b23ad311c542e16a6d9517313ce&chksm=ea94a68cdde32f9ac833afa12536d7b2cd2202b3e8d1fa6d9863779bcceec652fa2982c74202&scene=58&subscene=0": "OpenSSH 新漏洞使SSH服务器易受中间人和DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522278&idx=2&sn=076acb12a1297f5e59b788217253c1ac&chksm=ea94a68cdde32f9aa2f9b837e6ff7718aa5648f24cb5db327e106bce3c5c39c85665a423c9eb&scene=58&subscene=0": "Juniper 修复Session Smart 路由器中严重的认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498958&idx=3&sn=a202f6c10e14360aa0b343b40d662a81&chksm=fa595223cd2edb356ea7e34c3324cdb436e25efdda6694e0c079923c8fb7df17a44a545a2a95&scene=58&subscene=0": ".NET 通过代码审计发现某 OA 系统全局性权限访问绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524012&idx=1&sn=c5a57f9f670e64b0338dd911fc145b72&chksm=ce4615bcf9319caa2877c00492c66700cb5302296a6f250e91f324c2d81ad2001bb2510cd20c&scene=58&subscene=0": "【漏洞通告】Google Chrome浏览器缓冲区溢出漏洞(CVE-2025-0999)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524012&idx=2&sn=9e872e2099b2a438b9e52ddd8f4e0ab7&chksm=ce4615bcf9319caa5caf74fa1b4d125d509dae73e7a802d8975cb8c18c7088a1855c39ada976&scene=58&subscene=0": "CNVD漏洞周报2025年第6期",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067894&idx=3&sn=b32c1ab569fca6e572624325f39c97ba&chksm=f36e7476c419fd60d6c90e1fe3b4a358f007fcdae3939c304c0695cbdcda2a5adc7d383310c4&scene=58&subscene=0": "【安全圈】施乐打印机漏洞危及数据防线，Versalink C7025 用户凭证面临窃取风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067894&idx=4&sn=85a6a4431ee456852c1e21ec6d1e5c65&chksm=f36e7476c419fd6000d9d45304d2355d038ef135174afcc1f809e8523cd87ae9ff867c33af28&scene=58&subscene=0": "【安全圈】CISA 警告Palo Alto PAN-OS漏洞正在被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500758&idx=2&sn=116f8a348755831b0d3b723dfc334945": "【漏洞通告】Apache Ignite远程代码执行漏洞(CVE-2024-52577)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247495915&idx=1&sn=c9215e3d5bcce9991783502f40eb59c1": "【论文速读】| EnStack：一种用于增强源代码漏洞检测的大语言模型集成堆叠框架",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649787902&idx=1&sn=71b8270b1a8d55b1d42e0de55fd7e386": "时空穿越攻击！新型LLM漏洞让ChatGPT秒变黑客助手",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672588&idx=1&sn=e738d8f6ccdd8f084839e810caabd3f8": "速看！OpenSSH 新漏洞来袭，不更新补丁后果很严重",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484544&idx=1&sn=beaee29c49361713503a737687bbe35d": "什么？你还不会代码审计？点进来！"
 }
