@@ -4311,5 +4311,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492324&idx=2&sn=7be8d8428e41c435c552080c21419f48": "漏洞预警 | 浙大恩特客户资源管理系统任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492324&idx=3&sn=a94856c66b2b7ab250a805f353c37882": "漏洞预警 | 上邦电子文档安全管理系统任意文件下载漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484541&idx=1&sn=57e4d0c60cf1cb54008e73f1b4751545": "05 漏洞从哪里来？——体系痼疾（制度化）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492250&idx=1&sn=52b54f19c92224f00106f3bf69708220": "超过 12,000 个 KerioControl 防火墙暴露于 RCE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492250&idx=1&sn=52b54f19c92224f00106f3bf69708220": "超过 12,000 个 KerioControl 防火墙暴露于 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247485642&idx=1&sn=4913c9f2f95530a8ed76be40ce7c439d": "Slack渗透工具箱-一款安全服务集成化工具平台，内置多工具集，支持导入自定义poc",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237172&idx=1&sn=6df6fbe0aeb012eaff194d61f8c490f4": "中国信息安全测评中心主任彭涛：筑牢网络安全漏洞人才基石，打造漏洞治理新范式",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjcwOTY1Mg==&mid=2247521219&idx=1&sn=0e9681632d0404edbe4ce2e136a3e441": "每周网络安全简讯 ( 2025年 第8周 )",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247490882&idx=1&sn=0219f691c40fe35f57f0388fe89127e0": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247500770&idx=2&sn=2dbbedd5963caecd1e47a1772b256644": "【漏洞通告】PostgreSQL SQL注入漏洞(CVE-2025-1094)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247483861&idx=1&sn=ca8fc5e2159d6341dff7ffbe48977ce6": "深入浅出反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484643&idx=1&sn=f5f0bc71c2820d1abfb99295fb71fd6d": "漏洞预警 | 安美数字酒店宽带运营系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493243&idx=1&sn=5fa0cd4be8a6c6ea2f2c7f0d52469989": "微软修复了Power Pages中一个被积极利用的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493243&idx=2&sn=fe29f47ba3be810f2d40a88d8889f204": "Citrix 修复了 NetScaler 控制台权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581239&idx=2&sn=b73500f09beeb8531922e5bbe60b7afe": "苹果修复“极端复杂”攻击中被利用的零日漏洞"
 }
