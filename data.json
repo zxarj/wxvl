@@ -4294,5 +4294,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067911&idx=4&sn=dc16ae2f429d6a98d49cbc1c5cc21999&chksm=f36e7407c419fd1196a58b105fa5b30c3de21247a4b78a90055f53889859c5adda473b671537&scene=58&subscene=0": "【安全圈】Windows磁盘清理工具漏洞被利用获取系统权限，PoC已公开（CVE-2025-21420）",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498967&idx=3&sn=0409d42dae09be1c6a39ef74eb5b3c4f&chksm=fa59523acd2edb2cdc91665e5be91bb0f0f0bb956e67d7d46f627153df25c2c012f774a22a59&scene=58&subscene=0": ".NET 通过代码审计发现某 OA 系统全局性权限访问绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581221&idx=1&sn=a58c1531f1796814173c3ec02e2d75ee&chksm=e9146e1fde63e70900cb9d3328d0d963588dbe46cc9e92e34946c63fda7a01f7c93ab67c1336&scene=58&subscene=0": "超过12000个KerioControl防火墙暴露于被利用的RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247489369&idx=1&sn=354272cc8ef4aaea23428d7d748748d4": "SQL注入漏洞批量检查工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247489369&idx=1&sn=354272cc8ef4aaea23428d7d748748d4": "SQL注入漏洞批量检查工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDUxNzU3MQ==&mid=2247483990&idx=1&sn=3e92098c973be99444cbd11877511c9b": "2025首波福利，大牛们速度码住！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495333&idx=1&sn=a06739d7f0087af4742dacc2b56eed4b": "【真 0day】Parallels Desktop Repack提权0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzcxNTQyNw==&mid=2247485847&idx=2&sn=66e03b3d28688a1a67714c47c33fe648": "25年HVV中的0day防护手法",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485126&idx=1&sn=c77d681b3e0d8cfb12669017f6db4f50": "CVE-2024-49112 Windos LDAP 整数溢出分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247490498&idx=1&sn=d805cfcaceac08ad6730b4f52181df4e": "用友NC importPml SQL注入漏洞(XVE-2023-29120)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTczMjA1Ng==&mid=2247483999&idx=1&sn=a9a5e8463d5f1228bb7ebc1d676bcd27": "圈内漏洞文库类公众号疑似上所",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247502411&idx=1&sn=9bfcbe3eba0c751e5bf590e19e885b45": "“万模裸奔”，DeepSeek正颠覆网络安全行业游戏规则",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608292&idx=4&sn=50c019c3778782a4cdc6731de818d2c7": "sqlmap_gui是一款图形界面化的 SQL 注入漏洞测试工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454063951&idx=1&sn=d53cb1073731a3e9748eec66177fc60a": "信息安全漏洞周报【第010期】",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794252&idx=1&sn=6902b69e4fbc1f3242d6b19dd6550cac": "Salt Typhoon 使用定制恶意软件 JumbledPath 监视美国电信服务商",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794252&idx=3&sn=1e4659cba6cadc88a970fdf426f6cf76": "攻击者利用 Check Point 漏洞部署 ShadowPad 和勒索软件",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518111&idx=1&sn=45b416a0a738520fe25fb20c54dbfe5d": "CNVD证书挖掘：20大技巧，一网打尽安全漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492324&idx=1&sn=ad5f9d43df379b94caeac2ab68159764": "漏洞预警 | Apache Ignite远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492324&idx=2&sn=7be8d8428e41c435c552080c21419f48": "漏洞预警 | 浙大恩特客户资源管理系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492324&idx=3&sn=a94856c66b2b7ab250a805f353c37882": "漏洞预警 | 上邦电子文档安全管理系统任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484541&idx=1&sn=57e4d0c60cf1cb54008e73f1b4751545": "05 漏洞从哪里来？——体系痼疾（制度化）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492250&idx=1&sn=52b54f19c92224f00106f3bf69708220": "超过 12,000 个 KerioControl 防火墙暴露于 RCE 漏洞"
 }
