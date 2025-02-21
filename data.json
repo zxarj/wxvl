@@ -4321,5 +4321,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484643&idx=1&sn=f5f0bc71c2820d1abfb99295fb71fd6d": "漏洞预警 | 安美数字酒店宽带运营系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493243&idx=1&sn=5fa0cd4be8a6c6ea2f2c7f0d52469989": "微软修复了Power Pages中一个被积极利用的漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493243&idx=2&sn=fe29f47ba3be810f2d40a88d8889f204": "Citrix 修复了 NetScaler 控制台权限提升漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581239&idx=2&sn=b73500f09beeb8531922e5bbe60b7afe": "苹果修复“极端复杂”攻击中被利用的零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247581239&idx=2&sn=b73500f09beeb8531922e5bbe60b7afe": "苹果修复“极端复杂”攻击中被利用的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247496612&idx=1&sn=538a40dba7b3ec6190fbf1f6447bfc16": "sqlmap_gui是一款图形界面化的 SQL 注入漏洞测试工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499777&idx=1&sn=2cb418ec8937da5c3cdd427f2b8dbabf": "G.O.S.S.I.P 阅读推荐 2025-02-21 通往漏洞自动化修复的漫漫长路",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260612&idx=1&sn=21aceafabcc9782891588a07f82d4126": "【$200】一个速率限制不当的漏洞故事",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484194&idx=1&sn=ba76460d3a11bacb42d7e202d16181ae": "[开源 Prompt] AI 增强的漏洞优先级排序",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247527966&idx=3&sn=1ceb766907bcba985016112e740222cc": "Google 发布 PAN-OS 防火墙中 CVE-2025-0110 命令注入漏洞的 PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjY1Mzc0Nw==&mid=2247486910&idx=1&sn=82bd6a405a7ee9f666350d0de1195733": "25年HVV中的0day防护手法",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314586&idx=4&sn=6ca9620e382e1a47895284ec9113cab7": "9万个WordPress站点面临本地文件包含漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067926&idx=3&sn=2d131a8cb6509a43ec57dad0ce5b7216": "【安全圈】赛门铁克诊断工具漏洞可让攻击者提升权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652067926&idx=4&sn=0caef5e797b3df5141d039002092ba83": "【安全圈】Citrix 发布 NetScaler 控制台权限提升漏洞的安全修复程序",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247514174&idx=2&sn=baa07aa5fdf6fdee68a0f4271e488d58": "每周高级威胁情报解读(2025.02.14~02.20)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522309&idx=1&sn=edcb7974ccf436c421f7900223071912": "微软修复已遭利用的 Power Pages 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247521523&idx=1&sn=bdd34e6543bb83fd592e4e740e73f74c": "新标准！广东省网络空间安全工程技术人才职称评价标准条件"
 }
