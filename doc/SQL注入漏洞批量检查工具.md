@@ -1,67 +1,58 @@
 #  SQL注入漏洞批量检查工具   
- 黑白之道   2024-12-20 02:06  
+原创 白帽学子  白帽学子   2025-02-21 00:11  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
+之前护网值班差点把我整破防了，凌晨三点还在和SQL注入的告警斗智斗勇。今天就唠个实战中刚解锁的新姿势——怎么在红蓝对抗时高效排查全网SQL注入点。  
   
+上个月我们给某电商平台做资产梳理，甲方爸爸突然甩过来三百多个二级域名让做漏洞普查。传统手工测SQL注入？怕是要测到明年双十一。这时候突然想起之前圈内大佬推荐的SQLMC，这工具简直是批量作业的"扫地僧"。  
   
-**工具介绍**  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LYy9xnADcdhFTCmldVtZS23KhS8HrxlibjmFBYOX4QEuBXNNpvY7qyrzQsYQAzOgvMtYgdNicVicRo4NE2ic8LahOg/640?wx_fmt=jpeg "")  
   
-SQLMC（SQL注入大规模检查器）是一款用于扫描域中是否存在SQL注入漏洞的工具。它会抓取给定的URL直至指定深度，检查每个链接是否存在SQL注入漏洞，并报告其发现的结果。  
+这玩意儿最骚的操作就是深度爬取机制。比如我们遇到个典型场景：目标站点存在多级商品分类目录，传统扫描器到第三层页面就歇菜了。用sqlmc -d参数直接干到五层深度，愣是把藏在商品评价分页里的注入点给刨出来了。更绝的是它会自动标记存在漏洞的服务器指纹，这对后续写渗透报告太友好了。、  
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LYy9xnADcdhFTCmldVtZS23KhS8HrxlibXP3NibtpYD1g78eV39ic23M3QN9PxIUQA5hRwmyTFFN0xOGw3WqiahwicA/640?wx_fmt=jpeg "")  
   
-**工具特征**  
-```
-扫描域名中是否存在SQL注入漏洞
-爬取给定的URL直到指定深度
-检查每个链接的所有GET参数是否存在SQL注入漏洞
-报告漏洞以及服务器信息和深度
-```  
+安装倒是简单，kali源里apt-get直接装（建议先更新源）。不过实战中发现个细节，遇到需要登录的站点记得配合cookie参数使用。上次在某个OA系统里，就是靠抓包拿到sessionid后拼接命令，成功扫出人事模块的盲注漏洞。  
   
+想要获取工具的小伙伴可以直接**拉至文章末尾**  
   
-**安装使用**  
+我们来提取并讨论上述工具描述中涉及的网络安全关键技术点：  
   
-Kali官方软件源中已有这个工具，直接使用以下命令安装即可，如单独下载安装则需安装所需依赖项。  
-```
-└─# apt-get install sqlmc --fix-missing
-
-pip3 install -r requirements.txt
-```  
+1、漏洞扫描深度定制：  
+- 像SQLMC能通过指定深度扫描，这是深度定制漏洞扫描的体现。在网络安全中，深度扫描有助于全面发现潜在漏洞，避免遗漏深层次的安全风险。   
   
-‍![](https://mmbiz.qpic.cn/sz_mmbiz_png/79gZQNibQ6uc1aU9wroWmyCbWBYOWl1mluq8JtBbOzO3PQab0ObINmmqgJSdawgiaUTwVwdFh3ABChnqYqjhjgyg/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+2、数据可视化技术：  
+- SQLMC检查每个链接的所有GET参数是否存在SQL注入漏洞。这反映了网络安全里多参数检查的重要性，要全面考虑各个参数可能存在的安全隐患。   
   
+3、漏洞报告完整性：  
+- 工具报告漏洞以及服务器信息和深度，这表明完整的漏洞报告技术很关键。在实际网络安全工作中，详细的漏洞和相关信息有助于更好地进行漏洞修复和风险评估。   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/79gZQNibQ6uc1aU9wroWmyCbWBYOWl1mluq8JtBbOzO3PQab0ObINmmqgJSdawgiaUTwVwdFh3ABChnqYqjhjgyg/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+4、  
   
+自动化依赖管理  
   
-sqlmc使用以下命令行参数运行：  
-```
- -u, --url：需要扫描的 URL（必填）
- -d, --depth：扫描深度（必填）
- -o, --output：保存结果的输出文件
-```  
+：  
+- 安装时需安装所需依赖项，体现自动化依赖管理技术。在网络安全工具的使用中，正确处理依赖关系，确保工具正常运行，也是保障安全工作顺利进行的一环。   
   
-  
-使用示例：  
-```
-sqlmc -u http://example.com -d 2
-```  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/79gZQNibQ6uc1aU9wroWmyCbWBYOWl1mlqzzVibNEticL4FRsXOH225N1unBye4c69uUNkaPSfj5ArL7d1PQ7XlNA/640?wx_fmt=other&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-  
-**下载地址**  
-  
-**https://github.com/malvads/sqlmc**  
-  
-> **文章来源：Hack分享吧**  
+5、针对性扫描参数设置：  
+- 使用sqlmc时需设置如 -u（扫描的URL）、-d（扫描深度）、-o（输出文件）等命令行参数，这强调了针对性扫描参数设置技术。在网络安全检测时，根据具体需求准确设置扫描参数，有助于精准定位问题。   
   
   
   
-黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-如侵权请私聊我们删文  
+**下载链接**  
+  
+https://github.com/malvads/sqlmc  
   
   
-**END**  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/LYy9xnADcdhic61NkXCWKufScrUrmmsG8tztWD8fDRiatPUaljxxpKc1PpnYNFjPibU5FwJmcuO4mZoQg5aXsAcog/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+声明：该公众号大部分文章来自作者日常学习笔记，也有部分文章是经过作者授权和其他公众号白名单转载，未经授权，严禁转载，如需转载，联系开白名单。  
+  
+请勿利用文章内的相关技术从事非法测试，如因此产生的一切不良后果与本公众号无关。  
+  
+✦  
+  
+✦  
   
   
