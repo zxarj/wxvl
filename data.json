@@ -4355,5 +4355,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484194&idx=1&sn=ba76460d3a11bacb42d7e202d16181ae&chksm=c006cbd2f77142c41e4a49452be7eec286310a5de92e5470abe17c4d70060461949dbc0f45cb&scene=58&subscene=0": "[开源 Prompt] AI 增强的漏洞优先级排序",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzcxNTQyNw==&mid=2247485857&idx=1&sn=898d8c8593363359aad19d29e85ae037": "高危：Ollama远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247490216&idx=1&sn=e5cc9f4d191703e6067bc26d0ae0a343": "弱权限目录成漏洞温床！3 个真实案例教你如何防范文件劫持！",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492340&idx=1&sn=095a542c437a13ab4926d06cbba74bdd": "漏洞预警 | jolokia JNDI远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492340&idx=1&sn=095a542c437a13ab4926d06cbba74bdd": "漏洞预警 | jolokia JNDI远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497178&idx=1&sn=6f788f65837fb6ca1cbe920215c81bb7": "命令注入漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484218&idx=1&sn=798de36b9ce61a02dfbbd11529d91ff6": "[已开源] 基于大语言模型的自动化漏洞修复技术实践",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068081&idx=3&sn=6d7fd58dc0942e6b518c29bfda1a134e": "【安全圈】微软Power Pages权限提升漏洞被黑客利用，紧急修复中",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651314636&idx=2&sn=2c12b60203f66c0022ea31909d0d2253": "FreeBuf周报 | 马斯克DOGE网站数据库存在漏洞；OpenSSH曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247571270&idx=1&sn=fbf06decc398ffe50ab9ae13933fb767": "记一次“安全扫描工具联动”自动化扫描漏洞流程",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247498983&idx=3&sn=30752156e4a2a93c6dd37ef5296630cc": "ViewStates 漏洞，利用 .NET 机器密钥实施代码注入攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTE1NDMwMA==&mid=2247485256&idx=1&sn=98be3097618a87721f6b3b9ec4d3c3d1": "某红书Shield算法Chomper黑盒调用"
 }
