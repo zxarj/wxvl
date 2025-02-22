@@ -1,5 +1,5 @@
 #  SRC实战系列-记某次大学漏洞挖掘经过   
-原创 Lzer0Kx01  LK安全   2025-02-18 11:12  
+ 进击安全   2025-02-22 03:45  
   
 免责声明  
   
@@ -112,15 +112,6 @@ fofa语法搜索 domain=“xxx.edu.cn” && body=“登录”
 这是小生第一次实战挖掘  
 edusrc，没有出什么有技术含量的洞，不过，小生已经很满足了，希望以后技术越来越好，能够挖到更厉害的洞。  
   
-广告时间  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRKuxIKRyhXhuxbCGecu4ibia3kSXD8ePQHrSvPSNtC7PmjzQwR88Hu0LpuXdQzamKBCPAXX82anLS8f0FF3LzzQ/640?wx_fmt=jpeg "")  
   
-不到四位数的精品好课  
-  
-Web安全与漏洞挖掘实战课  
-  
-https://lksafe.yuque.com/org-wiki-lksafe-onbub6/huslyc?#  
-  
-了解更多详情请加  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/aibjdZFMRy7iamFvPHtpLYic7XRyicTU1LFciaSetRKGZmMkFMrKz54hco4WhLcG4pd3VI1LovlUybsicib6rsBPg9p3w/640?wx_fmt=png&from=appmsg "")  
   
