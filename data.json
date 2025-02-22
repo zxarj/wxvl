@@ -4351,5 +4351,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608338&idx=3&sn=4ff6d6b4347f64571169abb17894ff21": "高效检测 SQL 注入漏洞，自动化实战经验分享",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492340&idx=2&sn=b8655f909cd3a92aa77c81b8a97ab8f0": "漏洞预警 | 云出行后台管理系统未授权访问漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492340&idx=3&sn=cf354202ac70a768414367482ede90c9": "漏洞预警 | 月子会所ERP管理云平台任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507603&idx=2&sn=bcdb38a497786cc33166dae408d4fb8c": "5th域安全微讯早报【20250222】046期"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247507603&idx=2&sn=bcdb38a497786cc33166dae408d4fb8c": "5th域安全微讯早报【20250222】046期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484194&idx=1&sn=ba76460d3a11bacb42d7e202d16181ae&chksm=c006cbd2f77142c41e4a49452be7eec286310a5de92e5470abe17c4d70060461949dbc0f45cb&scene=58&subscene=0": "[开源 Prompt] AI 增强的漏洞优先级排序",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzcxNTQyNw==&mid=2247485857&idx=1&sn=898d8c8593363359aad19d29e85ae037": "高危：Ollama远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247490216&idx=1&sn=e5cc9f4d191703e6067bc26d0ae0a343": "弱权限目录成漏洞温床！3 个真实案例教你如何防范文件劫持！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492340&idx=1&sn=095a542c437a13ab4926d06cbba74bdd": "漏洞预警 | jolokia JNDI远程代码执行漏洞"
 }
