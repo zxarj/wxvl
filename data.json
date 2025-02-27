@@ -4431,5 +4431,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492383&idx=3&sn=3aafe209e0546cfe321f5deded92ca4e": "漏洞预警 | 锐明技术Crocus系统信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484683&idx=1&sn=c7a8d6ddd718f3548f93acb0adbccb24": "(0day)漏洞预警 | 安美数字酒店宽带运营系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493675&idx=1&sn=c30e8ce14ecba5195f62ef4fb2e67516": "CyberMatrix 是一个基于 AI 的代码安全分析工具，专注于自动化检测和分析代码中的潜在安全漏洞。",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488070&idx=1&sn=9fac9fc0db517b9c376769c882a60626": "灵当CRM Ambassador接口处存在SQL注入漏洞 漏洞预警"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488070&idx=1&sn=9fac9fc0db517b9c376769c882a60626": "灵当CRM Ambassador接口处存在SQL注入漏洞 漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522340&idx=1&sn=857f619293015f92aad6d9622d926c9b&chksm=ea94a94edde320585b86625a84d36857679e8f005ff31ac322eea8d3c6e5a0a2530f060326a1&scene=58&subscene=0": "MITRE Caldera所有版本皆存在满分RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650183220&idx=1&sn=34be8b0d76bc7cd59409ffa3f4f79089&chksm=f4486d88c33fe49e8719753d5ddbafc48d90bc9b5f47766313acf66966eee9fad87a5218edd3&scene=58&subscene=0": "漏洞攻击？拦了！数据呢？丢了！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497191&idx=1&sn=baaac6b3670ac5a8aae14c92c45e6bbe&chksm=e8a5ff84dfd27692c948fb80e131ec9667801556ad1f048b6564646f9efd29c3041cf6dc8123&scene=58&subscene=0": "一个挖掘权限类漏洞的神器",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503053&idx=1&sn=5fed028268e1c246223907f8312cd7ab": "【已复现】NAKIVO Backup & Replication任意文件读取漏洞(CVE-2024-48248)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650608698&idx=4&sn=de507df2d357c4b2dee963005b2438c4": "若依Vue框架漏洞检测工具，包括 Swagger、Druid、文件下载漏洞、SQL 注入、定时任务漏洞和任意密码修改漏洞等",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491608&idx=1&sn=9914279290b9661d3de7dec861bdbd99": "实战纪实 | 真实HW漏洞流量告警分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495551&idx=1&sn=9507c61ecf0dc83c0bb76c22d055671c": "苹果CVE-2025-24104漏洞未完全修复，可以读取沙盒外的文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488546&idx=1&sn=f2302057910e6f3a6440bc67ba1703ed": "审计分析02 | 无鉴权路径拿下文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490390&idx=1&sn=ca485accbb6584c105b9c249cb55d5a4": "安全服务集成化工具平台，希望能帮助你少开几个应用测试|漏洞探测"
 }
