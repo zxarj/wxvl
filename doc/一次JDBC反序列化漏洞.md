@@ -1,5 +1,22 @@
 #  一次JDBC反序列化漏洞   
- 进击的HACK   2025-02-12 11:13  
+ 听风安全   2025-02-27 05:23  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/Tp9VOk1IaycpsK4AXvozeaMLYk7OBLQau8mDrsWslNiajkybyodE8HbkJ9ibPO7IofWw3S4sE38LyCWYSxSZMjkQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+**免责声明**  
+  
+由于传播、利用本公众号听风安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号听风安全及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+  
+公众号现在只对常读和星标的公众号才展示大图推送，  
+  
+建议大家把  
+听风安全  
+  
+设为**星标**  
+，否则可能就看不到啦！  
+  
+----------------------------------------------------------------------  
   
 在一次测试中遇到了数据库连接功能，这种功能点一般会存在jdbc反序列化漏洞。  
   
@@ -128,5 +145,29 @@ https://github.com/kezibei/Urldns
 和刚才的步骤相同，放到vps上面，过程省略。成功把目标服务器信息回显出来。  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/fp1zrrz1Uib9fpI9mbf7VKGpOT9icBvYRIsFaEDIAqtEaibPCfv6ZicibHq0PpGTic6QQuduibAF7fuUz9lwa6FE5mPBw/640?wx_fmt=png&from=appmsg "")  
+  
+不可错过的往期推荐哦  
+  
+  
+```
+```  
+  
+  
+点击下方名片，关注我们  
+  
+  
+  
+觉得内容不错，就点下  
+“**赞**  
+”  
+和  
+“**在看**  
+”  
+  
+  
+如果不想错过新的内容推送可以设为**星标**  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Yv6ic9zgr5hTYyCkc91euAiaGULJSbiaHricFHs2dd2sib20WTJKwHYD90Jia9HCKxnmJUwnkicGU7rVP3EYCVh3dMnng/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
   
   
