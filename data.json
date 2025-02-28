@@ -4473,5 +4473,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzNjg1OTY3Mg==&mid=2247491833&idx=1&sn=65aaa807093bcf808072079ee26ce664": "告别CVE焦虑！KEV：已知被利用漏洞才是真威胁!",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247516236&idx=1&sn=b6c7cfed1dd7e9d9460525fdb3364fb8": "免费公开课预告 | OffSec OSEE（EXP-401）高级 Windows 漏洞利用开发",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484590&idx=1&sn=baa8349e59cd2bd8ebde309628c78c2c": "07 漏洞从哪里来？——引狼入室",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488638&idx=1&sn=3070b6431948cbbaaf02ab14ec9267cc": "SRC挖掘 | 文件下载漏洞getshell"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247488638&idx=1&sn=3070b6431948cbbaaf02ab14ec9267cc": "SRC挖掘 | 文件下载漏洞getshell",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651135261&idx=2&sn=74d6fa6c49fbd2630c460749eb487fd3&chksm=bd15adce8a6224d8f352f7e193e568e119a11c3b858b9a9e079e69d1a356958e6c2d3f57eb5a&scene=58&subscene=0": "9.9分漏洞或导致2850多台Ivanti设备系统完全受损；三星系统推出业界首款后量子加密芯片S3SSE2A | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499017&idx=1&sn=c17b802fed118434bf2134310fadc29e&chksm=fa5953e4cd2edaf2ec66ff6e982d6bf1f1641351ca4a8a43050c08709373f498234341967b72&scene=58&subscene=0": ".NET 通过代码审计发现某办公系统逻辑绕过漏洞可泄露管理员账户和密码",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503053&idx=1&sn=5fed028268e1c246223907f8312cd7ab&chksm=fe79e855c90e6143cede127f668f9ea87228c8bec618e4030297ec513afdda8336db0fed9cb0&scene=58&subscene=0": "【已复现】NAKIVO Backup & Replication任意文件读取漏洞(CVE-2024-48248)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650183236&idx=1&sn=1727469ff3beeb950542f8ae4d57d40b&chksm=f4486df8c33fe4ee0c7b62cb59b891067c87fa74029bd45738251b05b59d16d2e9084b8193d7&scene=58&subscene=0": "黑客最不想让你看到的，2024年漏洞攻击数据真相",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068179&idx=4&sn=39b4a77aebadbd2051b65b5c2aeac879&chksm=f36e7513c419fc05845b92a5fb7cff138e2e09657b7fe582ef29b3781db1761fb8b7d3cfd22a&scene=58&subscene=0": "【安全圈】CVE-2025-20029：F5 BIG-IP系统发现命令注入漏洞，概念验证已发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489731&idx=1&sn=2186b5230165ffa81d5b3f73d659278c&chksm=fb02959bcc751c8d15bbf41d5159696428c4d9c6d9fa2c6f2e13309b74cf59d2aa80cbe4d426&scene=58&subscene=0": "2,500 美元漏洞报告-通过未认领的 Node 包进行远程代码执行 (RCE)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237530&idx=1&sn=d7efd3424f1b0073011b56155937fd1e&chksm=8b580b23bc2f82354fbd0c8555767c4e05518b5ea8eeb32524d1c26203d76b6906aa88a457b6&scene=58&subscene=0": "专题·漏洞人才培养 | 网络安全实战人才培养的难点和对策",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247488235&idx=1&sn=37eab098858f4cbdad36610c5a653f67": "74cms 最新 getshell 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491201&idx=1&sn=88d1b6116dec0dca018f70fdd055e958": "棉花糖居然被开盒了！",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499023&idx=3&sn=cb6f9513abf9c16bdd07066ec58c2663": ".NET 逻辑绕过漏洞审计思路和挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484689&idx=1&sn=94527504b2e448aa423093d2f2140618": "(0day)漏洞预警 | 时空智友企业信息管理系统任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900240&idx=1&sn=78dd5740a9bf7c9073a43d0f957c7414": "警惕！全景框架Krpano漏洞遭大规模利用，350+网站被植入垃圾广告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=1&sn=ed27f2ed5b2592447ae166e604933cca": "漏洞预警 | JEEWMS JDBC反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=2&sn=e9a5f92ff815052b895b38a29688b87a": "漏洞预警 | 金盘移动图书馆系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=3&sn=3302046c21f8615dc58f12ee09881c79": "漏洞预警 | 竞优商业租赁管理系统信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjczNzAzMA==&mid=2247485516&idx=1&sn=b21abb2c517402ce94496c99bb1bcd52": "网络安全事件分级分类"
 }
