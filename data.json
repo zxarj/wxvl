@@ -4496,5 +4496,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247502469&idx=1&sn=29cf28e93c6f19b1db42ec9821aff233": "大模型微调爆出致命漏洞：可导致模型“黑化”",
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485238&idx=1&sn=14262b3d99bbb6abdf91c4570388feb8": "Auto SSRF BurpSuite自动化SSRF漏洞探测插件",
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485238&idx=2&sn=322ffad55ffa06b05fb5df664b89d5a4": "紧急预警！Windows磁盘清理工具惊现高危漏洞，你的电脑可能面临被控制风险！",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488082&idx=1&sn=117c18babe6945dac69504227343a44b": "瑞友天翼应用虚拟化系统RAPAgent.XGI接口存在SQL注入漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488082&idx=1&sn=117c18babe6945dac69504227343a44b": "瑞友天翼应用虚拟化系统RAPAgent.XGI接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mjg4MTQxMw==&mid=2247486456&idx=1&sn=aea4e78228a6dc1cea47a6183efa579b": "渗透测试新利器！EZ漏洞扫描器全面解析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522363&idx=2&sn=30341de9895d38b4b0408b086cf54477": "报告：89%的企业生成式AI使用不可见，或造成严重风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247491173&idx=1&sn=b9ab5a914f6021d8d6413a9918fd7220": "2025鱼影安全SRC精品课程第一期重磅来袭！《0基础到高级SRC漏洞赏金猎人！》",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237597&idx=1&sn=ac246e2e2252c07dfd03b7757a6b724b": "专题·漏洞人才培养 | 以CTF学科竞赛为抓手的漏洞人才培养探索与实践",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727844161&idx=1&sn=922ae5543dc979d89fee696210936a08": "城堡的小门：v8类型混淆漏洞CVE-2024-4761分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495649&idx=2&sn=242368d99a4bfaa3bcd2af56491c1405": "【PoC】Windows Hyper-V NT 内核集成 VSP 提权漏洞"
 }
