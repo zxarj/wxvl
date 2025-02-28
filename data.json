@@ -4489,5 +4489,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=1&sn=ed27f2ed5b2592447ae166e604933cca": "漏洞预警 | JEEWMS JDBC反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=2&sn=e9a5f92ff815052b895b38a29688b87a": "漏洞预警 | 金盘移动图书馆系统任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492396&idx=3&sn=3302046c21f8615dc58f12ee09881c79": "漏洞预警 | 竞优商业租赁管理系统信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjczNzAzMA==&mid=2247485516&idx=1&sn=b21abb2c517402ce94496c99bb1bcd52": "网络安全事件分级分类"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjczNzAzMA==&mid=2247485516&idx=1&sn=b21abb2c517402ce94496c99bb1bcd52": "网络安全事件分级分类",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247491987&idx=1&sn=4318ab61b6ed26115cf9b92eb5afa6f8": "关于举办“数据安全技能能手”和移动互联网安全工程师（CAPPSEC）2025年第1期培训班的通知",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247495649&idx=3&sn=a78b2e70528300c78288e36b7ff0631a": "【吃瓜】gitlab 出现一个有手就行的漏洞，获取34,000 美元的赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODQ4NjA3Mg==&mid=2247565776&idx=1&sn=9f2e3e0870b849b79993d8e936b06a54": "0Day CNVD-2025-00727 某路由器未授权命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247502469&idx=1&sn=29cf28e93c6f19b1db42ec9821aff233": "大模型微调爆出致命漏洞：可导致模型“黑化”",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485238&idx=1&sn=14262b3d99bbb6abdf91c4570388feb8": "Auto SSRF BurpSuite自动化SSRF漏洞探测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485238&idx=2&sn=322ffad55ffa06b05fb5df664b89d5a4": "紧急预警！Windows磁盘清理工具惊现高危漏洞，你的电脑可能面临被控制风险！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488082&idx=1&sn=117c18babe6945dac69504227343a44b": "瑞友天翼应用虚拟化系统RAPAgent.XGI接口存在SQL注入漏洞 附POC"
 }
