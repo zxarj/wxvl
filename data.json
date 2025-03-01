@@ -4544,5 +4544,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485855&idx=1&sn=bf7c11f2b7878744e030858acc9bf7f5": "S2-005远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491635&idx=1&sn=42f997786d8e018ee17b019358be714f": "审计分析 | 一套\"组合拳\"造成文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485583&idx=1&sn=1afa1bacbbb165749e7af11bc78c7b0a": "工具集：Java Chains【 Java 漏洞利用综合生成平台】",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247488237&idx=1&sn=3fa4065ac094b4b882d68ee860bba6cf": "针对Swagger接口泄露未授权访问的各种姿势"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247488237&idx=1&sn=3fa4065ac094b4b882d68ee860bba6cf": "针对Swagger接口泄露未授权访问的各种姿势",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499572&idx=1&sn=e4824768075e17e8dfe1c4e27b79b484": "被动扫描的fastjson漏洞探测插件 -- FastjsonScan4Burp（2月28日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516181&idx=1&sn=1ec5998b9fa1bfc44a867f56d6c13d20": "漏洞挖掘小工具 -- SeeMore（3月1日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492258&idx=1&sn=396c310a2a0c548856625c3ddaa03185": "黑客利用旧版 ThinkPHP 和 ownCloud 漏洞攻击量激增"
 }
