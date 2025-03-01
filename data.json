@@ -4515,5 +4515,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491633&idx=1&sn=03d6a3f8d696ac65dfed03504c18209a": "记一次实战小程序漏洞测试到严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484700&idx=1&sn=35f4cdbcfc63fdbd774e14e4a033d88d": "记录一个src挖掘的骚思路",
     "https://mp.weixin.qq.com/s?__biz=MzA4NzA5OTYzNw==&mid=2247484559&idx=1&sn=87f9d38120eb1812acdf9d467b0086fc": "如何修复常见的WEB漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489687&idx=1&sn=bacf6474bf5e8f17cc9924c660a0c8c0": "【漏洞预警】Apache InLong任意文件读取漏洞(CVE-2025-27531)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489687&idx=1&sn=bacf6474bf5e8f17cc9924c660a0c8c0": "【漏洞预警】Apache InLong任意文件读取漏洞(CVE-2025-27531)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503061&idx=1&sn=d35bc82adb76b97ee71ebd660128a85d&chksm=fe79e84dc90e615b14715455df9ec7a0e2bd9fe219cbe0c114bef033092b8ebd014e8e51a106&scene=58&subscene=0": "【风险提示】 DeepSeek等大模型私有化服务器部署近九成在“裸奔”，已知漏洞赶紧处理！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496264&idx=1&sn=9a1a67f0fecf0b9f4c5afe51f253f839&chksm=fd790ececa0e87d821b6e0eb1f24df5af730c5d940230e87501b6d4d4cf3830022db37e494ba&scene=58&subscene=0": "2024漏洞风险启示录：在攻防的螺旋中寻找【治愈】之道",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492715&idx=1&sn=d7bae998bce7c8a9f1c6db0d49b80710&chksm=96f7fb06a1807210413176f7d16cd222ef6f5822c05c0e4303601397e050deb411274caac59c&scene=58&subscene=0": "【已复现】Ollama 未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499023&idx=3&sn=cb6f9513abf9c16bdd07066ec58c2663&chksm=fa5953e2cd2edaf4336314ee1697f11dc6c7f214afb025742eaba7cce78ab41a51bebc6328fe&scene=58&subscene=0": ".NET 逻辑绕过漏洞审计思路和挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237597&idx=1&sn=ac246e2e2252c07dfd03b7757a6b724b&chksm=8b5808e4bc2f81f284ef78d907e70d3f48adc497dba6906b2288e18ca146658b3c86008bb446&scene=58&subscene=0": "专题·漏洞人才培养 | 以CTF学科竞赛为抓手的漏洞人才培养探索与实践",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NTEwMTMxMw==&mid=2247485692&idx=1&sn=4d9815de776a858efcd4aca02abca123": "【漏洞复现】可以白嫖别人的AI模型了？你的被白嫖了吗（Ollama）"
 }
