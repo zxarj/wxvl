@@ -1,5 +1,5 @@
 #  漏洞预警 | 金和OA SQL注入漏洞   
-浅安  浅安安全   2025-02-27 00:03  
+浅安  浅安安全   2025-03-01 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -23,7 +23,7 @@ SQL注入
 获取敏感信息  
   
 **简述：**  
-金和OA协同办公管理系统C6软件的/C6/Jhsoft.Web.appraise/GeneralXmlhttpPage.aspx接口存在SQL注入漏洞，攻击者可以通过该漏洞执行任意SQL语句，从而获取数据库敏感信息。  
+金和OA协同办公管理系统C6软件的/C6/JHSoft.Web.IncentivePlan/IncentivePlanFulfillAppprove.aspx接口存在SQL注入漏洞，攻击者可以通过该漏洞执行任意SQL语句，从而获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 金和OA C6  
