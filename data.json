@@ -4521,5 +4521,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492715&idx=1&sn=d7bae998bce7c8a9f1c6db0d49b80710&chksm=96f7fb06a1807210413176f7d16cd222ef6f5822c05c0e4303601397e050deb411274caac59c&scene=58&subscene=0": "【已复现】Ollama 未授权访问漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499023&idx=3&sn=cb6f9513abf9c16bdd07066ec58c2663&chksm=fa5953e2cd2edaf4336314ee1697f11dc6c7f214afb025742eaba7cce78ab41a51bebc6328fe&scene=58&subscene=0": ".NET 逻辑绕过漏洞审计思路和挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664237597&idx=1&sn=ac246e2e2252c07dfd03b7757a6b724b&chksm=8b5808e4bc2f81f284ef78d907e70d3f48adc497dba6906b2288e18ca146658b3c86008bb446&scene=58&subscene=0": "专题·漏洞人才培养 | 以CTF学科竞赛为抓手的漏洞人才培养探索与实践",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NTEwMTMxMw==&mid=2247485692&idx=1&sn=4d9815de776a858efcd4aca02abca123": "【漏洞复现】可以白嫖别人的AI模型了？你的被白嫖了吗（Ollama）"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NTEwMTMxMw==&mid=2247485692&idx=1&sn=4d9815de776a858efcd4aca02abca123": "【漏洞复现】可以白嫖别人的AI模型了？你的被白嫖了吗（Ollama）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODY2MzMyMA==&mid=2247484544&idx=1&sn=2716c322ed455d4953daf0191a514256": "【6-2w$赏金】我的微软漏洞赏金 - 大结局",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTI0MDk5MQ==&mid=2247493462&idx=1&sn=18148cbb374422b1f16cd84f282338cf": "十几万个漏洞POC，直接梭哈",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247526517&idx=1&sn=1d00946ea3bf689b279f9318670cb530": "2024漏洞风险启示录：在攻防的螺旋中寻找「治愈」之道",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247484936&idx=1&sn=e11d6be021cee243d816d35d640e03d7": "《DOM型XSS漏洞之document.write触发》"
 }
