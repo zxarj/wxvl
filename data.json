@@ -4531,5 +4531,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492428&idx=1&sn=2ebcb311652d637fd46dfcc2daf80bff": "漏洞预警 | 金和OA SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492428&idx=2&sn=ee3dc0c2aea7c750168589599345d0b3": "漏洞预警 | Elber Wayber模拟数字音频密码重置漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492428&idx=3&sn=a054f58b95507991612d1c65d3524a5a": "漏洞预警 | 脸爱云一脸通智慧平台信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651131331&idx=1&sn=92f69ee2ad9b4a15f5e1e2fdc40821ff": "法国电信公司数据泄露，黑客利用PayPal发送钓鱼邮件 | 一周特辑"
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651131331&idx=1&sn=92f69ee2ad9b4a15f5e1e2fdc40821ff": "法国电信公司数据泄露，黑客利用PayPal发送钓鱼邮件 | 一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488106&idx=1&sn=60e1182848316c9eb674edd5fd5e221c": "Check Point Security Gateways 安全网关存在任意文件读取漏洞CVE-2024-24919 【老洞】",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651149259&idx=1&sn=25073b9cc9f17d9285b1f19d308595c5": "【工具】一个综合类型的AI大模型应用网站：Monica",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490056&idx=1&sn=821dd0c7466bfbe68f43b399f2df1c2a": "关于Ollama存在未授权访问漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247528181&idx=1&sn=fb54712d1d893db735ce00240a585d0e": "黑客正在利用数百个网站的“Krpano”VR库中的反射型XSS漏洞，注入恶意脚本来劫持谷歌的搜索索引并大规模分发垃圾广告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485852&idx=1&sn=c3fc83276d19ddfe2002d32b5259b653": "CVE-2025-25065｜Zimbra存在SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485852&idx=2&sn=36c8d60ef3214c4f6ef3be41d60eade7": "CVE-2025-26794｜Exim存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458590214&idx=2&sn=4d97d38157c7fb6f120215fc38895100": "更新第3章！系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495797&idx=1&sn=405ff36b426052ed5994f6793b38063c": "关于Ollama存在未授权访问漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTUwNzAyOA==&mid=2247484385&idx=1&sn=5e16fc3b3c6efcf460aa8e2383e92c03": "Caldera：CVE-2025–27364，你给个不能用的POC，把我们这些脚本小子都给气笑了",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg3NjE5MQ==&mid=2247485855&idx=1&sn=bf7c11f2b7878744e030858acc9bf7f5": "S2-005远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247491635&idx=1&sn=42f997786d8e018ee17b019358be714f": "审计分析 | 一套\"组合拳\"造成文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485583&idx=1&sn=1afa1bacbbb165749e7af11bc78c7b0a": "工具集：Java Chains【 Java 漏洞利用综合生成平台】",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247488237&idx=1&sn=3fa4065ac094b4b882d68ee860bba6cf": "针对Swagger接口泄露未授权访问的各种姿势"
 }
