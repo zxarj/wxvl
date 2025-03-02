@@ -4547,5 +4547,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247488237&idx=1&sn=3fa4065ac094b4b882d68ee860bba6cf": "针对Swagger接口泄露未授权访问的各种姿势",
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499572&idx=1&sn=e4824768075e17e8dfe1c4e27b79b484": "被动扫描的fastjson漏洞探测插件 -- FastjsonScan4Burp（2月28日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516181&idx=1&sn=1ec5998b9fa1bfc44a867f56d6c13d20": "漏洞挖掘小工具 -- SeeMore（3月1日更新）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492258&idx=1&sn=396c310a2a0c548856625c3ddaa03185": "黑客利用旧版 ThinkPHP 和 ownCloud 漏洞攻击量激增"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492258&idx=1&sn=396c310a2a0c548856625c3ddaa03185": "黑客利用旧版 ThinkPHP 和 ownCloud 漏洞攻击量激增",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458590214&idx=2&sn=4d97d38157c7fb6f120215fc38895100&chksm=b18c2c8c86fba59abc8115212f29cd95491601b0b928b94c97cfc69b365e7509001061c1a9b6&scene=58&subscene=0": "更新第3章！系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495797&idx=1&sn=405ff36b426052ed5994f6793b38063c&chksm=fd74c0bcca0349aa01515105ac52bece7179a4bf2df9578d84c8e1dec5cf48b729349935bf04&scene=58&subscene=0": "关于Ollama存在未授权访问漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484341&idx=1&sn=a46a82777c2e17a48608a61876ca6b8b": "应用安全不仅仅是漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247510936&idx=1&sn=900e317a8277593e850658cd395d3cc5": "Apache MINA CVE-2024-52046漏洞复现分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485213&idx=1&sn=c5693b5143b8fd0d9555d3dad848fbc9": "第106篇：深入分析自己曾经挖掘到的有趣的XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247488577&idx=1&sn=7d82d779f8e22d546884384515247021": "实战一次完整的博彩渗透测试"
 }
