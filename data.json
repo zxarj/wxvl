@@ -4570,5 +4570,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTQ4MzQ4Ng==&mid=2247484090&idx=1&sn=fe36dcaea5e05eb4bda4f16c36d89987": "Ollama未授权漏洞简单复现",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247519129&idx=1&sn=c73d3d9f20a15483db5d946e0a3522eb": "VxWorks设备分析与漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzUyMTA0MjQ4NA==&mid=2247551285&idx=1&sn=cc174b95a4ff4adedb6bb3743ac75d19": "EatPoc - 简单的POC捕获工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzI1ODUwNA==&mid=2247487898&idx=1&sn=3795064d3c0df13534d1a6bb57ab1d9a": "俄友秒变乌友，狂冲乌克兰制造直播间，这比直接捐钱更爆炸"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzI1ODUwNA==&mid=2247487898&idx=1&sn=3795064d3c0df13534d1a6bb57ab1d9a": "俄友秒变乌友，狂冲乌克兰制造直播间，这比直接捐钱更爆炸",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247484732&idx=1&sn=99212d42b82dbaff92aaf2d90b79588f": "(0day)漏洞预警 | 资产管理运营系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNTg1MDYxNA==&mid=2247489808&idx=1&sn=208350639cf3aef1842e49e6162a94a8": "vulnhub靶场之【digitalworld.local系列】的bravery靶机",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247485627&idx=1&sn=1d71cf04564480fc1f06240efce648c1": "工具集：F-vuln【集合了信息收集、漏洞扫描、暴力破解等功能的自动化工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499044&idx=1&sn=b28ca172001ac4635fa12424bf8cf07b": "ViewState再现漏洞：行业内又一款知名的 .NET 分析工具爆出反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=1&sn=d5276e882c0ab5fc5de5486e0b7953c7": "漏洞预警 | DocsGPT远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=2&sn=bdc617dc147d9923d545100a995157bd": "漏洞预警 | SeaCMS海洋影视管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492438&idx=3&sn=5c90f6d998b193e7b233bb72430988c0": "漏洞预警 | 竞优商业租赁管理系统信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDgzOTk2Mg==&mid=2247484748&idx=1&sn=55f9031ae4f50734505f69dd5b863111": "【漏洞复现】 Ollama未授权访问漏洞"
 }
