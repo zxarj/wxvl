@@ -1,21 +1,10 @@
-#  Pwn入门之格式化字符串漏洞   
- sec0nd安全   2025-01-11 13:06  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/DuibU3GqmxVmRsdItbBVRKegNHicHQvAHDdZsGpLVU7touSU1AU1twHTfRjG3Vu5aUh0RnPPllfVUhs4qdWF5QYQ/640?wx_fmt=png "")  
-  
-声明：Tide安全团队原创文章，转载请声明出处！文中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途给予盈利等目的，否则后果自行承担！  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/9zYJrD2VibHmqgf4y9Bqh9nDynW5fHvgbgkSGAfRboFPuCGjVoC3qMl6wlFucsx3Y3jt4gibQgZ6LxpoozE0Tdow/640?wx_fmt=png "")  
-  
-  
->   
-> 技术永无止境  
+#  PWN入门之格式化字符串漏洞   
+ 蚁景网络安全   2025-01-14 09:30  
   
 # 0x00 前言  
   
 一声晴空霹雳，鸽王再次更新（手动狗头保个命），Pwn入门系列终于迎来了他的第三次更新，好长时间没更新了，就不给大家说那些没用的了，直接上干货！  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib726g52Ujfy3anJgEnibf2NRjPE0OfoeIEaib2pM8k0NCWHGVwGO9JVRCBA/640?wx_fmt=png&from=appmsg "")  
 # 0x01 格式化字符串函数介绍  
   
 格式化字符串（Fromat String）：在编码过程中，允许编码人员通过特殊的占位符，将相关对应的信息整合或提取的规则字符串。格式化字符串包括格式化输入和格式化输出
@@ -35,8 +24,6 @@
 ## 程序崩溃  
   
 针对格式化字符串漏洞，使程序崩溃是最简单的利用方法，只需要输入一串%s即可  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib72VYLicThYDOiaTicAnfo0RaLauoBHVhrgcwYIjpic9SaGzCa1AjPsoCga4w/640?wx_fmt=png&from=appmsg "")  
 ```
 %s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
 
@@ -146,11 +133,7 @@ gcc -m32 -fno-stack-protector -no-pie -o format1 format1.c
   
 前面我们提到的两种泄露，都是泄露栈变量的值，没能完全控制我们所要泄露的变量的地址，这样的泄漏看起来比较唬人，但是实际上对我们实际利用没什么太大的作用。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib72zqrDic3lb6fENojT9XondThIwFEmIbxoQMdZfvPk0aHWnI0N53Y6cNg/640?wx_fmt=png&from=appmsg "")  
-  
-到这里可能就有师傅问了，既然毫无意义你前面扯那一堆又有何意义呢，稍安勿躁，正菜来了  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib72I2nhiaQ6ibLsNq8kCKVibicDUU4amrbQR9qnCfvtqeRibpXu7yLxcjVjB2Q/640?wx_fmt=png&from=appmsg "")  
+到这里可能就有师傅问了，既然毫无意义你前面扯那一堆又有何意义呢，稍安勿躁，正菜来了：  
   
 在大部分利用过程中，我们会想泄露某一个libc函数的got表内容，从而得到其地址，进而获取libc版本以及其他函数的地址，我们有了前面的铺垫用接下来的方法能够控制泄露某个指定地址的内存。  
   
@@ -259,8 +242,6 @@ print(hex(u32(sh.recv()[4:8])))
 ![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib72B2wteEGyefZiakcsyGPBsq1nZiaqnPbiadmiaWbvzAr8QuX4WEibfZKJlLQ/640?wx_fmt=png&from=appmsg "")  
   
 前面我们提到了通过格式化字符串漏洞来泄露栈内存以及任意地址内存，单纯泄露栈内存好像不太能满足我们，那就让我们来覆盖内存吧！  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/rTicZ9Hibb6RVk9wp1dweolbZHwBlpQib72eJ5FLSlQH2jicHMBSziamrabPOJzyRHZkZmoIGC8ZIAzgDbalEkfHkvQ/640?wx_fmt=png&from=appmsg "")  
   
 我们使用如下程序来完成我们的讲解  
 ```
@@ -470,8 +451,8 @@ def fmt_str(offset, size, addr, target):
 ```
 offset 表示要覆盖的地址最初的偏移
 size 表示机器字长
-addr 表示将要覆盖的地址。
-target 表示我们要覆盖为的目的变量值。
+addr 表示将要覆盖的地址。
+target 表示我们要覆盖为的目的变量值。
 
 ```  
   
@@ -534,59 +515,13 @@ sh.interactive()
   
   
   
-  
-往期推荐  
-  
-[TscanPlus-一款红队自动化工具](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247516589&idx=1&sn=107da3b45e88255f240504d033ebde7f&chksm=ce5da3ccf92a2adab0511bd798570d967cd4b0b7d7528f2f17163f5ed77e4dd7a02ac17c39d7&scene=21#wechat_redirect)  
+[](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247549615&idx=1&sn=5de0fec4a85adc4c45c6864eec2c5c56&scene=21#wechat_redirect)  
   
   
-[潮影在线免杀平台上线了](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247499902&idx=1&sn=59cba8d980b4ecb0deefff99edaabd4d&chksm=ce5de21ff92a6b09a8972a0144557b0099e443aa8e018b17151c816fc7f08f3615ecb22617fc&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_gif/7QRTvkK2qC6iavic0tIJIoZCwKvUYnFFiaibgSm6mrFp1ZjAg4ITRicicuLN88YodIuqtF4DcUs9sruBa0bFLtX59lQQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
-  
-[自动化渗透测试工具开发实践](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247498466&idx=1&sn=085c15679436dedb06a179ca8d47951a&chksm=ce5dd883f92a5195ef74ac517741f6d3da0da40b5501d72016e52cb70344904bb85b8aef65ba&scene=21#wechat_redirect)  
-  
-  
-[【红蓝对抗】利用CS进行内网横向](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247492640&idx=1&sn=43b1991dc5628eab322923083fde8d70&chksm=ce5dc641f92a4f57ffb18e2977644b1f977fcc5e0eccdf10956d3ae4ce70dc95024500631e89&scene=21#wechat_redirect)  
-  
-  
-[一个Go版(更强大)的TideFinger](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247498344&idx=1&sn=3679330363ff6890166b09f6a502f769&chksm=ce5dd809f92a511f6066fcbb12fb5c1dc8c2642e4e2690dad64d76cc6f9247eae356d16f5810&scene=21#wechat_redirect)  
-  
-  
-[SRC资产导航监测平台Tsrc上线了](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247499823&idx=1&sn=065ffeae6bd02fff922cfb12c5a0f4df&chksm=ce5de24ef92a6b58f709260b691e6b36e4a53aac00d3022946302b8e638696ed55c70e13e16f&scene=21#wechat_redirect)  
-  
-  
-[新潮信息-Tide安全团队2022年度总结](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247506056&idx=1&sn=ad6dd23f58f5fd8ce899a1e292f5b685&chksm=ce5dfae9f92a73ff4f14c812436cb5bfecb29db04eada11c409e946d5338c82a92bcaa425736&scene=21#wechat_redirect)  
-  
-  
-[记一次实战攻防(打点-Edr-内网-横向-Vcenter)](http://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247498965&idx=1&sn=655548831da6808a020ad07294a92e60&chksm=ce5ddeb4f92a57a283d5692c246e54655319ab0d09f6403e354300a2777cda6ae4c787631ab3&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/rTicZ9Hibb6RWbGNtVfIZbm2rmGO4hQDzQUrLN62vEGlA4fPmib5utUAp9gbQicb6FC82RjsVI5vx7wEc9yAAiaFEoQ/640?wx_fmt=gif "")  
-  
-E  
-  
-  
-  
-  
-N  
-  
-  
-  
-  
-D  
-  
-  
-  
-**Tide团队产品及服务**  
-  
-**团队自研平台**：潮汐在线指纹识别平台 | 潮听漏洞情报平台 | 潮巡资产管理与威胁监测平台 | 潮汐网络空间资产测绘 | 潮声漏洞检测平台 | 在线免杀平台 | CTF练习平台 | 物联网固件检测平台 | SRC资产监控平台  | ......  
-  
-  
-**技术分享方向**:Web安全 | 红蓝对抗 | 移动安全 | 应急响应 | 工控安全 | 物联网安全 | 密码学 | 人工智能 | ctf 等方面的沟通及分享  
-  
-  
-**团队知识wiki**：红蓝对抗 | 漏洞武器库 | 远控免杀 | 移动安全 | 物联网安全 | 代码审计 | CTF | 工控安全 | 应急响应 | 人工智能 | 密码学 | CobaltStrike | 安全测试用例 | ......  
-  
-  
-**团队网盘资料**：安全法律法规 | 安全认证资料 | 代码审计 | 渗透安全工具 | 工控安全工具 | 移动安全工具 | 物联网安全 | 其它安全文库合辑  | ......  
+学习  
+网安实战课程  
+，戳  
+“阅读原文”  
   

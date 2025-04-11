@@ -36,9 +36,9 @@ def get_executable_path():
     '''获取可执行文件路径'''
     system = platform.system()
     if system == 'Windows':
-        executable_path = './bin/wechatmp2markdown-v1.1.9_win64.exe'
+        executable_path = './bin/wechatmp2markdown-v1.1.11_win64.exe'
     else:
-        executable_path = './bin/wechatmp2markdown-v1.1.9_linux_amd64'
+        executable_path = './bin/wechatmp2markdown-v1.1.11_linux_amd64'
     # 添加执行权限
     os.chmod(executable_path, 0o755)
     # 返回可执行文件的完整路径
