@@ -146,8 +146,11 @@ def main():
     data_file = 'data.json'
     data = {}
     executable_path = get_executable_path()
-    result_path = 'doc'
-    os.makedirs(result_path,exist_ok=True)
+    base_result_path = 'doc'
+    # 创建基于当前年月的子目录 (格式: YYYY-MM)
+    current_month = datetime.datetime.now().strftime("%Y-%m")
+    result_path = os.path.join(base_result_path, current_month)
+    os.makedirs(result_path, exist_ok=True)
     # 读取历史记录
     data = read_json(data_file, default_data=data)
     if len(sys.argv) == 2:
