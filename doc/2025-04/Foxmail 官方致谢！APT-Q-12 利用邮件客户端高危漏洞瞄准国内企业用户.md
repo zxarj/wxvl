@@ -1,5 +1,5 @@
 #  Foxmail 官方致谢！APT-Q-12 利用邮件客户端高危漏洞瞄准国内企业用户   
-原创 红雨滴团队  奇安信威胁情报中心   2025-04-10 09:27  
+红雨滴团队  奇安信集团   2025-04-11 08:42  
   
 概述  
   
@@ -46,13 +46,4 @@ IOC
 参考链接  
   
 [1].https://ti.qianxin.com/blog/articles/operation-deviltiger-0day-vulnerability-techniques-and-tactics-used-by-apt-q-12-disclosed-cn/  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/2AqAgxkehic8Ekar0NsicibX5CNaSWtiaMUp0a47sxf0tgI7fMUu8EkxCvkBamHdVhn83PVQXhtHAfIguLttRGnQ6A/640?wx_fmt=gif&from=appmsg "")  
-  
-点击  
-阅读原文  
-至**ALPHA 7.0**  
-  
-即刻助力威胁研判  
-  
   
