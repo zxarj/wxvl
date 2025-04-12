@@ -5257,5 +5257,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498528&idx=1&sn=91134b170a08058f6d2d26fbb6dd082f": "参数** _session_name= RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492841&idx=1&sn=651ce330b0e4ca0456383fb70b989319": "漏洞预警 | Kavita路径遍历漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492841&idx=2&sn=b4790ecbb5fe40780165e7a41d0926b8": "漏洞预警 | 畅捷通T+ SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492841&idx=3&sn=effe50b8ba0886a68abc721bfdee3944": "漏洞预警 | 神州数码DCME-320出口网关任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492841&idx=3&sn=effe50b8ba0886a68abc721bfdee3944": "漏洞预警 | 神州数码DCME-320出口网关任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247485165&idx=1&sn=6bf8e2894f9573d36bfc7203606b2150": "【漏洞复现】Next.js中间件权限绕过漏洞 CVE-2025-29927",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=3&sn=b2c1459405fd108b2d8796be35f685ea": "【安全圈】微软4月安全更新：修复125个漏洞，12个存在高利用风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318420&idx=4&sn=406df082a4a4770f0bef21dff25a3ee5": "Linux USB音频驱动漏洞正被恶意USB设备在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247488985&idx=3&sn=af1065e3e418f7750b6d75c25fd9eded": "CrushFTP新安全漏洞：未授权访问和CVE-2025-31161",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655274391&idx=1&sn=62c2d63989bba70217719e7677da48c7": "HVV蓝队面试题汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjE2NTM5Mg==&mid=2247485557&idx=1&sn=7d53e25aa71f65d1af21f8347a2c8d41": "XSS漏洞挖掘下",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491109&idx=1&sn=b60205c1c49c7d9ea4e2e6393cd0250d": "NAVIDROME 权限绕过漏洞(CVE-2025-27112)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491100&idx=1&sn=e1c7d7ebeb28e092fbcbe727bc69c56e": "Langflow 远程命令执行漏洞(CVE-2025-3248)"
 }
