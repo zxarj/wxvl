@@ -5267,5 +5267,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491109&idx=1&sn=b60205c1c49c7d9ea4e2e6393cd0250d": "NAVIDROME 权限绕过漏洞(CVE-2025-27112)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491100&idx=1&sn=e1c7d7ebeb28e092fbcbe727bc69c56e": "Langflow 远程命令执行漏洞(CVE-2025-3248)",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488354&idx=1&sn=e4e589ed2f4cfddcf07f04359155915e": "Langflow code接口存在远程代码执行漏洞CVE-2025-3248 附POC",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484396&idx=1&sn=2873a95da7a1ad77080e1e5c4b179fe7": "MCP 赋能安全工具的无缝集成"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484396&idx=1&sn=2873a95da7a1ad77080e1e5c4b179fe7": "MCP 赋能安全工具的无缝集成",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483951&idx=1&sn=a2682aafbaf36a8d13f230de07e070e2": "GeoServer-Tools-CVE-2024-36401内存马利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483941&idx=1&sn=800f2091e3d20945c642bb27c098819e": "nextjs中间件权限绕过漏洞（CVE-2025-29927）"
 }
