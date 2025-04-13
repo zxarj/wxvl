@@ -5269,5 +5269,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488354&idx=1&sn=e4e589ed2f4cfddcf07f04359155915e": "Langflow code接口存在远程代码执行漏洞CVE-2025-3248 附POC",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484396&idx=1&sn=2873a95da7a1ad77080e1e5c4b179fe7": "MCP 赋能安全工具的无缝集成",
     "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483951&idx=1&sn=a2682aafbaf36a8d13f230de07e070e2": "GeoServer-Tools-CVE-2024-36401内存马利用工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483941&idx=1&sn=800f2091e3d20945c642bb27c098819e": "nextjs中间件权限绕过漏洞（CVE-2025-29927）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483941&idx=1&sn=800f2091e3d20945c642bb27c098819e": "nextjs中间件权限绕过漏洞（CVE-2025-29927）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488365&idx=1&sn=314c21aa414c89fadd60ee05820047c6": "Vite import存在任意文件读取漏洞CVE-2025-31125 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511690&idx=1&sn=6d60fe31b68f04bb55ead2d1e4d7aa70": "警惕！NVIDIA Triton推理服务器整数溢出漏洞曝光：原理、复现与修复全解析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484280&idx=1&sn=b7a40149f0c6ee185ce0c95c9d52ffe3": "实战|SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712178&idx=1&sn=25e55840517fe21298f753ffaab47fc7": "heapdump未经授权漏洞利用"
 }
