@@ -5273,5 +5273,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488365&idx=1&sn=314c21aa414c89fadd60ee05820047c6": "Vite import存在任意文件读取漏洞CVE-2025-31125 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511690&idx=1&sn=6d60fe31b68f04bb55ead2d1e4d7aa70": "警惕！NVIDIA Triton推理服务器整数溢出漏洞曝光：原理、复现与修复全解析",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484280&idx=1&sn=b7a40149f0c6ee185ce0c95c9d52ffe3": "实战|SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712178&idx=1&sn=25e55840517fe21298f753ffaab47fc7": "heapdump未经授权漏洞利用"
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712178&idx=1&sn=25e55840517fe21298f753ffaab47fc7": "heapdump未经授权漏洞利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=3&sn=b2c1459405fd108b2d8796be35f685ea&subscene=0": "【安全圈】微软4月安全更新：修复125个漏洞，12个存在高利用风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514163&idx=2&sn=833919f6929df766601724c5b9e4477d&subscene=0": "CNCERT：关于Foxmail邮件客户端存在跨站脚本攻击漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511689&idx=1&sn=b520b9a89b0e0dc7e5f319ee3e50dc9f&subscene=0": "固件安全的隐忧：UEFI漏洞的持续威胁与修复之路"
 }
