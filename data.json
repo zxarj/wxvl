@@ -5291,5 +5291,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247483889&idx=1&sn=8d4a9aa5fddab0aae717cdb3bb4727c6": "价值 $25,000 的hackerone 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491127&idx=1&sn=23169aa6102935e5aedefeeed1a167d6": "elestio memos SSRF漏洞 (CVE-2025-22952)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491118&idx=1&sn=73f107c1456e7a1b833ab075bb86432d": "Vite 任意文件读取漏洞 (CVE-2025-32395)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484833&idx=1&sn=2f76e4a9ca94746f37a50b9055fa9d19": "当心！新型钓鱼攻击正绕过你的双重验证"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484833&idx=1&sn=2f76e4a9ca94746f37a50b9055fa9d19": "当心！新型钓鱼攻击正绕过你的双重验证",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484915&idx=2&sn=bd3b1bb5bb259d840a67c27b64a8af41": "CVE-2025-24813：Apache Tomcat 漏洞POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494035&idx=1&sn=9199ea3207a45dfee0cd53c3984a6f8d": "一个自动化PWN利用框架，专为CTF比赛和二进制漏洞利用设计，集成了栈溢出、格式化字符串等多种漏洞利用技术"
 }
