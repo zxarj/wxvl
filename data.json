@@ -5276,5 +5276,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712178&idx=1&sn=25e55840517fe21298f753ffaab47fc7": "heapdump未经授权漏洞利用",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=3&sn=b2c1459405fd108b2d8796be35f685ea&subscene=0": "【安全圈】微软4月安全更新：修复125个漏洞，12个存在高利用风险",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514163&idx=2&sn=833919f6929df766601724c5b9e4477d&subscene=0": "CNCERT：关于Foxmail邮件客户端存在跨站脚本攻击漏洞的安全公告",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511689&idx=1&sn=b520b9a89b0e0dc7e5f319ee3e50dc9f&subscene=0": "固件安全的隐忧：UEFI漏洞的持续威胁与修复之路"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511689&idx=1&sn=b520b9a89b0e0dc7e5f319ee3e50dc9f&subscene=0": "固件安全的隐忧：UEFI漏洞的持续威胁与修复之路",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247485186&idx=1&sn=d60c71d512d754e0c55d1747a7c9c042": "【漏洞复现】Vite 任意文件读取系列漏洞(附POC)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484853&idx=1&sn=bfee0d86e2a2f245553fd532d8791486": "Zyxel-NBG2105-身份验证绕过-CVE-2021-3297",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484853&idx=2&sn=40e5e9afccda310296c445df31f9cff7": "Zyxel-NBG2105-身份验证绕过（CVE-2021-3297）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610203&idx=3&sn=4fde380e2a27458adacf0317df2124ce": "浅谈AI部署场景下的web漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260890&idx=1&sn=f46073f31278972785b097461b3b66bb": "从CVE-2025-30208看任意文件读取利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488005&idx=1&sn=6643771366172d0252db5ac06ea90045": "CVE-2021-31956 Windows 内核漏洞（NTFS 与 WNF）利用 —— 第一部分",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247484994&idx=1&sn=1cb5bfec74a800ad6e63d0ef4b4a99d6": "3月成绩出炉，这届白帽子太卷了！地图大师新手SRC漏洞课程3月学员成绩报喜！！",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498590&idx=1&sn=fc1e93c95932737caa9cab07855c7a1b": "CVE-2025-22457"
 }
