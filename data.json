@@ -5293,5 +5293,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491118&idx=1&sn=73f107c1456e7a1b833ab075bb86432d": "Vite 任意文件读取漏洞 (CVE-2025-32395)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484833&idx=1&sn=2f76e4a9ca94746f37a50b9055fa9d19": "当心！新型钓鱼攻击正绕过你的双重验证",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484915&idx=2&sn=bd3b1bb5bb259d840a67c27b64a8af41": "CVE-2025-24813：Apache Tomcat 漏洞POC",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494035&idx=1&sn=9199ea3207a45dfee0cd53c3984a6f8d": "一个自动化PWN利用框架，专为CTF比赛和二进制漏洞利用设计，集成了栈溢出、格式化字符串等多种漏洞利用技术"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494035&idx=1&sn=9199ea3207a45dfee0cd53c3984a6f8d": "一个自动化PWN利用框架，专为CTF比赛和二进制漏洞利用设计，集成了栈溢出、格式化字符串等多种漏洞利用技术",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520068&idx=1&sn=e17599d10b5470a5e1aa10131271d8e7": "从CVE-2025-30208到CVE-2025-31125再到CVE-2025-31486",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494408&idx=1&sn=eca1f790f3ef8cae120729ed27563c09": "工具推荐 | OSS存储桶遍历漏洞自动化利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490912&idx=1&sn=2c4cd750457017b6bf8776cae3c45bbe": "通过HOST碰撞发现更多资产和漏洞|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492583&idx=1&sn=8d29765a3bb3ec8506a8401886f45887": "EncryptHub 与 Windows 系统上的 MMC 零日漏洞攻击有关",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247486788&idx=1&sn=913b6fb09deb3d46c4c786dfc645458d": "黑客如何用一张图片掏空你的服务器？揭秘SSRF漏洞的致命陷阱",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484863&idx=1&sn=ae907d6c690893e6e09dc0c609caf6ca": "Zyxel-USG-Series-账户硬编码漏洞（CVE-2020-29583）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484863&idx=2&sn=cf7f7e0a555f5c38dd960531d352bd63": "Zyxel-硬编码后门账户漏洞-CVE-2020-29583"
 }
