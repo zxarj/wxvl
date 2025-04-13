@@ -5284,5 +5284,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260890&idx=1&sn=f46073f31278972785b097461b3b66bb": "从CVE-2025-30208看任意文件读取利用",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488005&idx=1&sn=6643771366172d0252db5ac06ea90045": "CVE-2021-31956 Windows 内核漏洞（NTFS 与 WNF）利用 —— 第一部分",
     "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247484994&idx=1&sn=1cb5bfec74a800ad6e63d0ef4b4a99d6": "3月成绩出炉，这届白帽子太卷了！地图大师新手SRC漏洞课程3月学员成绩报喜！！",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498590&idx=1&sn=fc1e93c95932737caa9cab07855c7a1b": "CVE-2025-22457"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498590&idx=1&sn=fc1e93c95932737caa9cab07855c7a1b": "CVE-2025-22457",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzQ4MzA4Ng==&mid=2247485569&idx=2&sn=bae8c0344767b0fd34f062816de56c31": "H3C多系列路由器存在任意用户登录漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069060&idx=3&sn=30e98f80aea19e6a87a4765e728b6602": "【安全圈】WordPress插件漏洞导致网站遭受关键文件包含攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069060&idx=4&sn=8f7ac8e308536849b9fc926f55d5b341": "【安全圈】TP-Link 漏洞：Wi-Fi 凭据面临泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247483889&idx=1&sn=8d4a9aa5fddab0aae717cdb3bb4727c6": "价值 $25,000 的hackerone 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491127&idx=1&sn=23169aa6102935e5aedefeeed1a167d6": "elestio memos SSRF漏洞 (CVE-2025-22952)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491118&idx=1&sn=73f107c1456e7a1b833ab075bb86432d": "Vite 任意文件读取漏洞 (CVE-2025-32395)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484833&idx=1&sn=2f76e4a9ca94746f37a50b9055fa9d19": "当心！新型钓鱼攻击正绕过你的双重验证"
 }
