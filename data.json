@@ -5300,5 +5300,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492583&idx=1&sn=8d29765a3bb3ec8506a8401886f45887": "EncryptHub 与 Windows 系统上的 MMC 零日漏洞攻击有关",
     "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247486788&idx=1&sn=913b6fb09deb3d46c4c786dfc645458d": "黑客如何用一张图片掏空你的服务器？揭秘SSRF漏洞的致命陷阱",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484863&idx=1&sn=ae907d6c690893e6e09dc0c609caf6ca": "Zyxel-USG-Series-账户硬编码漏洞（CVE-2020-29583）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484863&idx=2&sn=cf7f7e0a555f5c38dd960531d352bd63": "Zyxel-硬编码后门账户漏洞-CVE-2020-29583"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484863&idx=2&sn=cf7f7e0a555f5c38dd960531d352bd63": "Zyxel-硬编码后门账户漏洞-CVE-2020-29583",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069060&idx=3&sn=30e98f80aea19e6a87a4765e728b6602&subscene=0": "【安全圈】WordPress插件漏洞导致网站遭受关键文件包含攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069060&idx=4&sn=8f7ac8e308536849b9fc926f55d5b341&subscene=0": "【安全圈】TP-Link 漏洞：Wi-Fi 凭据面临泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511690&idx=1&sn=6d60fe31b68f04bb55ead2d1e4d7aa70&subscene=0": "警惕！NVIDIA Triton推理服务器整数溢出漏洞曝光：原理、复现与修复全解析",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247491573&idx=1&sn=e64d595da71a593b827cb8f9df1400f8": "针对漏洞安全研究人员的钓鱼攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NTUxODA0OA==&mid=2247493382&idx=1&sn=92628136ce7b70ecea181580346cb279": "Wireshark & Packetdrill | TCP Cork 算法续"
 }
