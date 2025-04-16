@@ -12750,5 +12750,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489955&idx=1&sn=666cbafe9333001db4200c1df62fb939": "【漏洞预警】Argo Events权限管理不当漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524287&idx=1&sn=484cbe1d38a7bf4fca44fa91b0807798": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484779&idx=1&sn=e17604d10382682ebc5fa5a314c4ab15": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第15期，总第33期]",
-    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491200&idx=1&sn=69ead0eed0446e993d381d454a24a724": "网站安全\"扫描利器\"：掌握Gobuster，一键发现隐藏漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491200&idx=1&sn=69ead0eed0446e993d381d454a24a724": "网站安全\"扫描利器\"：掌握Gobuster，一键发现隐藏漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503137&idx=1&sn=6d689f441d4a43584fdf2cc7f052c3fc": "【成功复现】Ingress NGINX Controller远程代码执行漏洞(CVE-2025-1974)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485037&idx=1&sn=ba29027e943fadc9c1b1e07b8168d04b": "啥情况？！想让CVE董事会成员意识到一个重要的潜在问题？！震惊全球最大漏洞库出现危机？！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115249&idx=1&sn=35e8d7b146e8632ec58079bf918cee61": "以后是不是0day更多了？由于美国资金不确定性CVE项目面临中断",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484695&idx=1&sn=d143eca68da60a0f23f8dd92fde3710d": "Nashorn：潜伏在Java中的JavaScript命令执行后门",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490961&idx=1&sn=370b326cd8809c431d7a1e1e29ae2d1a": "综合后渗透工具e0e1-config|漏洞探测"
 }
