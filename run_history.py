@@ -2,11 +2,8 @@ import os
 import re
 import sys
 import json
-import html
 import platform
 import tempfile
-import time
-import requests
 import shutil
 import subprocess
 import datetime
@@ -56,48 +53,33 @@ def get_md_path(executable_path,url):
                 file_path = os.path.join(root, file)
                 yield file_path
 
-def get_BruceFeIix_url():
-    '''获取多日url'''
+def get_chainreactors_url():
+    '''获取多日url，返回URL和对应日期的元组列表'''
     # 定义日期范围
-    start_date = "2025-03-04"
-    end_date = "2025-04-10"
+    start_date = "2022-04-07"
+    end_date = "2025-04-16"
     
     # 转换为datetime对象
     start = datetime.datetime.strptime(start_date, "%Y-%m-%d")
     end = datetime.datetime.strptime(end_date, "%Y-%m-%d")
     
-    all_urls = []
+    url_date_pairs = []
     
     # 遍历每一天
     current_date = start
     while current_date <= end:
         date_str = current_date.strftime("%Y-%m-%d")
-        base_url = f'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/{date_str[:4]}/{date_str}.md'
-        
-        headers = {
-        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
-        'cache-control': 'no-cache',
-        'pragma': 'no-cache',
-        'priority': 'u=0, i',
-        'referer': 'https://github.com/BruceFeIix/picker',
-        'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"Windows"',
-        'sec-fetch-dest': 'document',
-        'sec-fetch-mode': 'navigate',
-        'sec-fetch-site': 'cross-site',
-        'sec-fetch-user': '?1',
-        'upgrade-insecure-requests': '1',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0',
-    }
+        # 本地文件路径
+        local_path = os.path.join('archive', 'daily', date_str[:4], f"{date_str}.md")
         
         try:
-            response = requests.get(base_url, headers=headers)
-            if response.status_code == 200:
-                urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD|POC|EXP|0day|1day|nday).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)', response.text, re.I)
+            if os.path.exists(local_path):
+                with open(local_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)', content, re.I)
                 urls = [url.rstrip(')') for url in urls]
-                all_urls.extend(urls)
+                # 存储URL和对应的日期
+                url_date_pairs.extend([(url, date_str) for url in urls])
                 print(f"成功获取 {date_str} 的文章URL: {len(urls)}条")
             else:
                 print(f"{date_str} 无文章或文件不存在")
@@ -106,55 +88,16 @@ def get_BruceFeIix_url():
         
         # 移动到下一天
         current_date += datetime.timedelta(days=1)
-        # 添加延迟避免请求过快
-        time.sleep(10)
     
-    # 去重后返回
-    return list(set(all_urls))
+    # 去重，保留每个URL第一次出现的日期
+    seen = set()
+    unique_pairs = []
+    for url, date in url_date_pairs:
+        if url not in seen:
+            seen.add(url)
+            unique_pairs.append((url, date))
+    return unique_pairs
 
-
-def get_doonsec_url():
-    cookies = {
-        'UM_follow': 'True',
-        'UM_distinctids': 'fgmr',
-        'session': 'eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzU2ZDE4OTcwZjliZDljY2NjN2M3YzlkMzRhOGVlZWQyZDk1NmI1ZSIsInZpc3RvciI6ImZHTXJGQXBlVndRUnZrWjJHdWplV2gifQ.ZzidRw.GyjS15N12JYU0TByO31rrwBIiPY',
-    }
-
-    headers = {
-        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
-        'cache-control': 'no-cache',
-        # 'cookie': 'UM_follow=True; UM_distinctids=fgmr; session=eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzU2ZDE4OTcwZjliZDljY2NjN2M3YzlkMzRhOGVlZWQyZDk1NmI1ZSIsInZpc3RvciI6ImZHTXJGQXBlVndRUnZrWjJHdWplV2gifQ.ZzidRw.GyjS15N12JYU0TByO31rrwBIiPY',
-        'pragma': 'no-cache',
-        'priority': 'u=0, i',
-        'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"Windows"',
-        'sec-fetch-dest': 'document',
-        'sec-fetch-mode': 'navigate',
-        'sec-fetch-site': 'same-origin',
-        'sec-fetch-user': '?1',
-        'upgrade-insecure-requests': '1',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0',
-    }
-    try:
-        response = requests.get('https://wechat.doonsec.com/rss.xml', cookies=cookies, headers=headers)
-        response.encoding = response.apparent_encoding
-        decoded_string = html.unescape(response.text)
-        urls = re.findall('<title>.*?(?:复现|漏洞|CVE-\d+|CNVD|POC|EXP|0day|1day|nday).*?</title><link>(https://mp.weixin.qq.com/.*?)</link>',decoded_string,re.I)
-        urls = [url.rstrip(')') for url in urls]
-        return urls
-    except:
-        return []
-
-def get_issue_url():
-    file = '/tmp/issue_content.txt'
-    if os.path.exists(file):
-        content = open(file,'r',encoding='utf8').read()
-        urls = re.findall('(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',content,re.I)
-        urls = [url.rstrip(')') for url in urls]
-        return urls
-    return []
     
 def rep_filename(result_path):
     ''' 
@@ -172,26 +115,39 @@ def main():
     data_file = 'data.json'
     data = {}
     executable_path = get_executable_path()
-    result_path = 'doc'
-    os.makedirs(result_path,exist_ok=True)
+    base_result_path = 'doc'
+    os.makedirs(base_result_path, exist_ok=True)
+    
     # 读取历史记录
     data = read_json(data_file, default_data=data)
+    
     if len(sys.argv) == 2:
         if sys.argv[1] == 'history':
-            urls = get_BruceFeIix_url() + get_doonsec_url()
-        else:
-            urls = get_issue_url()
-        for url in urls:
-            if url in data:
-                continue
-            for file_path in get_md_path(executable_path, url):
-                name = os.path.splitext(os.path.basename(file_path))[0]
-                if name == '.md':
+            # 获取URL和日期对
+            url_date_pairs = get_chainreactors_url()
+            
+            for url, date_str in url_date_pairs:
+                if url in data:
                     continue
-                shutil.copy2(file_path,result_path)
-                data[url] = name
-                write_json(data_file,data)
-                print(name,end='、')
-    rep_filename(result_path)
+                
+                # 创建按月份分类的目录 (yyyy-mm)
+                year_month = date_str[:7]  # 提取年月部分
+                month_dir = os.path.join(base_result_path, year_month)
+                os.makedirs(month_dir, exist_ok=True)
+                
+                for file_path in get_md_path(executable_path, url):
+                    name = os.path.splitext(os.path.basename(file_path))[0]
+                    if name == '.md':
+                        continue
+                    
+                    # 移动文件到对应月份目录
+                    shutil.copy2(file_path, month_dir)
+                    data[url] = name  # 保持JSON数据结构不变
+                    write_json(data_file, data)
+                    print(f"{name} (保存到 {year_month})", end='、')
+    
+    # 处理文件名中的非法字符（递归处理所有子目录）
+    rep_filename(base_result_path)
+
 if __name__ == '__main__':
     main()

