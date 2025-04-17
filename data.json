@@ -12783,5 +12783,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484852&idx=1&sn=1f9546ac368fdd099bcc61f256b45467&subscene=0": "【复现】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDE5OTQyNQ==&mid=2247488497&idx=1&sn=1bcaf000a8f3cdd9b219d99594204eee": "渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案)",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462767&idx=1&sn=9836a1530e7a136b6b846d94dd13df1b": "CNNVD关于Oracle多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524287&idx=1&sn=484cbe1d38a7bf4fca44fa91b0807798&subscene=0": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524287&idx=1&sn=484cbe1d38a7bf4fca44fa91b0807798&subscene=0": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=4&sn=f8ff16a30c493f6d4635bc6644329de7": "【漏洞通告】D-Link DI-8100 JHTTPD 基于堆叠的溢出(CVE-2025-3538)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491165&idx=1&sn=d57b085af7d7378ba55e6eba7e8e2799": "速达软件 多款产品 doSavePrintTpl.action SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=2&sn=6ca139f3e362f10d30dad9af90adce4f": "【漏洞通告】Adianti Framework 安全漏洞(CVE-2025-3590)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=3&sn=053b8e4f597e4e325d106e9df51f3dde": "【漏洞通告】AutoGPT 代码问题漏洞(CVE-2025-31490)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484726&idx=1&sn=c62157f37833ed50540775908f93e406": "Java命令执行审计怎么查？关键词清单来了！（附类型汇总）",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247490950&idx=1&sn=a91633c936b48e68f2e18db9f0348d01": "创宇安全智脑 | Optilink upgrade.php 远程命令执行等61个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503328&idx=1&sn=5b2547c083206cfdcc72084fb45a3894": "【已发现在野利用】Apple iOS 与 iPadOS 多个在野高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247502921&idx=1&sn=88f56da5057f4d6e1686895b4223b08b": "CVE要黄？特朗普认为漏洞数据库与国家安全无关",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499443&idx=2&sn=a6be39e7d6dadaadd087bfe05fb9a29a&subscene=0": ".NET 高级代码审计：一种绕过 GZip 叠加 BinaryFormatter 实现反序列化漏洞的技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538513&idx=1&sn=2f03dab7cbc7139e09be0d33a4ddefde": "CVE 漏洞项目及时\"续命\",11个月后生死难料",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247498861&idx=1&sn=04cd3572c613fdf4a9515777d4e5d3bd": "【漏洞与预防】畅捷通文件上传漏洞预防",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493320&idx=1&sn=d492128df6d30d2fadcfe488391b3706": "漏洞CVE项目合同今天到期,最后时刻续上,欧盟差点截胡",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664240728&idx=1&sn=2f8f1a14345e6ab93b60b861879d1f7d": "CNNVD | 关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=1&sn=1c5a2efc23e829988cfc99335e68f0ad": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=5&sn=1bc50d3cf6d8af81f6d22833e88d4897": "【漏洞通告】基于 Chromium 的 Microsoft Edge 远程执行代码漏洞(CVE-2025-29834)"
 }
