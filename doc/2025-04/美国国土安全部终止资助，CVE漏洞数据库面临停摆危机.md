@@ -1,12 +1,5 @@
 #  美国国土安全部终止资助，CVE漏洞数据库面临停摆危机   
- FreeBuf   2025-04-16 07:23  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icsRjQ1n84ibTh5iaPiaOFVqNcM4jbx8uibB8I2JNoiaFy845GB27QlZDZFQc53ZicRBQcFPsEqYKacZbmg/640?wx_fmt=png&from=appmsg "")  
-  
-  
+ 乌雲安全   2025-04-17 00:30  
   
 美国非营利研发组织MITRE宣布，其与美国国土安全部（DHS）签订的"通用漏洞披露（CVE）"数据库维护合同将于2025年4月16日午夜到期。这个运行25年的项目作为网络安全防御体系的核心支柱，因DHS未说明具体原因拒绝续约而面临终止。  
   
@@ -68,39 +61,8 @@ MITRE的CVE项目是全球网络安全生态的基础支柱，已成为识别漏
   
 CISA发言人表示："作为CVE项目主要资助方，我们正紧急采取措施减轻影响，维护全球依赖的CVE服务。"该程序被政府和产业界共同用于披露、分类和共享可能危及国家关键基础设施的技术漏洞信息。  
   
+扫码加入免费的网安攻防知识库  
   
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/bMyibjv83iavxcbRicWicY450N0UXeQ3iaOvksRG6Ry3EkJuHicBzvmc8ibic4XEFhFJYRib27icoVTE8NY3zTs2uSZ8icBUQ/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR39ibFdyjP3Qp8CEJxFWljbW1y91mvSZuxibf3Q3g2rJ32FNzoYfx4yaBmWbfwcRaNicuMo3AxIck2bCw/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651317804&idx=2&sn=3d017ae8749aa67775bcd2302b38931b&scene=21#wechat_redirect)  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651317737&idx=1&sn=99fed7dcc16d21127eb031fd187b35f5&scene=21#wechat_redirect)  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651316669&idx=1&sn=5ab3662670a61b2547721688803a0ec1&scene=21#wechat_redirect)  
-  
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39ibFdyjP3Qp8CEJxFWljbW1uEIoRxNoqa17tBBrodHPbOERbZXdjFvNZC5uz0HtCfKbKx3o3XarGQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icFibibPIGEfXsibI0C3or4BS5KDnCKUfVLVQGsc9BiaQTUsrwzfcianumzeLVcmibOmm2FzUqef2V6WPQQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38mFMbqsUOVbBDicib7jSu7FfibBxO3LTiafGpMPic7a01jnxbnwOtajXvq5j2piaII2Knau7Av5Kxvp2wA/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   

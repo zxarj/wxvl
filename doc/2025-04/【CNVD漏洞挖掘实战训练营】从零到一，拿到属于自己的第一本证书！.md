@@ -1,5 +1,5 @@
 #  【CNVD漏洞挖掘实战训练营】从零到一，拿到属于自己的第一本证书！   
- 奉天安全团队   2025-04-16 03:08  
+ craxpro安全实验室   2025-04-16 23:08  
   
 ### 🌟 课程核心卖点：  
   
@@ -93,10 +93,5 @@
  本课程内容仅限合法授权测试，请严格遵守《网络安全法》！  
   
 **🔥 拿下自己的第一本CNVD漏洞证书，就从今天开始！**  
-  
-  
-联系v：  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/hMqYCmUhj5hriaqXPicOUnjGichJQTtAbScAzzLCwn75kHbt1NFOyeYAsNw2znUeyLcq4LakAOCsdvzygXGagwasw/640?wx_fmt=png&from=appmsg "")  
   
   
