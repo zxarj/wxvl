@@ -12798,5 +12798,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493320&idx=1&sn=d492128df6d30d2fadcfe488391b3706": "漏洞CVE项目合同今天到期,最后时刻续上,欧盟差点截胡",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664240728&idx=1&sn=2f8f1a14345e6ab93b60b861879d1f7d": "CNNVD | 关于Oracle多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=1&sn=1c5a2efc23e829988cfc99335e68f0ad": "【漏洞通告】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-30727)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=5&sn=1bc50d3cf6d8af81f6d22833e88d4897": "【漏洞通告】基于 Chromium 的 Microsoft Edge 远程执行代码漏洞(CVE-2025-29834)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486719&idx=5&sn=1bc50d3cf6d8af81f6d22833e88d4897": "【漏洞通告】基于 Chromium 的 Microsoft Edge 远程执行代码漏洞(CVE-2025-29834)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318777&idx=1&sn=1c9c7f2561b2b3ce09438b7f1ff25807": "Windows 11高危漏洞：300毫秒即可提权至管理员",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492645&idx=1&sn=02febcbbf196aab9a0d84b37bcf3f332": "漏洞复现 || Vite import存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491215&idx=1&sn=c60068d2796fcd7361a287e832d27bf5": "服务器被控的幕后黑手：远程文件包含漏洞深度揭秘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592604&idx=4&sn=0e7b8ddb4e256cb3f0a166d8b724ffe6": "今日更新 | 系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488032&idx=1&sn=3033c7b30b6421435668bc58482924d6": "300 毫秒获取管理员权限：掌握 DLL 劫持和 Hook 技术（CVE-2025-24076∕CVE-2025-24994）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497389&idx=1&sn=111f630241eeeaa8ed781fcb4d8cd17e": "福利课 | 2025首场SRC漏洞挖掘两日训练营",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489963&idx=1&sn=b8212c62208309044516aebdbc1f8cc5": "【漏洞预警】CrushFTP目录遍历漏洞(CVE-2025-32103)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554512&idx=2&sn=2be22f4363413e1bd622083345cf0082": "【免费领】网安从业必备：Web漏洞检测及修复方案大全",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649172570&idx=2&sn=17d3e982b261c007b7157d3e2a96e7ed": "CNNVD通报Oracle多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484005&idx=1&sn=392a43c98adcf9e5f7757138058263b1": "【漏洞预警】Erlang∕OTP 严重 SSH 漏洞允许未认证的远程代码执行（CVE-2025-32433）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069139&idx=2&sn=5fcd14bd8672d24bf7654cecc92d1518": "【安全圈】苹果紧急修复两枚被用于定向攻击iPhone的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc0Mjc3NQ==&mid=2247486682&idx=1&sn=626c19bac989fd3c25e5828d905639c9": "预算展期，CVE 暂免关门，但国内漏洞信息库发展契机仍存",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096157&idx=1&sn=5a01eac9ac111e56ff71ce95fe5b582d": "2 个 Apple Iphone 零日漏洞被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096157&idx=2&sn=41b8c2f79b0bc5bb6f833594bd3d69e9": "Oracle 安全更新 – 针对 378 漏洞（包括远程漏洞利用）的补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496507&idx=1&sn=4cdf72a4acbd3b6637ff967a88e2d060": "中科天齐团队发现Apache Roller近年来首个高危漏洞，密码修改后会话仍持续有效",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522769&idx=1&sn=665091a9de4302af67ecf646d9c5bb79": "苹果紧急修复已遭利用的两个0day"
 }
