@@ -12814,5 +12814,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096157&idx=1&sn=5a01eac9ac111e56ff71ce95fe5b582d": "2 个 Apple Iphone 零日漏洞被利用",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096157&idx=2&sn=41b8c2f79b0bc5bb6f833594bd3d69e9": "Oracle 安全更新 – 针对 378 漏洞（包括远程漏洞利用）的补丁",
     "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496507&idx=1&sn=4cdf72a4acbd3b6637ff967a88e2d060": "中科天齐团队发现Apache Roller近年来首个高危漏洞，密码修改后会话仍持续有效",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522769&idx=1&sn=665091a9de4302af67ecf646d9c5bb79": "苹果紧急修复已遭利用的两个0day"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522769&idx=1&sn=665091a9de4302af67ecf646d9c5bb79": "苹果紧急修复已遭利用的两个0day",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529147&idx=1&sn=37e3df37ceb35cf5a49d2ecff6f3d748": "CVE-2025-0411：因 7-Zip 的 Mark-of-the-Web (MotW) 绕过而导致的恶意软件感染 _",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499162&idx=2&sn=607bb9252d39d68ae5d8746324310047": "英国政府发布网络安全漏洞调查",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503150&idx=1&sn=603b4c2f2df62b5c6abf6f719b5f4f36": "【成功复现】NUUO Camera远程命令执行漏洞(CVE-2025-1338)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489963&idx=2&sn=a9cfbcf86310f0df04893fe514b19216": "【漏洞预警】Oracle Scripting iSurvey模块远程代码执行漏洞(CVE-2025-30727)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490965&idx=1&sn=5bb002e942221bc14f55433acdb37cd3": "WEB漏洞扫描器Invicti-Professional-V25.4（自动化爬虫扫描）更新"
 }
