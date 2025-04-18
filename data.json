@@ -12830,5 +12830,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492892&idx=3&sn=82a4d8973d972459d50d3176a7013777": "漏洞预警 | 科拓全智能停车收费系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247490525&idx=1&sn=bc425a085f59434108bc07b542e02398": "源代码审计常见漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492892&idx=2&sn=c7f073395b25c4f53b24ae3191f5accc": "漏洞预警 | 用友NC SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487925&idx=3&sn=d8a240f7a2f68a49989d34415a3e3ab7": "三千行代码，扫出三万多个漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487925&idx=3&sn=d8a240f7a2f68a49989d34415a3e3ab7": "三千行代码，扫出三万多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503328&idx=1&sn=5b2547c083206cfdcc72084fb45a3894&subscene=0": "【已发现在野利用】Apple iOS 与 iPadOS 多个在野高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069139&idx=2&sn=5fcd14bd8672d24bf7654cecc92d1518&subscene=0": "【安全圈】苹果紧急修复两枚被用于定向攻击iPhone的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522769&idx=1&sn=665091a9de4302af67ecf646d9c5bb79&subscene=0": "苹果紧急修复已遭利用的两个0day",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592604&idx=4&sn=0e7b8ddb4e256cb3f0a166d8b724ffe6&subscene=0": "今日更新 | 系统0day安全-Windows平台漏洞挖掘（第5期）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499467&idx=3&sn=7e48a21432445c03d6096bf6771c4778&subscene=0": ".NET 高级代码审计：一种尚未公开绕过 GZip 实现反序列化漏洞的方法"
 }
