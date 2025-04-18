@@ -12857,5 +12857,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488037&idx=1&sn=cb13be04967b8e02868d4825a06cd220": "CVE-2025-21204: Windows Update Stack 中的不当链接跟随导致的权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538513&idx=1&sn=2f03dab7cbc7139e09be0d33a4ddefde&subscene=0": "CVE 漏洞项目及时\"续命\",11个月后生死难料",
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247488966&idx=2&sn=c5e33b3deea80e7f01d72f473c927b78": "美国CISA紧急续约CVE项目，确保漏洞披露机制不中断",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247497916&idx=1&sn=54583240e4825a904c7c7538095edc23": "【真0day未修复】Bubble.io平台 0day安全分析：揭露Elasticsearch漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247497916&idx=1&sn=54583240e4825a904c7c7538095edc23": "【真0day未修复】Bubble.io平台 0day安全分析：揭露Elasticsearch漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503338&idx=1&sn=156adf75bc9f1344112970fb946cc863": "CVE计划停摆：全球漏洞治理体系面临协同危机",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489544&idx=1&sn=9c91da0de7a094e6745684a3032f1f72": "【代码审计】记某次项目前台反序列化RCE漏洞研究",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247490732&idx=1&sn=511a6335e2ba8dc4d2e726bf3213f86a": "Erlang∕OTP SSH 高危漏洞 CVE-2025-32433：无需认证即可远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522791&idx=1&sn=b726626262a08aef9a0f09bf3d3332e0": "速修复！Erlang∕OTP SSH 中存在严重的预认证 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649767610&idx=1&sn=2168feb32477aee7179465fb0683d0fa": "全球首款「原生AI」漏洞挖掘应用——蛙池AI即将上线！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069156&idx=4&sn=b108806bca06e4e6ea54839526d21ed7": "【安全圈】Erlang∕OTP SSH 远程代码执行漏洞 PoC 漏洞利用发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522791&idx=2&sn=841f61a29df71610844f2e021c5c9bab": "Atlassian 和思科修复多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529163&idx=3&sn=1b1ed6dc376abc605a00a905096c0469": "CVE-2025-21204：通过 Windows 更新堆栈中的不当链接跟踪进行权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247484950&idx=1&sn=e26cad51797b8e2af84c7383a62c3db8": "Windows 提权漏洞速报：CVE-2025-21204",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260085&idx=1&sn=20363c6174d0204eb17ac6ad870fc4ba": "微软产品的漏洞：哪些已得到改进，哪些仍面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjExNDkyMQ==&mid=2247485996&idx=1&sn=e442ff61b75275485bf1fbf7552d77a9": "Sapido RB- 1732 路由器命令执行漏洞"
 }
