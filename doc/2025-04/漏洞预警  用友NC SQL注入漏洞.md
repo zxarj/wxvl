@@ -1,5 +1,5 @@
 #  漏洞预警 | 用友NC SQL注入漏洞   
-浅安  浅安安全   2025-04-15 00:01  
+浅安  浅安安全   2025-04-18 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,16 +24,7 @@ SQL注入
   
 **简述：**  
 用友NC的  
-/portal/pt/oacoSchedulerEvents/listUserSharingEvents接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
-  
-**漏洞类型：**  
-XXE  
-  
-**影响：**  
-窃取敏感信息  
-  
-**简述：**  
-用友NC的/uapws/service/nc.uap.oba.word.webservice.IServiceEntryPoint接口存在XXE漏洞，未经身份认证的攻击者可以利用此漏洞读取系统内部敏感文件，获取敏感信息，使系统处于极不安全的状态。  
+/portal/pt/viewPsnCard/download和/portal/pt/rmImage/download接口存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 用友NC  

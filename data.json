@@ -12819,5 +12819,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499162&idx=2&sn=607bb9252d39d68ae5d8746324310047": "英国政府发布网络安全漏洞调查",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503150&idx=1&sn=603b4c2f2df62b5c6abf6f719b5f4f36": "【成功复现】NUUO Camera远程命令执行漏洞(CVE-2025-1338)",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489963&idx=2&sn=a9cfbcf86310f0df04893fe514b19216": "【漏洞预警】Oracle Scripting iSurvey模块远程代码执行漏洞(CVE-2025-30727)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490965&idx=1&sn=5bb002e942221bc14f55433acdb37cd3": "WEB漏洞扫描器Invicti-Professional-V25.4（自动化爬虫扫描）更新"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247490965&idx=1&sn=5bb002e942221bc14f55433acdb37cd3": "WEB漏洞扫描器Invicti-Professional-V25.4（自动化爬虫扫描）更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545017&idx=1&sn=b513c15f91d5de7a8fa33c4b3725706a": "【高危漏洞】Windows 11：300毫秒即可提权至管理员",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490093&idx=1&sn=1ae57da449512ecbcde1d4f4e8acc808": "【代码审计】某友云平台远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489172&idx=1&sn=c2fc83def008af0091c1e4f51616defb": "某云盘系统 API 端点无限制上传漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794873&idx=3&sn=9cdecd15fd9f4dd91299ff83d9c1fcd9": "Erlang∕OTP SSH 中的满分RCE漏洞广泛影响电信设备、工控系统",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492582&idx=1&sn=33a3919850b5cbbd1f435f23a4cf2f89": "若依Vue漏洞检测工具v4更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492892&idx=1&sn=8512347baba3264fa31bda77c9c6f6c8": "漏洞预警 | NetMizer日志管理系统远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492045&idx=1&sn=7c2c6f2965fe73be4f2046b0ef28ea92": "某事业单位多处越权漏洞测试",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492892&idx=3&sn=82a4d8973d972459d50d3176a7013777": "漏洞预警 | 科拓全智能停车收费系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247490525&idx=1&sn=bc425a085f59434108bc07b542e02398": "源代码审计常见漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492892&idx=2&sn=c7f073395b25c4f53b24ae3191f5accc": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487925&idx=3&sn=d8a240f7a2f68a49989d34415a3e3ab7": "三千行代码，扫出三万多个漏洞"
 }
