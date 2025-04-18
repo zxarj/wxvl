@@ -12868,5 +12868,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529163&idx=3&sn=1b1ed6dc376abc605a00a905096c0469": "CVE-2025-21204：通过 Windows 更新堆栈中的不当链接跟踪进行权限提升",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247484950&idx=1&sn=e26cad51797b8e2af84c7383a62c3db8": "Windows 提权漏洞速报：CVE-2025-21204",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260085&idx=1&sn=20363c6174d0204eb17ac6ad870fc4ba": "微软产品的漏洞：哪些已得到改进，哪些仍面临风险",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MjExNDkyMQ==&mid=2247485996&idx=1&sn=e442ff61b75275485bf1fbf7552d77a9": "Sapido RB- 1732 路由器命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjExNDkyMQ==&mid=2247485996&idx=1&sn=e442ff61b75275485bf1fbf7552d77a9": "Sapido RB- 1732 路由器命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489974&idx=1&sn=0d23aafb6b01d3d5cd1171a1c48b16bf": "【漏洞预警】F5 BIG-IP命令注入漏洞CVE-2025-23239",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492651&idx=1&sn=1738522915c9bfc54110996360b55ae5": "漏洞复现 || Langflow 远程命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485300&idx=2&sn=fb51e3139570d30c82c8d85256c6518e": "一文玩转验证码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318977&idx=3&sn=0cb3b70f3f20cd13cc269a5eb1500fe0": "Windows漏洞CVE-2025-24054被利用，文件下载可致NTLM凭据被盗",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489974&idx=2&sn=94cc62913f26f413080bf10c5f6de7f2": "【漏洞预警】Jupyter Remote Desktop未授权访问漏洞CVE-2025-32428"
 }
