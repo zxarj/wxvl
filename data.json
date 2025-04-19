@@ -12890,5 +12890,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484881&idx=1&sn=805864c5b7786a3c546c113c19f29daf": "【漏洞复现】Zyxel NAS设备 setCookie 未授权命令注入漏洞(CVE-2024-29973)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494140&idx=1&sn=23280ef663e551ad564d018f7653375a": "AscensionPath一个基于Docker容器化技术的漏洞环境管理系统",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487931&idx=1&sn=9dc4229ef36fc424a9598bbc0e51ae2c": "deepseek分析代码变动推测漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115297&idx=1&sn=eadad9a8a652142a6075fc06f295b2ca": "2024年微软漏洞数量创新高，超1,300个"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115297&idx=1&sn=eadad9a8a652142a6075fc06f295b2ca": "2024年微软漏洞数量创新高，超1,300个",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247501378&idx=1&sn=d13931a97f131dc1f6743fc16677ab65": "AD域内网渗透-三种漏洞利用方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489564&idx=1&sn=1a0cc6975d8a6582ee297ed357b6cebe": "某短视频矩阵营销系统前台RCE漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484476&idx=1&sn=32893d59baa275b6b4524535eeef1857": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069156&idx=4&sn=b108806bca06e4e6ea54839526d21ed7&subscene=0": "【安全圈】Erlang∕OTP SSH 远程代码执行漏洞 PoC 漏洞利用发布",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MDA3MzI0MA==&mid=2650091532&idx=1&sn=279b4351d16c792425d749f26de6f628": "【大佬赋能】1000万漏洞赏金获得者，带你走向SRC漏洞挖掘大师之路！"
 }
