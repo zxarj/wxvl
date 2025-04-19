@@ -12901,5 +12901,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485941&idx=2&sn=246d2f1e20ec25f28e48e4d34c7191e5": "【漏洞复现】CVE-2025-24071｜Windows 文件资源管理器欺骗漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529175&idx=2&sn=1346b0d0a341741e51d35bcdea870ba1": "渗透测试，从初学者到专家！这是一份有关 Web 应用程序渗透测试和漏洞赏金搜索的综合指南，涵盖了识别和利用漏洞的方法、工具和资源",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319008&idx=1&sn=41ada316f8b802f5b2ad77d5893fc636": "FreeBuf周报 | CVE漏洞数据库项目面临停摆危机；Apache Roller 高危漏洞改密后会话仍有效",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572421&idx=1&sn=7fe88022698b4490232ced946fa85265": "某电力公司web.config的RCE之旅"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572421&idx=1&sn=7fe88022698b4490232ced946fa85265": "某电力公司web.config的RCE之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519064&idx=1&sn=43bde635aaa63ff6034368f8babaa8bc": "Parameter is null引发的一次五千漏洞赏金记录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485941&idx=1&sn=e18a5c024992733bdae0cff9a00e66f0": "CVE-2025-27218｜Sitecore CMS远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485374&idx=1&sn=ebf0dee4095732e720022d7cf8d4a5f5": "“改密码就能防住？”全网疯传的Meta夺号案，撕开2FA致命漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484893&idx=2&sn=827944d3948a304d05705d851957c406": "rConfig-ajaxEditTemplate.php-后台远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485014&idx=1&sn=1dd0782f1c6e77e88e56b004c111e1b6": "汉堡白吃？某连锁餐饮 App 竟藏\"0元购\"漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490206&idx=1&sn=5adb6b6ee20a97d0afeac3f4668822ad": "【漏洞复现】CVE-2025-24071｜Windows 文件资源管理器欺骗漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492589&idx=1&sn=20a2a65628b7e4552ad7642c3073e9fe": "英国因 2022 年勒索软件漏洞对软件提供商罚款 307 万英镑",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520152&idx=1&sn=68e4a26ee2ab2f0de6a3630ccb40bf7e": "CVE-2024-22243 Spring Web UriComponentsBuilder URL 解析不当漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529175&idx=4&sn=f51dea8cd1acf20d966d1af2aaebad88": "使用 Joern 查找用于利用 Java 中 Unsafe Reflection 漏洞的类",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610311&idx=4&sn=84bfa2b6f0b91c2b693822e8a2821285": "CTF PWN新手的终极利器！一键搞定栈溢出与格式化字符串漏洞！"
 }
