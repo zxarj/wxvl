@@ -12874,5 +12874,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485300&idx=2&sn=fb51e3139570d30c82c8d85256c6518e": "一文玩转验证码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318977&idx=3&sn=0cb3b70f3f20cd13cc269a5eb1500fe0": "Windows漏洞CVE-2025-24054被利用，文件下载可致NTLM凭据被盗",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247489974&idx=2&sn=94cc62913f26f413080bf10c5f6de7f2": "【漏洞预警】Jupyter Remote Desktop未授权访问漏洞CVE-2025-32428",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318977&idx=4&sn=e6b728a815b7412e47ec8aab3709ebb4": "iOS 设备遭定向攻击，苹果紧急修复两枚零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651318977&idx=4&sn=e6b728a815b7412e47ec8aab3709ebb4": "iOS 设备遭定向攻击，苹果紧急修复两枚零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511701&idx=1&sn=7f2360040b4d75447acab62b52e3db78": "IngressNightmare：揭秘CVE-2025-1974 Kubernetes RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503338&idx=1&sn=156adf75bc9f1344112970fb946cc863&subscene=0": "CVE计划停摆：全球漏洞治理体系面临协同危机",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492903&idx=3&sn=b6a11269640f9896ffbdbae50442c169": "漏洞预警 | JieLink+智能终端操作平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzcyMjgwNA==&mid=2247483985&idx=1&sn=cfbade59a9a0c0c5625511c1b1198691": "Wordpress SureTriggers插件漏洞（CVE-2025-3102）创建未经身份验证的管理用户",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492903&idx=2&sn=10cb3a18dd564b6efebfd9d03fda7d73": "漏洞预警 | 家装ERP管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522791&idx=2&sn=841f61a29df71610844f2e021c5c9bab&subscene=0": "Atlassian 和思科修复多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484779&idx=1&sn=ddbfd9581640b2b1c1396bcbdf4e892b": "一文掌握 Java XXE 漏洞原理、利用与防御姿势",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115297&idx=2&sn=95e3cc9767aa8c0029dfc6a990ad53b7": "安全提醒：Apple 零日漏洞正被利用于攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492903&idx=1&sn=9cb1c25744b59c3b3af147fa26a73101": "漏洞预警 | Oracle Scripting iSurvey模块远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507002&idx=1&sn=b7f176648f100e6a9efc7fe41f981d92": "【一周安全资讯0419】九部门印发《关于加快推进教育数字化的意见》；Windows11高危漏洞：300毫秒即可提权至管理员",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522791&idx=1&sn=b726626262a08aef9a0f09bf3d3332e0&subscene=0": "速修复！Erlang∕OTP SSH 中存在严重的预认证 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484761&idx=1&sn=b7d7b5ce940c87fb62bf7552fe8635c5": "Java XXE 防护实战：常见漏洞场景与防御代码全收录",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484881&idx=1&sn=805864c5b7786a3c546c113c19f29daf": "【漏洞复现】Zyxel NAS设备 setCookie 未授权命令注入漏洞(CVE-2024-29973)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494140&idx=1&sn=23280ef663e551ad564d018f7653375a": "AscensionPath一个基于Docker容器化技术的漏洞环境管理系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247487931&idx=1&sn=9dc4229ef36fc424a9598bbc0e51ae2c": "deepseek分析代码变动推测漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115297&idx=1&sn=eadad9a8a652142a6075fc06f295b2ca": "2024年微软漏洞数量创新高，超1,300个"
 }
