@@ -12895,5 +12895,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489564&idx=1&sn=1a0cc6975d8a6582ee297ed357b6cebe": "某短视频矩阵营销系统前台RCE漏洞审计",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484476&idx=1&sn=32893d59baa275b6b4524535eeef1857": "JS中的漏洞信息",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069156&idx=4&sn=b108806bca06e4e6ea54839526d21ed7&subscene=0": "【安全圈】Erlang∕OTP SSH 远程代码执行漏洞 PoC 漏洞利用发布",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MDA3MzI0MA==&mid=2650091532&idx=1&sn=279b4351d16c792425d749f26de6f628": "【大佬赋能】1000万漏洞赏金获得者，带你走向SRC漏洞挖掘大师之路！"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MDA3MzI0MA==&mid=2650091532&idx=1&sn=279b4351d16c792425d749f26de6f628": "【大佬赋能】1000万漏洞赏金获得者，带你走向SRC漏洞挖掘大师之路！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069169&idx=1&sn=23dcd3fe9618ef29ef7a414b9da625d6": "【安全圈】Windows NTLM 漏洞肆虐，低交互高风险、可提权窃取敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498029&idx=2&sn=b4e9a24aeec5af3f5fa95929642d3f1e": "华硕警告称，启用 AiCloud 的路由器存在身份验证绕过漏洞CVE-2025-2492（9.2）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485941&idx=2&sn=246d2f1e20ec25f28e48e4d34c7191e5": "【漏洞复现】CVE-2025-24071｜Windows 文件资源管理器欺骗漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529175&idx=2&sn=1346b0d0a341741e51d35bcdea870ba1": "渗透测试，从初学者到专家！这是一份有关 Web 应用程序渗透测试和漏洞赏金搜索的综合指南，涵盖了识别和利用漏洞的方法、工具和资源",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319008&idx=1&sn=41ada316f8b802f5b2ad77d5893fc636": "FreeBuf周报 | CVE漏洞数据库项目面临停摆危机；Apache Roller 高危漏洞改密后会话仍有效",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572421&idx=1&sn=7fe88022698b4490232ced946fa85265": "某电力公司web.config的RCE之旅"
 }
