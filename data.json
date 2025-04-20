@@ -12925,5 +12925,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526081&idx=1&sn=40a0f9209566ec11abf8cb7821ff45e8": "某单位软件供应商黑盒下的0day挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511702&idx=1&sn=cf6f539d15581b23e00b54cfb765c33c": "利用 API 和硬件漏洞控制数百万台智能称重机",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247496934&idx=1&sn=38b27d1ed7f81318ad25e529f75a48b1": "从Nacos derby RCE学习derby数据库的利用",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623624&idx=1&sn=957f1e0e22fc7c312e1361285fce2b43": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623624&idx=1&sn=957f1e0e22fc7c312e1361285fce2b43": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247485890&idx=1&sn=47aad52ff56d823d2ec605a0819d22c9": "MCP协议的漏洞扫描器MCP-Scan，半开源",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487711&idx=1&sn=3ec5d1474ad37b929507112101d0e4ef": "紧急预警！CVE-2025-24054漏洞遭主动攻击，文件下载竟成“钓鱼陷阱”！",
+    "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247493292&idx=2&sn=0d706a4064111b3e131f24460b2f2c56": "同学，你试过交edu漏洞交两天两夜嘛",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492590&idx=1&sn=a93a3c5c0a237eeb3c7d8a0f72a59ae1": "OpenAI 现向安全研究人员支付了 10 万美元以修补关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247491776&idx=1&sn=8fe7433aaae447fe8dc9569ef0f44bc3": "CVE-2024-0012&CVE-2025-0108 PAN-OS 从配置文件中寻找认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247489096&idx=1&sn=ec76200e8fa47661bef0a962982d9cf2": "通杀系统分析 | 某系统前台文件上传漏洞(可Getshell)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247513140&idx=1&sn=1ae20e0d9918c0c58a871e2fe81a0bf7": "[网络侦查] 一款使用简单的批量信息收集与供应链漏洞探测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096165&idx=2&sn=e5337ec2a987637a559d007ca79f879e": "Windows NTLM 哈希泄露欺骗漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484902&idx=1&sn=4b9161f654fed2aca8c07f1548882333": "三星-WLAN-AP-WEA453e路由器-远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610318&idx=4&sn=e0a7424d900b911eef8edce6ef27edcf": "SeeMore！一个漏洞挖掘小工具"
 }
