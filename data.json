@@ -12914,5 +12914,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610311&idx=4&sn=84bfa2b6f0b91c2b693822e8a2821285": "CTF PWN新手的终极利器！一键搞定栈溢出与格式化字符串漏洞！",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODc1MjYyNA==&mid=2247483879&idx=1&sn=7a43f60f8c3b35cee5948b6cc2547e06": "代码审计|SpringKill如何用CodeAuditAssistant挖掘0day教程公布",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484893&idx=1&sn=1f12152bb39b871e6f23d4431c3092e0": "rConfig-ajaxArchiveFiles.php-后台远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484512&idx=1&sn=d08ab2d26d7277a8016c3bd32aafcbda": "SQL注入漏洞实战"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484512&idx=1&sn=d08ab2d26d7277a8016c3bd32aafcbda": "SQL注入漏洞实战",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069169&idx=1&sn=23dcd3fe9618ef29ef7a414b9da625d6&subscene=0": "【安全圈】Windows NTLM 漏洞肆虐，低交互高风险、可提权窃取敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511701&idx=1&sn=7f2360040b4d75447acab62b52e3db78&subscene=0": "IngressNightmare：揭秘CVE-2025-1974 Kubernetes RCE漏洞"
 }
