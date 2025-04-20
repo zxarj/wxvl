@@ -12916,5 +12916,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484893&idx=1&sn=1f12152bb39b871e6f23d4431c3092e0": "rConfig-ajaxArchiveFiles.php-后台远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484512&idx=1&sn=d08ab2d26d7277a8016c3bd32aafcbda": "SQL注入漏洞实战",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069169&idx=1&sn=23dcd3fe9618ef29ef7a414b9da625d6&subscene=0": "【安全圈】Windows NTLM 漏洞肆虐，低交互高风险、可提权窃取敏感数据",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511701&idx=1&sn=7f2360040b4d75447acab62b52e3db78&subscene=0": "IngressNightmare：揭秘CVE-2025-1974 Kubernetes RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511701&idx=1&sn=7f2360040b4d75447acab62b52e3db78&subscene=0": "IngressNightmare：揭秘CVE-2025-1974 Kubernetes RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319009&idx=3&sn=ed903a68d0d333dc192cc004c3e78565": "Erlang∕OTP SSH存在CVSS 10.0级高危远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487724&idx=1&sn=fedc52bbbc3985c6945a60718485a072": "Windows 11高危漏洞CVE-2025-24076：300毫秒即可夺取系统权限！速修！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDM2MjY5NA==&mid=2247484204&idx=1&sn=f94ec89158fc0db2ba7ed483d2b98bf1": "“脚本小子”-之恶意poc投毒事件",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529216&idx=1&sn=3710dd4b0db6181830980a1eab5843d1": "Windows 任务计划程序漏洞允许提升权限和篡改日志",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247520234&idx=1&sn=dc56bc6ed0dda880d7078934447b943a": "揭秘千万漏洞赏金密码！跟着漏洞挖掘大神解锁 SRC 变现新赛道",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526081&idx=1&sn=40a0f9209566ec11abf8cb7821ff45e8": "某单位软件供应商黑盒下的0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511702&idx=1&sn=cf6f539d15581b23e00b54cfb765c33c": "利用 API 和硬件漏洞控制数百万台智能称重机",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247496934&idx=1&sn=38b27d1ed7f81318ad25e529f75a48b1": "从Nacos derby RCE学习derby数据库的利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623624&idx=1&sn=957f1e0e22fc7c312e1361285fce2b43": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞"
 }
