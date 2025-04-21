@@ -1,5 +1,5 @@
 #  WinRAR安全漏洞可绕过Windows安全警告 执行恶意软件   
- 网络安全和信息化   2025-04-21 03:15  
+ 国家网络安全通报中心   2025-04-21 02:49  
   
 近日，日本安全团队  
 CSIRT揭露了WinRAR中的一项安全漏洞，该漏洞能够绕过微软Windows的Mark of the Web（MoTW）安全机制，使得用户在不知情的情况下，有可能执行来自网络的恶意程序，造成严重安全风险，该漏洞被编号CVE-2025-31334。  
@@ -28,16 +28,4 @@ WinRAR用户中涉该漏洞计算机网络设备，及时安装最新版本。�
 WinRAR客户端配置重置。三是  
 建议  
 WinRAR用户在处理敏感数据时避免连接到不受信任的网络。  
-  
-来源：国家网络安全通报中心  
-  
--END-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/co91jb4rYkM8O2Vk1NMvSibBxaP5NSgRL1CpLoy06mLBVffNPZvoS2J6QNQnu0ybyprZ4UicZ4X7icgo5M3YWndwg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-**欢迎关注我们~**  
-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkOSU1xg4xqGTRzKia2u7n9vpBNvN4tu4xdZsDQLJ6ysIANeNPwWOCANicztN09SZt9JicD9icgiaf2ZV1Q/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
