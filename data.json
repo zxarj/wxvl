@@ -12947,5 +12947,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489236&idx=1&sn=73c45ed6d310b9ed2d96e523f3429148": "分享某EDUSRC漏洞挖掘复盘",
     "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499862&idx=1&sn=24ec3a3030f845e4a0a76fc15db41692": "漏洞赏金实战案例分享",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491174&idx=1&sn=48adfa4bb1323e554e262adcdbb55cf1": "CentreStack 反序列化漏洞 (CVE-2025-30406)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493634&idx=1&sn=bb752006e1cdf2ae9b89d547e5487b2a": "搭载AiCloud功能的华硕（ASUS）路由器存在身份验证绕过漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493634&idx=1&sn=bb752006e1cdf2ae9b89d547e5487b2a": "搭载AiCloud功能的华硕（ASUS）路由器存在身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492208&idx=1&sn=144092717bb4f42f4184c50743418c1a": "漏洞预警 西部数据 NAS ftp_download.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115330&idx=1&sn=7b6c1320e8d3c6a3a2719da61a23839a": "新的Windows NTLM漏洞被利用进行攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487193&idx=1&sn=aa9c52590c523df026ecadf553f2760b": "Kubernetes CVE-2025-1974 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247484486&idx=1&sn=b703890fc5173946b326edd3474a6515": "云对象存储桶写漏洞？模型和数据被投毒、机器沦陷？- AI & 云安全",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484465&idx=1&sn=af78c13de124b66e98fb89b64318144a": "MRCMS（蘑菇建站）跨站脚本漏洞及解决方法（CNVD-2025-05252、CVE-2025-2195）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492919&idx=1&sn=ae262e31be8df4bec3a1959d904c4c44": "漏洞预警 | 神州讯盟芯管家SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486224&idx=1&sn=16c2d8234d4b1e73a86d148c172863a4": "【工具分享】ruoyi-Vue-tools-若依Vue漏洞检测工具v4更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486487&idx=1&sn=efbdfc0003e11d709b71dd059c007830": "必备安全工具：推荐一款高效的漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649172609&idx=1&sn=00c15fa3090200ff05c33b60c870efcc": "WinRAR安全漏洞可绕过Windows安全警告 执行恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511702&idx=1&sn=cf6f539d15581b23e00b54cfb765c33c&subscene=0": "利用 API 和硬件漏洞控制数百万台智能称重机",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492919&idx=2&sn=1b11e06df8b555668fdc6e5fbea25eb2": "漏洞预警 | 汉塔科技上网行为管理系统命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492919&idx=3&sn=c23d52e3637d24cc5465f0caf33215aa": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486351&idx=1&sn=ee57024144cf2d8ffc6b9fa2e1e803b7": "记一次某大学附属医院漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247484793&idx=1&sn=682b1258b4bfec6f09ee26ed6c5dce98": "DC-1,一台和蔼可亲的靶机。Drupal7，msfcve-2018-7600漏洞利用，隧道建立，SUID提权"
 }
