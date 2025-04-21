@@ -1,22 +1,27 @@
 #  Spring漏洞扫描工具，springboot未授权扫描/敏感信息扫描以及进行spring相关漏洞的扫描与验证   
-WuliRuler  夜组安全   2025-04-21 00:00  
+WuliRuler  无影安全实验室   2025-04-21 13:18  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**baobeiaini_ya**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
+免责声明：  
+本篇文章仅用于技术交流，  
+请勿利用文章内的相关技术从事非法测试  
+，  
+由于传播、利用本公众号无影安全  
+实验室所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号无影安全实验室及作者不为此承担任何责任，一旦造成后果请自行承担！  
+如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
   
-## 一、工具概述  
+朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把"**无影安全实验室**  
+"设为星标，这样更新文章也能第一时间推送！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3GHDOauYyUGbiaHXGx1ib5UxkKzSNtpMzY5tbbGdibG7icBSxlH783x1YTF0icAv8MWrmanB4u5qjyKfmYo1dDf7YbA/640?&wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1 "")  
+  
+  
+安全工具  
+  
+  
+  
+## 0x01 工具介绍  
   
 **SBSCAN是一款专注于spring框架的渗透测试工具，可以对指定站点进行springboot未授权扫描/敏感信息扫描以及进行spring相关漏洞的扫描与验证。**  
 - **最全的敏感路径字典**  
@@ -49,58 +54,49 @@ WuliRuler  夜组安全   2025-04-21 00:00
 - **其他一些常规支持**  
 ：单个url扫描/ url文件扫描 / 扫描模块选择 / 支持指定代理 / 支持多线程 / 扫描报告生成  
   
-## 工具使用  
->   
-> 检测效果图, 使用彩色表格打印更直观显示检测结果，**检测报告**  
-保存位置将会在扫描结束后控制台显示  
+## 0x02 工具使用  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2VB2vpRwsDLT60uDYG4ibL8iaiczHVF1zKah8QH6xwodOdaq1ialu28VcJFQWf713Kh8OkPloic5qIiaqyg/640?wx_fmt=png&from=appmsg "")  
->   
-> **检测时**  
-可使用 tail -f logs/sbscan.log  
- 实时查看详细的检测情况  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2VB2vpRwsDLT60uDYG4ibL8iaB4PcIukia3yRlIhpur2Sq9GjH28DqyfvyncVC4ptXvOPA70JleguRVQ/640?wx_fmt=png&from=appmsg "")  
+**MacOS && linux**  
 ```
-## 🧾 已支持检测CVE列表- CVE-2018-1273- CVE-2019-3799- CVE-2020-5410- CVE-2022-22947- CVE-2022-22963- CVE-2022-22965- JeeSpringCloud_2023_uploadfile
+$ git clone https://github.com/sule01u/SBSCAN.git
+$ cd SBSCAN
+$ python3 -m venv sbscan         # 创建虚拟环境
+$ source sbscan/bin/activate     # 激活虚拟环境
+$ pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple   # -i 指定pip源安装依赖,可选；
+$ python3 sbscan.py --help
 ```  
   
+**Windows**  
+```
+$ git clone https://github.com/sule01u/SBSCAN.git
+$ cd SBSCAN
+$ python3 -m venv sbscan         # 创建虚拟环境
+$ .\sbscan\Scripts\activate        # 激活虚拟环境
+$ pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple   # -i 指定pip源安装依赖,可选；
+$ python3 sbscan.py --help
+```  
   
-## 工具获取  
+**检测效果图, 使用彩色表格打印更直观显示检测结果，检测报告保存位置将会在扫描结束后控制台显示**  
   
+****  
+**检测时可使用 tail -f logs/sbscan.log 实时查看详细的检测情况**  
   
+****```
+## 🧾 已支持检测CVE列表- CVE-2018-1273- CVE-2019-3799- CVE-2020-5410- CVE-2022-22947- CVE-2022-22963- CVE-2022-22965- JeeSpringCloud_2023_uploadfile
+```  
+## 0x03 工具下载  
   
-点击关注下方名片  
-进入公众号  
+**点****击关注**  
+**下方名片****进入公众号**  
   
-回复关键字【  
-250421  
-】获取  
-下载链接  
-  
-  
-## 往期精彩  
-  
-  
-往期推荐  
-  
-[AscensionPath一个基于Docker容器化技术的漏洞环境管理系统](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494140&idx=1&sn=23280ef663e551ad564d018f7653375a&chksm=c36bad04f41c241297da6bfeec639c92cf0fafeeadf7a7d5a3bb33b83fcafe169b7f496b2952&scene=21#wechat_redirect)  
-  
-  
-[Rust境虚拟机+Rust编译工具集，助力脚本小子一键免杀。](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494113&idx=1&sn=cc334bafbeb722d10b7df2b377483f20&chksm=c36bad19f41c240f272406d7d4895aab1c0cde18d4b0f77fe989a62189029037f4c9b99a904d&scene=21#wechat_redirect)  
-  
-  
-[Webshell免杀、流量加密传输工具 V2.5 | 免杀冰蝎、哥斯拉等Webshell的ASP、PHP、JSP木马文件](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494103&idx=1&sn=dabd98f3cc04c91128b8bc6e474acf7c&chksm=c36bad2ff41c243946315522a91c109237fb185e885eafba7d42a2a34dd657c6edf4e52a6ce8&scene=21#wechat_redirect)  
-  
-  
-[信息收集、渗透测试工具箱，支持多种工具和资料](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494095&idx=1&sn=47e916b0acbf27c95a522087e82e8883&chksm=c36bad37f41c2421af14cbf4c83bf1c29adf896434cb9b12b7044e89f67b74f6f389b90ce7f0&scene=21#wechat_redirect)  
+**回复关键字【250421****】获取**  
+**下载链接**  
   
   
-[一款全方位扫描工具，具备高效的机器探活，端口探活，协议识别，指纹识别，漏洞扫描等功能](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494044&idx=1&sn=a001baaaa089ff3339dcfe9e2c811276&chksm=c36bad64f41c247289b93cfee382d35e9328e5c9e8dba1e2513824a65e579b1ec1da68d37e01&scene=21#wechat_redirect)  
+最后推荐一下内部小密圈，干货满满，物超所值，**内部圈子每增加100人，**  
   
+**价格将上涨20元，越早进越优惠！！！**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
-  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/awCdqJkJFERvgmiaRWOkaOT8aCVKhAf4Yab5X63k4NpTL9CzAmhw61VKGWrkCzd8LZIdEgUrlfhU8ib65tVG6EiaQ/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
