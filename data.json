@@ -12940,5 +12940,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484902&idx=2&sn=86d9a7f8175196b65bf773a6ab16a9f7": "三星路由器WLAN-AP-WEA453e-未授权RCE等多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDUzMzY1MA==&mid=2247499733&idx=1&sn=2472721727e61daa33f0e6f8794a88c2": "Bottle 框架漏洞攻防实录：从原型链污染到 Flag 获取的完整渗透路径",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491184&idx=1&sn=141b3a7d5aa9cc292c8d18ac7f9fce26": "UNACMS PHP对象注入漏洞(CVE-2025-32101)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484373&idx=1&sn=85275117f19ddcaaeba06cafafdb51df": "MCP漏洞靶场：DVMCP"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484373&idx=1&sn=85275117f19ddcaaeba06cafafdb51df": "MCP漏洞靶场：DVMCP",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494164&idx=1&sn=71adbe1ea5788317977213a100591066": "Spring漏洞扫描工具，springboot未授权扫描∕敏感信息扫描以及进行spring相关漏洞的扫描与验证",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486216&idx=1&sn=b7358387e35533628c41cabd76af52e7": "【PHP代审】星河留言板存在前台任意文件上传RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610318&idx=3&sn=456674d66829e07f2021bf66d3954dd1": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489236&idx=1&sn=73c45ed6d310b9ed2d96e523f3429148": "分享某EDUSRC漏洞挖掘复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499862&idx=1&sn=24ec3a3030f845e4a0a76fc15db41692": "漏洞赏金实战案例分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491174&idx=1&sn=48adfa4bb1323e554e262adcdbb55cf1": "CentreStack 反序列化漏洞 (CVE-2025-30406)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493634&idx=1&sn=bb752006e1cdf2ae9b89d547e5487b2a": "搭载AiCloud功能的华硕（ASUS）路由器存在身份验证绕过漏洞"
 }
