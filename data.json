@@ -13033,5 +13033,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522801&idx=1&sn=be29e21bdd328bab3ee1bbc42562d47e&subscene=0": "华硕：启用AiCloud 的路由器中存在严重的认证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484084&idx=1&sn=f39318a4620c5967906bb9aecedd7bf9": "科拓全智能停车收费系统的T_SellFrom.aspx接口存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495936&idx=2&sn=742898e5475cc58e1b6af719b0bb7fd5&subscene=0": "上周关注度较高的产品安全漏洞(20250414-20250420)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487195&idx=1&sn=d36cf642f87b34cbbf95ccf9b56b4aee": "代码审计|SpringKill如何用CodeAuditAssistant挖掘0day教程公布"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487195&idx=1&sn=d36cf642f87b34cbbf95ccf9b56b4aee": "代码审计|SpringKill如何用CodeAuditAssistant挖掘0day教程公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247493747&idx=1&sn=74c15d327a5f704be441ad3ddc5fc6d4": "披露 DOGE 系统网络安全漏洞和数据泄露，以及对举报人∕证人的恐吓（老毛子？）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484941&idx=2&sn=be33180668dd869e5eb06feabf0cca36": "prismx：【漏洞扫描器】棱镜开源版",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592750&idx=2&sn=5ea70dcc58448329bb73d7e44a961078&subscene=0": "华硕AiCloud功能现重大安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497471&idx=1&sn=ce0c9ed5daafd29a32f7734381152894&subscene=0": "api漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498122&idx=2&sn=1e9f5daff6b17c238ab90761004cbe03": "CVE-2025-33028：WinZip 再次爆出漏洞通过 MotW 绕过导致用户遭受静默代码执行，目前无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491038&idx=1&sn=f58f0cbda56371ce83b6b010f29d5cc2": "CVE-2017-3066 深入利用获取命令回显",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489592&idx=1&sn=c2a7895c7be76ad71e98d307995b8f02": "kangle 虚拟面板存在前台XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525446&idx=1&sn=3efe3d2b1a08e481658ed165edfdc75a": "安全通告丨网络安全漏洞通告（2025年4月）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522801&idx=2&sn=92cd7620a74a8d5e609a3bd300ef2a66&subscene=0": "PyTorch 中存在严重的RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485311&idx=1&sn=779f797318caa0189271e570299adf51": "从代码看Java反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529226&idx=1&sn=04fdb9e880273a88fbebbfdc6be75822": "Cellebrite 零日漏洞攻击塞尔维亚学生活动人士的手机",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485364&idx=1&sn=fdf5e76aff6bc14cd18391d503ac998e": "Windows高危提权漏洞CVE-2025-21204曝光，千万用户需立即修复​​"
 }
