@@ -1,5 +1,5 @@
 #  代码审计|SpringKill如何用CodeAuditAssistant挖掘0day教程公布   
-春纱  Tab Sec   2025-04-19 13:47  
+ TtTeam   2025-04-22 03:27  
   
    
   
@@ -128,13 +128,6 @@ ctrl 点击并发现这个字段被赋值的地方：
 ```
 https://github.com/SpringKill-team/CodeAuditAssistant
 ```  
-## 授权申请  
   
-直接公众号回复CodeAuditAssistant授权  
- 或 代码审计工具授权  
-  
-  
-  
-   
   
   
