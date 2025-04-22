@@ -13045,5 +13045,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522801&idx=2&sn=92cd7620a74a8d5e609a3bd300ef2a66&subscene=0": "PyTorch 中存在严重的RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485311&idx=1&sn=779f797318caa0189271e570299adf51": "从代码看Java反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529226&idx=1&sn=04fdb9e880273a88fbebbfdc6be75822": "Cellebrite 零日漏洞攻击塞尔维亚学生活动人士的手机",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485364&idx=1&sn=fdf5e76aff6bc14cd18391d503ac998e": "Windows高危提权漏洞CVE-2025-21204曝光，千万用户需立即修复​​"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485364&idx=1&sn=fdf5e76aff6bc14cd18391d503ac998e": "Windows高危提权漏洞CVE-2025-21204曝光，千万用户需立即修复​​",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522819&idx=2&sn=183839121efb6572f3febfbb1d939f28": "仅有不到一半的可利用漏洞被企业修复，GenAI 漏洞更低",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497475&idx=1&sn=09ed4e87146efd1fd0d05e18d836e479": "Web漏洞挖掘指南 -SSRF服务器端请求伪造",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491213&idx=1&sn=28cb5bc107b3d94a73135dee17a20266": "用友U8 CRM eventsetlist.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522819&idx=1&sn=005966b8a5fb21a2ac90627b6b0075bc": "8天，这个被微软认为“低可利用性”的漏洞即遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484357&idx=1&sn=57e85783d6b59a3f614a987effb9b745": "Erlang∕OTP SSH 远程代码执行漏洞（CVE-2025-32433）POC及一键部署环境",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507749&idx=1&sn=359c5df2d9430f788eb658213afc05ff": "漏洞通告 | 泛微E-cology前台远程代码执行漏洞（NVDB-CNVDB-2025530957）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491269&idx=1&sn=00145cb95476525233d79a2fcb910109": "内存中的幽灵：Linux系统最致命安全漏洞揭秘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484016&idx=1&sn=6d559734049b892419fba6dcef1e8265": "【漏洞预警】Open WebUI 0.5.16 SSRF漏洞（CVE-2025-29446）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzU5MDMxOA==&mid=2247484383&idx=1&sn=5bd16bddd1b8f341448539552fbf9315": "实战分享｜Autorize如何让我躺赚接口越权漏洞赏金",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592862&idx=4&sn=1d8b719cda2e840ec89e076c573aae3a": "更新3节：漏洞分析与利用 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069221&idx=3&sn=f624fa8b0ad6844d5bd3d85b2f32c897": "【安全圈】Storm-0558 漏洞后，微软通过 Azure 机密虚拟机确保 MSA 签名安全",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247499875&idx=1&sn=3ccc7eddec0e833a3d6c56c51e00f41a": "20 万 POC，直接拿来用，这不是测试，这是拒绝服务！！！"
 }
