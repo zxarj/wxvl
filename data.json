@@ -13065,5 +13065,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490322&idx=5&sn=0ae4dd719f79135f775d4fb0c6e0bf32": "Erlang∕OTP SSH 远程代码执行漏洞（CVE-2025-32433）POC及一键部署环境",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462772&idx=1&sn=51cae796b73765425a9c62cb8b32d2ea": "信息安全漏洞周报（2025年第16期）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490322&idx=4&sn=3d3c191874947492b8c2d8113da8bcc2": "20 万 POC，直接拿来用，这不是测试，这是拒绝服务！！！",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490322&idx=6&sn=5f20f5303a8223603444ecc041736eeb": "【漏洞预警】Open WebUI 0.5.16 SSRF漏洞（CVE-2025-29446）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490322&idx=6&sn=5f20f5303a8223603444ecc041736eeb": "【漏洞预警】Open WebUI 0.5.16 SSRF漏洞（CVE-2025-29446）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488376&idx=1&sn=1ed56ec22fcf08d960c53303d2d90a62": "泛微移动管理平台E-mobile error接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490000&idx=1&sn=731dfc3cf4323232c1323d80cef4a9a1": "【漏洞预警】H3C GR-3000AX代码执行漏洞(CVE-2025-3854)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484846&idx=1&sn=04057d9546256867fbc826a2946cac3d": "小白黑客成长日记：漏洞批发商与罪证算法",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485760&idx=1&sn=f6aedb3b596b0c71adba83ee7d104ac6": "Next.js 中间件鉴权绕过漏洞 (CVE-2025-29927)"
 }
