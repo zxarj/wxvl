@@ -1,5 +1,5 @@
 #  汉堡白吃？某连锁餐饮 App 竟藏"0元购"漏洞！   
-原创 Xyuxu  起凡安全   2025-04-19 15:16  
+起凡安全  Z2O安全攻防   2025-04-23 13:14  
   
 **前言**  
   
@@ -117,4 +117,59 @@ finalAmount 最终价格
   
 附支付逻辑漏洞一些思路:   
 <table><thead><tr><th><section><span leaf=""><span textstyle="" style="font-size: 16px;">绕过方式</span></span></section></th><th data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">举例</span></span></section></th></tr></thead><tbody><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">替换支付</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">支付低价格的商品来买高价格的商品</span></span></section></td></tr><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">最小额支付</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">修改价格为 </span></span><code data-start="944" data-end="950"><span leaf=""><span textstyle="" style="font-size: 16px;">0.01</span></span></code><span leaf=""><span textstyle="" style="font-size: 16px;">、绕过金额判断</span></span></section></td></tr><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">负数支付</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">使用 </span></span><code data-start="972" data-end="979"><span leaf=""><span textstyle="" style="font-size: 16px;">-10.0</span></span></code><span leaf=""><span textstyle="" style="font-size: 16px;"> 做付款金额，若系统未验证，可导致反向</span></span></section></td></tr><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">优惠券支付</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">重复使用优惠券、伪造未绑定优惠券 ID</span></span></section></td></tr><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">溢出支付</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">通过提交异常的金额值（如超出上限或负数）触发系统计算错误</span></span></section></td></tr><tr><td><section><span leaf=""><span textstyle="" style="font-size: 16px;">并发</span></span></section></td><td data-colwidth="284"><section><span leaf=""><span textstyle="" style="font-size: 16px;">万物皆可并发，</span></span><span style="font-size: 16px;letter-spacing: 0.034em;background-color: transparent;"><span leaf="">懂得都懂</span></span></section></td></tr></tbody></table>  
+建立了一个  
+src专项圈子  
+，内容包含**src漏洞知识库**  
+、**src挖掘技巧**  
+、**src视频教程**  
+等，一起学习赚赏金技巧，以及专属微信群一起挖洞  
+  
+圈子专注于更新src相关：  
+  
+```
+1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
+2、分享src优质视频课程
+3、分享src挖掘技巧tips
+4、小群一起挖洞
+```  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg41LkR0ezBlmjJY4Lwgg8mr1A5efwqe0yGE9KTQwLPJTe9zyv3wgYnhA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOXg868PqXyjsACp9LhuEeyfB2kTZVOt5Pz48txg7ueRUvDdeefTNKdg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuZDDDv3NsbJDuSicLzBbwVDCPFgbmiaJ4ibf4LRgafQDdYodOgakdpbU1H6XfFQCL81VTudGBv2WniaDA/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "null")  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuaEwb07ryAplac3KXf8QkE5JSlU4iahMxnfDB6daPMUX2Ys9T7PlheOKe8ZgicIpicUxDzNW92w3t56Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4Bd1oBmTkA5xlNwZM5fLghYeibMBttWrf57h8sU7xDyTe5udCNicuHo8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuYrUoo5XZpxN9Inq87ic71D6aUeMdaWrKXgYYia2On8nMA7bqWDySa8odAq1a0kkp3WFgf0Zp0Eut0A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4KKlic4yiafWTpLdejicQe3MllEQc24ypeI3anaK7IjJDVyq1WVQN2yKBA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOHgjJxnq1ibibJgVUx3LwCjZj62vygx8w6rxia1icmIWiax2YlP6S6LmlmlQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOApVm8H605qOibxia5DqPHfbWD6lmcweDjGv4DLl45waD068ugw2Iv2vg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOwldaSATYOh1WQpk1qz15rLxehOAn4aK7tdbSyNEuHDZpIISCtl6Q8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4jFsKRMMNDKbsAZhscCiagnyJScMVmFUqMtae5omlLRdu095mywWszjQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4uGJ2SA5BhZ3UyibZvVmcP3sozQEOfVr0jftWpC3YkpDiaAicS1ib3EgXHA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
   

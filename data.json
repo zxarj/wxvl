@@ -13110,5 +13110,17 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319257&idx=1&sn=a603c646a53e3a242a2e79faf4f06239": "ChatGPT在公开漏洞利用代码发布前成功生成CVE有效攻击程序",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260929&idx=1&sn=2f8d14dd48df42d04bd14ad8ca9e9b22": "无需交互即可攻破？CVE-2025-24054正被利用绕过Windows身份验证\"",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODE5NjE3Mw==&mid=2247483766&idx=1&sn=ed607434f8b281e94ef7991a45e5fbb4": "K8s下的漏洞挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486379&idx=1&sn=4e49b9db2247a94600a98e3900c27fe7": "高危证书 | 记一次白盒审计快速拿下RCE漏洞的过程"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486379&idx=1&sn=4e49b9db2247a94600a98e3900c27fe7": "高危证书 | 记一次白盒审计快速拿下RCE漏洞的过程",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491222&idx=1&sn=4995059a69a53dc8ea9a20e5ba371062": "Cleo Harmony ∕Synchronization 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554590&idx=1&sn=714c46d7c252a19494e5e55f843efe4c": "内存利用：迟来的blindless与逃不掉的exit漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498846&idx=1&sn=a7f9302b4fd8fe61a5d53c14216c2a36": "CVE-2025-32433 - Erlang∕OTP SSH 中的严重 RCE（CVSS 10）",
+    "https://mp.weixin.qq.com/s?__biz=MzUxODY3MDExMA==&mid=2247490223&idx=1&sn=7d830cd9e8ad3d47f744c6cb698638fd": "[从漏洞挖掘到隐私保卫战！虎符网络安全专家受邀揭秘AI时代安全新攻防]",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529289&idx=1&sn=2e92df89416952c0384fcff23c506a2a": "通过代理实现代码执行——DLL劫持的另一种方式",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486268&idx=1&sn=a24c7995a782a7f9ec68ff929ba2cda8": "XSS与SSRF漏洞联合攻击实验平台 - XSS_SSRF_Attack_Prevention",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484869&idx=1&sn=88c819aa551068b45e14ae20ae239e21": "DNS 一响，漏洞登场！FastJSON 不出网探测全攻略",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485741&idx=1&sn=e79dc8ef31fe1e88b840fdaaa5b963ec": "【翻译】Greenshift WordPress 插件中的任意文件上传漏洞影响 5 万个 WordPress 网站",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484793&idx=2&sn=12a0be10af54c10992c1b3db8b51a4f8": "【漏洞处置SOP】Apache Tomcat远程代码执行漏洞（CVE-2025-24813）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490005&idx=1&sn=3ead08dd9266c53f8fc48809e47b97be": "【漏洞预警】Vmware Spring Security设计缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDYyOTI1NQ==&mid=2247486809&idx=1&sn=1bd56a972284e9d4dfe357ecdf5ffb9e": "护网行动2024漏洞复盘：这些\"0day漏洞\"为何让企业一夜崩盘？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519072&idx=1&sn=1a09d970a13668bfe21ae2d9ced66a00": "汉堡白吃？某连锁餐饮 App 竟藏\"0元购\"漏洞！"
 }
