@@ -1,27 +1,14 @@
 #  AscensionPath一个基于Docker容器化技术的漏洞环境管理系统   
-xm6nb  夜组安全   2025-04-19 04:01  
+ 黑白之道   2025-04-23 02:03  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**baobeiaini_ya**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 ## 工具介绍  
   
 **AscensionPath**  
 一个基于Docker容器化技术的漏洞环境管理系统全栈漏洞环境管理系统，提供漏洞环境全生命周期管理，基于Docker容器技术实现安全隔离的实验环境。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEEebH4qpbu12weibpPj5jB3sia6A5UyiaV66KhIKQdlqJvz34wiaqBz03xUQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEEebH4qpbu12weibpPj5jB3sia6A5UyiaV66KhIKQdlqJvz34wiaqBz03xUQ/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic "")  
 ## 功能特性  
 - **环境管理**  
   
@@ -90,11 +77,11 @@ cd frontendnpm run buildcd ../backend/cmd/app/go build main.go# 端口可选�
   
 1. 创建实例  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEESazbhfc0iah7PoWCw4oic5dDgKLu1icHibicGLoibPgN6C7Hicu7p61XlJGNg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEESazbhfc0iah7PoWCw4oic5dDgKLu1icHibicGLoibPgN6C7Hicu7p61XlJGNg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEE9I6VVvDsEvF6juQoA5uBvvE5iaFdo1POAUezzcMeb2bmQ1a2ficmhDpQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEE9I6VVvDsEvF6juQoA5uBvvE5iaFdo1POAUezzcMeb2bmQ1a2ficmhDpQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEEPGrsJgC418XD2btDIbFOUmcHuKm5hwMYbFnjGp5gQsia5XdB4aEsrtg/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/icZ1W9s2Jp2X95Uxo9GwTtUyj0DUJgVEEPGrsJgC418XD2btDIbFOUmcHuKm5hwMYbFnjGp5gQsia5XdB4aEsrtg/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
 ## 权限管理  
   
 <table><thead><tr><th style="color: rgb(66, 75, 93);font-size: 14px;line-height: 1.5em;letter-spacing: 0em;text-align: left;font-weight: bold;background: none 0% 0% / auto no-repeat scroll padding-box border-box rgb(240, 240, 240);height: auto;border-style: solid;border-width: 1px;border-color: rgba(204, 204, 204, 0.4);border-radius: 0px;padding: 5px 10px;min-width: 85px;"><section><span leaf="">角色</span></section></th><th style="color: rgb(66, 75, 93);font-size: 14px;line-height: 1.5em;letter-spacing: 0em;text-align: left;font-weight: bold;background: none 0% 0% / auto no-repeat scroll padding-box border-box rgb(240, 240, 240);height: auto;border-style: solid;border-width: 1px;border-color: rgba(204, 204, 204, 0.4);border-radius: 0px;padding: 5px 10px;min-width: 85px;"><section><span leaf="">权限说明</span></section></th><th style="color: rgb(66, 75, 93);font-size: 14px;line-height: 1.5em;letter-spacing: 0em;text-align: left;font-weight: bold;background: none 0% 0% / auto no-repeat scroll padding-box border-box rgb(240, 240, 240);height: auto;border-style: solid;border-width: 1px;border-color: rgba(204, 204, 204, 0.4);border-radius: 0px;padding: 5px 10px;min-width: 85px;"><section><span leaf="">功能范围</span></section></th></tr></thead><tbody><tr style="color: rgb(66, 75, 93);background-attachment: scroll;background-clip: border-box;background-color: rgb(255, 255, 255);background-image: none;background-origin: padding-box;background-position-x: 0%;background-position-y: 0%;background-repeat: no-repeat;background-size: auto;width: auto;height: auto;"><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">Admin</span></section></td><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">系统管理员</span></section></td><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">用户管理/镜像审核/全局监控</span></section></td></tr><tr style="color: rgb(66, 75, 93);background-attachment: scroll;background-clip: border-box;background-color: rgb(248, 248, 248);background-image: none;background-origin: padding-box;background-position-x: 0%;background-position-y: 0%;background-repeat: no-repeat;background-size: auto;width: auto;height: auto;"><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">User</span></section></td><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">普通实验用户</span></section></td><td style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;min-width: 85px;border-top-style: solid;border-bottom-style: solid;border-left-style: solid;border-right-style: solid;border-top-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-width: 1px;border-top-color: rgba(204, 204, 204, 0.4);border-bottom-color: rgba(204, 204, 204, 0.4);border-left-color: rgba(204, 204, 204, 0.4);border-right-color: rgba(204, 204, 204, 0.4);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;"><section><span leaf="">实例操作/个人空间</span></section></td></tr></tbody></table>  
@@ -107,35 +94,18 @@ cd frontendnpm run buildcd ../backend/cmd/app/go build main.go# 端口可选�
   
   
   
-点击关注下方名片  
-进入公众号  
-  
-回复关键字【  
-250419  
-】获取  
-下载链接  
+https://github.com/xm6nb/AscensionPath  
   
   
-## 往期精彩  
+> **文章来源：夜组安全**  
   
   
-往期推荐  
   
-[Rust境虚拟机+Rust编译工具集，助力脚本小子一键免杀。](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494113&idx=1&sn=cc334bafbeb722d10b7df2b377483f20&chksm=c36bad19f41c240f272406d7d4895aab1c0cde18d4b0f77fe989a62189029037f4c9b99a904d&scene=21#wechat_redirect)  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-  
-[Webshell免杀、流量加密传输工具 V2.5 | 免杀冰蝎、哥斯拉等Webshell的ASP、PHP、JSP木马文件](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494103&idx=1&sn=dabd98f3cc04c91128b8bc6e474acf7c&chksm=c36bad2ff41c243946315522a91c109237fb185e885eafba7d42a2a34dd657c6edf4e52a6ce8&scene=21#wechat_redirect)  
+如侵权请私聊我们删文  
   
   
-[信息收集、渗透测试工具箱，支持多种工具和资料](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494095&idx=1&sn=47e916b0acbf27c95a522087e82e8883&chksm=c36bad37f41c2421af14cbf4c83bf1c29adf896434cb9b12b7044e89f67b74f6f389b90ce7f0&scene=21#wechat_redirect)  
-  
-  
-[一款全方位扫描工具，具备高效的机器探活，端口探活，协议识别，指纹识别，漏洞扫描等功能](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494044&idx=1&sn=a001baaaa089ff3339dcfe9e2c811276&chksm=c36bad64f41c247289b93cfee382d35e9328e5c9e8dba1e2513824a65e579b1ec1da68d37e01&scene=21#wechat_redirect)  
-  
-  
-[Burpsuite存储桶配置不当漏洞检测插件 V1.2.1](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494036&idx=1&sn=51c727e30479f9c21cd2a6240ea6fbc4&chksm=c36bad6cf41c247a460104e524dc9a98d67dee4663269f929692b234949f0347a2f529803398&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
+**END**  
   
   
