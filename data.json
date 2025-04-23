@@ -13122,5 +13122,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484793&idx=2&sn=12a0be10af54c10992c1b3db8b51a4f8": "【漏洞处置SOP】Apache Tomcat远程代码执行漏洞（CVE-2025-24813）",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490005&idx=1&sn=3ead08dd9266c53f8fc48809e47b97be": "【漏洞预警】Vmware Spring Security设计缺陷漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDYyOTI1NQ==&mid=2247486809&idx=1&sn=1bd56a972284e9d4dfe357ecdf5ffb9e": "护网行动2024漏洞复盘：这些\"0day漏洞\"为何让企业一夜崩盘？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519072&idx=1&sn=1a09d970a13668bfe21ae2d9ced66a00": "汉堡白吃？某连锁餐饮 App 竟藏\"0元购\"漏洞！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519072&idx=1&sn=1a09d970a13668bfe21ae2d9ced66a00": "汉堡白吃？某连锁餐饮 App 竟藏\"0元购\"漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488387&idx=1&sn=5f90da110ba5388622ca9b920af79b50": "Cleo Synchronization接口任意文件读取漏洞CVE-2024-50623 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538573&idx=1&sn=feace6e44af6ca3cabc1d03c46ba84f3": "2025年渗透测试现状报告：关键漏洞不能全靠“随缘”修复",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484793&idx=1&sn=1eed92a39c1b08668eea4450bd56dd45": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第16期，总第34期]"
 }
