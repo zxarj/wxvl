@@ -13096,5 +13096,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493645&idx=3&sn=0a5867f5db7be577766c582626b5155a": "朝鲜黑客组织Kimsuky利用BlueKeep远程桌面漏洞对韩日两国发动攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487264&idx=1&sn=fe956bcda547e80ae6db3e1e0b4f89cd": "CVE-2024-56145：Craft CMS RCE",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582095&idx=2&sn=4fda6a44b68c7b6d9de0aa5841ad3a86": "华硕路由器 AiCloud 发现严重漏洞，官方紧急发布多系列固件补丁",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526102&idx=1&sn=a69f82e7afb477bef35d6c174380838d": "某开源cms 0day挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526102&idx=1&sn=a69f82e7afb477bef35d6c174380838d": "某开源cms 0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjQ5MTM1MA==&mid=2247492916&idx=1&sn=e7ccabe59fdefd807e2bb7d63b7f0738": "《独家揭秘：1000万漏洞赏金白帽，SRC漏洞挖掘通杀思路分享》",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484793&idx=3&sn=d2ca34d5e594924cb54af14da20b1dd3": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第三十二期",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136360&idx=2&sn=23e0c9d218254d5ca3376887416cd450": "绿盟科技披露2024年报，营收增长超40%，亏损收窄；漏洞研究新突破：利用ChatGPT快速创建利用代码 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491314&idx=1&sn=72d1a4da89c99b27249f0955592bf4ad": "隐秘的后门：HTTP参数污染漏洞如何让黑客悄悄获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522834&idx=1&sn=0a385b06e817fa2780f705f50351603e": "Active! mail 中的RCE 0day漏洞用于攻击位于日本的机构",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497479&idx=1&sn=563bdc63916a36d8a14b7e3836cb555e": "价值$10,000的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NjQyMzI4Mg==&mid=2247483926&idx=1&sn=e04a689483b4646e7447a28f24ea51b4": "HessianServlet、HessianServiceExporter场景下的Payload",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5Mzk2OQ==&mid=2247486715&idx=1&sn=6f073f8db82d0012b8dae93f8c0edfff": "【CNVD漏洞挖掘实战训练营】从零到一，拿到属于自己的第一本证书！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489608&idx=1&sn=fcf93096d383ba9b5c4d047a10dbc126": "Funadmin v5.0.2 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096173&idx=1&sn=f9ddb9b1c4f93375312a1b9853f079dd": "Windows 更新堆栈中存在允许代码执行和权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319257&idx=1&sn=a603c646a53e3a242a2e79faf4f06239": "ChatGPT在公开漏洞利用代码发布前成功生成CVE有效攻击程序",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260929&idx=1&sn=2f8d14dd48df42d04bd14ad8ca9e9b22": "无需交互即可攻破？CVE-2025-24054正被利用绕过Windows身份验证\"",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODE5NjE3Mw==&mid=2247483766&idx=1&sn=ed607434f8b281e94ef7991a45e5fbb4": "K8s下的漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486379&idx=1&sn=4e49b9db2247a94600a98e3900c27fe7": "高危证书 | 记一次白盒审计快速拿下RCE漏洞的过程"
 }
