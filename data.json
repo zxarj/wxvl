@@ -13069,5 +13069,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488376&idx=1&sn=1ed56ec22fcf08d960c53303d2d90a62": "泛微移动管理平台E-mobile error接口存在远程命令执行漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490000&idx=1&sn=731dfc3cf4323232c1323d80cef4a9a1": "【漏洞预警】H3C GR-3000AX代码执行漏洞(CVE-2025-3854)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0MTI2MQ==&mid=2247484846&idx=1&sn=04057d9546256867fbc826a2946cac3d": "小白黑客成长日记：漏洞批发商与罪证算法",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485760&idx=1&sn=f6aedb3b596b0c71adba83ee7d104ac6": "Next.js 中间件鉴权绕过漏洞 (CVE-2025-29927)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485760&idx=1&sn=f6aedb3b596b0c71adba83ee7d104ac6": "Next.js 中间件鉴权绕过漏洞 (CVE-2025-29927)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492944&idx=2&sn=28891b004d01e2b272286b498ea3b27c": "漏洞预警 | 百易云资产管理运营系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492944&idx=3&sn=5696bc27882be89d2667e520dec9a38c": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484700&idx=1&sn=a4d12b121ff1208729878bf7662f4c19": "【漏洞复现】锐捷EWEB 路由器多个漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489294&idx=1&sn=63831ba736dd9c79bfae6b7e1340f83c": "针对Nacos漏洞猎杀的各种骚姿势"
 }
