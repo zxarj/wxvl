@@ -13144,5 +13144,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491231&idx=1&sn=6978b52a136b9d3dc214e99e9646ea6f": "EnGenius usbinteract.cgi 未授权远程命令执行",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136360&idx=2&sn=23e0c9d218254d5ca3376887416cd450&subscene=0": "绿盟科技披露2024年报，营收增长超40%，亏损收窄；漏洞研究新突破：利用ChatGPT快速创建利用代码 | 牛览",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610400&idx=4&sn=a09e7d5d5efa700bba4ac8657096b5a0": "Spring漏洞扫描工具，springboot未授权扫描∕敏感信息扫描以及进行spring相关漏洞的扫描与验证",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655276501&idx=7&sn=f590cf3c52d8e6681493ef9f94479f15": "网络安全漏洞态势报告"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655276501&idx=7&sn=f590cf3c52d8e6681493ef9f94479f15": "网络安全漏洞态势报告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODQzOTYxMQ==&mid=2247483850&idx=1&sn=8816fe025700ac2e7c89e91a33a2b7f1": "分享常见的逻辑漏洞挖掘方法(第一部分)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522834&idx=1&sn=0a385b06e817fa2780f705f50351603e&subscene=0": "Active! mail 中的RCE 0day漏洞用于攻击位于日本的机构",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503376&idx=1&sn=af71b83f1e0b1cb7bfc91a17bd900c37&subscene=0": "雷神众测漏洞周报2025.4.14-2025.4.20",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485254&idx=1&sn=86fb7226b3b0d1404c9d6dc8dda9ce4d": "可防护0day的智能语义分析防护系统·雷池",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538597&idx=1&sn=ba99158c449c3a565ed63ad403a16da8": "别怪技术不够硬，网络钓鱼拿捏的就是“人性漏洞”",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538573&idx=1&sn=feace6e44af6ca3cabc1d03c46ba84f3&subscene=0": "2025年渗透测试现状报告：关键漏洞不能全靠“随缘”修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498191&idx=1&sn=a966c701ce6061ee4f88628695cecb21": "攻击 FastCGI 库：CVE-2025-23016",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498191&idx=2&sn=2f66a3e1f99ea98fae60308efd1dc327": "GitLab 发布安全更新以修复 XSS 和帐户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485823&idx=1&sn=8712bd94384a346119b1be32969df1ab": "Pega Infinity - 绕过身份验证[CVE-2021-27651]",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247920&idx=1&sn=2d4f707cf4d7ef2371731d19101c8e70": "大模型10大网络安全威胁及防范策略 | ChatGPT在公开漏洞利用代码发布前成功生成CVE有效攻击程序",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485313&idx=1&sn=198a3be4357c854dcf4b7a72f6cba9db": "SpEL 表达式注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492958&idx=2&sn=059525cd50a7ab896fa1b74ddaf666e2": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486062&idx=1&sn=90cdb6b5758ea4edd8dd9cc04d99605b": "微软警示：俄罗斯“沙虫”APT组织借Edge漏洞全球出击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492222&idx=1&sn=271d0575939c30715dc6a988a89f4f15": "漏洞预警 Netxxxx 日志审计 hostdelay.php 命令注入漏洞"
 }
