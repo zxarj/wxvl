@@ -13158,5 +13158,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485313&idx=1&sn=198a3be4357c854dcf4b7a72f6cba9db": "SpEL 表达式注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492958&idx=2&sn=059525cd50a7ab896fa1b74ddaf666e2": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486062&idx=1&sn=90cdb6b5758ea4edd8dd9cc04d99605b": "微软警示：俄罗斯“沙虫”APT组织借Edge漏洞全球出击",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492222&idx=1&sn=271d0575939c30715dc6a988a89f4f15": "漏洞预警 Netxxxx 日志审计 hostdelay.php 命令注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492222&idx=1&sn=271d0575939c30715dc6a988a89f4f15": "漏洞预警 Netxxxx 日志审计 hostdelay.php 命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319330&idx=4&sn=a2d4ea6741ac9184d5f80cde52f1e9a9": "浏览器加密钱包高危漏洞可致资金遭窃",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096180&idx=2&sn=58874b98f135ceb4184155f4d744dac1": "Synology 网络文件系统漏洞允许读取任何文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODE4ODUzMg==&mid=2247486758&idx=1&sn=e5640c78786589edb76374c1e8b2336c": "【代码审计】Emlog存在SQL注入+XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486269&idx=1&sn=be0f4d08f2234fdb76c1956104204e03": "文件泄露、目录泄露漏洞利用工具 - forBy",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490377&idx=1&sn=766ad18b8cbcd36d7a499c41be61887a": "【AI风险通告】NVIDIA NeMo存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501013&idx=3&sn=df64e88c62f84227073367a311ab4baf": "【漏洞通告】PyTorch 远程命令执行漏洞(CVE-2025-32434)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319330&idx=3&sn=5ca24153ee938c4148febeb8b4a00bc7": "钓鱼检测机制已失效：为何大多数攻击都像零日漏洞般难以防范",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498243&idx=1&sn=a4d0e5d4e78e0240d96e3c7b2a12c766": "PoC | Commvault 远程代码执行 CVE-2025-34028（9.0）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjM5NTkwOA==&mid=2247483905&idx=1&sn=6d69f97abb24d53c884b8c673912c9fb": "从 CVE-2024-0012 到 CVE-2024-9474：Palo Alto 的分析与思考",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592922&idx=3&sn=c560042d42fba4980bc8dd4a995a051d": "无认证也能入侵？Commvault 现严重漏洞，黑客可借此远程 “掌控” 系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk3NjczNQ==&mid=2247485908&idx=1&sn=d4644e4a34651a7f35768ba3ea0f761e": "如何应对攻防演练过程中的逻辑漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522841&idx=1&sn=b39cd7520c5b0c63d3c0e807374feeb2": "华硕修复严重的AMI 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491003&idx=1&sn=c20dd4edf49ed87a46722ce97bc3dec0": "创宇安全智脑 | 时空智友企业流程化管控系统 indexService.notice SQL注入等88个漏洞可检测"
 }
