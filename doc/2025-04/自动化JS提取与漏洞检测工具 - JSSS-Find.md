@@ -1,7 +1,10 @@
 #  自动化JS提取与漏洞检测工具 - JSSS-Find   
-kk12-30  菜鸟学信安   2025-04-22 00:30  
+kk12-30  安全洞察知识图谱   2025-04-24 00:30  
   
-介绍  
+**免责声明**  
+ 由于传播、利用本公众号所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号安全洞察知识图谱及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+## 1详细介绍  
   
 JSSS-Find 是一款用于自动化提取JS文件、API接口测试以及暴露端点检测的工具。通过访问指定URL，提取并分析JS文件中的接口、路径和敏感信息，帮助开发者发现潜在的安全漏洞。该工具支持对网站进行fuzz测试、漏洞检测、真实浏览器中访问Vue接口等功能。适用于安全研究人员和开发者进行漏洞检测与接口审计。  
 ## 功能  
@@ -102,5 +105,14 @@ JSSS-Find.exe -u https://example.com -fuzz -v
 项目地址  
   
 https://github.com/kk12-30/JSSS-Find  
+## 2免费社区  
   
+安全洞察知识图谱星球是一个聚焦于信息安全对抗技术和企业安全建设的话题社区，也是一个  
+**[免费]**  
+的星球，欢迎大伙加入积极分享红蓝对抗、渗透测试、安全建设等热点主题  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8aia4mibs0I8I42MrYYOSE2DVEpVpPHvxufMGR0yufpgouwIXEl7H5eLm0MgolGFQMDFIrKLTxaYIQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6RhicQq71SAtTAWic1cOJibOLQwBVW5CyLECTgGtHtUqCGvg5Rn3VicwAKZNJXmkKX9BemxOzDdzwv6cocQ/640?wx_fmt=jpeg&from=appmsg "")  
   
