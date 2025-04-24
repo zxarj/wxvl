@@ -13171,5 +13171,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592922&idx=3&sn=c560042d42fba4980bc8dd4a995a051d": "无认证也能入侵？Commvault 现严重漏洞，黑客可借此远程 “掌控” 系统",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk3NjczNQ==&mid=2247485908&idx=1&sn=d4644e4a34651a7f35768ba3ea0f761e": "如何应对攻防演练过程中的逻辑漏洞？",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522841&idx=1&sn=b39cd7520c5b0c63d3c0e807374feeb2": "华硕修复严重的AMI 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491003&idx=1&sn=c20dd4edf49ed87a46722ce97bc3dec0": "创宇安全智脑 | 时空智友企业流程化管控系统 indexService.notice SQL注入等88个漏洞可检测"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491003&idx=1&sn=c20dd4edf49ed87a46722ce97bc3dec0": "创宇安全智脑 | 时空智友企业流程化管控系统 indexService.notice SQL注入等88个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529299&idx=2&sn=49f7a34017d1d3b85d327b0c68ac08b9": "Rust 中的等待线程劫持。特别感谢 @hasherezade 为了出色的 PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492792&idx=1&sn=5cb94a67c2deab77d9fd1d0db1d0bfe3": "【原创0day】金蝶天燕应用服务器IIOP反序列化远程代码执行漏洞（NVDB-CITIVD-2025865374）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572478&idx=1&sn=6929bba0e13fd04ee6dba3ed944e84b0": "漏洞扫描原理和工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247484926&idx=1&sn=d6ae57fae602f4315ef2409421719baf": "FastJSON + MQ 实现反序列化漏洞攻击链",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490011&idx=1&sn=4020ceb268c2880dc7c75ab6a9fc25d9": "【漏洞预警】DataEase H2 JDBC远程代码执行漏洞CVE-2025-32966",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488506&idx=1&sn=b48b84248cf27ef0eff54422a417e831": "利用 Windows 更新堆栈获取系统访问权限（CVE-2025-21204）附exploit",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490380&idx=2&sn=446486a4658f2a6bd6e87f68737311de": "利用 Windows 更新堆栈获取系统访问权限（CVE-2025-21204）附exploit",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488398&idx=1&sn=7a2c57161e0d2eab963ddada274c4b85": "EnGenius路由器usbinteract.cgi接口存在远程命令漏洞 附POC"
 }
