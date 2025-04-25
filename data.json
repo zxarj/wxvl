@@ -13250,5 +13250,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096187&idx=1&sn=806c612704119ea11c83967dd85c8a78": "NVIDIA NeMo 框架存在允许攻击者执行远程代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490427&idx=2&sn=cc59c6319bf0c47e8b08fd7d7310cb14": "分享常见的逻辑漏洞挖掘方法(第一部分)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593074&idx=1&sn=92500ea77b51003d5cd11a932ce93e18": "基于静态分析的路由器固件二进制漏洞挖掘经验分享",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503169&idx=1&sn=6c2c3a924e8d7e9eb096f5e2703592ff": "【成功复现】Langflow框架远程命令执行漏洞(CVE-2025-3248)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503169&idx=1&sn=6c2c3a924e8d7e9eb096f5e2703592ff": "【成功复现】Langflow框架远程命令执行漏洞(CVE-2025-3248)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247487722&idx=1&sn=90f89a1a6fbdb5fe671466a3c09d7d96": "分享常见的逻辑漏洞挖掘方法(第一部分)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484369&idx=1&sn=6264d0cf790e747b8e22bcede8991457": "尽快更新Redis，最新漏洞可导致服务器遭受拒绝服务攻击（CVE-2025-21605）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489732&idx=1&sn=698bede76a8adebf728d0d33371f0c08": "国外顶级漏洞实战工具推荐（附下载）"
 }
