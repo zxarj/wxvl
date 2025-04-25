@@ -13236,5 +13236,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDcyMDkxNQ==&mid=2247483733&idx=1&sn=c75fad5f7e73656b5342c2f3c63de6ef": "记一次接口导致的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069278&idx=4&sn=65b96c2d3c069f56a8cea6f42de7bddd": "【安全圈】微软的符号链接补丁造成了新的 Windows DoS 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069278&idx=1&sn=438c2449a1c0f61060e790d949b847cc": "【安全圈】NVIDIA NeMo 框架三大高危漏洞致远程攻击与数据篡改风险剧增",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529330&idx=1&sn=5273a3d55b47ff1835c54020889f53b0": "Sunder：旨在利用 BYOVD 漏洞的 Windows rootkit"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529330&idx=1&sn=5273a3d55b47ff1835c54020889f53b0": "Sunder：旨在利用 BYOVD 漏洞的 Windows rootkit",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490439&idx=2&sn=8029c1b6c6cb4fc1169abf3a53ac4447": "最新版 ThinkPHP (8.1.2) 反序列化漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487182&idx=1&sn=8c2b60b3566660b43f205a0b89726616": "最新版 ThinkPHP (8.1.2) 反序列化漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490439&idx=3&sn=7822e78bd1e899c30605c7c609a46f97": "【成功复现】Langflow框架远程命令执行漏洞(CVE-2025-3248)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490016&idx=1&sn=212825e78ccf912c2055b4f72bf76d21": "【漏洞预警】Redis 输出缓冲区无限增长漏洞(CVE-2025-21605)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064123&idx=1&sn=721f25cefdfacffd7ce62f78013ecd9c": "信息安全漏洞周报【第019期】",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484859&idx=1&sn=52e57dc121dc0387b40b7290e79f2311": "【复现】金蝶天燕应用服务器IIOP远程代码执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520238&idx=1&sn=6c8b09c6d48109abd244d88e0cc4ad70": "emlog2.5.3代码审计（后台文件上传漏洞）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490427&idx=1&sn=27bc97bfd0b09206a6e4b7c06ad6409f": "SyntaxFlow：挖掘 CVE 漏洞必备神器！你还不赶紧了解？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528099&idx=1&sn=966bc9b67422d7cc64c8820ab10eb3fd": "SyntaxFlow：挖掘 CVE 漏洞必备神器！你还不赶紧了解？",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788499&idx=1&sn=9a053702b5755c299da17056ceb7ee75": "高达30000美元！微软大幅提升AI漏洞奖金，强化企业级AI安全防线",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096187&idx=1&sn=806c612704119ea11c83967dd85c8a78": "NVIDIA NeMo 框架存在允许攻击者执行远程代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490427&idx=2&sn=cc59c6319bf0c47e8b08fd7d7310cb14": "分享常见的逻辑漏洞挖掘方法(第一部分)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593074&idx=1&sn=92500ea77b51003d5cd11a932ce93e18": "基于静态分析的路由器固件二进制漏洞挖掘经验分享",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503169&idx=1&sn=6c2c3a924e8d7e9eb096f5e2703592ff": "【成功复现】Langflow框架远程命令执行漏洞(CVE-2025-3248)"
 }
