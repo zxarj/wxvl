@@ -13179,5 +13179,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490011&idx=1&sn=4020ceb268c2880dc7c75ab6a9fc25d9": "【漏洞预警】DataEase H2 JDBC远程代码执行漏洞CVE-2025-32966",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488506&idx=1&sn=b48b84248cf27ef0eff54422a417e831": "利用 Windows 更新堆栈获取系统访问权限（CVE-2025-21204）附exploit",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490380&idx=2&sn=446486a4658f2a6bd6e87f68737311de": "利用 Windows 更新堆栈获取系统访问权限（CVE-2025-21204）附exploit",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488398&idx=1&sn=7a2c57161e0d2eab963ddada274c4b85": "EnGenius路由器usbinteract.cgi接口存在远程命令漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488398&idx=1&sn=7a2c57161e0d2eab963ddada274c4b85": "EnGenius路由器usbinteract.cgi接口存在远程命令漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492974&idx=1&sn=af7da704aa7e9e6e01021f44ceda5524": "漏洞预警 | 信呼OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485081&idx=1&sn=0e1c4533cce261d0dfa49d570e148ed3": "nginxWebui后台任意文件读取漏洞&rce分析-0day&nday",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499531&idx=1&sn=bb741abbff893460d68ff6d3793bad05": "一种利用路径变形绕过权限校验的思路：那些容易被忽视的 .NET 漏洞触发点",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794950&idx=1&sn=6642725c8bcebf170a680f15843e31eb": "Lazarus APT 利用1day漏洞攻击韩国目标",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485297&idx=1&sn=78d3717fe173bfec11dc4b6902f64845": "CVE-2025-31324 - SAP NetWeaver Visual Composer 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492974&idx=3&sn=33643ead4537eaec9350bad94b4d8fb4": "漏洞预警 | 金盘移动图书馆系统信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247486691&idx=1&sn=b7f1947265bcbb4a26c21df66e6100d2": "一个漏洞仓库免费送~",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485263&idx=2&sn=a075105a69658ee8e406e8b8dc90c0e1": "Redis 漏洞导致服务器遭受拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491135&idx=1&sn=51bcc6a04528afc85db9bee9f064d61c": "AI基础设施安全评估系统|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485263&idx=1&sn=027919b5c15cc15963221333bb5101d5": "GitLab安全通告 | 修复了XSS 和帐户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492034&idx=1&sn=c9b965192ea74eb78b3d26380dc60afc": "《存量线上系统安全漏洞管理：从渗透测试到全面收敛》｜总第286周",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492974&idx=2&sn=400a40dcd37c5e3a5127c17e35a1307c": "漏洞预警 | Netgear信息泄露漏洞"
 }
