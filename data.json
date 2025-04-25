@@ -13219,5 +13219,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485346&idx=1&sn=45c65a8cf45b500e29b50de741357c62": "常见EDU漏洞，附实战案例",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489643&idx=1&sn=6cc9549f8edc947cf894866e6906c388": "某GPS定位系统存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247493177&idx=3&sn=83925203c8af0451f4866346d5e8bb6f": "上周关注度较高的产品安全漏洞(20250414-20250420)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524300&idx=1&sn=61b24316b9f37ce64fe962488a66acd9": "【漏洞通告】Commvault 远程代码执行漏洞(CVE-2025-34028)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524300&idx=1&sn=61b24316b9f37ce64fe962488a66acd9": "【漏洞通告】Commvault 远程代码执行漏洞(CVE-2025-34028)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319505&idx=4&sn=bf97b7d596686473d85ecf14ad5cf251": "微软悬赏最高3万美元征集AI系统漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497422&idx=2&sn=4aa07a29eb9043fda3afbd8a99158478": "【漏洞通告】Redis输出缓冲区无限增长漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572488&idx=1&sn=fb46d17acd46d619bb34786240fcaeae": "Top 10 漏洞不懂？这还不手拿把掐吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522855&idx=1&sn=a1bca2956d4fbf963b9b88a083a14e0a": "2025年Q1 遭利用漏洞达159个，开源软件类排名第四",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529330&idx=3&sn=c2b1ae814f79a58ae8aa630f27df0a49": "揭秘 SuperNote Nomad 电子墨水屏平板电脑中的 0-Click RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319505&idx=1&sn=47cfe84c58cbf0a4340300245c458b96": "2025年第一季度159个CVE漏洞遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODQzOTYxMQ==&mid=2247483853&idx=1&sn=1a087ace4e3172d75778afe88364aaf9": "分享常见的逻辑漏洞挖掘方法(第一部分)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069278&idx=2&sn=1de49835dbc9a027714f7dd639995399": "【安全圈】Kubernetes 集群安全漏洞遭利用，算力资源面临严重危机",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484760&idx=1&sn=c15ee9e8c3a22263f1d8a84d5be44167": "小程序渗透记录 通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489237&idx=1&sn=220aba54ff373c4fbcccf474a8eacac7": "关于防范Google Chrome沙箱逃逸高危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488035&idx=1&sn=274a2f64a5da0da9cbc0677e3f1b79fa": "独家揭秘：1000万漏洞赏金白帽，SRC漏洞挖掘通杀思路分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486363&idx=1&sn=2fba6ac5ecaf5f265ba1384fc09400a2": "漏洞预警 | 金和OA文件任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjE2NTM5Mg==&mid=2247485561&idx=1&sn=01a2762c91f33dedccdbcfff2d38ee16": "二维码功能点SRC漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MDcyMDkxNQ==&mid=2247483733&idx=1&sn=c75fad5f7e73656b5342c2f3c63de6ef": "记一次接口导致的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069278&idx=4&sn=65b96c2d3c069f56a8cea6f42de7bddd": "【安全圈】微软的符号链接补丁造成了新的 Windows DoS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069278&idx=1&sn=438c2449a1c0f61060e790d949b847cc": "【安全圈】NVIDIA NeMo 框架三大高危漏洞致远程攻击与数据篡改风险剧增",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529330&idx=1&sn=5273a3d55b47ff1835c54020889f53b0": "Sunder：旨在利用 BYOVD 漏洞的 Windows rootkit"
 }
