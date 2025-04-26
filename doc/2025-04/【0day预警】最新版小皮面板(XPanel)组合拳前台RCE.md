@@ -1,5 +1,5 @@
 #  【0day预警】最新版小皮面板(XPanel)组合拳前台RCE   
-原创 匿名大手子  菜狗安全   2025-04-26 00:00  
+ sec0nd安全   2025-04-26 02:26  
   
 ![](https://mmbiz.qpic.cn/mmbiz_png/QtaE6uFmibPlzg5sZKIlTPHGFlkF53seUMNUsR3TKcn9VGDeJTwzichS2dI31pVDLibP6XhejxiakNbBahbqtchM5A/640?wx_fmt=png&from=appmsg "")  
   
