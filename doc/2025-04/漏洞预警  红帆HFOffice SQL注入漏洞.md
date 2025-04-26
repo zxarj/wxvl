@@ -1,5 +1,5 @@
 #  漏洞预警 | 红帆HFOffice SQL注入漏洞   
-浅安  浅安安全   2025-04-24 00:00  
+浅安  浅安安全   2025-04-26 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -11,7 +11,7 @@
   
 红帆HFOffice是广州红帆科技有限公司研发的新一代医院智慧管理云平台，它采用了一系列红帆HFOffice是广州红帆科技有限公司研发的新一代医院智慧管理云平台。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SUaibfaUKics1fxd9mDYiba3ibiacJoRqx8w8cOXGdZ3H2Ju0NrQNLIfHDKmfuyJT3gWeWajUq3nPKfcuQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SUaibfaUKics1fxd9mDYiba3ibiacJoRqx8w8cOXGdZ3H2Ju0NrQNLIfHDKmfuyJT3gWeWajUq3nPKfcuQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
 **0x03 漏洞详情**  
 ###   
@@ -26,7 +26,9 @@ SQL注入
 ****  
   
 **简述：**  
-红帆HFOffice的GetShowMsg存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
+红帆HFOffice的  
+GetSelEmpID  
+、GetScheduleDetail和GetRemindInf存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 红帆HFOffice  

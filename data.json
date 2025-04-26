@@ -13253,5 +13253,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503169&idx=1&sn=6c2c3a924e8d7e9eb096f5e2703592ff": "【成功复现】Langflow框架远程命令执行漏洞(CVE-2025-3248)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247487722&idx=1&sn=90f89a1a6fbdb5fe671466a3c09d7d96": "分享常见的逻辑漏洞挖掘方法(第一部分)",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484369&idx=1&sn=6264d0cf790e747b8e22bcede8991457": "尽快更新Redis，最新漏洞可导致服务器遭受拒绝服务攻击（CVE-2025-21605）",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489732&idx=1&sn=698bede76a8adebf728d0d33371f0c08": "国外顶级漏洞实战工具推荐（附下载）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489732&idx=1&sn=698bede76a8adebf728d0d33371f0c08": "国外顶级漏洞实战工具推荐（附下载）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610417&idx=4&sn=6972dd43d82d5f9c4167b7d74cb0b17d": "若依Vue漏洞检测工具更新！V5",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610417&idx=3&sn=bfbff1b7860e42d001a0044c92dc76f5": "某开源cms 0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487362&idx=1&sn=ffab6e6499a8203e377311e6ebc5c794": "LFI漏洞攻击技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247486771&idx=2&sn=ab22dce138ee1747f457073376df6da6": "一个漏洞仓库免费送~",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492981&idx=3&sn=39816d35194849a0b028af9fc33d2549": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486343&idx=1&sn=5d6b5ed29ee6c4cfbb7d1471d61c62b5": "【0day预警】最新版小皮面板(XPanel)组合拳前台RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486856&idx=2&sn=79155121efd595cc94acdb1dff84ae1f": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487772&idx=1&sn=ffbb3f555dc0c92f7d4788ffe6c9eb41": "日本遭定向攻击！Ivanti ICS零日漏洞被利用部署新型恶意软件DslogdRAT",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492981&idx=1&sn=f0d6ac50be626c0e77dbfafc97dec4a9": "漏洞预警 | Redis拒绝服务漏洞"
 }
