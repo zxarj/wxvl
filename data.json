@@ -13280,5 +13280,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492324&idx=1&sn=494f00f92c293602a05ffbb5b0ae7d45": "PoC攻击暴露Linux安全工具缺陷，以色列厂商称过度依赖eBPF埋隐患",
     "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247639022&idx=2&sn=e5a458cfa9a3dca4c3690cd7e2f241d1": "在看 | 周报：国家部委张某犯重大间谍案；微软新安全功能误判导致全球性账户锁定；华硕确认AiCloud路由器存在严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491373&idx=1&sn=bddc643fa7e0e7a9925c0c6033d1a498": "隐藏在菜单外的\"秘密菜品\"：我如何通过robots.txt找到管理后台并实现远程代码执行",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498299&idx=4&sn=7fc6a5afafb1dcc87ce8e0bd169e98c9": "SAP NetWeaver 中的关键漏洞受到主动利用的威胁"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498299&idx=4&sn=7fc6a5afafb1dcc87ce8e0bd169e98c9": "SAP NetWeaver 中的关键漏洞受到主动利用的威胁",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487464&idx=1&sn=e0b566b9dddca36bdf056ad6cd249264": "第120篇：蓝队溯源之蚁剑、sqlmap、Goby反制方法的复现与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497501&idx=1&sn=c783d1b5f731639fcaf36886991d03ac": "通过svg图片所引发的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490471&idx=3&sn=4aa1ab94347fba06d79d95b2c6e25e7f": "e0e1-wx 2.0版本更新以及关于POC项目和开源的一些想法",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483807&idx=1&sn=afa867ab0098d7309f26e8a4e1b41d47": "Clash Verge rev存在提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491250&idx=1&sn=1589cdf95c37135b68060eeea580a1ba": "mojoPortal 路径穿越漏洞 (CVE-2025-28367)"
 }
