@@ -13293,5 +13293,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485277&idx=2&sn=bec458c6ec98af95cb42cc46ca2ec753": "宏景人力资源管理系统 searchCreatPlanList.do SQL注入漏洞(CNVD-2025-6953)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486384&idx=1&sn=b6fb6926d5a741f709d143d27b79eaba": "【0day预警】最新版小皮面板(XPanel)绕过随机安全入口前台RCE方法",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545362&idx=3&sn=aa7972bdc76a510d57709e9f6aba868d": "护网行动2024漏洞复盘：这些\"0day漏洞\"为何让企业一夜崩盘？",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493694&idx=5&sn=49db93550106b05328cf156c1793c8e9": "\"同步漏洞行动\"：朝鲜Lazarus APT组织针对韩国供应链发起攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493694&idx=5&sn=49db93550106b05328cf156c1793c8e9": "\"同步漏洞行动\"：朝鲜Lazarus APT组织针对韩国供应链发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489241&idx=1&sn=1ea2b1e95eae60d541f666bf209182df": "关于防范WinRAR安全绕过漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODQzOTYxMQ==&mid=2247483866&idx=1&sn=7282798bc74793bf077cebd365095660": "分享常见的逻辑漏洞挖掘方法（第二部分）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490385&idx=1&sn=4cfdc0b4934024bd105c72784afa70a8": "Spring Boot漏洞总结（文末加技术交流群）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655276954&idx=1&sn=870030f19adfaab97c56128696974508": "170页 漏洞挖掘总结",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492061&idx=1&sn=64139272d079affc4eb3df7762bf31cf": "【代码审计】Emlog存在SQL注入+XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489615&idx=1&sn=fb03351f755d4563e443004961f44714": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=3&sn=231cd7445803c6bab90466a6ef29caac": "Chrome浏览器\"释放后使用\"漏洞已被黑客在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=4&sn=bb673eca55bbe03aae54703463f04026": "黑客利用MS-SQL服务器漏洞部署Ammyy Admin以获取远程访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490024&idx=2&sn=27f7a3003f330bab03408c0b7de38e21": "【高危漏洞预警】Craft CMS generate-transform反序列化代码执行漏洞（CVE-2025-32432）",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485277&idx=1&sn=293b817116541488409589488335368d": "WordPress未授权任意文件读取_CVE-2025-2294"
 }
