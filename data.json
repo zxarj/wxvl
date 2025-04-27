@@ -13326,5 +13326,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260114&idx=1&sn=f6ffb848bca1aeeaeef38f1444723053": "SAP NetWeaver中存在严重漏洞，面临主动利用威胁",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319591&idx=3&sn=bb25fe344d136765f4842ec2635d92b2": "同步漏洞行动：朝鲜Lazarus APT组织针对韩国供应链发起攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522866&idx=1&sn=f8c7ca3a1ba46ce90b3df18909d4b5b4": "Craft CMS RCE利用链用于窃取数据",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484033&idx=1&sn=1b001fdce45c26dae3323b272cf87fb6": "【已复现】Craft CMS generate-transform 反序列化代码执行漏洞（CVE-2025-32432）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484033&idx=1&sn=1b001fdce45c26dae3323b272cf87fb6": "【已复现】Craft CMS generate-transform 反序列化代码执行漏洞（CVE-2025-32432）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069303&idx=4&sn=2be93ee795a859778f6b32285101b8fc": "【安全圈】CVE-2025-3248：Langflow 开源平台严重远程代码执行漏洞威胁 AI 工作流安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490523&idx=1&sn=b842c67635f0e5ef41bb3169cc1d5320": "【成功复现】CrushFTP身份认证绕过漏洞（CVE-2025-2825)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649172696&idx=1&sn=7c590e6c2eac84fac168019dea52ae62": "预警丨防范WinRAR安全绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514261&idx=2&sn=f0875aa740f8b02e3cafb8f0d80e80d3": "工信部：关于防范WinRAR安全绕过漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489658&idx=1&sn=93ac859afef58e956ec55b5a9e03e722": "whisper多商户客服系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247493334&idx=1&sn=7b4e431ce2d3cd74d6067f9a2c5ca5fa": "记一次漏洞复现威胁情报导致的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDE0Mzk0NA==&mid=2649595577&idx=1&sn=4be078f0d7364e26e7949c38af820abe": "今天省 1 千漏洞修复费，明天赔 10 万应急款：漏洞沉默成本到底如何算？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491165&idx=1&sn=0b2ef143b18654783c497a621e4b9f71": "如何利用隐藏功能点发现SQL注入漏洞和注入绕过技巧|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490523&idx=2&sn=415db99a23021d22f8d14d21b31123bc": "今天省 1 千漏洞修复费，明天赔 10 万应急款：漏洞沉默成本到底如何算？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485060&idx=1&sn=bd3e6ce98f737ab0af86429d7da47278": "Steam 客户端漏洞 &&从csgo角度看待网络安全"
 }
