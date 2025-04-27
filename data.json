@@ -13303,5 +13303,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=3&sn=231cd7445803c6bab90466a6ef29caac": "Chrome浏览器\"释放后使用\"漏洞已被黑客在野利用",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=4&sn=bb673eca55bbe03aae54703463f04026": "黑客利用MS-SQL服务器漏洞部署Ammyy Admin以获取远程访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490024&idx=2&sn=27f7a3003f330bab03408c0b7de38e21": "【高危漏洞预警】Craft CMS generate-transform反序列化代码执行漏洞（CVE-2025-32432）",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485277&idx=1&sn=293b817116541488409589488335368d": "WordPress未授权任意文件读取_CVE-2025-2294"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485277&idx=1&sn=293b817116541488409589488335368d": "WordPress未授权任意文件读取_CVE-2025-2294",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247486775&idx=3&sn=416f965f0a9a78a97ad6220308ccca8e": "一个漏洞仓库免费送~",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484027&idx=1&sn=d90e95c4319a9fb9c58e06a19a2c8540": "【二次更新已复现】SAP NetWeaver MetadataUploader 文件上传漏洞（CVE-2025-31324）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=5&sn=2fab8c693996300aaa17336b62626cb2": "DragonForce 和 Anubis 勒索软件运营商推出新的联盟模式",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489111&idx=3&sn=e9d75ee5861c3d5214d11ed7a192e9b4": "谷歌云平台云Composer权限提升漏洞修复：ConfusedComposer",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486083&idx=1&sn=22fe8561c0b5a6e7c5de899debb5e8f1": "注意！朝鲜Kimsuky组织利用BlueKeep漏洞，疯狂攻击日韩",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491260&idx=1&sn=e755a07fdb95a8da29e4d52f916d8bc7": "CrushFtp 权限绕过漏洞 (CVE-2025-31161)"
 }
