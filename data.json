@@ -13309,5 +13309,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524459&idx=5&sn=2fab8c693996300aaa17336b62626cb2": "DragonForce 和 Anubis 勒索软件运营商推出新的联盟模式",
     "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489111&idx=3&sn=e9d75ee5861c3d5214d11ed7a192e9b4": "谷歌云平台云Composer权限提升漏洞修复：ConfusedComposer",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486083&idx=1&sn=22fe8561c0b5a6e7c5de899debb5e8f1": "注意！朝鲜Kimsuky组织利用BlueKeep漏洞，疯狂攻击日韩",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491260&idx=1&sn=e755a07fdb95a8da29e4d52f916d8bc7": "CrushFtp 权限绕过漏洞 (CVE-2025-31161)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491260&idx=1&sn=e755a07fdb95a8da29e4d52f916d8bc7": "CrushFtp 权限绕过漏洞 (CVE-2025-31161)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503192&idx=1&sn=714ca6216b263e65726e7ccad9e77563": "【成功复现】CrushFTP身份认证绕过漏洞（CVE-2025-2825)",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278191&idx=2&sn=af54521d53c958ca738da98aa135275d": "盛邦安全获评“国家信息安全漏洞库（CNNVD）一级技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486860&idx=2&sn=006ac94da842509758fcd16e3890de95": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572516&idx=2&sn=2f22c93716171977e91e54a0780f0d38": "容器镜像安全：安全漏洞扫描神器Trivy",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490024&idx=1&sn=59886c95df43ebe7b2c5e6d30022aaff": "【漏洞预警】Grafana权限管理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490511&idx=2&sn=934a5720e528d15828201864c9501c68": "分享常见的逻辑漏洞挖掘方法（第二部分）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485392&idx=1&sn=57ef28cc29e3c27486dddbf4b56b3426": "智能汽车漏洞挖掘案例分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247498989&idx=1&sn=0ef9ce3aa929cc157dc2393e6f8b4dbb": "【文章转载】DragonForce与Anubis再掀风暴：勒索软件“加盟制”全面升级，你的数据还安全吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529349&idx=3&sn=0fced79c14158455ee6b98e3d298eaf6": "BleedingTooth：Linux 蓝牙零点击远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522866&idx=2&sn=5e8614c50bbde8621342a1caffc25b99": "SAP修复已遭利用的0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650622118&idx=2&sn=378b487b61b6624a14b17a64b494189d": "CVSS10分！Erlang∕OTP SSH远程代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554620&idx=2&sn=48b116a5316e756bade77cd6318bffbd": "【免费领】超400页！Android系统漏洞实战权威指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486292&idx=1&sn=f953fc8eddfc54310b07d7203a934fef": "【工具分享】SMS_Bomb_Fuzzer漏洞挖掘之短信轰炸辅助绕过插件",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260114&idx=1&sn=f6ffb848bca1aeeaeef38f1444723053": "SAP NetWeaver中存在严重漏洞，面临主动利用威胁",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319591&idx=3&sn=bb25fe344d136765f4842ec2635d92b2": "同步漏洞行动：朝鲜Lazarus APT组织针对韩国供应链发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522866&idx=1&sn=f8c7ca3a1ba46ce90b3df18909d4b5b4": "Craft CMS RCE利用链用于窃取数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484033&idx=1&sn=1b001fdce45c26dae3323b272cf87fb6": "【已复现】Craft CMS generate-transform 反序列化代码执行漏洞（CVE-2025-32432）"
 }
