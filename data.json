@@ -13384,5 +13384,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486223&idx=1&sn=7f6e6fcfaa74e32348aa21471b7c2fd0": "福建科立讯指挥调度管理平台send_fax远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247493751&idx=1&sn=7620b7b8ed733e049225a65ebd7e3286": "mybb 0day？ bf复活？",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524408&idx=1&sn=d6c29a2295cba12b60be9edf535a4b09": "【漏洞通告】SAP NetWeaver 远程代码执行漏洞(CVE-2025-31324)",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554627&idx=1&sn=3052215a08035935eb1fb8fda08baa31": "无法避免的漏洞，别轻易认栽"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554627&idx=1&sn=3052215a08035935eb1fb8fda08baa31": "无法避免的漏洞，别轻易认栽",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486036&idx=1&sn=bfcb31206d049f5d266f3f676d33a4cd": "限时开放注册-Ai网络安全智能助手 - 漏洞检索、攻防技巧、CVE知识库、代码审计、应急响应 、聊天机器人、安全基础知识等",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490034&idx=1&sn=0a33514a576e3f84a20c7d7ca7daffea": "【高危漏洞预警】基于browser-use的AI Agent应用pickle反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485399&idx=1&sn=838097fded634b952db553b20e918eca": "SSTI 模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488409&idx=1&sn=37f4e49b2d10bc4495aaafb5a040b0b7": "XWiki SolrSearch接口存在远程命令执行漏洞CVE-2025-24893 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492763&idx=1&sn=625232d93ac8504b86a7342d408389e2": "Kimsuky 利用 BlueKeep RDP 漏洞入侵韩国和日本系统",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096196&idx=2&sn=1e8d21cd19321f47aedc061df955dce5": "Microsoft 的符号链接补丁创建了新的 Windows DoS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136458&idx=1&sn=8edda4cb9be93dda140e8cd097cba008": "《2025年提升全民数字素养与技能工作要点》印发，提出营造安全有序数字环境；PoC攻击暴露Linux安全工具核心设计缺陷 |牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490034&idx=2&sn=bb526b3f64729cd3852c66a5747123df": "【漏洞预警】SAP NetWeaver Visual Composer远程代码执行漏洞CVE-2025-31324",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623928&idx=1&sn=a282f1a835ce7005bdbcc252bd8af2b6": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞"
 }
