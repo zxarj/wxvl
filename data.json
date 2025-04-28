@@ -13350,5 +13350,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492988&idx=4&sn=6a70705789bddc11aa1782907cf8cd98": "漏洞环境 | AscensionPath",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545403&idx=3&sn=feadcaf7742a22330b676d1c9e307aea": "别怪技术不够硬，网络钓鱼拿捏的就是“人性漏洞”",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492988&idx=1&sn=a5738e65a40b5569ed8346029928619a": "漏洞预警 | PyTorch远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485287&idx=2&sn=56cd0ef3de3e2432f7221ca9a22230a2": "核弹级漏洞预警｜NUUO监控设备远程沦陷实录(CVE-2025-1338)"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485287&idx=2&sn=56cd0ef3de3e2432f7221ca9a22230a2": "核弹级漏洞预警｜NUUO监控设备远程沦陷实录(CVE-2025-1338)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492988&idx=2&sn=7234221adadbaab801431495a0911d35": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484505&idx=1&sn=cf094b4a2ce3feacebb23599aca0d1a5": "StudentServlet-JSP跨站脚本漏洞及解决办法（CNVD-2025-06945、CVE-2025-3036）",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485287&idx=1&sn=63d5a97d15463a1ed0e183a00c8fda38": "Apache Calcite惊现高危漏洞！数据库连接竟成黑客后门？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522866&idx=1&sn=f8c7ca3a1ba46ce90b3df18909d4b5b4&subscene=0": "Craft CMS RCE利用链用于窃取数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491269&idx=1&sn=1270ce233c8220513fadb1a3c69b928c": "时空智友 企业信息管理系统 updater.getStudioFile 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514261&idx=2&sn=f0875aa740f8b02e3cafb8f0d80e80d3&subscene=0": "工信部：关于防范WinRAR安全绕过漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485018&idx=1&sn=8ba2cafe78cf870bfa17f2f821016416": "地理数据的背叛：坐标风暴漏洞讲解",
+    "https://mp.weixin.qq.com/s?__biz=MzIyOTUzODY5Ng==&mid=2247504434&idx=1&sn=0403e4ddf5488d49eec5fb5c51f65548": "攻防演练大考将至，企业如何防范人员安全漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492244&idx=1&sn=69fcc88e6c320fb6dc9c59df7eca18b0": "漏洞预警 西部数据 NAS remoteBackups.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069303&idx=4&sn=2be93ee795a859778f6b32285101b8fc&subscene=0": "【安全圈】CVE-2025-3248：Langflow 开源平台严重远程代码执行漏洞威胁 AI 工作流安全"
 }
