@@ -1,5 +1,5 @@
 #  漏洞预警 | 红帆HFOffice SQL注入漏洞   
-浅安  浅安安全   2025-04-26 00:00  
+浅安  浅安安全   2025-04-29 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -27,8 +27,7 @@ SQL注入
   
 **简述：**  
 红帆HFOffice的  
-GetSelEmpID  
-、GetScheduleDetail和GetRemindInf存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
+GetIfDetail存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
 - 红帆HFOffice  

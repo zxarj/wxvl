@@ -13402,5 +13402,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489682&idx=1&sn=735e081a2ed55cc54fbb3798d57ae3c3": "针对Spring-Boot漏洞框架的渗透测试",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486227&idx=1&sn=55099f47115fdab70db0ba6e7ba685b9": "CVE-2025-32432（RCE）漏洞被大规模利用，未修复系统可能已遭数据窃取",
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485296&idx=2&sn=2d5fcf6719a8a39955fcbfa59aec80f6": "【漏洞复现】Erlang∕OTP SSH远程代码执行漏洞（CVE-2025-32433）环境搭建与POC使用指南",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492999&idx=2&sn=1bf3cb1368c1af55a53dd64fa1eee1f0": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492999&idx=2&sn=1bf3cb1368c1af55a53dd64fa1eee1f0": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610449&idx=3&sn=469dc9e1efd0e45b858c92f3730338f4": "浅谈常见edu漏洞，逻辑漏洞，越权，接管到getshell，小白如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260955&idx=1&sn=8df80063ef375c070447ab01a1d1f1c9": "【白帽狩猎日记】一个支付逻辑漏洞，怒赚 $9000 赏金",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491288&idx=1&sn=275b7354dd19725de555f774656952cf": "万户 ezOFFICE selectCommentField.jsp sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247615972&idx=1&sn=b479bd671e0e5d76a57af77c75d360b9": "漏洞赏金故事 | 通过已删除的文件赚到 6.4 万$",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487789&idx=1&sn=77aa7afe44d4976e6bdc8705dd411d63": "CVE-2025-32432（RCE）漏洞被大规模利用，未修复系统可能已遭数据窃取",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492999&idx=3&sn=2ef39580c664372beeefdbf36fcb99ce": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251777&idx=1&sn=68da761200a8322bd91dc18cc1298bd3": "第一季度159个CVE遭到野外利用，近三成漏洞24小时内被武器化",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493721&idx=1&sn=61208c3a6f1dd07f08a296b7aa05150a": "PoC级Rootkit\"Curing\"突破传统Linux检测机制",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498393&idx=1&sn=c1d865fb4b31e041129afdbc81a38eab": "【PoC】0-Click NTLM 身份验证绕过 Microsoft Telnet 服务器 0day，无补丁"
 }
