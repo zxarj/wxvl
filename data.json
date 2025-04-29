@@ -13439,5 +13439,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=2&sn=b03a5942c7c90f70ad49eff3936e922b": "CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
     "https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017547&idx=1&sn=a28bcc3c148fe384736137ed48f8c061": "代码里的黄金周，单个漏洞至高奖励3万元！",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=2&sn=5f7a34ea48b2d067dffedc763d84e076": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487401&idx=1&sn=00f2815a0fb59f54f7fab8c249a11d6c": "GLPI 中的预身份验证 SQL 注入到 RCE（CVE-2025-24799∕CVE-2025-24801）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486375&idx=1&sn=47fe33f6229583275d6ec2dcb753df83": "2024年在野零日漏洞利用分析（上）"
 }
