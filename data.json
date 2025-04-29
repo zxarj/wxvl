@@ -13411,5 +13411,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247492999&idx=3&sn=2ef39580c664372beeefdbf36fcb99ce": "漏洞预警 | 红帆HFOffice SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251777&idx=1&sn=68da761200a8322bd91dc18cc1298bd3": "第一季度159个CVE遭到野外利用，近三成漏洞24小时内被武器化",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493721&idx=1&sn=61208c3a6f1dd07f08a296b7aa05150a": "PoC级Rootkit\"Curing\"突破传统Linux检测机制",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498393&idx=1&sn=c1d865fb4b31e041129afdbc81a38eab": "【PoC】0-Click NTLM 身份验证绕过 Microsoft Telnet 服务器 0day，无补丁"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498393&idx=1&sn=c1d865fb4b31e041129afdbc81a38eab": "【PoC】0-Click NTLM 身份验证绕过 Microsoft Telnet 服务器 0day，无补丁",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247520452&idx=1&sn=fac017415e0dc7815a4170b0b6b0eeec": "实战攻防之Nacos漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514274&idx=2&sn=00d8fd9045b8d0ad42afa868edbd33e9": "现代漏洞管理厂商ProjectDiscovery斩获RSAC 2025创新沙盒冠军",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538650&idx=1&sn=7dbd3d3ecaf24c6caccadeb964a1cc64": "最新报告：2024 年网络攻击总量达 3110 亿次，AI API 漏洞成“罪魁祸首”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498393&idx=2&sn=60397211c87106c7f1e0618e95f8c89a": "BreachForums 显示关于关闭的消息，引用 MyBB 0day 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487400&idx=1&sn=857d68271aceb42921819cb35ec99321": "OttoKit WordPress 插件管理员创建漏洞 CVE-2025-3102",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493721&idx=4&sn=534c3042ecda8f4418c0c8e67cc51c18": "大规模钓鱼攻击瞄准WordPress WooCommerce用户",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498926&idx=1&sn=245c22236290b9a85ae9ef307e62e465": "CVE-2025-26244 DeimosC2 XSS",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDk1MDczOQ==&mid=2247485056&idx=1&sn=5813347be79276600151056ae69fbbbb": "Clash Verge 提取漏洞分析与复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490573&idx=2&sn=96a32ecd7173ec089c11b18803bd9fa3": "CVE-2025-32432（RCE）漏洞被大规模利用，未修复系统可能已遭数据窃取",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507755&idx=1&sn=80f46c6c023de56c5d31193cb4e64819": "漏洞通告 | SAP NetWeaver Visual Composer Development Server 远程代码执行漏洞"
 }
