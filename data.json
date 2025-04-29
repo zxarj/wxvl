@@ -13431,5 +13431,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522902&idx=2&sn=7fcf319ff464d0f4275a2de94fe854f8": "Planet Technology 工业网络产品中存在多个严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247501683&idx=1&sn=e439870f953f8529041e66b611840b66": "【CTFer成长之路】SSRF漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496377&idx=1&sn=ddf359203c50bc1f0e7254dad4e79ed5": "【论文速读】| MOS：通过混合专家调优大语言模型实现有效的智能合约漏洞检测",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499287&idx=2&sn=826c08c902c5030a2b15d76ccb901940": "Linux 内核高危漏洞致系统面临权限提升攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499287&idx=2&sn=826c08c902c5030a2b15d76ccb901940": "Linux 内核高危漏洞致系统面临权限提升攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457388789&idx=1&sn=76b923c6a7c1f3ab569dc36e76a679b1": "Expect技巧大揭秘：轻松应对脚本中的交互挑战",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=3&sn=e26688d22d3d923b7e8329b421c52f64": "CVE-2025-23016：严重的 FastCGI 堆溢出威胁嵌入式设备，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=2&sn=41dc6fe173fda324d053dab436917a9c": "深度剖析 CVE-2025-21756：Linux 内核漏洞触发 Root 提权全流程",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490039&idx=1&sn=e099a4d15d3ebfbf2733573086fd9207": "【漏洞预警】Apache Tomcat 逻辑缺陷漏洞CVE-2025-31651",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529406&idx=2&sn=b03a5942c7c90f70ad49eff3936e922b": "CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017547&idx=1&sn=a28bcc3c148fe384736137ed48f8c061": "代码里的黄金周，单个漏洞至高奖励3万元！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=2&sn=5f7a34ea48b2d067dffedc763d84e076": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）"
 }
