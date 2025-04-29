@@ -13421,5 +13421,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498926&idx=1&sn=245c22236290b9a85ae9ef307e62e465": "CVE-2025-26244 DeimosC2 XSS",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDk1MDczOQ==&mid=2247485056&idx=1&sn=5813347be79276600151056ae69fbbbb": "Clash Verge 提取漏洞分析与复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490573&idx=2&sn=96a32ecd7173ec089c11b18803bd9fa3": "CVE-2025-32432（RCE）漏洞被大规模利用，未修复系统可能已遭数据窃取",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507755&idx=1&sn=80f46c6c023de56c5d31193cb4e64819": "漏洞通告 | SAP NetWeaver Visual Composer Development Server 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507755&idx=1&sn=80f46c6c023de56c5d31193cb4e64819": "漏洞通告 | SAP NetWeaver Visual Composer Development Server 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484045&idx=1&sn=e2506204946c5d086b793d05d830bed7": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593244&idx=3&sn=927f267fd5d97e0375b099c5fc39e370": "速升级！Apache Tomcat高危漏洞可致DoS和规则绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk3NjczNQ==&mid=2247485934&idx=2&sn=b5313919518f3648a67191db69d0916f": "漏洞预警|工信部发布关于防范WinRAR安全绕过漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484388&idx=1&sn=26ea776faff7a337ab0c8c94dd458623": "Craft CMS命令执行漏洞POC（CVE-2025-32432）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=1&sn=127e9ca1a8d55931beae293a68e3b706": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=3&sn=7b71152fb35d7895dfea93f15fad09ed": "Apache Tomcat安全更新：修复拒绝服务与重写规则绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522902&idx=2&sn=7fcf319ff464d0f4275a2de94fe854f8": "Planet Technology 工业网络产品中存在多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247501683&idx=1&sn=e439870f953f8529041e66b611840b66": "【CTFer成长之路】SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496377&idx=1&sn=ddf359203c50bc1f0e7254dad4e79ed5": "【论文速读】| MOS：通过混合专家调优大语言模型实现有效的智能合约漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499287&idx=2&sn=826c08c902c5030a2b15d76ccb901940": "Linux 内核高危漏洞致系统面临权限提升攻击"
 }
