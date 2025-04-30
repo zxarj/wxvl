@@ -13502,5 +13502,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490045&idx=1&sn=6a8ac602f3c2d561b1738f0292d82d55": "【漏洞预警】Yeswiki远程代码执行漏洞CVE-2025-46347",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489271&idx=1&sn=8d47ee4c8bb63b8265049ea0dcd8ce78": "【漏洞通告】微软Telnet Server(MS-TNAP)身份验证绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522902&idx=2&sn=7fcf319ff464d0f4275a2de94fe854f8&subscene=0": "Planet Technology 工业网络产品中存在多个严重漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=3&sn=b5673d90eadf3ee6f4dc1bf3c39ab44d": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第三十三期"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=3&sn=b5673d90eadf3ee6f4dc1bf3c39ab44d": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第三十三期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=2&sn=24c18051273a89a9237d6fa7343b76c0": "【漏洞处置SOP】PHP CGI代码注入漏洞（CVE-2024-4577）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503201&idx=1&sn=51cbcde9c3c7543236c2e0da86236628": "【成功复现】XWiki Platform系统远程代码执行漏洞（CVE-2025-24893)"
 }
