@@ -1,7 +1,5 @@
 #  某开源cms 0day挖掘   
- 黑白之道   2025-04-26 00:36  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
+用户9528  马哥网络安全   2025-04-30 09:05  
   
 作者：用户9528  
   
@@ -16,11 +14,13 @@
 CicadasCMS是用springboot+mybatis+beetl开发的一款CMS，支持自定义内容模型、模板标签、全站静态化等功能。  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VWicjGGlhWtiaAvibAibC4Mw6rwvqCTsz21HTY4Eiabju8pMaJpUwPicwlibfg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AGciceMtRm2wqIhSmBbticeicJzzeMaHrvNzciabiaH4OS7siaW5tAVGAicPBw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AiaY2gMjgPwLsicY4j8N8pXmvUl9YEGufKePNwghQFCpGuekwvHVZicndg/640?wx_fmt=png&from=appmsg "")  
   
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VzREwbXaqL60e9MrqxuwQ5Tb1mu7cu41rGWXJeAXQw746bMb4ibXCQWg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+  
 ### 漏洞挖掘  
   
 sql注入（成功）  
@@ -68,7 +68,8 @@ sql注入（成功）
 save方法接受了一个content对象为参数，这个content对象包含主键contentId等信息，formParam对象为一个新建的hashMap，用于保存表单数据的键值对，表示了一些扩展字段和其对应值，那么在这个逻辑中，如果contentId不为空，则调用com.zhiliao.module.web.cms.service.ContentService#update更新数据，否则调用com.zhiliao.module.web.cms.service.ContentService#save进行数据保存：  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7Vmq3qM62ExCrsOXa6Jk86xUXT9KLFUQn5NiaPtnA2uxM2KbSfafkY9oA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9ADd66vwhNHAqzm2iclSictvNHCq9GM3F8qg40dP5DKSZFCpzcia1GheXBw/640?wx_fmt=png&from=appmsg "")  
+  
   
   
   
@@ -109,7 +110,8 @@ com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#update(com.zhiliao.my
 又调用了com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#SaveModelFiledParam进行数据保存：  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7V4e17rSVibS9q8FnQib2OPNy2lLoBlO3VITeOLwNnuEyciaQ8Zt1J1ShTg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AQbWtqtVBTeWFcbVYlAtzNhEGUBibqdcSD53hYibibs2nAXUOwwEUo8VCg/640?wx_fmt=png&from=appmsg "")  
+  
   
   
   
@@ -192,7 +194,8 @@ com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#update(com.zhiliao.my
 那么这里执行的逻辑是：首先进行非空判断，接着遍历表单数据并且动态拼接到sql执行语句中，最后进行执行，显然这里是存在sql注入漏洞：  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VC5bFVev52loYCzYjbUnmSJCV2W2D654D2bUKqmuTFD5fFQKfjUhZeQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9A71XVHNWBtIrEdPKXMZSoAE5bYm1icAr4MmZ1lQia3JKTYGUlrTF3bcUQ/640?wx_fmt=png&from=appmsg "")  
+  
   
   
   
@@ -262,16 +265,12 @@ com.zhiliao.common.upload.UploadComponent#uploadFile：
 这里的newName是从this.getNewFileName(fileName);得到的，fileName又是通过this.getFileName(fileType) ;获得的：  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VWXtwmS5rHWRjb1SGo1tc2NocPNRbqUNwicAzt27WuibRgwNr3EickMvWg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
-  
-  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AQrG31KNavkGXCvaxAu1aMeDkzIW0A8Qouv0rUNGWJz6W8zjkdaodBw/640?wx_fmt=png&from=appmsg "")  
   
 最开始fileType又是通过this.getFileType(attachment.getOriginalFilename());获得的：  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VpdjknrUaSuaZn9TYj3ibMO1I5GkSU6pMG9HmVf55Mpz7TPKZUc2Gouw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
-  
-  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AtcsPWvDpZ6Vs0gGGoJGX4RSLESsmllianUrNUcYa9FgiaDD8VebxWnKA/640?wx_fmt=png&from=appmsg "")  
   
 那么跟进com.zhiliao.common.upload.UploadComponent#getFileType：  
 ```
@@ -284,14 +283,30 @@ com.zhiliao.common.upload.UploadComponent#uploadFile：
 那么这里是使用了lastIndexof函数，这样的话看上去后文件的类型是不可控的。  
 ### 总结  
 ### 这套源码是很老了，整体难度不大，非常适合新手进行学习。  
+###   
   
   
+紧急通知🔥  
   
-黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+五一专属福利，限时特惠课程+学习大礼包免费领取  
   
-如侵权请私聊我们删文  
+✅ 实体书籍，知识触手可及  
   
+✅ 实战专题，提升专业技能  
   
-**END**  
+✅ 定制保温杯，学习暖心相伴  
   
+✅ 阿里云认证，为职场加分  
+  
+✅ 精美定制鼠标垫，学习更高效  
+  
+根据私信顺序占名额，先到先得！  
+  
+感兴趣扫码了解福利详情+课程内容  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/UkV8WB2qYAnRc6Fq9n0XQIbiaYAQ8uLx8Ea7su1Yy6w5Ajib9o4varB47IU0ocHa7QxQUHTDWa3xqtPUDLgR4yhw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/UkV8WB2qYAlYbAY5RLKL9sx2o7hmQY9AZ7jPJxn6FUqtZDZSzZRQ8R4UgnQ2S7VjylHoumwlicBeoAz6hZb18vA/640?wx_fmt=jpeg&from=appmsg "")  
+###   
+###   
   
