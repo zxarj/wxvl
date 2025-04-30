@@ -13441,5 +13441,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=2&sn=5f7a34ea48b2d067dffedc763d84e076": "【已复现】 Commvault SSRF 致代码执行漏洞（CVE-2025-34028）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490600&idx=3&sn=68f509cd14844364d6c00e49823c87f9": "Craft CMS命令执行漏洞POC（CVE-2025-32432）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487401&idx=1&sn=00f2815a0fb59f54f7fab8c249a11d6c": "GLPI 中的预身份验证 SQL 注入到 RCE（CVE-2025-24799∕CVE-2025-24801）",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486375&idx=1&sn=47fe33f6229583275d6ec2dcb753df83": "2024年在野零日漏洞利用分析（上）"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486375&idx=1&sn=47fe33f6229583275d6ec2dcb753df83": "2024年在野零日漏洞利用分析（上）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247498932&idx=1&sn=7a060168271d068dd0d9f08511c31d62": "CVE-2025-0411 7-Zip Mark-of-the-Web 绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247545529&idx=2&sn=243c90b00c86349e62d148c81a4c0d95": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493015&idx=1&sn=2f83a1123b656d0f9978e81901a63ea1": "漏洞预警 | 维达外贸客户关系管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499290&idx=1&sn=37b33780bf1ecd484fc16b58f6e778ea": "每周回顾：关键SAP漏洞、AI驱动的网络钓鱼、重大漏洞、新CVE等",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490156&idx=1&sn=2a0bb274b22bd4f90c60495e3e419b95": "具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649794994&idx=2&sn=13c838688cc26b49be52bdc3b63d884a": "AirPlay 零点击 RCE 漏洞可通过 Wi-Fi 实现远程设备接管",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDMyODE0NQ==&mid=2247483857&idx=1&sn=6fa6ddf8ab9535be7a20ce8febe93212": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493015&idx=3&sn=49635bd0cfdd0a3cc9d73e0f566c9a1e": "漏洞预警 | IBOS企业协同管理软件SQL注入漏洞"
 }
