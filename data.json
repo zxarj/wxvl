@@ -13505,5 +13505,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=3&sn=b5673d90eadf3ee6f4dc1bf3c39ab44d": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第三十三期",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484816&idx=2&sn=24c18051273a89a9237d6fa7343b76c0": "【漏洞处置SOP】PHP CGI代码注入漏洞（CVE-2024-4577）",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503201&idx=1&sn=51cbcde9c3c7543236c2e0da86236628": "【成功复现】XWiki Platform系统远程代码执行漏洞（CVE-2025-24893)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487402&idx=1&sn=22205dce2081be628b82861bc0db884e": "CVE-2025-32433 PoC 漏洞利用发布 - Erlang∕OTP 中的严重 SSH 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487402&idx=1&sn=22205dce2081be628b82861bc0db884e": "CVE-2025-32433 PoC 漏洞利用发布 - Erlang∕OTP 中的严重 SSH 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582213&idx=2&sn=f318884bd75b11598eb5ae5992d11c75&subscene=0": "Cookie-Bite攻击PoC使用Chrome扩展窃取会话令牌",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486087&idx=1&sn=247be08e59f1f83dd714ecf5dd76e900": "紧急！朝鲜Kimsuky组织利用BlueKeep漏洞，疯狂攻击日韩！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582213&idx=1&sn=8836a6cf09badd147c8e20d0dd545e51&subscene=0": "新的iOS关键漏洞仅用一行代码就可禁用iphone",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522916&idx=1&sn=bd784cba5a2043dfacb33dcf271ed806&subscene=0": "谷歌2024年检测到75个已遭利用0day，44%针对企业安全产品",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514283&idx=1&sn=681c71445b5cfa5f0ab2fde668d4fef8&subscene=0": "2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492100&idx=1&sn=18b45884d06bcca22ae4c74964f66c3d": "一次从注册功能隐藏到发现的sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489271&idx=1&sn=8d47ee4c8bb63b8265049ea0dcd8ce78&subscene=0": "【漏洞通告】微软Telnet Server(MS-TNAP)身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498562&idx=2&sn=627b2b4f0bf40d30aa0679f5febc511c": "vLLM 的 Mooncake 存在严重 RCE 漏洞（10)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522916&idx=2&sn=1292db15893e34108514b0dc4437e9f7&subscene=0": "苹果 “AirBorne” 漏洞可导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136563&idx=2&sn=a0571e3898f312e173180f22ec47d2fe&subscene=0": "奇安信发布2024年年报，实现营收43.49亿元，同比下降32.49% ；苹果AirPlay协议零点击远程代码执行风险曝光|牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=3&sn=ad648277b98ceb64dfd2d2ca0b6a1fca&subscene=0": "【安全圈】CISA 就 Commvault Web 服务器漏洞发布警告，称该漏洞可能被利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统"
 }
