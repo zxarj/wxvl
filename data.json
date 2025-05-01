@@ -13521,5 +13521,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485090&idx=1&sn=9c09928204556d838f61e484cd2758c1": "从IBM《2025年X-Force威胁情报指数报告》看安全文化的必要性",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485752&idx=1&sn=d991fdc2d13d3fc422d3148704ff225a": "【情报】CVE出现罕见的10.0评分漏洞，SAP NetWeaver存在RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529482&idx=2&sn=662fdb70e9617d5c291c3f9e1734d2f4": "AirPlay 协议中易受蠕虫攻击的零点击远程代码执行 (RCE) 漏洞使 Apple 和 IoT 设备面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069387&idx=1&sn=15d70e792b5f5150cebe5632890b1182": "【安全圈】苹果隔空播放(AirPlay)协议存在可蠕虫的远程代码执行漏洞 可批量感染大量设备"
 }
