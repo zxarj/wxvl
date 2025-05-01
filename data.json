@@ -13517,5 +13517,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522916&idx=2&sn=1292db15893e34108514b0dc4437e9f7&subscene=0": "苹果 “AirBorne” 漏洞可导致零点击 AirPlay RCE 攻击",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136563&idx=2&sn=a0571e3898f312e173180f22ec47d2fe&subscene=0": "奇安信发布2024年年报，实现营收43.49亿元，同比下降32.49% ；苹果AirPlay协议零点击远程代码执行风险曝光|牛览",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=3&sn=ad648277b98ceb64dfd2d2ca0b6a1fca&subscene=0": "【安全圈】CISA 就 Commvault Web 服务器漏洞发布警告，称该漏洞可能被利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484713&idx=1&sn=c4477dd9b0ca46b1ae12b8c2c19dd399": "面临困境的漏洞管理生态系统",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485090&idx=1&sn=9c09928204556d838f61e484cd2758c1": "从IBM《2025年X-Force威胁情报指数报告》看安全文化的必要性",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485752&idx=1&sn=d991fdc2d13d3fc422d3148704ff225a": "【情报】CVE出现罕见的10.0评分漏洞，SAP NetWeaver存在RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489679&idx=1&sn=550fcfaa03734416bba06a439cf8a9fc": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069369&idx=2&sn=f7f84aa2b4e350b27918d216e6977bc6&subscene=0": "【安全圈】Apache Tomcat 漏洞可导致攻击者绕过规则并触发 DoS 条件"
 }
