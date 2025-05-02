@@ -13527,5 +13527,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610476&idx=2&sn=8ae8a8c200c3ebe2674ec8fff081acc7": "漏洞管理中的四大常见误区及改进方案",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486407&idx=1&sn=2f1dd6ddef7341493176d84bd03176e3": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516546&idx=1&sn=8be33a9d5654ec195a0db563ba03a514": "Clash Verge rev 本地提权∕远程命令执行漏洞 POC（5月1日更新）",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520278&idx=1&sn=53bc198f82af993deb51f1c332194fff": "一文详述XSS漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520278&idx=1&sn=53bc198f82af993deb51f1c332194fff": "一文详述XSS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069387&idx=1&sn=15d70e792b5f5150cebe5632890b1182&subscene=0": "【安全圈】苹果隔空播放(AirPlay)协议存在可蠕虫的远程代码执行漏洞 可批量感染大量设备"
 }
