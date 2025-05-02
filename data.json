@@ -13538,5 +13538,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487810&idx=1&sn=4c895f5ba78e7deb992661ae219a043f": "突发！国家级黑客利用零日漏洞入侵Commvault Azure环境，数据安全再响警报",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320016&idx=2&sn=3bff5977c7a5db49f22446980f1fabaa": "AirBorne漏洞可导致苹果设备被完全劫持",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496608&idx=3&sn=b3b409e4e057276508705ab28d9ffcdc": "2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549683&idx=1&sn=0483a4615004367b1833d6fbae86eb29": "记一次网上阅卷系统漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549683&idx=1&sn=0483a4615004367b1833d6fbae86eb29": "记一次网上阅卷系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484841&idx=1&sn=38c85e5766f3b888aee0dad6c22dd4f5": "用友U8Cloud getReportIdsByTaskId方法-多处SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610481&idx=2&sn=895f476e59c57fee160996e6a3fe3058": "网络入侵新态势：凭证窃取与边界漏洞利用激增，钓鱼攻击持续衰退",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499578&idx=3&sn=79631c9b9920c6e260a7322ef6b0c559": ".NET 四种方法上传 web.config 绕过限制实现RCE"
 }
