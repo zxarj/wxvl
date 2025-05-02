@@ -13528,5 +13528,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486407&idx=1&sn=2f1dd6ddef7341493176d84bd03176e3": "CraftCMS 存在前台命令执行漏洞 (CVE-2025-32432)",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516546&idx=1&sn=8be33a9d5654ec195a0db563ba03a514": "Clash Verge rev 本地提权∕远程命令执行漏洞 POC（5月1日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520278&idx=1&sn=53bc198f82af993deb51f1c332194fff": "一文详述XSS漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069387&idx=1&sn=15d70e792b5f5150cebe5632890b1182&subscene=0": "【安全圈】苹果隔空播放(AirPlay)协议存在可蠕虫的远程代码执行漏洞 可批量感染大量设备"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069387&idx=1&sn=15d70e792b5f5150cebe5632890b1182&subscene=0": "【安全圈】苹果隔空播放(AirPlay)协议存在可蠕虫的远程代码执行漏洞 可批量感染大量设备",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064127&idx=1&sn=a38dd5d1388e4f58b34e5f8421e75d80": "信息安全漏洞周报【第020期】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485948&idx=2&sn=505ec1bf529e57c2ff1977b76ae75eb9": "CVE-2025-32432｜Craft CMS反序列化代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320016&idx=3&sn=8d7946558d40a025b6966fa85983ed39": "网络入侵新态势：凭证窃取与边界漏洞利用激增，钓鱼攻击持续衰退",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486037&idx=1&sn=09e23379ab2c33e3bdbcfb446add2b30": "从代理到后门：Mihomo Party漏洞直通SYSTEM权限，你的设备已经在裸奔。",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485948&idx=1&sn=48bbbbbc068ec1576230298b3316d386": "CVE-2025-31324｜SAP Netweaver代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496608&idx=2&sn=88c4a395322118b2aa02ff05b4e6dc71": "微软Telnet服务器曝0点击NTLM认证绕过漏洞，PoC已发暂无补丁",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487810&idx=1&sn=4c895f5ba78e7deb992661ae219a043f": "突发！国家级黑客利用零日漏洞入侵Commvault Azure环境，数据安全再响警报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320016&idx=2&sn=3bff5977c7a5db49f22446980f1fabaa": "AirBorne漏洞可导致苹果设备被完全劫持",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496608&idx=3&sn=b3b409e4e057276508705ab28d9ffcdc": "2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549683&idx=1&sn=0483a4615004367b1833d6fbae86eb29": "记一次网上阅卷系统漏洞挖掘"
 }
