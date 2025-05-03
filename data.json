@@ -13549,5 +13549,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237152&idx=1&sn=b10e2842659aaa2534416d1b9464e8b8": "聊聊对安全漏洞的一些关键认知",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490427&idx=1&sn=9d6943da82f1ddcf2e7cc04d8592e841": "五一福利 | 抽CNVD高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529516&idx=2&sn=303f93eb90c85f6e8d03e927017191ef": "入侵苹果——SQL注入远程代码执行",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487347&idx=1&sn=956ce92cd588cf5c8bf8cb9e6c14d9b5": "『Java代码审计零基础到高阶实战班』正式开班啦！手把手带你从零基础学习到反序列化，内存马以及框架漏洞等实战知识！！！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487347&idx=1&sn=956ce92cd588cf5c8bf8cb9e6c14d9b5": "『Java代码审计零基础到高阶实战班』正式开班啦！手把手带你从零基础学习到反序列化，内存马以及框架漏洞等实战知识！！！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484512&idx=1&sn=23682b51104b29e8288ad6f5df352494": "漏洞挖掘—隐藏资产挖掘SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529516&idx=1&sn=eac81d1a8e4ccc214e79d33fac4035f4": "Spring Security CVE-2025-22234 引入用户名枚举向量",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320017&idx=1&sn=4080bb56066bacc31101d91f343dda07": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MzkwNTE3MQ==&mid=2247484160&idx=1&sn=a1ff618973c79f180e7821d5de0f274f": "[靶场复现]CyberStrikeLab-Gear",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554544&idx=2&sn=9056af459358f5328168849972f0deba": "ECU自适应模糊测试：用于增强漏洞检测的模块化测试平台方法",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635693&idx=4&sn=4db1e22c3972712a351689e95f6ec0dc": "AirBorne漏洞可导致苹果设备被完全劫持",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624024&idx=1&sn=3cbf9efab24cdeec0644851e3c0d3c34": "最佳实践：通过有效的基于风险的漏洞管理加强汽车网络安全"
 }
