@@ -13544,5 +13544,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499578&idx=3&sn=79631c9b9920c6e260a7322ef6b0c559": ".NET 四种方法上传 web.config 绕过限制实现RCE",
     "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506192&idx=1&sn=4fdac5ff836a15b2cb3cdb9386d39196": "若依Vue漏洞检测工具",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499578&idx=3&sn=79631c9b9920c6e260a7322ef6b0c559&subscene=0": ".NET 四种方法上传 web.config 绕过限制实现RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518825&idx=1&sn=9567d6018102baa464dfea89e4abaa0e": "BurpSuite插件 | 告别手动测试，快速挖掘漏洞！"
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518825&idx=1&sn=9567d6018102baa464dfea89e4abaa0e": "BurpSuite插件 | 告别手动测试，快速挖掘漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487404&idx=1&sn=9a13d535474e6a0c754a8928f4840021": "CVE-2025-33028：WinZip 漏洞通过 MotW 绕过导致用户遭受静默代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237152&idx=1&sn=b10e2842659aaa2534416d1b9464e8b8": "聊聊对安全漏洞的一些关键认知",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490427&idx=1&sn=9d6943da82f1ddcf2e7cc04d8592e841": "五一福利 | 抽CNVD高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529516&idx=2&sn=303f93eb90c85f6e8d03e927017191ef": "入侵苹果——SQL注入远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487347&idx=1&sn=956ce92cd588cf5c8bf8cb9e6c14d9b5": "『Java代码审计零基础到高阶实战班』正式开班啦！手把手带你从零基础学习到反序列化，内存马以及框架漏洞等实战知识！！！"
 }
