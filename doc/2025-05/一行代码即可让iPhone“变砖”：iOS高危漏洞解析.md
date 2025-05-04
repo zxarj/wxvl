@@ -1,13 +1,10 @@
 #  一行代码即可让iPhone“变砖”：iOS高危漏洞解析   
- FreeBuf   2025-05-03 10:03  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
+ 商密君   2025-05-04 11:45  
   
 iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行一行代码即可永久禁用iPhone。该漏洞通过操作系统的Darwin通知机制触发无限重启循环，导致设备"变砖"，必须通过完整系统恢复才能修复。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicmhia9IcxLTuqWX9ThtlxCgz4rYNZibwxibS9xyMQVOTxMR7RvexgQ5vpiag/640?wx_fmt=jpeg&from=appmsg "")  
+![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicmhia9IcxLTuqWX9ThtlxCgz4rYNZibwxibS9xyMQVOTxMR7RvexgQ5vpiag/640?wx_fmt=jpeg&from=appmsg&wxfrom=13&tp=wxpic "")  
   
   
 **01**  
@@ -17,7 +14,11 @@ iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行
 **Darwin通知系统漏洞分析**  
   
   
-该漏洞利用了CoreOS层的底层消息机制——Darwin通知。与常见的NSNotificationCenter或NSDistributedNotificationCenter不同，Darwin通知属于苹果操作系统的遗留API（应用程序接口），工作在系统底层。  
+该漏洞利用了  
+CoreOS  
+层的底层消息机制——Darwin通知。与常见的NSNotificationCenter或NSDistributedNotificationCenter不同，Darwin通知属于苹果操作系统的遗留API（  
+应用程序接口  
+），工作在系统底层。  
   
   
 发现该漏洞的安全研究员Guilherme Rambo解释："Darwin通知更为基础，属于CoreOS层组件，为苹果系统进程间提供简单的底层消息交换机制。"  
@@ -36,7 +37,7 @@ iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行
 攻击代码异常简单，仅需执行以下单行指令即可触发漏洞：  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicmXgUCIwjgt36lEtoGqwMgWp0PRgqvr4nZJ8t4pHSbgFicyicfaaKx46YA/640?wx_fmt=jpeg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicmXgUCIwjgt36lEtoGqwMgWp0PRgqvr4nZJ8t4pHSbgFicyicfaaKx46YA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 执行后设备将强制进入"恢复中"状态。由于实际未进行恢复操作，该过程必然失败并提示用户重启设备。研究人员创建了名为"VeryEvilNotify"的概念验证攻击，将漏洞利用代码植入小组件扩展。  
@@ -48,8 +49,7 @@ iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行
 通过将漏洞代码植入发送通知后反复崩溃的小组件，研究人员构建了持久性攻击——每次重启后都会触发攻击，形成使设备无法使用的无限循环。  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicm5zJt6ppn4o8QnTVibPm9cJibP9UInsHRuBHN7ibGhuia3cgJB1jm3uhCPQ/640?wx_fmt=png&from=appmsg "")  
-  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3icbm1QXk9w6O9EM8c0VvZicm5zJt6ppn4o8QnTVibPm9cJibP9UInsHRuBHN7ibGhuia3cgJB1jm3uhCPQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 **03**  
@@ -65,7 +65,11 @@ iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行
   
 - 发送进程需持有"com.apple.private.darwin-notification.restrict-post."格式的受限授权  
   
-这并非苹果系统首次出现Darwin相关漏洞。此前卡巴斯基实验室曾发现"Darwin Nuke"漏洞，攻击者可通过特制网络数据包发起远程拒绝服务攻击。  
+这并非苹果系统首次出现Darwin相关漏洞。此前  
+卡巴斯基实验室  
+曾发现"Darwin Nuke"漏洞，攻击者可通过特制网络数据包发起远程  
+拒绝服务攻击  
+。  
   
   
 强烈建议所有iPhone用户立即升级至iOS 18.3或更高版本。早期版本设备仍面临攻击风险，攻击可能通过App Store或其他渠道分发的看似无害的应用或小组件实施。  
@@ -74,45 +78,42 @@ iOS系统存在一个高危漏洞（CVE-2025-24091），恶意应用仅需执行
 该案例凸显了移动操作系统持续面临的安全挑战——即使简单且被忽视的遗留API，若未妥善保护也可能构成重大风险。  
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR39ibFdyjP3Qp8CEJxFWljbW1y91mvSZuxibf3Q3g2rJ32FNzoYfx4yaBmWbfwcRaNicuMo3AxIck2bCw/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
+编辑：陈十九  
+  
+审核：商密君  
+  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
+[](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633989&idx=1&sn=cd6647451cec618b20dd28533702603b&scene=21#wechat_redirect)  
   
   
+点击购买《2023-2024中国商用密码产业发展报告》  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319699&idx=1&sn=127e9ca1a8d55931beae293a68e3b706&scene=21#wechat_redirect)  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319086&idx=1&sn=e2ff862babd7662c4fa06b0e069c03f2&scene=21#wechat_redirect)  
+来源：  
+FreeBuf  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651319257&idx=1&sn=a603c646a53e3a242a2e79faf4f06239&scene=21#wechat_redirect)  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
   
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39ibFdyjP3Qp8CEJxFWljbW1uEIoRxNoqa17tBBrodHPbOERbZXdjFvNZC5uz0HtCfKbKx3o3XarGQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点分享  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点点赞  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icFibibPIGEfXsibI0C3or4BS5KDnCKUfVLVQGsc9BiaQTUsrwzfcianumzeLVcmibOmm2FzUqef2V6WPQQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38mFMbqsUOVbBDicib7jSu7FfibBxO3LTiafGpMPic7a01jnxbnwOtajXvq5j2piaII2Knau7Av5Kxvp2wA/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+点在看  
   
