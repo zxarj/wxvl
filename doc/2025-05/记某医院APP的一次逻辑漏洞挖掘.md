@@ -1,5 +1,5 @@
 #  记某医院APP的一次逻辑漏洞挖掘   
-原创 chobits02  C4安全团队   2025-05-05 05:58  
+ sec0nd安全   2025-05-05 12:07  
   
 ![httpsu.wechat.comMMNIFu0mUhIchBxkan0Zozgs=1.png](https://mmbiz.qpic.cn/mmbiz_png/EXTCGqBpVJRPB8LAoicALgsdtxmen9tiasaAjJImJDkVXQV86YymyOYWfj3nicwJ11Jp7ySq1HjBazRjibFW7fEbWg/640?wx_fmt=png&from=appmsg&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "httpsu.wechat.comMMNIFu0mUhIchBxkan0Zozgs=1.png")  
   
