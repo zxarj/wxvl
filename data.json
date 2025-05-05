@@ -13586,5 +13586,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=1&sn=aa11e3064d2545df051fd19f7f5e8bd0": "CVE-2025-21756｜Linux提权漏洞（PoC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487415&idx=1&sn=8d3b54fb135adc6712e9afc6d4e41aed": "CVE-2025-27095：JumpServer 中的令牌盗窃漏洞导致 Kubernetes 集群遭受未经授权的访问",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610492&idx=1&sn=e264678369fdc88ca86279ef8a2c86ae": "天津市破获一起“扫码领鸡蛋”个人信息贩卖案；|一行代码即可让iPhone“变砖”：iOS高危漏洞解析",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=2&sn=3f11cfc79888e16fa78d309e708d0df0": "CVE-2025-24893｜XWiki Platform远程代码执行漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=2&sn=3f11cfc79888e16fa78d309e708d0df0": "CVE-2025-24893｜XWiki Platform远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069434&idx=2&sn=d5df9c61dfde5337bda54bd34af3c2af&subscene=0": "【安全圈】TensorRT-LLM高危漏洞可导致攻击者远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593264&idx=1&sn=677156abb956ed47c5886b74f930f289&subscene=0": "zyxel路由器CVE-2024-9200漏洞调用链分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTMwNjYyMA==&mid=2247485024&idx=1&sn=2b2884c9a2c66272657ccf4322921247": "【极思】一个伪0day的抓捕实录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503712&idx=1&sn=3aedd26d153b0fa835c0002d815b5a8e&subscene=0": "数字青春，榜样力量！360漏洞云五四特别直播回顾！",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247491559&idx=1&sn=d08ef2ccc066b196128a1a160fa60b5c": "渗透测试实战：永恒之蓝漏洞识别、扫描与Metasploit利用全流程"
 }
