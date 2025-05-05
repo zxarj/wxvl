@@ -13579,5 +13579,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520322&idx=1&sn=e1eb82b0c1dcaa7bdf2d0fe4925b4701": "Java代码审计之命令执行漏洞详解",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490781&idx=2&sn=83846431249d32b3551ab831c080c3d9": "SAP NetWeaver RCE 漏洞 (CVE-2025-31324)：深度剖析、高级威胁与全方位防御策略",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497293&idx=1&sn=7970fdd3e428d9e4fd731c1d472ad18a": "小程序渗透记录 通过细节挖掘漏洞的艺术",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593264&idx=1&sn=677156abb956ed47c5886b74f930f289": "zyxel路由器CVE-2024-9200漏洞调用链分析"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593264&idx=1&sn=677156abb956ed47c5886b74f930f289": "zyxel路由器CVE-2024-9200漏洞调用链分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTQwMDY1NA==&mid=2247485175&idx=1&sn=c1bd499d39af1bf38c006d5dfaabd0f1": "漏洞复现篇 | CraftCMS 任意命令执行漏洞，CVE-2025-32432",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485465&idx=2&sn=3a0a86de823f1aac1ef00fd2aa44fbc6": "从代码看任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610492&idx=3&sn=deb0e040e49e9740520182d217d029c1": "实战攻防之Nacos漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=1&sn=aa11e3064d2545df051fd19f7f5e8bd0": "CVE-2025-21756｜Linux提权漏洞（PoC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487415&idx=1&sn=8d3b54fb135adc6712e9afc6d4e41aed": "CVE-2025-27095：JumpServer 中的令牌盗窃漏洞导致 Kubernetes 集群遭受未经授权的访问",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610492&idx=1&sn=e264678369fdc88ca86279ef8a2c86ae": "天津市破获一起“扫码领鸡蛋”个人信息贩卖案；|一行代码即可让iPhone“变砖”：iOS高危漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485957&idx=2&sn=3f11cfc79888e16fa78d309e708d0df0": "CVE-2025-24893｜XWiki Platform远程代码执行漏洞（POC）"
 }
