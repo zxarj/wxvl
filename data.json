@@ -13641,5 +13641,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491326&idx=1&sn=1a53b44366e8e8d78ae9fd475c3d7e62": "万户 ezOFFICE selectAmountField.jsp SQL 注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491189&idx=1&sn=8ab999ea264a6356d7f8850f5cb51cf2": "自动化漏洞检测方案-使用AI调用BurpSuite",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491335&idx=1&sn=41fb84356629ac2796bea7209f48d305": "龙腾码支付 curl 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491335&idx=1&sn=41fb84356629ac2796bea7209f48d305": "龙腾码支付 curl 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491344&idx=1&sn=0ed048d4c639ed8a15eb5222800fd30c": "用友NC ECFileManageServlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490463&idx=1&sn=aa144f78fd856645a2643cfa6811abfb": "【代码审计】某JAVA酒店管理系统多个漏洞（附源码）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=1&sn=a7399eb56405b375b77e4fa608da1891": "data-cve-poc：此仓库收集了在GitHub上发现的所有CVE漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506314&idx=1&sn=5a420046bf7d15da0d18e5b26275ec01": "每周网安资讯 （4.28-5.6）|DragonForce勒索团伙近期针对英国零售业发动大规模攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64": "微软 Telnet 服务器惊现 0Click 重大漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=3&sn=6054fbaa4233f094dc34c3aacda32db1": "CVE-2025-21756：linux6.6.75内核自动提权",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=3&sn=33defc4d7ed7b60cd6c6a3c15abab69f": "25年夏季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247484996&idx=2&sn=e8a908d1b9a41a512a57643afd827d9f": "多个公共漏洞知识库集成汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496385&idx=1&sn=136a4278dd358937e1439af867ed8e16": "【论文速读】| 通过整体神经符号方法实现自动静态漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247949&idx=1&sn=64818f92eb72135007f30fc07f1dd794": "关于对网络安全等级保护有关工作事项进一步说明的函原文 | 2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503216&idx=1&sn=aaf7ab33cb743966c0a67ab042249c65": "【成功复现】Next.js中间件认证绕过漏洞(CVE-2025-29927)"
 }
