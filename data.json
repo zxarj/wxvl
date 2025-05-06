@@ -13620,5 +13620,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487016&idx=2&sn=defbecd00245fe9baacbe7fb60293a29": "通过细节挖掘漏洞的艺术",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=1&sn=0ea53f3c58166c3341a2f83cfc499d7c": "漏洞预警 | NetMizer日志管理系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795004&idx=2&sn=6913095b74da29745a9298d018c002cd": "伊朗黑客利用 VPN 漏洞和恶意软件持续访问中东关键基础设施两年",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=3&sn=9ac0075b9e849ad994d643c17f6525e6": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493040&idx=3&sn=9ac0075b9e849ad994d643c17f6525e6": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485515&idx=1&sn=870130074c7b85208eaaa984c41e3cce": "多个高危漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNjI2NjUzNw==&mid=2247493239&idx=2&sn=72b5f2543a2f438b00bedafe9fe65711": "上周关注度较高的产品安全漏洞(20250421-20250427)",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512001&idx=1&sn=98b2fa4a434cd4697a9ca5724fb4b5ba": "AOSP OTA签名验证漏洞——如何绕过Android系统更新包的安全检查？",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278232&idx=1&sn=324bcdc6416f113bd710b0ca0f971e46": "全场景漏洞扫描“小钢炮”RayScan V8重磅发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247488623&idx=1&sn=4cb5f4fab0682a40ba11b384b02cd308": "API漏洞挖掘指北-APISandbox靶场通关.1",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493755&idx=6&sn=85aecb939d45af53faeac6a4d3e330fd": "DragonForce黑客组织宣称对Co-op网络攻击事件负责并窃取数据",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655277826&idx=1&sn=04f3f2b3f71b2d442a5d63ff0c3e7b09": "IBM X-Force 2025威胁情报指数报告",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635713&idx=4&sn=b672bb86a0a8808ab3b047a6b5685a80": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485482&idx=1&sn=eab009bdddc94441491b0654c51bc264": "域渗透入门-令牌窃取（含复现步骤）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485017&idx=1&sn=3fc4ef2fc3f3dcccffdcd5b868fdc4d6": "FastJSON 安全审计简洁实用指南：黑盒免测也能揪出漏洞"
 }
