@@ -13660,5 +13660,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485528&idx=1&sn=be29d63f30cca17dc28989aedb0ef043": "支付漏洞实战",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096211&idx=2&sn=439ab06d63daa827f1cb7e56be548b51": "Windows 部署服务中发现新漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490830&idx=1&sn=77539c110a925cecffdceeaaf4bccf96": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484222&idx=1&sn=513666d7126d02a4b8bdeb0e966ddf3c": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484222&idx=1&sn=513666d7126d02a4b8bdeb0e966ddf3c": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529549&idx=1&sn=f36a6eef31d4ae6c387ae63ffaf720b6": "利用空字节写入攻击Synology DiskStation在 DS1823xs+ NAS 上以 root 身份实现代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320142&idx=4&sn=ed93c0ee495ef976ddc919bd65eef508": "可蠕虫化AirPlay漏洞：公共WiFi环境下可零点击远程控制苹果设备",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488445&idx=1&sn=e9e238c8521aec39f247c6cfbfaf041f": "Craft CMS generate-transform接口存在远程命令执行漏洞CVE-2025-32432 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484263&idx=1&sn=0a6168400765119305f334a310f02c78": "CVE-2017-9769 RZPNK.sys漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490382&idx=1&sn=d16811990ed28de75af79d72d819dae7": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-32444）"
 }
