@@ -13654,5 +13654,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496385&idx=1&sn=136a4278dd358937e1439af867ed8e16": "【论文速读】| 通过整体神经符号方法实现自动静态漏洞检测",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247949&idx=1&sn=64818f92eb72135007f30fc07f1dd794": "关于对网络安全等级保护有关工作事项进一步说明的函原文 | 2024年至少75个零日漏洞遭滥用，网络与安全产品占比近三成",
     "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503216&idx=1&sn=aaf7ab33cb743966c0a67ab042249c65": "【成功复现】Next.js中间件认证绕过漏洞(CVE-2025-29927)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503216&idx=1&sn=aaf7ab33cb743966c0a67ab042249c65": "【成功复现】Next.js中间件认证绕过漏洞(CVE-2025-29927)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485773&idx=1&sn=e57e9c5f49b3dd80fbb694ec5e14250b": "金和JC6协同管理平台 oaplusrangedownloadfile 任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485528&idx=1&sn=be29d63f30cca17dc28989aedb0ef043": "支付漏洞实战",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096211&idx=2&sn=439ab06d63daa827f1cb7e56be548b51": "Windows 部署服务中发现新漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490830&idx=1&sn=77539c110a925cecffdceeaaf4bccf96": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484222&idx=1&sn=513666d7126d02a4b8bdeb0e966ddf3c": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）"
 }
