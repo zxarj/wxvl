@@ -13630,5 +13630,16 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655277826&idx=1&sn=04f3f2b3f71b2d442a5d63ff0c3e7b09": "IBM X-Force 2025威胁情报指数报告",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247635713&idx=4&sn=b672bb86a0a8808ab3b047a6b5685a80": "未修复的Windows快捷方式漏洞可导致远程代码执行，PoC已公布",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485482&idx=1&sn=eab009bdddc94441491b0654c51bc264": "域渗透入门-令牌窃取（含复现步骤）",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485017&idx=1&sn=3fc4ef2fc3f3dcccffdcd5b868fdc4d6": "FastJSON 安全审计简洁实用指南：黑盒免测也能揪出漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485017&idx=1&sn=3fc4ef2fc3f3dcccffdcd5b868fdc4d6": "FastJSON 安全审计简洁实用指南：黑盒免测也能揪出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529535&idx=2&sn=e9ab35af50364b690d8f888988ca5908": "通过@fastify∕view raw 渲染实现远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487424&idx=1&sn=9f2932094a9e1f69c27ea4d0498353d7": "9万个站点面临风险：Jupiter X Core RCE 漏洞（CVE-2025-0366）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069446&idx=2&sn=b093a02905ad8999ac398713a11bd267&subscene=0": "【安全圈】微软Telnet服务器被曝0-Click漏洞：无密码即可控制系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490827&idx=4&sn=42e9dc02c4b652d3a4fde7daa3bae244": "自动化漏洞检测方案-使用AI调用BurpSuite",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489099&idx=1&sn=50e542e6718a6fdc52586b8328e81c94": "漏洞预警|畅捷CRM存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037674&idx=1&sn=3c2070eabf4535bd48c42976876830a5": "Linux内核高频攻击面与漏洞类型统计研究",
+    "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247530393&idx=1&sn=f3316b2b06f0372fb279fc9d1e5aad9b": "SSH服务已关，为何还被扫描出漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491326&idx=1&sn=1a53b44366e8e8d78ae9fd475c3d7e62": "万户 ezOFFICE selectAmountField.jsp SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491189&idx=1&sn=8ab999ea264a6356d7f8850f5cb51cf2": "自动化漏洞检测方案-使用AI调用BurpSuite",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491335&idx=1&sn=41fb84356629ac2796bea7209f48d305": "龙腾码支付 curl 任意文件读取漏洞"
 }
