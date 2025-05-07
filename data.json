@@ -13728,5 +13728,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484949&idx=1&sn=c37eaf049f706e55ef603f83649e7e1b": "Dify 组合漏洞获取LLM KEY",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=1&sn=0cb165bed1319669958344fa0fdcd7e8": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=2&sn=69f3bc42c70c19053f7e3ff730849186": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f": "超越漏洞修复的安全观"
 }

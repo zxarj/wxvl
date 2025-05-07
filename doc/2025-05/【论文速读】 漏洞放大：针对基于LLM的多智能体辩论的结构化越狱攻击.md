@@ -1,5 +1,5 @@
 #  【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击   
-原创 知识分享者  安全极客   2025-05-07 09:26  
+ sec0nd安全   2025-05-07 13:00  
   
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/vWuBpewLia8QmTLhv0jB8GS6Wtic69pG44V8Gib7ccD3FZolnOVkdOPafA3YULibw9S5AEkdO8sstRLGNFVDj7SgRg/640?wx_fmt=jpeg&from=appmsg "")  
   
