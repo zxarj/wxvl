@@ -13675,5 +13675,21 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247489896&idx=1&sn=5054d99b8fb8531026638de176386ed9": "漏洞挖掘 | 简单的弱口令到垂直越权思路分享",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261002&idx=1&sn=0fa057549bf78b2354de47ae7cd46b59": "价值2500 美元的漏洞：通过供应链攻击实现RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487208&idx=2&sn=5030cae874430a497bb90327e0d61c7a": "通过细节挖掘漏洞的艺术",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486558&idx=1&sn=0feca183969cee706e0617dcb355632c": "漏洞扫描结果差异背后的评分标准揭秘：国内外主流体系对比"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486558&idx=1&sn=0feca183969cee706e0617dcb355632c": "漏洞扫描结果差异背后的评分标准揭秘：国内外主流体系对比",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64&subscene=0": "微软 Telnet 服务器惊现 0Click 重大漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODg3NzExNw==&mid=2247489175&idx=1&sn=91bc630d46098fc4c831a2176c8f5b49": "审计分析 | 某次.NET源码的前台漏洞审计流程",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900506&idx=1&sn=b1371143cc39f7a07b516fcb5f941faa": "AirPlay 曝“AirBorne”蠕虫级 0-Click RCE 漏洞！无需交互即可入侵 iPhone∕Mac",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610510&idx=4&sn=9d3f3190409ef7ccce68548f15cfd1cb": "基于AWVSapi实现的漏洞扫描网站",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493763&idx=1&sn=f746ccce6d78fef871390aea0e278eb6": "谷歌修复了已被积极利用的Android漏洞CVE-2025-27363",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=3&sn=33defc4d7ed7b60cd6c6a3c15abab69f&subscene=0": "25年夏季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512001&idx=1&sn=98b2fa4a434cd4697a9ca5724fb4b5ba&subscene=0": "AOSP OTA签名验证漏洞——如何绕过Android系统更新包的安全检查？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484947&idx=1&sn=35b767bcc73cac5983a53cd1a46af8dd": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493052&idx=2&sn=4905413e0178b6bb2f86a921bf74de38": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795021&idx=1&sn=cb576d2f07bbd6a4dfb8fd8fffc03eb3": "微软 0-Click Telnet 漏洞可导致无需用户操作即可窃取凭证",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549783&idx=1&sn=f28d088202fd236d66bb8917bac6df62": "出洞如此简单！一次轻松的小程序漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1&subscene=0": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89&subscene=0": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42&subscene=0": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构"
 }
