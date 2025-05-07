@@ -13701,5 +13701,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483817&idx=1&sn=35e0f3a07599d753c57e63a9773f7363": "紧急预警！微软Telnet惊现\"零点击\"核弹级漏洞，旧系统用户速查！",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=3&sn=69326d8c536920e7fa412720fdb23bb2": "PoC | 三星 MagicINFO 9 服务器中的漏洞 (CVE-2024-7399) 被利用",
     "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616061&idx=1&sn=ba07725e0de0e77761e54fe7fef1fb6b": "Apple及物联网设备面临风险 | 空中传播：AirPlay 协议中的零点击蠕虫式远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=3&sn=b2361c95695a8d9de2a17e76a812fc28": "雷神众测漏洞周报2025.4.28-2025.5.5"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=3&sn=b2361c95695a8d9de2a17e76a812fc28": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484821&idx=1&sn=e819acc8cde570ffdb0afe3ecb1f115d": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第18期，总第36期]",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626707&idx=2&sn=014812173bfbd41a4f5993a72639e999": "Chrome浏览器高危漏洞已被黑客利用，奇安信可信浏览器为企业撑起“安全伞”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501043&idx=2&sn=f13209a4ac885ea075fdbfedc8ce007a": "【漏洞通告】Kibana 原型污染导致任意代码执行漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484051&idx=1&sn=bd6349f85a85e09bf31c2c1ba728bee7": "【漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489135&idx=1&sn=1b47ec95f6a9cfeb72702cc7e0e36c85": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320263&idx=4&sn=4eaf9a69ad3ada30bd7aaca67c679eba": "Kibana原型污染漏洞可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069486&idx=3&sn=4f5c262b7363fc3d020faaae04c66c05": "【安全圈】未经身份验证的 DoS 漏洞导致 Windows 部署服务崩溃，目前尚无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486684&idx=1&sn=c6d841b946758cf27ae33baff3e84c79": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484572&idx=2&sn=1fce16454055968fb3e2f4aceba81a32": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5Mjg4Mjg0MQ==&mid=2247483858&idx=1&sn=0a09908d1d547dd0fd19309035313a63": "Apache OFBiz 路径遍历漏洞（CVE-2024-36104）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484094&idx=1&sn=500d0790fdd6f1c97cae965d152f63c9": "WordPress depicter插件SQL注入漏洞（CVE-2025-2011）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484683&idx=1&sn=d3e64c62aee2c73abd3a1e044b69d611": "Nacos Derby RCE代码审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4OTU4MjQ4Mg==&mid=2247488527&idx=1&sn=17cc9468f596e8a762e8c5ba38f143d6": "星图实验室协助vLLM项目修复多个高危漏洞"
 }
