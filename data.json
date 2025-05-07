@@ -13691,5 +13691,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549783&idx=1&sn=f28d088202fd236d66bb8917bac6df62": "出洞如此简单！一次轻松的小程序漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1&subscene=0": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582234&idx=1&sn=93a0e5ec10f5fee802cea3b4a1279e89&subscene=0": "苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42&subscene=0": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42&subscene=0": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488046&idx=1&sn=4e3163b45b07288c088e3952bdd201ec": "被忽视的暗面：客户端应用漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491366&idx=1&sn=ed90802522084f51539954e091d9b130": "用友NC ncmsgservlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=2&sn=0baa28b11a133d27696fb48799898d9a": "Apache Parquet Java 漏洞 CVE-2025-46762 使系统暴露于远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=1&sn=ae092989be7c5a24727ce2506a1d2cf8": "出洞如此简单！一次轻松的小程序漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=3&sn=24714661691469cf4a95022a439d1f5f&subscene=0": "【安全圈】iOS 出现新严重漏洞，仅需一行代码即可导致 iPhone 崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491358&idx=1&sn=25d5069956ba79f8cdaf18aa233bfebd": "用友NC jiuqisingleservlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDc0MTc5Mw==&mid=2247483817&idx=1&sn=35e0f3a07599d753c57e63a9773f7363": "紧急预警！微软Telnet惊现\"零点击\"核弹级漏洞，旧系统用户速查！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=3&sn=69326d8c536920e7fa412720fdb23bb2": "PoC | 三星 MagicINFO 9 服务器中的漏洞 (CVE-2024-7399) 被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616061&idx=1&sn=ba07725e0de0e77761e54fe7fef1fb6b": "Apple及物联网设备面临风险 | 空中传播：AirPlay 协议中的零点击蠕虫式远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=3&sn=b2361c95695a8d9de2a17e76a812fc28": "雷神众测漏洞周报2025.4.28-2025.5.5"
 }
