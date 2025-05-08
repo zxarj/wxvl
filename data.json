@@ -13743,5 +13743,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484643&idx=1&sn=106862e046fbe8b89cde1ad93413bce3": "【工具推荐】利用Burp Suite 插件进行文件上传Fuzz",
     "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487859&idx=1&sn=21830632f377e379519f4f69bf29a29b": "紧急！SysAid On-Premise曝高危漏洞，未授权攻击可接管服务器！速修复！",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494567&idx=1&sn=052cbf0cb30bdebf35ee81f84c1b946a": "工具推荐 | MSSQL多功能集合命令执行利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50&subscene=0": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=3&sn=02acc8d19b6d3162024d3a9f48bccc1c": "漏洞预警 | 通达OA远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f&subscene=0": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736&subscene=0": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=1&sn=e403ede2a981aa23d95670c6be53a975": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=2&sn=3ff46263da891e1311e88fecaa375742": "Canary Exploit工具可检测受Apache Parquet漏洞影响的服务器",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=4&sn=40dd947a49deeeac2d77c26174e7aa14": "Play勒索软件团伙利用零日漏洞部署恶意程序",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=1&sn=4f6e0b57c4d90d911ca3d4d451fd6e53": "【高危漏洞预警】Elastic Kibana需授权代码注入漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=2&sn=e1fa7a6beecbecd929a120e00f53677d": "【高危漏洞预警】Microsoft Azure AI Bot Service权限提升漏洞CVE-2025-30392",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0&subscene=0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5&subscene=0": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de&subscene=0": "使用区间分析识别智能合约中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486425&idx=1&sn=f0097b5f133b5a4c9bf1ec100e8d6e55": "某CRM系统前台RCE漏洞"
 }
