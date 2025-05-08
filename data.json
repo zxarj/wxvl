@@ -13758,5 +13758,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0&subscene=0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5&subscene=0": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de&subscene=0": "使用区间分析识别智能合约中的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486425&idx=1&sn=f0097b5f133b5a4c9bf1ec100e8d6e55": "某CRM系统前台RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486425&idx=1&sn=f0097b5f133b5a4c9bf1ec100e8d6e55": "某CRM系统前台RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484538&idx=1&sn=59f432e51500e860d74ce85acaee3dd1": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533541&idx=1&sn=715a139cafbc35e828ddb3d7abf30c5e": "斗象科技连续4年获国家信息安全漏洞库CNNVD“一级技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487864&idx=1&sn=4238407abb15d947187e4e1829aefd44": "play勒索软件利用Windows零日漏洞入侵美国企业，系统权限遭全面窃取！",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499063&idx=1&sn=3396c01db284160ff26017eae2990463": "通过代理实现代码执行 - DLL劫持的另一种方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491374&idx=1&sn=96d62a86f1515d0b75406b84f40953c2": "用友NC files 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485049&idx=1&sn=44f2debeea4d71c3132e5f8b67b8ade8": "SRC漏洞案例之祝你生日快乐",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=3&sn=00dc9443028818fad58e65c958c42e65": "三星MagicINFO漏洞在概念验证利用代码公开数日后遭攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=1&sn=230244deecf9efb66a5cbf8858f10871": "某CRM系统前台RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=1&sn=9f712f2d6d7e8441f4b26a89e1b38c9c": "专家警告称，针对SAP NetWeaver漏洞CVE-2025-31324的第二波攻击正在袭来"
 }
