@@ -13731,5 +13731,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=1&sn=0cb165bed1319669958344fa0fdcd7e8": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=2&sn=69f3bc42c70c19053f7e3ff730849186": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f": "超越漏洞修复的安全观"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485676&idx=1&sn=9f3355d8d47eb5ad5b9ef48c1e7d5659": "OSS漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490243&idx=1&sn=93258dfb0f3a806e3099ede6fbbd6e43": "Milkyway【具备效的机器探活，端口探活，协议识别，指纹识别，漏洞扫描等功能的全方位扫描工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=2&sn=1cd36807eb2525ca7a869ed2146996c1": "漏洞预警 | 锐捷EWEB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=1&sn=4ea3e89bd548586c3a916e5ac42e0404": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484530&idx=1&sn=2d6ab693e8237d9ae98438818ba781f9": "phpIPAM跨站脚本漏洞及解决方法（CNVD-2025-06929、CVE-2024-55093）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492052&idx=1&sn=e219ac550df60a2a73d39aa6f6b987b5": "《跨机房漏洞扫描挑战、设备使用人管理优化及审计账号权限分配策略解析》｜总第288周",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497440&idx=1&sn=31f4a4d8d75b507676f36e255eab63c3": "【漏洞通告】Kibana原型污染导致任意代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484643&idx=1&sn=106862e046fbe8b89cde1ad93413bce3": "【工具推荐】利用Burp Suite 插件进行文件上传Fuzz",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487859&idx=1&sn=21830632f377e379519f4f69bf29a29b": "紧急！SysAid On-Premise曝高危漏洞，未授权攻击可接管服务器！速修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）"
 }
