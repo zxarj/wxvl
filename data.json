@@ -13769,5 +13769,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=1&sn=230244deecf9efb66a5cbf8858f10871": "某CRM系统前台RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=1&sn=9f712f2d6d7e8441f4b26a89e1b38c9c": "专家警告称，针对SAP NetWeaver漏洞CVE-2025-31324的第二波攻击正在袭来"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=1&sn=9f712f2d6d7e8441f4b26a89e1b38c9c": "专家警告称，针对SAP NetWeaver漏洞CVE-2025-31324的第二波攻击正在袭来",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462844&idx=1&sn=16f905bb023c4905a56d59c04da30a11": "信息安全漏洞月报（2025年4月）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492658&idx=1&sn=442ddacdf8a9b8cfc22f3177cc5254ba": "漏洞复现 || XWiki Platform系统远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484826&idx=1&sn=0ab9bc7eafadb32a2dce9850874b4ffa": "安全漏洞防治工作的挑战与解决方案：从CVE停更到可信计算环境构建",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492522&idx=1&sn=55381a89501a176cdc954fc4de9c67c9": "无需认证的 DoS 漏洞可致 Windows 部署服务崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462844&idx=2&sn=e8c11038831948335aa6faced3c458a7": "信息安全漏洞周报（2025年第18期）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491095&idx=1&sn=8c0720271ea656fc753561a44d768125": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489715&idx=1&sn=edaedaf50d5c0de6782c8eac9eae3970": "WordPress TargetSMS 插件存在前台代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650622394&idx=2&sn=2bcbe3b2a1581342454f2868b1634978": "CVSS10分！Craft CMS 远程代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554773&idx=2&sn=286e5211128b34b989a4a5a82838e9c8": "【免费领】大佬挖洞秘笈：全网最详尽的漏洞挖掘实战技巧大全",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069510&idx=4&sn=13e42b32cf0c000f6d63304e4a836f24": "【安全圈】SonicWall SMA 100系列发现多个漏洞紧急安全更新"
 }
