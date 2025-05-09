@@ -13804,5 +13804,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487237&idx=2&sn=5334c3b046990084903fd1c13c72d3c0": "支付类漏洞挖掘技巧总结",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490905&idx=2&sn=0ed05b80a5c90ec20ddbdbe592ce7c74": "安全漏洞防治工作的挑战与解决方案：从CVE停更到可信计算环境构建",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487237&idx=3&sn=9f2875a71a76b3c9a2709d340ccedb09": "通过细节挖掘漏洞的艺术",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490178&idx=1&sn=d10553e8e32bd18524192fa6feba92ad": "若依(RuoYi)框架漏洞战争手册"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490178&idx=1&sn=d10553e8e32bd18524192fa6feba92ad": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490921&idx=3&sn=d0684326d1fe6ee4aa19ed36bb064268": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484718&idx=1&sn=e9e372132c647334ed0b8f7b070e2648": "讲好漏洞管理故事，没有指标怎么行",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524506&idx=4&sn=19574fc4946c6ff3485b0ae05a74ae05": "IBM Cognos Analytics 漏洞允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582281&idx=1&sn=eff71cea21807271925c234b3191e3c9": "超过1200个SAP NetWeaver服务器容易受到主动利用漏洞的攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487427&idx=1&sn=aff15883cfe6cb9c4a41045459db8e4e": "通过@fastify∕view raw 渲染实现远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524506&idx=3&sn=2e2f7135cdec284e7cd6b8d41eca7345": "Apache ActiveMQ 漏洞让攻击者触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484536&idx=1&sn=65fffa821513f4963041e2a504f1d07c": "YzmCMS最新跨站脚本漏洞及解决方法（CNVD-2025-08792、CVE-2025-3397）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538714&idx=2&sn=d5c3a134feb1803915d85600ad4b9f08": "漏洞管理“扫雷”之动态优先级技术",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490058&idx=1&sn=59824a284d0e7c2b6e5fb5765f62af59": "【高危漏洞预警】F5OS身份认证绕过漏洞(CVE-2025-46265)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497567&idx=1&sn=0abc159207103dccd3e73039c850bf2a&subscene=0": "一次十分详细的漏洞挖掘记录,新思路+多个高危"
 }
