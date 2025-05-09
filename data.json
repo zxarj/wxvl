@@ -13787,5 +13787,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487497&idx=1&sn=9ba99fad3e77a68a6ae4c3c91348db3d": "某OA代码审计之挖掘0day，未公开poc",
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649768949&idx=1&sn=1ecde373bf55882e9275155658f9e50d": "原力金智SRC上线漏洞盒子 | 「企业SRC」新住客",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497567&idx=1&sn=0abc159207103dccd3e73039c850bf2a": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520404&idx=1&sn=e8a6e80ecf53ea04e94d8c714c68928e": "AI的攻与防：基于大模型漏洞基因库的威胁狩猎与企业级纵深防御"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520404&idx=1&sn=e8a6e80ecf53ea04e94d8c714c68928e": "AI的攻与防：基于大模型漏洞基因库的威胁狩猎与企业级纵深防御",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493070&idx=2&sn=c9f99407ce417bc7b5ebd84f2d42edaa": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493792&idx=1&sn=a89a0fa01c39e64a57ad642a05f14904": "思科发布IOS XE无线控制器中的关键漏洞更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzYzNjEyMg==&mid=2247487203&idx=1&sn=714e8903bd08d274bcaaf0f09d461a65": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506359&idx=1&sn=397454a7b547b06a7dc384e188d18259": "某云盘系统 API 端点无限制上传漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247513579&idx=1&sn=7378085d9863deac22e2a37990a499d4": "实战中踩过的坑：我是如何用Ingram搞定摄像头漏洞扫描的",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487495&idx=1&sn=ec1e90a954685b653561732410288e2a": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491097&idx=1&sn=ce5a9d032e7a62b5edd058ea86bc7ff6": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493070&idx=3&sn=7c31151901744fd0b812bb3637f38369": "漏洞预警 | Unibox路由器命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxODQzOTYxMQ==&mid=2247483896&idx=1&sn=6cb883625f1ea191a575188e8f62fe6e": "常见的信息泄露漏洞挖掘（第二部分）"
 }
