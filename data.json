@@ -13823,5 +13823,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247484976&idx=1&sn=6f68502e14ea7cd7b9cbb0cac874a1e7": "思路清晰，我是菜B，8小时爆肝windows 32位syncbreeze缓冲区溢出漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649172839&idx=2&sn=29e9e937371118efec358a6e7dea8cec": "CFCA联合银联云计算中心发现AI助手安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492196&idx=1&sn=fcfa14e51c4953a578125b94eecc539a": "【原创漏洞】AOSP跨用户资源访问漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484984&idx=1&sn=997d6624942661f938be7632e0642bb1": "健康证泄露导致的越权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484984&idx=1&sn=997d6624942661f938be7632e0642bb1": "健康证泄露导致的越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485788&idx=1&sn=bee67e0f5b502534a62a2a4ec99877bd": "亚控科技 KingPortal 开发系统 imgPath 文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491384&idx=1&sn=867c9a3c8083cc415d9de07e67971b98": "electrolink 信息泄露漏洞 (CVE-2025-28228)"
 }
