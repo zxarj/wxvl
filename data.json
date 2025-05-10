@@ -13837,5 +13837,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497571&idx=1&sn=9ca2dfab23ac7985bbd0170175c7c154&subscene=0": "实战-漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651132902&idx=1&sn=bdfaec57ddc0a69a2a89a2753a0597fa&subscene=0": "公安部发布等保工作说明函，流行AI开发工具曝严重漏洞|一周特辑",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069525&idx=4&sn=a0ceb517f0bd46bd1296a5aa917fbf4c&subscene=0": "【安全圈】Cisco IOS XE WLC 中的关键 CVE-2025-20188 (CVSS 10) 缺陷允许远程根部访问"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069525&idx=4&sn=a0ceb517f0bd46bd1296a5aa917fbf4c&subscene=0": "【安全圈】Cisco IOS XE WLC 中的关键 CVE-2025-20188 (CVSS 10) 缺陷允许远程根部访问",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489726&idx=1&sn=e7e0eb205d84df56195609e87c843a5f": "国外某停车管理系统V1.13存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498775&idx=1&sn=29f2b9e85b1798dd90285f151987a509": "【PoC】威胁行为者在野利用 SAP 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320568&idx=2&sn=4f78388dd0e6383e06bfd44e179712a5": "FreeBuf周报 | 最强防护也难防大语言模型被欺骗；AI生成虚假漏洞报告污染漏洞赏金平台",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526287&idx=1&sn=6b71b0ff47c9db7f74c5d92b44ced3d8": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNDUwNDU0OA==&mid=2247483765&idx=1&sn=43c35400f383276717ac879629f7db49": "关于小红书SRC暂停漏洞测试活动的公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247484866&idx=1&sn=354d8638c29cecc786bb0cb463c2f741": "好用的漏洞复现靶机推荐",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247485682&idx=1&sn=5907f8b6dea30490048f9168c84cc95c": "282G福利大放送！2025黑客、网络安全资料全网最全资料大合集（从0到挖漏洞、打CTF、护网、就业）"
 }
