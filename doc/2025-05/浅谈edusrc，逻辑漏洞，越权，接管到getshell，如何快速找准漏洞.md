@@ -1,5 +1,7 @@
 #  浅谈edusrc，逻辑漏洞，越权，接管到getshell，如何快速找准漏洞   
-薛定谔不喜欢猫  Z2O安全攻防   2025-05-08 12:47  
+ 黑白之道   2025-05-10 12:46  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 文章首发：奇安信攻防社区  
   
@@ -10,14 +12,12 @@ https://forum.butian.net/share/4291
 今年对某高校进行了渗透测试，发现了一些比较经典的漏洞，写一下和师傅们一起分享。  
 ## 1.教务系统登录处短信轰炸  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZx0QElowgSPxKCd2sSj9y3wZoAS0fP5cdVhk9GBVS7uxSMJ1sriauqQ/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZx0QElowgSPxKCd2sSj9y3wZoAS0fP5cdVhk9GBVS7uxSMJ1sriauqQ/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic "")  
   
   
 学校的教务系统登录处，发现有一个手机验证码认证  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahWqibntFHd0HwdRHYMfYUhQ0WvcnFm7PqcO7tIjASr5lZUxGALexcgXg/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahWqibntFHd0HwdRHYMfYUhQ0WvcnFm7PqcO7tIjASr5lZUxGALexcgXg/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic "")  
   
   
 这里会发送一个验证码  
@@ -26,19 +26,18 @@ https://forum.butian.net/share/4291
   
 但是这里抓包之后，发现能抓到两个数据包  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahuQsuOA94gdj4D3EBQ9jnRpempNaQptaDBQdFHusf7o9fIn4VnnteUA/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahuQsuOA94gdj4D3EBQ9jnRpempNaQptaDBQdFHusf7o9fIn4VnnteUA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这是第一个数据包，可以发现是对验证码的验证，我们把第一个数据包通过之后，拿到第二个数据包：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahwJfYmn5ibS4wouTuOribYNWBPib3hWicstCdY2kbO0oYm7EDIuib5ZW2kMQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahwJfYmn5ibS4wouTuOribYNWBPib3hWicstCdY2kbO0oYm7EDIuib5ZW2kMQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到我们的手机号出现在了第二个数据包中  
   
 我们点击放到repeater，然后点击send，可以发现一直发送：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah5Ox2QTFqdM8JLI74rhWpiaiagMjWmtXrHd2jC4hXWKWiaPlXdlZGdh4Rw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah5Ox2QTFqdM8JLI74rhWpiaiagMjWmtXrHd2jC4hXWKWiaPlXdlZGdh4Rw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 **原理**  
 ：正常来说校验码的验证和发送短信应该是在同一个数据包中，这里不严谨的设置，将校验码的验证和发送短信的数据包分成了两个，我们输入正常的验证码，通过第一个验证的数据包，拦截第二个发送短信的验证码，即可实现短信轰炸。  
@@ -48,13 +47,13 @@ https://forum.butian.net/share/4291
   
 这是挖某专属src时遇到的  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahicUlibdJU16lsAbH0gnVE82uPa8u5REwoC6NHrKiauHicuSK8HOygAZZuQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahicUlibdJU16lsAbH0gnVE82uPa8u5REwoC6NHrKiauHicuSK8HOygAZZuQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 account为手机号，正常情况下，一个手机号短时间内只能发送一条验证码。  
   
 在account中的手机号前面每加一个空格可以突破限制进行多发一次验证码，  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahAsurvmIfGvx3oJvbYoaRc1Eicl4ogH42r7SFjxzp5b5yh8u123tRFzw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahAsurvmIfGvx3oJvbYoaRc1Eicl4ogH42r7SFjxzp5b5yh8u123tRFzw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 burp设置两个载荷  
   
@@ -65,34 +64,33 @@ burp设置两个载荷
 #### 3.伪造XF头  
 ## 2.校内某实训平台任意用户注册、任意用户登录、修改任意用户密码、验证码爆破  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahXwQKnPPUY5gwlc66emKLg9Dd5TRSGRe7wfCby3ibSUibEO6RzEgsIsnQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahXwQKnPPUY5gwlc66emKLg9Dd5TRSGRe7wfCby3ibSUibEO6RzEgsIsnQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 这是校内某实训平台，我们先点击注册功能点。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrSdKISFjh2uPygFbvcyHJLxdECb1ibtIc4KU3pguNFSyDyleqpYNSGA/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrSdKISFjh2uPygFbvcyHJLxdECb1ibtIc4KU3pguNFSyDyleqpYNSGA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 我们点击获取验证码，然后进行抓包：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah6KRbOZfBwyOicGchRx1oQtxjBucIJrAq6RHRtjK2HTw7jI8y3vicUTAQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah6KRbOZfBwyOicGchRx1oQtxjBucIJrAq6RHRtjK2HTw7jI8y3vicUTAQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到手机号被编在了url里，我们这里使用“,”去拼接手机号，这样就可以把验证码同时发送给两个手机号，并且收到的验证码相同。好比我知道你的手机号，拿你手机号去注册，我根本不需要知道你的验证码，因为验证码也会发到我手机上。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahpKXQSwk9ZgLgfXyqPco97FXkAN4ofQSiarzzduwuLg56ZPdVPEdOClQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahpKXQSwk9ZgLgfXyqPco97FXkAN4ofQSiarzzduwuLg56ZPdVPEdOClQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahYL5OOU7bLWphiaVncgkeRqIZTXFgAmK9bAmHNUUicCC8lcULWVZib3UxA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahYL5OOU7bLWphiaVncgkeRqIZTXFgAmK9bAmHNUUicCC8lcULWVZib3UxA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 修改密码功能点也是相同，我这里不进行过多赘述  
 #### 验证码爆破  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahGDpNiboJ359VSnBacsh6rPqO4gwTtUSdOY32OoQ3V6HVWzQF1oASoTA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahGDpNiboJ359VSnBacsh6rPqO4gwTtUSdOY32OoQ3V6HVWzQF1oASoTA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 正常发送验证码，然后在填写验证码的地方，随意输入四位数  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahkgxlyhIK5BLVfzFjdcy2qrFcbh1SW2saSdMeGKdCfZVU9CDfOjUP5A/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahkgxlyhIK5BLVfzFjdcy2qrFcbh1SW2saSdMeGKdCfZVU9CDfOjUP5A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahhkavdpmaDN7q1Xhu93Lh8jyZ3PKNG7BwsAo5OYKX5qb7qTwibw729qg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahhkavdpmaDN7q1Xhu93Lh8jyZ3PKNG7BwsAo5OYKX5qb7qTwibw729qg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到在7710的时候，长度不一样，成功登录进去了。  
   
@@ -100,12 +98,11 @@ burp设置两个载荷
 ：对验证码输入次数进行限制  
 ## 3.越权查看所有学生和教职工个人信息，数万条记录  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahVEbrlv6vcl1MTF1LruYnJEJWphx5fIgMUAjcv5p9cfyuN7gj0P7ztg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahVEbrlv6vcl1MTF1LruYnJEJWphx5fIgMUAjcv5p9cfyuN7gj0P7ztg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 教务系统个人中心处有一个查看最近登陆记录的功能点，发现右上角有个查询，我们抓包尝试：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah6skJApJYrqVTHEbR8SNicf27bibWWdmf111fEiciax95l8MLTKQ7m5grbw/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah6skJApJYrqVTHEbR8SNicf27bibWWdmf111fEiciax95l8MLTKQ7m5grbw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 可以看到这里可以看到我们的登陆情况，我们尝试去修改value的值，看看能不能直接越权查看别人的登录信息。但是发现无论修改成什么都会提示登录信息错误。  
@@ -114,59 +111,55 @@ burp设置两个载荷
   
 我们让value=null  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahiaLtyT4LnguIa1FEiaknFD4yiaRQmLsPbHpD8vlgppkQ6wpiaaZXMONaSQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahiaLtyT4LnguIa1FEiaknFD4yiaRQmLsPbHpD8vlgppkQ6wpiaaZXMONaSQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 但是登录的记录明显有点少，而且观察发现好像都是登录失败的记录，这时我发现有个name字段，我把userid改成*：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibaht7uVD0AfiaOcCF1nCvj7kUgdSJlzwzu1KNaBiaEVxHyGn48j8CxoV4yg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibaht7uVD0AfiaOcCF1nCvj7kUgdSJlzwzu1KNaBiaEVxHyGn48j8CxoV4yg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 拿下所有学生和教职工的个人信息，包括姓名、手机号、身份证号、学号、教职工编号、登录ip等  
 ## 4.教务系统绕过手机验证码换绑手机号  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahCV6DnggvEmPniavxhF2iasuj8P5ibbmnoCkQc05ia4StVQvju2xE9mwYjQ/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahCV6DnggvEmPniavxhF2iasuj8P5ibbmnoCkQc05ia4StVQvju2xE9mwYjQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 也是这个教务系统，安全中心有一个换绑手机号的功能点，我们点击发送验证码  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahr9ib1KPxwAmNkL6rD8CF8VaibSuEf4psSz2D08Xj2G8DTRDg0dzXuMYg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahr9ib1KPxwAmNkL6rD8CF8VaibSuEf4psSz2D08Xj2G8DTRDg0dzXuMYg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 这里可以看到是修改195开头的那个手机号，然后我们forward  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah39iaP5ICM3yicEG98dEE5PjRVyicM4oQzOfCaweZ4d4Xqn2mhVhBDPxgw/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah39iaP5ICM3yicEG98dEE5PjRVyicM4oQzOfCaweZ4d4Xqn2mhVhBDPxgw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 之后弹出一个验证码，我们输入验证码点击确定  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah1afkgAHZ2eZMSl1GcyKOtjtxicwicKyqdEibFJjWZQECDKCrDbxyVMhXA/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah1afkgAHZ2eZMSl1GcyKOtjtxicwicKyqdEibFJjWZQECDKCrDbxyVMhXA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 这里的验证码就做的很好，和发送短信的验证码数据包放在一起了，杜绝了短信轰炸。但是我们这里把195开头的手机号修改成我自己的手机号。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahMf2licua92PnROnd64ccSxfx5vCCRhMcomqtx6fYcUwpM8mEPJ4qxRA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahMf2licua92PnROnd64ccSxfx5vCCRhMcomqtx6fYcUwpM8mEPJ4qxRA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 成功让自己的手机号收到验证码，以为皆大欢喜了，结果。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahPsGGTRGllibuE9RRC6zMs9B9Yglcjd8eT8uyK72rVQczQK4B94qEicibw/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahPsGGTRGllibuE9RRC6zMs9B9Yglcjd8eT8uyK72rVQczQK4B94qEicibw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 显示验证码错误，这是为什么呢？  
   
 我们继续审一下错误的数据包，也就是我们抓输入完短信验证码，点“下一步”的那个数据包  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahw7nIwvMfMiaN8AMqdiaCcZMDf6b0XTNd3sXy1Hl3adQJVFItsXojxA4A/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahw7nIwvMfMiaN8AMqdiaCcZMDf6b0XTNd3sXy1Hl3adQJVFItsXojxA4A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到居然在“下一步”的地方，对手机号又进行了一次验证，我们将这里的phone改成我自己的手机号，然后forward  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZXyEoU8TiaDughnvutIOr56ZEcFjsQdpM64OLFHEbmofC4cIaBkt6PA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZXyEoU8TiaDughnvutIOr56ZEcFjsQdpM64OLFHEbmofC4cIaBkt6PA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 成功到达绑定新手机的界面，成功绕过了验证码认证，可以换绑任意用户的手机号。  
 ## 5.校内某平台druid未授权访问，导致泄露用户session，可以实现任意用户接管  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahOnARMU917ftU3XASXUHibgfURg7E3sNswUCUqHiaoddribuZnTCJMD5Vg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahOnARMU917ftU3XASXUHibgfURg7E3sNswUCUqHiaoddribuZnTCJMD5Vg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 这是校内的一个实习平台，url为“https://xxx.edu.cn/shixi/”  
   
@@ -175,68 +168,67 @@ burp设置两个载荷
   
 于是尝试拼接 ：“https://xxx.edu.cn/shixi/druid/index.html”  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahX0ichwQeo2x70s7MASe70JSmY7IqBoJVa1aLehnwdBVHEpFeibRBGqVA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahX0ichwQeo2x70s7MASe70JSmY7IqBoJVa1aLehnwdBVHEpFeibRBGqVA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到是有druid的未授权访问，这里会泄露很多东西，比如数据库信息，数据库查询语句、访问记录等等。我们这里搞一下session。  
   
 可以看到有一个session监控：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrA5QYqHXevjdmIFfiakicW5c5QftJrcgW2SayqRt2l95Chn9wK5wgh9Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrA5QYqHXevjdmIFfiakicW5c5QftJrcgW2SayqRt2l95Chn9wK5wgh9Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到这里有登录过系统的用户的session，我们要做的就是把session收集起来。这里我有个比较好用的方法，可以ctrl+a复制全页，然后粘贴到excel里，然后选中session列，就可以快速的把session复制到txt里了。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahgJJkewFaLu1wP0JYuSXmCOgOicQs4VAaUrRtH6x9xZARZCicMTDggdbw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahgJJkewFaLu1wP0JYuSXmCOgOicQs4VAaUrRtH6x9xZARZCicMTDggdbw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到我们把session这样收集到了txt里，然后打开yakit  
   
 把txt导入到yakit的pyload里，然后去抓一下登录窗口的数据包：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahjaCKibLw7tNlCiadDc9TRGP0umvkibm9MZzq3UPiaBzzBjkaqQbh5d07Vw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahjaCKibLw7tNlCiadDc9TRGP0umvkibm9MZzq3UPiaBzzBjkaqQbh5d07Vw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到cookie有个jessionid，我们把他的值设置成标签，然后去拼接刚才的session的payload去批量访问：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahIDn33dOC4P1wvYIqHQEWyUYufq2fo8CPtRKzkbz0qu2HBV7FSFv45w/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahIDn33dOC4P1wvYIqHQEWyUYufq2fo8CPtRKzkbz0qu2HBV7FSFv45w/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以看到有很多200成功访问的，也有一些无法访问的，无法访问的原因主要是因为session是具有时效性的，长时间后这个session可能就会失效，但是只要源源不断的访问这个系统，我们就可以源源不断的盗取新的session。  
   
 我们找一个200正常访问的数据包，把里面的session复制下来。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZ33HS8EKXyBwzZ2zFAG4CtvlXpxQcFyXAibNjBQx44Jn1K4EbQ0PkIg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahZ33HS8EKXyBwzZ2zFAG4CtvlXpxQcFyXAibNjBQx44Jn1K4EbQ0PkIg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 然后回到网页，打开f12里的存储，替换里面的jsessionid  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah2bcH8gZm2sLjXQm3frbF0HCcZWdaY8aVFn09ibhvlgTWgTwYKFItWQw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah2bcH8gZm2sLjXQm3frbF0HCcZWdaY8aVFn09ibhvlgTWgTwYKFItWQw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 然后刷新页面：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahB8ibLOiby8mXiaGRzKTfqkZBrmh12tMCt5mia3ncIpe0cKQQ5zkLlVrgAA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahB8ibLOiby8mXiaGRzKTfqkZBrmh12tMCt5mia3ncIpe0cKQQ5zkLlVrgAA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 可以发现直接接管了别人的账号，登录进了系统。  
 ## 6.内部系统存在sql注入导致rce  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahqILaiaSEgzjqpoDmu57kkxXbVK4Elib2luicFWjhZBzs4mxNvBCpkiaqJg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahqILaiaSEgzjqpoDmu57kkxXbVK4Elib2luicFWjhZBzs4mxNvBCpkiaqJg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 学校新出的一个平台，还是挺重要第一个平台，负责校内事务和档案的，应该还是个通用，很多学校都购买了这个平台。  
   
 我在那个平台抓包的时候，这个数据包偶然出现在我的burp里，我一看，居然直接把sql语句写出来了，这不就可以直接利用了吗？  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahUyV7z2UNubA1TV04H6XjBJaW6VDdiby5vmgeCUheLGRguFksSlgrP1Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahUyV7z2UNubA1TV04H6XjBJaW6VDdiby5vmgeCUheLGRguFksSlgrP1Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 直接执行select user，可以看到右边直接进行回显了。那个user字段的内容就是回显的。  
   
 后来我写报告的时候，怎么找也找不到这个包在哪抓的，没办法，只能转化思路去找js接口。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah1mjSj1ORJs4xTUG2yNx3rOg9F4viasiaiboG176UFxicR44xa5dBibicDrTg/640?wx_fmt=png&from=appmsg "")  
-![]( "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah1mjSj1ORJs4xTUG2yNx3rOg9F4viasiaiboG176UFxicR44xa5dBibicDrTg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 可以看到这个data里有sql:t  
   
 成功找到了这个接口，然后还有意外收获！  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahNg1aaZicMqG9nLMWaCta6iaBDd0tqeXBLqKrDT2CYxHVYRicpVImZFxxA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahNg1aaZicMqG9nLMWaCta6iaBDd0tqeXBLqKrDT2CYxHVYRicpVImZFxxA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahLvRPYibnZZxBOwtdDfkH8qBwRUaGKVPYb6yM13gRAcDJKXcx1CL4VHw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahLvRPYibnZZxBOwtdDfkH8qBwRUaGKVPYb6yM13gRAcDJKXcx1CL4VHw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 找到了近400个接口，这400个接口基本上都和上面的一样，直接写出了sql的语句，都可能存在sql注入！  
   
@@ -260,7 +252,7 @@ file = open('C:/Users/xxx/Desktop/111.txt','r')  lines = file.read()  apis=re.
   
 然后我们将收集到的api，放到burp里去批量访问  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrPr7jMwfibJ5l1IzGOKruibrzcbmqMuneGWYOAJUFr7XuX42OXzSLzIg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrPr7jMwfibJ5l1IzGOKruibrzcbmqMuneGWYOAJUFr7XuX42OXzSLzIg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 但是没有跑出来，应该是没有未授权漏洞，做了全局验证，逐个删除cookie字段，但还是不行，没有cookie就被深信服的设备拦住了。  
   
@@ -268,20 +260,20 @@ file = open('C:/Users/xxx/Desktop/111.txt','r')  lines = file.read()  apis=re.
   
 首先我们要判断数据库类型，于是我继续看js  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahGIvx50ibKPEvnm2DUFu6akIm3OByogicWMLnMX9lGOeRmPTgEluM3BoA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahGIvx50ibKPEvnm2DUFu6akIm3OByogicWMLnMX9lGOeRmPTgEluM3BoA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 一开始看到了from dual，我以为是oracle数据库，然后尝试了oracle数据的sql语法，发现总是报错。  
   
 后来再翻js数据包的时候，发现了这个包：  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah9f1uKr1394X6M36vMRhHAaw8X413l0tcDiabe0v7cAzZhkiciaHB9lVlQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibah9f1uKr1394X6M36vMRhHAaw8X413l0tcDiabe0v7cAzZhkiciaHB9lVlQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 这个数据包不仅直接暴露了usr_bsp，重要的是告诉了我们这个是postgresql数据库，这个数据库不太了解，我去百度了一下sql语法。发现他和mysql的语法差不多。  
 ```
 select table_name from information_schema.tables where table_schema=''
 ```  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrMJbtnougaf0NeiaNknXicUEdXomoQ0dS4hyQKUKpYg36Lv6bXf3ria7Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/iar31WKQlTToE7wDnEMVBBaibfVsDDsibahrMJbtnougaf0NeiaNknXicUEdXomoQ0dS4hyQKUKpYg36Lv6bXf3ria7Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 成功注入。然后在征得校方同意后，可以使用postgresql数据库的集成利用工具直接进行rce。  
   
@@ -290,59 +282,11 @@ select table_name from information_schema.tables where table_schema=''
 注：严禁未拿到授权就进行渗透测试  
   
   
-建立了一个  
-src专项圈子  
-，内容包含**src漏洞知识库**  
-、**src挖掘技巧**  
-、**src视频教程**  
-等，一起学习赚赏金技巧，以及专属微信群一起挖洞  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-圈子专注于更新src相关：  
-  
-```
-1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
-2、分享src优质视频课程
-3、分享src挖掘技巧tips
-4、小群一起挖洞
-```  
+如侵权请私聊我们删文  
   
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg41LkR0ezBlmjJY4Lwgg8mr1A5efwqe0yGE9KTQwLPJTe9zyv3wgYnhA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOXg868PqXyjsACp9LhuEeyfB2kTZVOt5Pz48txg7ueRUvDdeefTNKdg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuZDDDv3NsbJDuSicLzBbwVDCPFgbmiaJ4ibf4LRgafQDdYodOgakdpbU1H6XfFQCL81VTudGBv2WniaDA/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "null")  
-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKubbDrNbLxaMgsxYrLRrtIiaN4CdiaaENAnUTYUgSyBGenrOOwa7Jcc0k6OvXmcriaw6bvL7n6nOkMmlA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
-  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4Bd1oBmTkA5xlNwZM5fLghYeibMBttWrf57h8sU7xDyTe5udCNicuHo8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuYrUoo5XZpxN9Inq87ic71D6aUeMdaWrKXgYYia2On8nMA7bqWDySa8odAq1a0kkp3WFgf0Zp0Eut0A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4KKlic4yiafWTpLdejicQe3MllEQc24ypeI3anaK7IjJDVyq1WVQN2yKBA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOHgjJxnq1ibibJgVUx3LwCjZj62vygx8w6rxia1icmIWiax2YlP6S6LmlmlQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOApVm8H605qOibxia5DqPHfbWD6lmcweDjGv4DLl45waD068ugw2Iv2vg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOwldaSATYOh1WQpk1qz15rLxehOAn4aK7tdbSyNEuHDZpIISCtl6Q8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4jFsKRMMNDKbsAZhscCiagnyJScMVmFUqMtae5omlLRdu095mywWszjQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-图片  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4uGJ2SA5BhZ3UyibZvVmcP3sozQEOfVr0jftWpC3YkpDiaAicS1ib3EgXHA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+**END**  
   
   
