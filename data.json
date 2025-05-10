@@ -13835,5 +13835,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593398&idx=2&sn=37e1aae01543dd7d70cdf78802000f93&subscene=0": "思科紧急修复致命漏洞，黑客可借此全面接管设备",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538714&idx=2&sn=d5c3a134feb1803915d85600ad4b9f08&subscene=0": "漏洞管理“扫雷”之动态优先级技术",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497571&idx=1&sn=9ca2dfab23ac7985bbd0170175c7c154&subscene=0": "实战-漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651132902&idx=1&sn=bdfaec57ddc0a69a2a89a2753a0597fa&subscene=0": "公安部发布等保工作说明函，流行AI开发工具曝严重漏洞|一周特辑"
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651132902&idx=1&sn=bdfaec57ddc0a69a2a89a2753a0597fa&subscene=0": "公安部发布等保工作说明函，流行AI开发工具曝严重漏洞|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499624&idx=1&sn=7c645b1f4a16642c32bafc3802d9582a&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069525&idx=4&sn=a0ceb517f0bd46bd1296a5aa917fbf4c&subscene=0": "【安全圈】Cisco IOS XE WLC 中的关键 CVE-2025-20188 (CVSS 10) 缺陷允许远程根部访问"
 }
