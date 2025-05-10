@@ -13825,5 +13825,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492196&idx=1&sn=fcfa14e51c4953a578125b94eecc539a": "【原创漏洞】AOSP跨用户资源访问漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484984&idx=1&sn=997d6624942661f938be7632e0642bb1": "健康证泄露导致的越权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485788&idx=1&sn=bee67e0f5b502534a62a2a4ec99877bd": "亚控科技 KingPortal 开发系统 imgPath 文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491384&idx=1&sn=867c9a3c8083cc415d9de07e67971b98": "electrolink 信息泄露漏洞 (CVE-2025-28228)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491384&idx=1&sn=867c9a3c8083cc415d9de07e67971b98": "electrolink 信息泄露漏洞 (CVE-2025-28228)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493077&idx=2&sn=fa116b649bc919a9bf2172868387fb9a": "漏洞预警 | Tenda AC9命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493077&idx=1&sn=c9e0584a42165249cc7d331513aafd17": "漏洞预警 | SeaCMS海洋影视管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651132902&idx=1&sn=bdfaec57ddc0a69a2a89a2753a0597fa": "公安部发布等保工作说明函，流行AI开发工具曝严重漏洞|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490200&idx=1&sn=259f1f3bb8b6564d6c207190471fbe85": "JS漏洞挖掘｜分享使用FindSomething联动的挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493077&idx=3&sn=6a7285844a60fc2f82971fd2c6b6c225": "漏洞预警 | 锐捷EWEB任意文件读取漏洞"
 }
