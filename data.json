@@ -13850,5 +13850,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610697&idx=2&sn=71bf35dc2d544216c0138f43b22158a1": "AI生成虚假漏洞报告污染漏洞赏金平台",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247513780&idx=1&sn=8d53faf470573cd7361a1f1ea2f65d70": "电商诈骗平台漏洞挖掘实录：从供应链后台到数据泄露的破局之路",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488287&idx=1&sn=464d2d0e5dc7738859fbed59509f0993": "CVE-2025-29774∕CVE-2025-29775: xml-crypto XML Signature Wrapping",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320568&idx=1&sn=434f968a88b181c31066694c59734bb1": "超越漏洞管理：CVE体系面临哪些挑战？"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320568&idx=1&sn=434f968a88b181c31066694c59734bb1": "超越漏洞管理：CVE体系面临哪些挑战？",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499641&idx=3&sn=d7f3a802ba857dfd318ec850e660210b": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096221&idx=1&sn=ac96a88643c60815ce741fbb234b6cee": "研究人员发现 macOS 远程代码执行缺陷漏洞 – CVE-2024-44236",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490199&idx=1&sn=d001d438287d7b024227d4cffb4a4d4e": "分享云安全浪潮src漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499082&idx=1&sn=89c617281776f78ca93ac1853441b97c": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485599&idx=1&sn=3a48cab83ec961c96ff5843d9ebfe0d1": "任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构"
 }
