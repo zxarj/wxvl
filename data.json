@@ -13856,5 +13856,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490199&idx=1&sn=d001d438287d7b024227d4cffb4a4d4e": "分享云安全浪潮src漏洞挖掘技巧",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499082&idx=1&sn=89c617281776f78ca93ac1853441b97c": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485599&idx=1&sn=3a48cab83ec961c96ff5843d9ebfe0d1": "任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构",
+    "https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484664&idx=1&sn=20614437f6665e2bcb3a7b89fa5a26e1": "Clash verge 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503235&idx=1&sn=71f55f311c5c308014a3271e92332314": "【成功复现】DocsGPT远程代码执行漏洞 (CVE-2025-0868)",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526293&idx=1&sn=ef18b8e203a13372a4ae6e2e64021d6b": "一张照片、一句简单提示词，就被ChatGPT人肉开盒，深度解析o3隐私漏洞"
 }
