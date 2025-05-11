@@ -13861,5 +13861,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503235&idx=1&sn=71f55f311c5c308014a3271e92332314": "【成功复现】DocsGPT远程代码执行漏洞 (CVE-2025-0868)",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526293&idx=1&sn=ef18b8e203a13372a4ae6e2e64021d6b": "一张照片、一句简单提示词，就被ChatGPT人肉开盒，深度解析o3隐私漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690710&idx=1&sn=fc4cae87be57161eff78f17fe0bfcd8b": "0038.我如何在顶级漏洞赏金计划中找到我最喜欢的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549854&idx=1&sn=443df06051542ef0a63b806e2c0237ad": "挖洞日记 | 记一次不断FUZZ拿下高危越权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549854&idx=1&sn=443df06051542ef0a63b806e2c0237ad": "挖洞日记 | 记一次不断FUZZ拿下高危越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497580&idx=1&sn=c77028340ad979d0182045d5796a3826": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484166&idx=1&sn=ea248bc37355933590a2ccaae38f7eca": "某报表漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502141&idx=1&sn=f372a42f927527cbe6c164a6df175c6e": "【CTFer成长之路】零元购逻辑漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487502&idx=1&sn=20724856905cdf62df94314268764232": "栈溢出从复现到挖掘-CVE-2018-16333漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486927&idx=1&sn=88fd42417284d98b5c427404832afd6f": "Edu双一流证书站 | github密码泄露导致的越权漏洞"
 }
