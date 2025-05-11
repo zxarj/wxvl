@@ -13859,5 +13859,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构",
     "https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484664&idx=1&sn=20614437f6665e2bcb3a7b89fa5a26e1": "Clash verge 漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503235&idx=1&sn=71f55f311c5c308014a3271e92332314": "【成功复现】DocsGPT远程代码执行漏洞 (CVE-2025-0868)",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526293&idx=1&sn=ef18b8e203a13372a4ae6e2e64021d6b": "一张照片、一句简单提示词，就被ChatGPT人肉开盒，深度解析o3隐私漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526293&idx=1&sn=ef18b8e203a13372a4ae6e2e64021d6b": "一张照片、一句简单提示词，就被ChatGPT人肉开盒，深度解析o3隐私漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690710&idx=1&sn=fc4cae87be57161eff78f17fe0bfcd8b": "0038.我如何在顶级漏洞赏金计划中找到我最喜欢的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549854&idx=1&sn=443df06051542ef0a63b806e2c0237ad": "挖洞日记 | 记一次不断FUZZ拿下高危越权漏洞"
 }
