@@ -13874,5 +13874,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485602&idx=1&sn=113b5a508399efb0214e5a8dc86e2d21": "多个未授权漏洞深度利用实战",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624248&idx=3&sn=be8ad60aa7b6c6aa5bfcdde292be12c9": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498075&idx=1&sn=62f2e4f26c60824d2b53ff900b2481cd": "车机Android系统安全漏洞深入浅出",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493089&idx=1&sn=492f897526e45b0a0d0636778649cf6a": "漏洞预警 | FoxCMS SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493089&idx=1&sn=492f897526e45b0a0d0636778649cf6a": "漏洞预警 | FoxCMS SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529742&idx=1&sn=05006a4350851e5b33b7b94c4b210209": "华硕预装驱动软件中的一键RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247511977&idx=1&sn=3de7d646fcc6d4a410d0d427fc2a83d5": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41&subscene=0": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616101&idx=1&sn=60bb832f9c2aaec8fa0f28cb4f23f3e4": "赏金故事 | 挖掘Netflix Dispatch中的管理员账户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610719&idx=3&sn=52c48c1babd531fb0f5c8323bc9236e3": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486428&idx=1&sn=8039e2d3e7d267a1787f63dfd9330edb": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497580&idx=1&sn=c77028340ad979d0182045d5796a3826&subscene=0": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247485838&idx=1&sn=ae663c70dc4614970989937a04f57533": "一篇文章带小白从原理到靶场练习搞懂RCE命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492267&idx=1&sn=c22d03fe3cbbd43b427799d5c2ec6c43": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493089&idx=2&sn=47f2633ec008d2ab3925fc14ec4ea6bf": "漏洞预警 | 用友U8CRM SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484544&idx=1&sn=e2b5fc489891d16de507cfc4810b0d43": "迅睿CMS最新SQL注入漏洞及解决方法（CNVD-2025-08495）"
 }
