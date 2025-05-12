@@ -13885,5 +13885,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247485838&idx=1&sn=ae663c70dc4614970989937a04f57533": "一篇文章带小白从原理到靶场练习搞懂RCE命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492267&idx=1&sn=c22d03fe3cbbd43b427799d5c2ec6c43": "AI自动化代码审计RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493089&idx=2&sn=47f2633ec008d2ab3925fc14ec4ea6bf": "漏洞预警 | 用友U8CRM SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484544&idx=1&sn=e2b5fc489891d16de507cfc4810b0d43": "迅睿CMS最新SQL注入漏洞及解决方法（CNVD-2025-08495）"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484544&idx=1&sn=e2b5fc489891d16de507cfc4810b0d43": "迅睿CMS最新SQL注入漏洞及解决方法（CNVD-2025-08495）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506353&idx=1&sn=b111464761306e4cdef6942d7c25b2e6": "绕过公共漏洞赏金计划中的双重身份验证：6000 美元的旅程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247504085&idx=1&sn=239026232f4f48370ade47ad2abc16c3": "中国信通院【首批】软件供应链漏洞管理平台能力评估开始报名！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485370&idx=1&sn=58f7ffdd233dd85a234cc68e79031668": "java代码审计之常见漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486722&idx=1&sn=ffcd556730cb1d6f9b0d41145d828e52": "【漏洞通告】Sourcecodester在线大学图书馆系统 SQL注入(CVE-2025-4504)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582297&idx=1&sn=5904ff9bef31b689ef0b942ff6255ef6": "DragonForce勒索团伙正有计划地扩展其他勒索软件组织",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489747&idx=1&sn=c003b000cda6831904036b5f3de74805": "【0day】Turkey Global全开源9语言交易所审计",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499641&idx=3&sn=d7f3a802ba857dfd318ec850e660210b&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486722&idx=2&sn=1bf1055c7e8f552d6cebc52ac371f067": "【漏洞通告】D-Link DIR-605L 无线路由器缓冲器溢出(CVE-2025-4441)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzk2MzA3Nw==&mid=2247483873&idx=1&sn=01fb3cb887b2977a4e591ce31def958a": "分享一下我的漏洞挖掘经验",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524522&idx=2&sn=ca11f0d3dad8a00fffcc89d0d8a351d9": "漏洞预警：CVE-2024-26809利用nftables双重释放漏洞获取Root权限"
 }
