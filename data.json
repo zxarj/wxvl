@@ -13918,5 +13918,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzg3NTcxNg==&mid=2247484959&idx=1&sn=393434f787d1c695cf4d073bf971946f": "小皮面板从未授权到RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489143&idx=1&sn=a25daaef4ea1b09e23bb13790cd43410": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320651&idx=1&sn=a9fab4722bc9ee9e63256b7a44cdc041": "包教包会包分配项目，单月斩获漏洞赏金2.7W！",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484552&idx=1&sn=1ee3c075f613bc32d6e16056d4853c1e": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35419)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484552&idx=1&sn=1ee3c075f613bc32d6e16056d4853c1e": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35419)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493104&idx=2&sn=d019beba15f5c4cfb4373427e44d1aba": "漏洞预警 | 润申企业标准化管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496223&idx=1&sn=c333f310beb5f436d77f65e17750ebee": "漏洞研究(6)：XXL-JOB调度中心默认口令漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493104&idx=1&sn=f96d02a0a9d96ca7ef3f92a4308fe31a": "漏洞预警 | Kibana原型污染漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487330&idx=3&sn=9dadbeba1bf88ec5ad8599ddd24cae70": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484563&idx=1&sn=5f43362f5a4bda2e60b347f22c6f4d46": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487330&idx=1&sn=757d1466f645123250afe9ccd77b023c": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487893&idx=1&sn=3350628c95693f761c25068994b7e5a6": "紧急！华硕DriverHub曝高危漏洞，请立即更新！—远程攻击者可通过HTTP请求劫持你的主板驱动管理",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493821&idx=1&sn=299f74ef185aadfca5248b900b31e27e": "研究人员发现华硕预装软件DriverHub存在\"一键式\"远程代码执行漏洞"
 }
