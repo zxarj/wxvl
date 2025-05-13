@@ -13962,5 +13962,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069614&idx=4&sn=2cdeb6fe56f376c6209155e17e0eaa4d": "【安全圈】华硕DriverHub漏洞致高危攻击：恶意网站可获取管理员权限",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524436&idx=2&sn=7349fe15ed6d5371de2ad7c1fba70c08": "【漏洞通告】F5 BIG-IP Appliance 模式命令执行漏洞(CVE-2025-31644)",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529772&idx=2&sn=d18c032ba92e2e4884a9e3fc32da780d": "PoC 发布：CVE-2025-31644 漏洞利用通过设备模式命令注入授予 F5 BIG-IP 的 Root 访问权限",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484574&idx=1&sn=9b5357394109be2207eae4f312292bb0": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484574&idx=1&sn=9b5357394109be2207eae4f312292bb0": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247486942&idx=2&sn=368c1989a347f75796a39d41037b6173": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503247&idx=1&sn=f725ae48a660d6d5f43b8dee2657652b": "【成功复现】Elestio Memos服务器端请求伪造漏洞(CVE-2025-22952)【SSRF】",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486256&idx=1&sn=6d54c27fcb11601360b8cd9f78378d3b": "客户端漏洞在红蓝对抗中的挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520475&idx=1&sn=87c556c4efb6fbd6f7aa0aa689808816": "HotSwappableTargetSource+XString利用分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491036&idx=2&sn=b28468700c3d8e0143e71992e09f9b46": "客户端漏洞在红蓝对抗中的挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486540&idx=1&sn=eb91ae30cb0ff0124a21f0cc4971d6ae": "CNVD-2024-22977 金和C6协同管理平台文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522987&idx=1&sn=dd6c1684116b2d65b1efe7c80afe5945": "华硕修复严重的DriverHub 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=3&sn=68ed4c2a830801d5a9cee49cec544119": "macOS远程视图服务沙箱逃逸漏洞PoC公开，攻击者可突破系统限制",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=2&sn=de7f2bb1bb8623716a3d0a8af49cf360": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488457&idx=1&sn=ff9daf871fef4edcfdb100b4990e66ea": "顺景ERP UploadInvtSpFile接口存在任意文件上传漏洞 附POC"
 }
