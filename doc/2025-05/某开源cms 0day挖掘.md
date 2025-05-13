@@ -1,22 +1,25 @@
 #  某开源cms 0day挖掘   
-用户9528  菜鸟学信安   2025-05-07 00:30  
+用户9528  安全洞察知识图谱   2025-05-13 00:30  
   
-作者：用户9528  
+**免责声明**  
+ 由于传播、利用本公众号所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号安全洞察知识图谱及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+## 1项目介绍  
+```
+作者：用户9528
+原文链接：https://xz.aliyun.com/news/17601
+```  
   
-原文链接：https://xz.aliyun.com/news/17601  
-### 简介  
-  
-  
-**简介**  
+简介  
   
 CicadasCMS是用springboot+mybatis+beetl开发的一款CMS，支持自定义内容模型、模板标签、全站静态化等功能。  
   
   
-![Pasted image 20250331211235.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VWicjGGlhWtiaAvibAibC4Mw6rwvqCTsz21HTY4Eiabju8pMaJpUwPicwlibfg/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331211235.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkKUTRhTKGq304kjSdGPia4BUq6hMBibDTUjET86sh9vXxITTzib1dZBCUQ/640?wx_fmt=jpeg "")  
   
   
   
-![Pasted image 20250331211156.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VzREwbXaqL60e9MrqxuwQ5Tb1mu7cu41rGWXJeAXQw746bMb4ibXCQWg/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331211156.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkxgEcnwkBFCibFOvQwRlLjRZJNyba0cAqkWz3kKf8mTf6V4LD0Iuy73Q/640?wx_fmt=jpeg "")  
 ### 漏洞挖掘  
   
 sql注入（成功）  
@@ -64,7 +67,7 @@ sql注入（成功）
 save方法接受了一个content对象为参数，这个content对象包含主键contentId等信息，formParam对象为一个新建的hashMap，用于保存表单数据的键值对，表示了一些扩展字段和其对应值，那么在这个逻辑中，如果contentId不为空，则调用com.zhiliao.module.web.cms.service.ContentService#update更新数据，否则调用com.zhiliao.module.web.cms.service.ContentService#save进行数据保存：  
   
   
-![Pasted image 20250331052259.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7Vmq3qM62ExCrsOXa6Jk86xUXT9KLFUQn5NiaPtnA2uxM2KbSfafkY9oA/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331052259.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkMu7UuyqUeercRhJ3fykamHXPEpeiaVXE8PXjk1RpHxDFQaI3akfqQicA/640?wx_fmt=jpeg "")  
   
   
   
@@ -105,7 +108,7 @@ com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#update(com.zhiliao.my
 又调用了com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#SaveModelFiledParam进行数据保存：  
   
   
-![Pasted image 20250331052841.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7V4e17rSVibS9q8FnQib2OPNy2lLoBlO3VITeOLwNnuEyciaQ8Zt1J1ShTg/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331052841.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkicic97y1nX4UdZWbBVxGicibRIBF5Veysa4LUhTzibicgkBWMZgmycQjxviag/640?wx_fmt=jpeg "")  
   
   
   
@@ -188,7 +191,7 @@ com.zhiliao.module.web.cms.service.impl.ContentServiceImpl#update(com.zhiliao.my
 那么这里执行的逻辑是：首先进行非空判断，接着遍历表单数据并且动态拼接到sql执行语句中，最后进行执行，显然这里是存在sql注入漏洞：  
   
   
-![Pasted image 20250331053306.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VC5bFVev52loYCzYjbUnmSJCV2W2D654D2bUKqmuTFD5fFQKfjUhZeQ/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331053306.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkDPPtMSl5we6icLZhRibLxvrnMr9iaBrS254FO13J0licFO4sVqics8HmI6Q/640?wx_fmt=jpeg "")  
   
   
   
@@ -258,14 +261,14 @@ com.zhiliao.common.upload.UploadComponent#uploadFile：
 这里的newName是从this.getNewFileName(fileName);得到的，fileName又是通过this.getFileName(fileType) ;获得的：  
   
   
-![Pasted image 20250331054728.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VWXtwmS5rHWRjb1SGo1tc2NocPNRbqUNwicAzt27WuibRgwNr3EickMvWg/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331054728.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibk3pW7iaH7F804icoCEHdMBX5ia6USdKeTVh7QHAPnjhZX2PryIVPiaM5zIQ/640?wx_fmt=jpeg "")  
   
   
   
 最开始fileType又是通过this.getFileType(attachment.getOriginalFilename());获得的：  
   
   
-![Pasted image 20250331055057.png](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0DKKuMAu4bXMF7B2t6nk7VpdjknrUaSuaZn9TYj3ibMO1I5GkSU6pMG9HmVf55Mpz7TPKZUc2Gouw/640?wx_fmt=png&from=appmsg "")  
+![Pasted image 20250331055057.png](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkXia6DRP9ANyjic3gqXHcQKSFTqyapdV8JXx2F3YiaNYNpyVsP1farKibdw/640?wx_fmt=jpeg "")  
   
   
   
@@ -280,13 +283,14 @@ com.zhiliao.common.upload.UploadComponent#uploadFile：
 那么这里是使用了lastIndexof函数，这样的话看上去后文件的类型是不可控的。  
 ### 总结  
 ### 这套源码是很老了，整体难度不大，非常适合新手进行学习。  
+## 2免费社区  
+  
+安全洞察知识图谱星球是一个聚焦于信息安全对抗技术和企业安全建设的话题社区，也是一个  
+**[免费]**  
+的星球，欢迎大伙加入积极分享红蓝对抗、渗透测试、安全建设等热点主题  
   
   
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8aia4mibs0I8I42MrYYOSE2DVEpVpPHvxufMGR0yufpgouwIXEl7H5eLm0MgolGFQMDFIrKLTxaYIQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
-  
-  
-  
-  
-  
-  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rhic2eSUB7oxwhHPcGA4rxBibkzK2yZDWbEbIFUicsiaIvKBicJpoAGWD0TsCuglicbPcQsyKrmIibvHiaGWDA/640?wx_fmt=jpeg&from=appmsg "")  
   

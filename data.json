@@ -13926,5 +13926,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484563&idx=1&sn=5f43362f5a4bda2e60b347f22c6f4d46": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487330&idx=1&sn=757d1466f645123250afe9ccd77b023c": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487893&idx=1&sn=3350628c95693f761c25068994b7e5a6": "紧急！华硕DriverHub曝高危漏洞，请立即更新！—远程攻击者可通过HTTP请求劫持你的主板驱动管理",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493821&idx=1&sn=299f74ef185aadfca5248b900b31e27e": "研究人员发现华硕预装软件DriverHub存在\"一键式\"远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493821&idx=1&sn=299f74ef185aadfca5248b900b31e27e": "研究人员发现华硕预装软件DriverHub存在\"一键式\"远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484549&idx=1&sn=07bd4bd7dc024f64a4458af15c61ed8e": "ECShop存在逻辑缺陷漏洞（CNVD-2025-08499）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795069&idx=3&sn=f635741f0a1de71baccd3ad9cc1a576c": "华硕预装软件DriverHub中存在漏洞，可被利用来执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503405&idx=1&sn=754e4027a04e293d322951ef9459a759&subscene=0": "雷神众测漏洞周报2025.5.6-2025.5.11",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610735&idx=1&sn=b3aa97fa473bf7318812cad75175f53d": "中标价85万防火墙，网购仅300元？；|苹果自研 5G 基带首个漏洞被修复：可拦截流量，中国安全专家发现；",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492263&idx=1&sn=2f28244d0617723b417f5e4557450c01": "漏洞预警 上海上X信息技术股份有限公司 堡垒机 RepeatSend 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTQ4NzE2Ng==&mid=2247495267&idx=1&sn=b3d1576e090815fc516ba4ae9ea6288f": "【文末抽奖】Springscan+：Spring未授权访问漏洞检测Chrome插件 by Lumns",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582297&idx=1&sn=5904ff9bef31b689ef0b942ff6255ef6&subscene=0": "DragonForce勒索团伙正有计划地扩展其他勒索软件组织",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492279&idx=1&sn=3aa15192fd6959ca837f09d0747e9396": "某开源cms 0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491423&idx=1&sn=3e9eba64f68f802352b09c54dc4a8beb": "智邦国际ERP GetPrintTemplate.ashx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491691&idx=1&sn=b1e831380887d4f8d2a9c1ba7e052c76": "【0day】Turkey Global全开源9语言交易所审计",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490068&idx=1&sn=e34c512c1ee126fd554c93c6301ef3f4": "【高危漏洞预警】SAP NetWeaver Visual Composer反序列化漏洞CVE-2025-42999"
 }

