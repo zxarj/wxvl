@@ -13949,5 +13949,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518059&idx=1&sn=3bdb3d148cd8ef8323951728d871fe0a&subscene=0": "MiSRC 端午漏洞活动开启，等你超凡出 “粽”",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524552&idx=4&sn=a17cd506867447841c65790a639c803b": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512193&idx=1&sn=24be890704a835d114a01064777a9e90": "高危漏洞预警：Apache Tomcat远程代码执行漏洞曝光！",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=1&sn=adbf03473c87e30cb132d3f07d091205&subscene=0": "CNVD漏洞周报2025年第17期"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=1&sn=adbf03473c87e30cb132d3f07d091205&subscene=0": "CNVD漏洞周报2025年第17期",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489815&idx=1&sn=78c595c820698adedb9fc3224de34cbe": "Apache Calcite Avatica 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484298&idx=1&sn=cee5e4998f84342eb302370bbdd76d61": "车机Android系统安全漏洞深入浅出",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136811&idx=2&sn=c04c6f207bc50001a9e2c8ec9bd15d46": "Google因生物识别数据侵权支付创纪录13.75亿美元和解金；华硕驱动管理工具安全漏洞允许恶意网站悄然执行管理员级命令 |牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=2&sn=09773aee69062908205a5dc12cb4e5d8&subscene=0": "上周关注度较高的产品安全漏洞(20250428-20250511)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=4&sn=e480396e735465420fa34b4a20378a10": "GNU Screen 多漏洞曝光，本地提权与终端劫持风险浮现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845102&idx=1&sn=450421e645d6b694ead1dc90d9a14d79": "客户端漏洞在红蓝对抗中的挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522987&idx=2&sn=3a436a07ce8ab28ad783d9d8705ed72a": "苹果修复iOS、macOS 平台上的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096228&idx=2&sn=d8e4dbd652645003ab441e031634eb89": "VMware Tools 存在允许攻击者篡改文件以触发恶意作漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524436&idx=1&sn=e5b469efdad9cfdb0cad7a69c8e92dd7": "【勒索防护】Mallox新变种再度来袭，正利用产品漏洞对国内企业实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069614&idx=4&sn=2cdeb6fe56f376c6209155e17e0eaa4d": "【安全圈】华硕DriverHub漏洞致高危攻击：恶意网站可获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524436&idx=2&sn=7349fe15ed6d5371de2ad7c1fba70c08": "【漏洞通告】F5 BIG-IP Appliance 模式命令执行漏洞(CVE-2025-31644)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529772&idx=2&sn=d18c032ba92e2e4884a9e3fc32da780d": "PoC 发布：CVE-2025-31644 漏洞利用通过设备模式命令注入授予 F5 BIG-IP 的 Root 访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484574&idx=1&sn=9b5357394109be2207eae4f312292bb0": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35311)"
 }
