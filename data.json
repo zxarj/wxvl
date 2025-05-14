@@ -14018,5 +14018,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486568&idx=1&sn=8ebc60c066a4e4f22aaa4379aaddcde6": "逆向专题分析 - Strcpy缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501065&idx=2&sn=17282f8ef6d8567adc8ad152838beac7": "【漏洞通告】微软5月多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=3&sn=4d7ba3841ee1fb55e572a55e404156cf": "Microsoft 警告 AD CS 漏洞允许攻击者拒绝通过网络提供服务",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462863&idx=1&sn=8eb58c985548eaa20261e919dcd81bf2": "2025年度（第一期）CNNVD漏洞奖励评选结果公告"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462863&idx=1&sn=8eb58c985548eaa20261e919dcd81bf2": "2025年度（第一期）CNNVD漏洞奖励评选结果公告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484838&idx=1&sn=709fb77ea9e14db226b4d14226f2ea27": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第19期，总第37期]",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489821&idx=1&sn=827c829c0a70cd6f62a3c8cba5135cd9": "3个月测一站！漏洞挖掘纯享版",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462863&idx=2&sn=39d388aa783b02d11da1ec185bf0ee06": "信息安全漏洞周报（2025年第19期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499888&idx=1&sn=11b8b60336132398b93d3517060f9f4a": "漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491071&idx=1&sn=44e17b4412591a6d368f8d643463d041": "Yakit + xray联动探测漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490076&idx=2&sn=d434a7266c6894233bf273b980f0df72": "【漏洞预警】F5 BIG-IP IControl REST需授权命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=1&sn=a738a378ed2afb2a4d728ca1f3858253": "英特尔CPU新型漏洞可泄露特权内存敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=2&sn=9fb4955b9ea23730e89e2a02fbed891a": "Windows 远程桌面漏洞允许攻击者通过网络执行恶意代码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593996&idx=2&sn=1adc8a5b4dcf09069ae8a01ef9cb1186": "微软修复78个漏洞，5个零日漏洞被利用，Azure惊现满分漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488468&idx=1&sn=0936bafacba6d0e8c19685261ec2c800": "Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC"
 }
