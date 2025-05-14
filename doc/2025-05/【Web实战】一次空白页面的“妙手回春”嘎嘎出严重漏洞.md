@@ -1,5 +1,5 @@
 #  【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞   
-原创 菜狗  富贵安全   2025-05-13 00:01  
+原创 菜狗  富贵安全   2025-05-14 00:03  
   
 # 前言  
   
@@ -7,7 +7,9 @@
 # 过程  
   
 https://x,x.com/  
+  
 打开页面啥也没有，一片空白:  
+  
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzwXnOibSWU0A6UZ3anvtsaE9OJlichFa6fKItca8FiasicmmvPgVaxvSzgQ/640?wx_fmt=png&from=appmsg "")  
   
   
@@ -20,6 +22,7 @@ https://x,x.com/
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJztn7avhVhUvPX114xjaOG59dUXLv90jRV6XTfycH1vXFa6WRF4pEd3A/640?wx_fmt=png&from=appmsg "")  
   
 其中响应包中响应的“插件分类不能为空”让我百思不得其解，不知道是缺了什么参数。那么这里就再回到js中看看吧，果然，给我发现了端倪：  
+  
 这里再查看js，发现其中给出提示，原来是header要加如下字段：  
   
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzuI6Coozp62QOatjAc5dqqAlxSPxNggE38yHanYXOsn7JDbiczfBHuFA/640?wx_fmt=png&from=appmsg "")  
@@ -31,6 +34,7 @@ https://x,x.com/
 因此这里就又碰到了一个棘手的问题，Authorization认证字段这个一般都是成功登录系统后才会赋予给用户的一个值，而这个地方连页面都是空白的，那么这里到底去哪里寻找Authorization认证字段的值呢？  
   
 这里贯彻着遇事不决看js的思想，继续来审计js，终于发现了解决方法：  
+  
 其中在js中发现了login接口。这里存在该逻辑漏洞：id:t.id||"1234",name:t.name||"1234",organizationCode:t.organizationCode||-1。这里用了||或，那么言下之意就是如果不知道id、name和organizationCode的话，就可以直接id参数和name参数都填1234，organizationCode填-1  
   
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJz7RcFNvA0NgrR7djWfQtkgicRg08HoEqLghmERNGAxyjLW4GvIiaYTAibA/640?wx_fmt=png&from=appmsg "")  
@@ -52,7 +56,9 @@ login接口，这里真成功了，其中获取到data
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzMO4QGWsbvPOYLhjYUKZJibTB4TPlIMdIaPUq8MKiaMjmd6lBSCYSfmhw/640?wx_fmt=png&from=appmsg "")  
   
 这里最关键的一个接口来了：  
+  
 这里通过js审计到查看oss配置信息的接口：  
+  
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzhFGFDmvS00EMsrhbFP7cZZx8xwNXqY06EpUXDYtSawLtGMic1Mf620A/640?wx_fmt=png&from=appmsg "")  
   
   
@@ -77,6 +83,7 @@ login接口，这里真成功了，其中获取到data
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzovVFiaOYIqRSqpiaUyAibHGFCTd1T8LZM8DeiacyUFcO9aSTK2Xgdia4a3A/640?wx_fmt=png&from=appmsg "")  
   
 反编译出来的后端源码：  
+  
 ![image.png](https://mmbiz.qpic.cn/sz_mmbiz_png/veA9QmcJk5nxsIV7ggRibjCKnUMMEibwJzSx7w5SNrd0hlOC4yX3wI3bVCxycNdYLcYpKs4SEia9OKKGtdycviaSpQ/640?wx_fmt=png&from=appmsg "")  
   
   

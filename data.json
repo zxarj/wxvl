@@ -13974,5 +13974,14 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=3&sn=68ed4c2a830801d5a9cee49cec544119": "macOS远程视图服务沙箱逃逸漏洞PoC公开，攻击者可突破系统限制",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=2&sn=de7f2bb1bb8623716a3d0a8af49cf360": "华硕DriverHub漏洞允许恶意网站以管理员权限执行命令",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488457&idx=1&sn=ff9daf871fef4edcfdb100b4990e66ea": "顺景ERP UploadInvtSpFile接口存在任意文件上传漏洞 附POC",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496233&idx=1&sn=af205b4221083a7918d52d6f83099538": "漏洞研究(7)：XXL-JOB执行器未授权访问漏洞（RESTful API）"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496233&idx=1&sn=af205b4221083a7918d52d6f83099538": "漏洞研究(7)：XXL-JOB执行器未授权访问漏洞（RESTful API）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487334&idx=2&sn=103f1eea080d4d9426b63198942ad6db": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=2&sn=e1899b18ec36c06a4bbd6b924614466c": "漏洞预警 | 上海华测监测预警系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=3&sn=29972f15447bee7aada4615991d82681": "漏洞预警 | 灵当CRM任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247509901&idx=1&sn=82924217b6f5f44e7c144b66d583231f": "英特尔处理器“幽灵”漏洞防御机制再遭突破：分支预测竞争条件引发新型攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493832&idx=1&sn=f0357d059b70ff22429fd8d12ffcddfc": "苹果发布安全更新以修复iOS和macOS中的多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484576&idx=1&sn=0e9dde7fb3d64fabc0db98effeacd83d": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-34322)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTk0ODY0NQ==&mid=2247485467&idx=1&sn=f733e694ff74b3dbb331c09986535628": "【0day漏洞复现】某华智慧园区综合管理平台文件上传漏洞(CNVD2024-35311)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487334&idx=4&sn=b3346ca5192aa5b3e889435ad246be82": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655278705&idx=1&sn=616ce013a80dd8a9c8492c7fe57592f2": "100页PPT Web漏洞挖掘"
 }
