@@ -14028,5 +14028,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=1&sn=a738a378ed2afb2a4d728ca1f3858253": "英特尔CPU新型漏洞可泄露特权内存敏感数据",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=2&sn=9fb4955b9ea23730e89e2a02fbed891a": "Windows 远程桌面漏洞允许攻击者通过网络执行恶意代码",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593996&idx=2&sn=1adc8a5b4dcf09069ae8a01ef9cb1186": "微软修复78个漏洞，5个零日漏洞被利用，Azure惊现满分漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488468&idx=1&sn=0936bafacba6d0e8c19685261ec2c800": "Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488468&idx=1&sn=0936bafacba6d0e8c19685261ec2c800": "Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492778&idx=1&sn=05a8cc166439396e85322a00a6f68a2c": "严重的 Erlang∕OTP SSH RCE 漏洞现已公开，请立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320874&idx=2&sn=9bc6fc40d0c509c0f8350ee1b767056c": "FortiVoice零日漏洞遭野外利用，特制HTTP请求可执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490076&idx=1&sn=7657f918594505daaecaa1220c2914f0": "【漏洞预警】Apache IoTDB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494605&idx=1&sn=f089ad9b91ff71fc033ef5fc95538d43": "工具推荐 | 最新开源若依Vue漏洞检测工具"
 }
