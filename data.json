@@ -14001,5 +14001,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=1&sn=c6eb1e1604d1458fb33d362903411604": "漏洞预警 | 致远OA代码注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497445&idx=1&sn=3869ce186823523050c2ae745032deac": "2025年5月微软补丁日多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503390&idx=1&sn=4dffd20f4e491d1a2f9f00c19b3a6075": "Ivanti Endpoint Manager Mobile 多个漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTA2MTc4MA==&mid=2247493940&idx=1&sn=c57275d60a7e624be71dd6089520a8de": "swagger-api未授权访问漏洞及防治方法"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTA2MTc4MA==&mid=2247493940&idx=1&sn=c57275d60a7e624be71dd6089520a8de": "swagger-api未授权访问漏洞及防治方法",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523008&idx=1&sn=12a019a9d94970b49208b306f026f931": "Ivanti 修复已用于代码执行攻击中的两个 EPMM 0day 漏洞，与开源库有关",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490392&idx=1&sn=10c6648ae3683387f181a5eba7f7d429": "【风险通告】微软5月安全更新补丁和多个高危漏洞风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485614&idx=1&sn=0d220c2d95b21b9b8d2ec7a23720a22c": "JNDI注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502210&idx=1&sn=7ac38b3015aa5bd309dadd5a8b9b0681": "【CTFer成长之路】命令执行RCE",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320874&idx=3&sn=65c96cd2b5e47e2dc143515a30adbf3c": "英特尔CPU曝新型漏洞，特权内存敏感数据面临泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247525083&idx=1&sn=ad2dc629a1ec0c3a257554084bf70cb4": "2025-05微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320874&idx=4&sn=02300abd352f8d0be63a8220ffeb2a77": "欧盟新漏洞数据库上线，定位CVE计划补充而非竞争者",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMjIzNTU2Mg==&mid=2247484298&idx=1&sn=7b44b97a32416ee337fcdc8d180dee74": "【水文】聚合漏洞情报平台（新增推送服务）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136834&idx=2&sn=2a8979ba8eb9cbf2c9d9ce1c99d746cc": "迪奥确认中国客户信息遭泄露；欧洲漏洞数据库正式启动，CVE动荡中的新选择 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486597&idx=1&sn=1a28d06e49724358ef5ac0e57ab8f234": "美国 CVE 计划深陷混乱，欧盟火速上线新型漏洞数据库",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788563&idx=1&sn=b342ee39e53f84204ba881a7b078f5ed": "“欧洲版CVE”上线，EUVD释放漏洞治理新信号",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523008&idx=2&sn=4dc3d8241d26767577bbed984b1b88b2": "Fortinet修复已遭利用的严重0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523008&idx=3&sn=9a842c823e7d8913c5cc1c0f69a9cda4": "微软5月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486568&idx=1&sn=8ebc60c066a4e4f22aaa4379aaddcde6": "逆向专题分析 - Strcpy缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501065&idx=2&sn=17282f8ef6d8567adc8ad152838beac7": "【漏洞通告】微软5月多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524570&idx=3&sn=4d7ba3841ee1fb55e572a55e404156cf": "Microsoft 警告 AD CS 漏洞允许攻击者拒绝通过网络提供服务",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462863&idx=1&sn=8eb58c985548eaa20261e919dcd81bf2": "2025年度（第一期）CNNVD漏洞奖励评选结果公告"
 }
