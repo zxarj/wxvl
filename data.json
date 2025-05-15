@@ -14050,5 +14050,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900536&idx=1&sn=bb4f1cb2997f99dce650af738ebb23be": "微软5月安全更新：78漏洞深度透视，5大零日实战利用链及Azure DevOps CVSS 10漏洞攻防策略",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900537&idx=1&sn=573044c78e9776fde63049ccb62fd980": "OttoKit插件CVSS 9.8“幽灵连接”提权漏洞(CVE-2025-27007)遭闪电利用，深度技术剖析与防御指南",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484069&idx=1&sn=699376c17af88ea04131750ccdc81566": "【在野利用】Fortinet 系列产品 未认证远程代码执行（CVE-2025-32756）",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247492827&idx=1&sn=56d71af1f4ba16d789e34d7228296643": "安全快报 | 国际APT威胁组织利用SAP NetWeaver严重安全漏洞入侵全球581个关键基础设施系统"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247492827&idx=1&sn=56d71af1f4ba16d789e34d7228296643": "安全快报 | 国际APT威胁组织利用SAP NetWeaver严重安全漏洞入侵全球581个关键基础设施系统",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529809&idx=3&sn=8f925e14873beeeee8ef8ac6925c8846": "利用浏览器漏洞绕过 Windows Defender 应用程序控制 (WDAC)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492271&idx=1&sn=492927911ca4b639d0b7b68767d61ec9": "漏洞预警 Salia PLCC check_req.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261079&idx=1&sn=80fafddace85154176f62cf1ec5a1b84": "漏洞挖掘之 FOFA 语法技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529809&idx=1&sn=fec7a393bf95a45338335c5a508b69b3": "CVE-2024-55030：NASA fPrime 队列溢出导致 DoS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484565&idx=1&sn=c4cdbb7fa3bd22449b49dc8d0f6a554f": "用友U8 CRM最新SQL注入漏洞及解决方法（CNVD-2025-09018）"
 }
