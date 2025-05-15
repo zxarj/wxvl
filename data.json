@@ -14076,5 +14076,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=2&sn=d5c362cb087ced538a1c6b14d7297b3b": "【漏洞预警】Google Chrome 访问控制不当漏洞(CVE-2025-4664)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MzQ0Ng==&mid=2247484553&idx=1&sn=76ac840bd43c005468a6a364354f7bc0": "F5 BIG-IP rce漏洞 CVE-2025-31644",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490084&idx=2&sn=8eb8b4bc9a85efa06b803690074b1d62": "【漏洞预警】Google Chrome访问控制不当漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491410&idx=1&sn=6e5c3611d0e086e67c618589db7a16a9": "WEB漏洞扫描器Invicti-Professional-V25.5（自动化爬虫漏洞扫描）更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjM5NTkwOA==&mid=2247483973&idx=1&sn=05fb82ad7c28fa6a91ebfb193e16535d": "CVE-2025-30406 CentreStack ViewState 反序列化漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664242573&idx=2&sn=f1be9e890284eca3672fb480d44410d3": "CNNVD | 关于Fortinet多款产品安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519311&idx=1&sn=6e0d226f8520843b8b9111e1f0d94147": "【SRC实战】一次空白页面的“妙手回春”变严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=1&sn=e9898910f13788c2c16cd5c59071484f": "CNNVD关于Fortinet多款产品安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554844&idx=1&sn=f29d864ecb40ac7fe2ff282ba1462edb": "从XSS到\"RCE\"的PC端利用链构建"
 }
