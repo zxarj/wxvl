@@ -14041,5 +14041,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493126&idx=1&sn=a82a65609829035d058046e4297e3e31": "漏洞预警 | 飞企互联FE业务协作平台任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493126&idx=2&sn=8b7e76c6216fa0b82a01b16b457bfdf5": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487375&idx=3&sn=f9346226f0683b32257c788094d72cf8": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487908&idx=1&sn=f63da7d2667a17aee320d949035ee354": "Fortinet紧急修复零日漏洞CVE-2025-32756：远程代码执行风险威胁FortiVoice系统"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487908&idx=1&sn=f63da7d2667a17aee320d949035ee354": "Fortinet紧急修复零日漏洞CVE-2025-32756：远程代码执行风险威胁FortiVoice系统",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616156&idx=1&sn=5d04e1241f313c3afc585df07cd88345": "漏洞赏金故事 | 挖穿全球最大航空与酒店积分平台",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485073&idx=1&sn=05bd26674ee6fec3d58cf76a4ffe52db": "腾讯云安全中心推出2025年4月必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491695&idx=1&sn=cf4b7e1ba13e9801c14c9e7df8eade2b": "某GPS定位系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490291&idx=1&sn=7daaec7346e99f780fb344eb656361e2": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493843&idx=1&sn=8549e962d265a0c81e4f0979dbe07666": "微软2025年5月\"补丁星期二\"安全更新修复了5个已被积极利用的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900536&idx=1&sn=bb4f1cb2997f99dce650af738ebb23be": "微软5月安全更新：78漏洞深度透视，5大零日实战利用链及Azure DevOps CVSS 10漏洞攻防策略",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900537&idx=1&sn=573044c78e9776fde63049ccb62fd980": "OttoKit插件CVSS 9.8“幽灵连接”提权漏洞(CVE-2025-27007)遭闪电利用，深度技术剖析与防御指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484069&idx=1&sn=699376c17af88ea04131750ccdc81566": "【在野利用】Fortinet 系列产品 未认证远程代码执行（CVE-2025-32756）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247492827&idx=1&sn=56d71af1f4ba16d789e34d7228296643": "安全快报 | 国际APT威胁组织利用SAP NetWeaver严重安全漏洞入侵全球581个关键基础设施系统"
 }
