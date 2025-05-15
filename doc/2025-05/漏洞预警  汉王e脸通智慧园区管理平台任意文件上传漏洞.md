@@ -1,5 +1,5 @@
 #  漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞   
-浅安  浅安安全   2025-05-06 00:00  
+浅安  浅安安全   2025-05-15 00:04  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -11,7 +11,7 @@
   
 汉王e脸通综合管理平台是一个集生物识别、大数据、NFC射频、计算机网络、自动控制等技术于一体，通过“人脸卡”及关联信息实现多种功能智能管理，打造从云端到终端一体化应用，广泛应用于智慧园区、社区、工地等领域的综合管理平台。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SXBWzKcPxKTbCAudbicoRhD4DILaNMD6D6qnttU3p7KPq7VzXMGBA3uxvhiaM8SQo0jqEEWicZX6JqQA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SXBWzKcPxKTbCAudbicoRhD4DILaNMD6D6qnttU3p7KPq7VzXMGBA3uxvhiaM8SQo0jqEEWicZX6JqQA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
   
 **0x03 漏洞详情**  
 ###   
@@ -24,7 +24,7 @@
   
 **简述：**  
 汉王e脸通综合管理平台的  
-uploadBlackListFile.do接口存在任意文件上传漏洞，未经身份验证的攻击者可以通过该漏洞上传恶意脚本文件，从而控制目标服务器。  
+uploadMapFile.do接口存在任意文件上传漏洞，未经身份验证的攻击者可以通过该漏洞上传恶意脚本文件，从而控制目标服务器。  
   
 **0x04 影响版本**  
 - 汉王e脸通综合管理平台  

@@ -14032,5 +14032,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492778&idx=1&sn=05a8cc166439396e85322a00a6f68a2c": "严重的 Erlang∕OTP SSH RCE 漏洞现已公开，请立即修补",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320874&idx=2&sn=9bc6fc40d0c509c0f8350ee1b767056c": "FortiVoice零日漏洞遭野外利用，特制HTTP请求可执行任意代码",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490076&idx=1&sn=7657f918594505daaecaa1220c2914f0": "【漏洞预警】Apache IoTDB远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494605&idx=1&sn=f089ad9b91ff71fc033ef5fc95538d43": "工具推荐 | 最新开源若依Vue漏洞检测工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494605&idx=1&sn=f089ad9b91ff71fc033ef5fc95538d43": "工具推荐 | 最新开源若依Vue漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487375&idx=5&sn=06b1c836ac9f843bad093659c48b3b36": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493126&idx=3&sn=ea590191b96df3c5627f73c6c13e4b59": "漏洞预警 | 泛微E-Office任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485851&idx=1&sn=1c82a0bf8e73ec70b37bb06bd27e8a2b": "欧盟漏洞数据库（EUVD）正式上线：技术架构、协同生态与行业影响深度解析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493843&idx=2&sn=3928077a391eadb2a6c17a8b0fc91eb1": "Fortinet修复了已被积极利用的FortiVoice零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247512622&idx=1&sn=8973c3c5b0df83394bdf8eabcff59d54": "CVE-2025-4076 BL-Link远程代码执行漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493126&idx=1&sn=a82a65609829035d058046e4297e3e31": "漏洞预警 | 飞企互联FE业务协作平台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493126&idx=2&sn=8b7e76c6216fa0b82a01b16b457bfdf5": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487375&idx=3&sn=f9346226f0683b32257c788094d72cf8": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487908&idx=1&sn=f63da7d2667a17aee320d949035ee354": "Fortinet紧急修复零日漏洞CVE-2025-32756：远程代码执行风险威胁FortiVoice系统"
 }
