@@ -14127,5 +14127,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069664&idx=2&sn=80a74a8e1cddf0a974dca42fb8b9cc6e": "【安全圈】新Spectre变种攻击曝光：英特尔CPU存在特权分支注入漏洞，内存数据或遭窃取",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651247987&idx=1&sn=29534ea825a239f625eb903a24f1ae7b": "发现网络攻击后立即关闭系统？错！| Bitpixie漏洞攻击路径曝光，5分钟即可绕过BitLocker加密",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491125&idx=1&sn=cc28f1cd5e0286af9d09afab81ab612b": "我在马路边，捡到两年前的RCE了",
-    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485064&idx=1&sn=d85845f1286127f8a6f52957bef948be": "900人选择的SRC漏洞挖掘课程，带你踏上漏洞挖掘之路，共同成长"
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485064&idx=1&sn=d85845f1286127f8a6f52957bef948be": "900人选择的SRC漏洞挖掘课程，带你踏上漏洞挖掘之路，共同成长",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485059&idx=1&sn=a390ae32a65fad7f877be099a0ef3929": "【免杀现】白加黑也不一定是exe+dll哟",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064153&idx=1&sn=9e81e1a670596fc708f06d33dfceef2a": "信息安全漏洞周报【第022期】",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512206&idx=1&sn=ad2141c2128b2f8528b26d3a1057ee93": "Apache Roller高危漏洞（CVE-2025-24859）曝光，用户需立即采取行动！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486125&idx=1&sn=5a77bc1e5cbec31ee8123a012c212633": "突发！APT组织利用零日漏洞，竟对伊拉克库尔德武装展开 “隐秘监视”！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523031&idx=1&sn=40bc8fad7dc229f984420d3f6109a0b9": "Chrome修复已遭活跃利用的0day",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497600&idx=1&sn=1969c3c056630d43062c8ba9092c06da": "一次获取RCE以及提权到root权限的渗透过程",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491104&idx=1&sn=4d720b1891187d32013cfeafe3970571": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）"
 }
