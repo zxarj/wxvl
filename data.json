@@ -14095,5 +14095,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795118&idx=1&sn=ac271afd0d4c9989d955552c446b0add": "俄黑客组织 APT28 利用 MDaemon 0day漏洞攻击Webmail 服务器",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=1&sn=483b638ac2cba6a68bcb8633c1375c09": "泥煤的，又一次RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=2&sn=1e6477655b8d35c631618cae1a19e496": "漏洞预警 | 帆软报表目录遍历漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491447&idx=1&sn=62d0d1d5d519b3e8110257ee76aa9b05": "【1周年庆】致Nday Poc全体成员的一封信"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491447&idx=1&sn=62d0d1d5d519b3e8110257ee76aa9b05": "【1周年庆】致Nday Poc全体成员的一封信",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610772&idx=3&sn=7cdf87bd56ec29f6bc9408ebd458100d": "攻防实战之若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=4&sn=6fe7ad2714f7e5f2f6ac54bcecda6ae8": "Node.js 高危漏洞警报（CVE-2025-23166）：可导致远程系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484595&idx=1&sn=6feefaf85c986e4dfe7b354020d7d52e": "【漏洞预警】某华DSS系统存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247499902&idx=1&sn=92ef5a9638f17d80e724ac3c867101a7": "PHPRCE-永恒之蓝-防火墙上线-密码喷射-DC域控提权-weblogic",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=3&sn=47422e3c46960e1f7335a34d5196bbce": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247486659&idx=1&sn=0321d9126f471ded2828af33bd4fe6a2": "DeFiVulnLabs验证——利用Coze进行自动化复现和测试及坑点",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=6&sn=c271da6713b076314c2fd474e7365fd3": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489105&idx=1&sn=4d26a119df5deef7a14e446b93678848": "安全资讯|英特尔CPU曝分支权限注入重大安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503407&idx=1&sn=bc577b527b31ff7b989f2b804f447771": "【已复现】Ivanti Endpoint Manager Mobile 多个漏洞安全风险通告第二次更新",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524590&idx=3&sn=5ce5215f6a03a6bbcbf2bc01760cd628": "利用Bitpixie漏洞（CVE-2023-21563）可在数分钟内绕过BitLocker加密——概念验证揭示高风险攻击路径",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491697&idx=1&sn=4fc952a1c58793c94def3b994ee657be": "某短视频矩阵营销系统前台RCE漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490339&idx=1&sn=011dccb887d48892ba1c826730b44ec9": "Webpack源码泄露漏洞批量探测"
 }
