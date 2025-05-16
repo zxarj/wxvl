@@ -14136,5 +14136,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523031&idx=1&sn=40bc8fad7dc229f984420d3f6109a0b9": "Chrome修复已遭活跃利用的0day",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497600&idx=1&sn=1969c3c056630d43062c8ba9092c06da": "一次获取RCE以及提权到root权限的渗透过程",
     "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491104&idx=1&sn=4d720b1891187d32013cfeafe3970571": "能信安：漏洞通告",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501079&idx=2&sn=0a1737e00deeeeee9536c2f371d6891a": "【漏洞通告】Tornado日志解析器拒绝服务漏洞 (CVE-2025-47287)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520530&idx=1&sn=2052449f26addaab7e037d9f26b33721": "漏洞预警：CVE-2025-31258 macOS远程视图服务沙箱逃逸漏洞PoC已公开"
 }
