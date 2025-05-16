@@ -14083,5 +14083,17 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519311&idx=1&sn=6e0d226f8520843b8b9111e1f0d94147": "【SRC实战】一次空白页面的“妙手回春”变严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=1&sn=e9898910f13788c2c16cd5c59071484f": "CNNVD关于Fortinet多款产品安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554844&idx=1&sn=f29d864ecb40ac7fe2ff282ba1462edb": "从XSS到\"RCE\"的PC端利用链构建",
-    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494623&idx=1&sn=7e704834297972659a95a52b35a944e4": "工具推荐 | 临兵漏洞自动化扫描系统"
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494623&idx=1&sn=7e704834297972659a95a52b35a944e4": "工具推荐 | 临兵漏洞自动化扫描系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493849&idx=1&sn=cb6f29682b6c7c5721e10042cec1eea8": "Ivanti修复了两个在有限攻击中被利用的EPMM漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492321&idx=1&sn=521382f8a9c33edb1bbd758d080c167a": "某云盘系统 API 端点无限制上传漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512045&idx=1&sn=ebc266e0342548555e31bca22d7d84e7": "邮件服务器安全检查工具 | 一个用于检查邮件服务器安全配置并识别潜在漏洞的综合工具。",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=1&sn=8417737fe3dd9c336408bfecd239c79c": "漏洞预警 | 用友U8Cloud XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037703&idx=1&sn=ee99198595f09647e07a388d40761561": "基于Drozer框架对安卓四大组件的漏洞挖掘总结",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499677&idx=1&sn=b5f2f213d5a79e9f0428f8d073d5f374": "红队视角下的 .NET 安全审计，记一次 .NET 程序的漏洞发现之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487917&idx=1&sn=e50f82713e625ef841448aa09706327a": "紧急预警！新Chrome漏洞（CVE-2025-4664）致跨域数据泄露，请立即更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485315&idx=1&sn=202d3a34420423624dd4749bc04b8710": "当单个ID失败时，成对ID可能通过！越权漏洞就这么简单",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795118&idx=1&sn=ac271afd0d4c9989d955552c446b0add": "俄黑客组织 APT28 利用 MDaemon 0day漏洞攻击Webmail 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487402&idx=1&sn=483b638ac2cba6a68bcb8633c1375c09": "泥煤的，又一次RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493142&idx=2&sn=1e6477655b8d35c631618cae1a19e496": "漏洞预警 | 帆软报表目录遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491447&idx=1&sn=62d0d1d5d519b3e8110257ee76aa9b05": "【1周年庆】致Nday Poc全体成员的一封信"
 }
