@@ -14153,5 +14153,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115790&idx=1&sn=8da50ee2e0135385f3cec02219d6fbd0": "微软2025年5月份于周二补丁日针对78漏洞发布安全补丁",
     "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485526&idx=1&sn=2b2f5d8ffbefc83cafbe955e301a1200": "Pwn2Own 2025 柏林赛day2，VMware ESXi被攻破，漏洞价值15W刀",
     "https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490619&idx=1&sn=a2db644808c77a0b45b82c37d60e7632": "Centos添加漏洞扫描",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594141&idx=3&sn=dc75ea15ec1eaf8b4e9a86bf5d62e006": "英特尔CPU曝新漏洞：每秒偷走17KB数据！新型芯片漏洞有多可怕"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594141&idx=3&sn=dc75ea15ec1eaf8b4e9a86bf5d62e006": "英特尔CPU曝新漏洞：每秒偷走17KB数据！新型芯片漏洞有多可怕",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610790&idx=1&sn=42e4e254f90a15e7869f27de69f90594": "一包包免费纸巾骗走老人们2亿元;|谷歌Chrome曝高危漏洞，可导致账户接管与MFA绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247572783&idx=1&sn=498f1d3073cac37c2bf4439b34edfaae": "一个漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610790&idx=4&sn=2c66c67e34c2642084e2a26e39b55a28": "邮件服务器安全检查工具 | 一个用于检查邮件服务器安全配置并识别潜在漏洞的综合工具。",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491478&idx=1&sn=45307902cab80959cdbf15462748ce9f": "装盟科技-家装ERP管理系统 Public.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096235&idx=2&sn=ce6afa07cb19b00599fa4bde6294c4d5": "多个 Ivanti Endpoint Mobile Manager 存在远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529870&idx=1&sn=f630cffc3eca33694ae38e9cc51b90d6": "CVE-2025-4427∕4428：Ivanti EPMM 远程代码执行 - 技术分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491486&idx=1&sn=d76973114389135c7d046bbe6caf0788": "装盟科技-家装ERP管理系统 Budget.asmx SQL注入漏洞"
 }
