@@ -14143,5 +14143,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484411&idx=1&sn=793231a073b0d6a68e7a23f89f0f4f40": "WordPress前台任意文件读取漏洞POC（CVE-2025-2294）",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=5&sn=51a05095079246f1e682beaf5a476e5f": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=2&sn=6bf840a27e811f0e056ff746147d3efd": "泥煤的，又一次RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=7&sn=f2d18c5fe0a7872ee25e3377576080cd": "通过细节挖掘漏洞的艺术"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=7&sn=f2d18c5fe0a7872ee25e3377576080cd": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468640&idx=1&sn=430490ae575574d3530583fedd91f8aa": "绿盟科技荣获国家信息安全漏洞库（CNNVD）多项认可",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493234&idx=1&sn=cdb1e53279f782a48681a06484e23fa5": "2025微软漏洞报告：数量再创纪录，应对更复杂",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503256&idx=1&sn=f7f3674b803a38389694bddfb6e9c62e": "【成功复现】JeeWMS系统SQL注入漏洞漏洞(CVE-2025-0392)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487459&idx=1&sn=088123af3e042983d3735e1a4da6c61e": "任意用户登录漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486227&idx=1&sn=a7cb99a790cd4e12144fc49d256a1f3e": "上讯信息技术股份有限公司运维管理系统RepeatSend命令执行漏洞"
 }
