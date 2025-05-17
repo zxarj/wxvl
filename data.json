@@ -14160,5 +14160,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491478&idx=1&sn=45307902cab80959cdbf15462748ce9f": "装盟科技-家装ERP管理系统 Public.asmx SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096235&idx=2&sn=ce6afa07cb19b00599fa4bde6294c4d5": "多个 Ivanti Endpoint Mobile Manager 存在远程执行代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529870&idx=1&sn=f630cffc3eca33694ae38e9cc51b90d6": "CVE-2025-4427∕4428：Ivanti EPMM 远程代码执行 - 技术分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491486&idx=1&sn=d76973114389135c7d046bbe6caf0788": "装盟科技-家装ERP管理系统 Budget.asmx SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491486&idx=1&sn=d76973114389135c7d046bbe6caf0788": "装盟科技-家装ERP管理系统 Budget.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519329&idx=1&sn=2ba90bbfa7582d6ef495b5b3bbf3ef82": "攻防实战之若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610790&idx=3&sn=92609abd1542c3029ec590f577cba88c": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247499948&idx=2&sn=2b76d6e4e5a52b74a200b0541969554e": "新漏洞影响过去6年内所有英特尔处理器",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492780&idx=1&sn=9bd9be62e1ba7da954f1cc3396ce9d42": "华硕警告使用 AiCloud 的路由器存在严重的身份验证绕过漏洞"
 }
