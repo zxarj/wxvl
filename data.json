@@ -14170,5 +14170,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490419&idx=1&sn=f6b7aaec4d6701d21a500eb2b6ebbd6e": "ruoyi系统 4.8 后台RCE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491505&idx=1&sn=84eec4161e98e58aec50bd9fecbf5396": "SysAid On-Prem XML注入漏洞 (CVE-2025-2776)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491496&idx=1&sn=2d48823e684397a854cefe1dd038c7f0": "妖气山视频管理系统 get_media_list_by_filter.json SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550042&idx=1&sn=604860dbff6fda380161cf44215eec8d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网"
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550042&idx=1&sn=604860dbff6fda380161cf44215eec8d": "重生HW之利用邮箱漏洞寻找突破口打穿目标内网",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487437&idx=1&sn=cbff3bf4a41066854aa33d6262681406": "CVE-2025-3102 WordPress 任意用户创建",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486456&idx=1&sn=f64fd15960ac4cab2aa9ba2cf4ae110d": "一次任意文件下载漏洞审计-JAVA"
 }
