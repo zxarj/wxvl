@@ -211,14 +211,13 @@ def update_readme(urls):
     # 添加文章
     for i, article in enumerate(articles, 1):
         new_content += f"{i}. 📄 {article['title']}  \n"
-        new_content += f"   - 原文链接：{article['url']}  \n"
-        new_content += f"   - GitHub备份：https://github.com/zxarj/wxvl/blob/main/doc/{today[:7]}/{article['title']}.md  \n\n"
+        new_content += f"   <sub>🔗 [原文链接]({article['url']}) ｜ [GitHub备份](https://github.com/zxarj/wxvl/blob/main/doc/{today[:7]}/{article['title']}.md)</sub>  \n\n"
     
     # 添加统计信息
     new_content += f"""#### 📊 统计信息
 
-- 新增文章数：{len(articles)}篇
-- 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+<sub>📝 新增文章数：{len(articles)}篇</sub>  
+<sub>⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</sub>
 
 ---
 """
