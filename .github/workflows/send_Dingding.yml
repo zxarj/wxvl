@@ -3,7 +3,7 @@ name: Send DingTalk Notification
 on:
   workflow_dispatch:  # 允许手动触发
   workflow_run:
-    workflows: ["update today"]
+    workflows: ["update daily"]
     types:
       - completed
     branches:
