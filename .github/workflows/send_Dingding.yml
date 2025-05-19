@@ -20,7 +20,7 @@ jobs:
           
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install requests pytz
           
       - name: Create Python script
         run: |
@@ -33,6 +33,11 @@ jobs:
           echo "import urllib.parse" >> send_notification.py
           echo "import datetime" >> send_notification.py
           echo "import re" >> send_notification.py
+          echo "import pytz" >> send_notification.py
+          echo "" >> send_notification.py
+          echo "def get_beijing_time():" >> send_notification.py
+          echo "    beijing_tz = pytz.timezone('Asia/Shanghai')" >> send_notification.py
+          echo "    return datetime.datetime.now(beijing_tz)" >> send_notification.py
           echo "" >> send_notification.py
           echo "def send_to_dingtalk(content):" >> send_notification.py
           echo "    access_token = os.getenv('DINGTALK_ACCESS_TOKEN')" >> send_notification.py
@@ -62,16 +67,16 @@ jobs:
           echo "def get_today_updates():" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
-          echo "    today = datetime.datetime.now().strftime('%Y-%m-%d')" >> send_notification.py
+          echo "    today = get_beijing_time().strftime('%Y-%m-%d')" >> send_notification.py
           echo "    start_marker = '## 📢 今日更新提醒'" >> send_notification.py
           echo "    end_marker = '## 📝 更新日志'" >> send_notification.py
-          echo "    start_idx = content.find(start_marker)" >> send_notification.py
-          echo "    if start_idx == -1:" >> send_notification.py
+          echo "    last_update_start = content.rfind(start_marker)" >> send_notification.py
+          echo "    if last_update_start == -1:" >> send_notification.py
           echo "        return '## 📢 今日更新提醒\\n\\n> 今日暂无新文章更新'" >> send_notification.py
-          echo "    end_idx = content.find(end_marker, start_idx)" >> send_notification.py
+          echo "    end_idx = content.find(end_marker, last_update_start)" >> send_notification.py
           echo "    if end_idx == -1:" >> send_notification.py
           echo "        end_idx = len(content)" >> send_notification.py
-          echo "    today_content = content[start_idx:end_idx].strip()" >> send_notification.py
+          echo "    today_content = content[last_update_start:end_idx].strip()" >> send_notification.py
           echo "    update_time_pattern = r'<sub>⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
           echo "    if not update_time_match:" >> send_notification.py
