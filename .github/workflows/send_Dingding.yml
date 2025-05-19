@@ -86,7 +86,7 @@ jobs:
           echo "    if not blocks:" >> send_notification.py
           echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    # 合并所有区块，并去重" >> send_notification.py
-          echo "    today_content = '\\n\\n'.join(blocks)" >> send_notification.py
+          echo "    today_content = '\\n\\n'.join(set(blocks))" >> send_notification.py
           echo "    # 检查更新时间" >> send_notification.py
           echo "    update_time_pattern = r'⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
