@@ -1,7 +1,10 @@
 #  一个漏洞挖掘小工具 - SeeMore   
- 马哥网络安全   2025-05-17 09:00  
+Bbdolt  安全洞察知识图谱   2025-05-19 00:29  
   
-介绍  
+**免责声明**  
+ 由于传播、利用本公众号所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号安全洞察知识图谱及作者不为**此**  
+承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
+## 1工具介绍  
   
 1、在某系统发现在导入文件时，文件内容没有进行过滤导致存储型xss注入，可以发送任何人或提交模板（管理员会审查）危害挺大的，然后提交漏洞后他进行了修复。  
   
@@ -14,65 +17,50 @@
   
 如果大家在使用过程中遇到了bug或一些没有成功显示的元素，可以提交到issues中，作者会尽快完善匹配规则，感谢大家支持。  
   
-使用  
   
+使用  
   
 1、这里以Webgoat靶场为例  
   
-![PixPin_2025-03-01_19-58-08](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqibn8yGQjgIPkSjr1oGTMIyhOdY5XRNhbxb6LwDmbB0bPrlsGEicWHm9g/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic "")  
+![PixPin_2025-03-01_19-58-08](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2Qib1pzWnVMXKOFicxd3zicsKzkaLDn449WrvQhvPLPiawEF9gbqrxtWicwAtw/640?wx_fmt=jpeg "")  
   
 2、点击 Show Hidden 即可，显示出隐藏的按钮。点击 recover 即可恢复之前的页面。  
   
-![PixPin_2025-03-01_20-00-28](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqBaibq3BDGbmEyxiajVJhlIde9b4pBvxqHdmVTYCXqpibm0ed4WHzOI5Sg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![PixPin_2025-03-01_20-00-28](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibJrXPFtXnoIN7BWwAA7OUTd6DS63KkKpqu1gQc5Cm5pAKB6LmHc59bA/640?wx_fmt=jpeg "")  
   
 3、安装教程，Google 打开 chrome://extensions/ 链接，开启开发者模式，点击"加载以解压的扩展程序"，选择下载解压后的文件夹导入即可。  
   
-![PixPin_2025-03-01_20-02-55](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqtSbZ4MwNrb7AzR1BE2Bicc6fia4KvfH1Lch3micgY7M7QmvZ9iaVFibSELA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
-![PixPin_2025-03-01_20-03-24](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqZKeLbtczXQvDb11Ms0eqp7ic8F6TjK6vBIjOqjLhFAH72Je4d24BZEg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![PixPin_2025-03-01_20-02-55](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibA4IdckNFdtjedHeLozvtnmXmWaic7SNvKmy1UuLcEn7q3zmUsnze4FA/640?wx_fmt=jpeg "")  
   
+![PixPin_2025-03-01_20-03-24](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibyrLG1tjHsEaibureyTBpPbBgMj2ibbK2KiaOLhVR7cagv8O1VNPmvuRsQ/640?wx_fmt=jpeg "")  
 #### V1.0.1更新  
-  
   
 1、添加显示通过 <!-- 注释隐藏起来的可点击内容，这个页面存在隐藏的功能框  
   
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqeVPsxUtmicBDzGVNAdaVg2cbibfHaAsBvgyzEIoe9ic67cCVb1ffNmAqA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibIegqbsgaia9l5eL6vf5DjDjtj448RufUGvU5JWN34iaEJV7FMbwbxpiaQ/640?wx_fmt=jpeg "")  
   
 2、点击 Show Hidden 显示功能  
   
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aqzDuQ2ecx2uic9zlLV7ejicjg3FpSydNYhmo2l53bljgZiakCK34ARu8FA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
-  
+![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibvdIBejHX4JInbCaCf6icx3Yd5EVhUCA0pUFOiaxkkJj0VpsVpLV9JWlw/640?wx_fmt=jpeg "")  
 #### v1.0.2更新  
 #### 修复部分bug（注释功能）  
 #### 案例补充  
   
-  
 发现上传功能，可以上传任意后缀但是对于大多数文件不解析，但可以解析html文件  
   
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/9JPpNb7icHgFSE34z9hic3a9MXRI1HI2aq1wtkxIP8sbh57zk0QjaYo0Hiadg3r3P3qyK6srAoEF3osMwUTd4NUZQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8KQWL0jkMjwBiaEYJDibJ2QibcmLsibB6aYvDibmr3Z27RLsjdKSqQXCRWhgnAX9EUbm6SccLOkib7Vr9A/640?wx_fmt=jpeg "")  
   
 项目地址  
   
 **https://github.com/Bbdolt/SeeMore**  
+## 2免费社区  
+  
+安全洞察知识图谱星球是一个聚焦于信息安全对抗技术和企业安全建设的话题社区，也是一个  
+**[免费]**  
+的星球，欢迎大伙加入积极分享红蓝对抗、渗透测试、安全建设等热点主题  
   
   
-  
-想学硬核网安技术？一定不要错过这次训练营！  
-  
-get 攻防实战能力！  
-  
-✅教你搭建 vmware 与 kali 虚拟机  
-  
-✅掌握 metasploit 生成木马技巧  
-  
-✅深度解析木马原理与防御  
-  
-✅带你从工具搭建到实现远程控制  
-  
-🔥5.21-22晚8点，网安大佬亲自指导，  
-  
-轻松 get 攻防实战能力，扫码立刻报名！  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/UkV8WB2qYAkwcjtOtVXODCkPibWO4Py9F7ff0EOvVVMIUmrCUMRGAG5Q07ZjpSjiaIk5DB5LK8ePbsESVR1s3LBA/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/PDVoxXx6Rh8aia4mibs0I8I42MrYYOSE2DVEpVpPHvxufMGR0yufpgouwIXEl7H5eLm0MgolGFQMDFIrKLTxaYIQ/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
   
