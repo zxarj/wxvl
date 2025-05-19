@@ -70,7 +70,7 @@ jobs:
           echo "def get_today_updates():" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
-          echo "    today = get_beijing_time().strftime('%m-%d')" >> send_notification.py
+          echo "    today = get_beijing_time().strftime('%Y-%m-%d')" >> send_notification.py
           echo "    print(f'当前日期: {today}')" >> send_notification.py
           echo "    start_marker = f'## 📢 {today}日新增文章'" >> send_notification.py
           echo "    print(f'查找标记: {start_marker}')" >> send_notification.py
@@ -82,12 +82,7 @@ jobs:
           echo "        start_idx = content.find(start_marker, start_idx)" >> send_notification.py
           echo "        print(f'找到区块位置: {start_idx}')" >> send_notification.py
           echo "        if start_idx == -1:" >> send_notification.py
-          echo "            # 尝试不带'日'的格式" >> send_notification.py
-          echo "            alt_marker = f'## 📢 {today}新增文章'" >> send_notification.py
-          echo "            print(f'尝试备用标记: {alt_marker}')" >> send_notification.py
-          echo "            start_idx = content.find(alt_marker, start_idx)" >> send_notification.py
-          echo "            if start_idx == -1:" >> send_notification.py
-          echo "                break" >> send_notification.py
+          echo "            break" >> send_notification.py
           echo "        end_idx = content.find(end_marker, start_idx)" >> send_notification.py
           echo "        if end_idx == -1:" >> send_notification.py
           echo "            end_idx = len(content)" >> send_notification.py
