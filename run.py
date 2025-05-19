@@ -210,13 +210,10 @@ def update_readme(urls):
     
     # 添加文章
     for i, article in enumerate(articles, 1):
-        new_content += f"{i}. {article['title']} <sub>🔗 [原文链接]({article['url']}) ｜ [GitHub备份](https://github.com/zxarj/wxvl/blob/main/doc/{today[:7]}/{article['title']}.md)</sub>  \n\n"
+        new_content += f"{i}. {article['title']} <sub>🔗 [原文链接]({article['url']})</sub>  \n\n"
     
-    # 添加统计信息
-    new_content += f"""#### 📊 统计信息
-
-<sub>📝 新增文章数：{len(articles)}篇</sub>  
-<sub>⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</sub>
+    # 添加更新时间
+    new_content += f"""<sub>⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</sub>
 
 ---
 """
@@ -235,7 +232,7 @@ def update_readme(urls):
     # 写入更新后的内容
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_content)
-
+                
 def main():
     '''主函数'''
     data_file = 'data.json'
