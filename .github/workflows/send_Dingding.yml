@@ -68,32 +68,41 @@ jobs:
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
           echo "    today = get_beijing_time().strftime('%Y-%m-%d')" >> send_notification.py
+          echo "    print(f'当前日期: {today}')" >> send_notification.py
           echo "    start_marker = f'## 📢 {today}日新增文章'" >> send_notification.py
+          echo "    print(f'查找标记: {start_marker}')" >> send_notification.py
           echo "    end_marker = '## 📊 统计信息'" >> send_notification.py
           echo "    # 找到所有当天的区块" >> send_notification.py
           echo "    blocks = []" >> send_notification.py
           echo "    start_idx = 0" >> send_notification.py
           echo "    while True:" >> send_notification.py
           echo "        start_idx = content.find(start_marker, start_idx)" >> send_notification.py
+          echo "        print(f'找到区块位置: {start_idx}')" >> send_notification.py
           echo "        if start_idx == -1:" >> send_notification.py
           echo "            break" >> send_notification.py
           echo "        end_idx = content.find(end_marker, start_idx)" >> send_notification.py
           echo "        if end_idx == -1:" >> send_notification.py
           echo "            end_idx = len(content)" >> send_notification.py
           echo "        block = content[start_idx:end_idx].strip()" >> send_notification.py
+          echo "        print(f'找到区块内容:\\n{block}')" >> send_notification.py
           echo "        blocks.append(block)" >> send_notification.py
           echo "        start_idx = end_idx" >> send_notification.py
           echo "    if not blocks:" >> send_notification.py
+          echo "        print('没有找到任何区块')" >> send_notification.py
           echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    # 合并所有区块，并去重" >> send_notification.py
           echo "    today_content = '\\n\\n'.join(set(blocks))" >> send_notification.py
+          echo "    print(f'合并后的内容:\\n{today_content}')" >> send_notification.py
           echo "    # 检查更新时间" >> send_notification.py
           echo "    update_time_pattern = r'⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
           echo "    if not update_time_match:" >> send_notification.py
+          echo "        print('没有找到更新时间')" >> send_notification.py
           echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    update_date = update_time_match.group(1)" >> send_notification.py
+          echo "    print(f'找到的更新日期: {update_date}')" >> send_notification.py
           echo "    if update_date != today:" >> send_notification.py
+          echo "        print(f'更新日期 {update_date} 不等于今天 {today}')" >> send_notification.py
           echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    return today_content" >> send_notification.py
           echo "" >> send_notification.py
