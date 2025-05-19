@@ -185,52 +185,50 @@ def rep_filename(result_path):
                 new_file = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', file)
                 shutil.move(os.path.join(root, file), os.path.join(root, new_file))
                 
-def update_readme(result_path, urls):
-    '''更新README.md文件'''
-    readme_path = 'README.md'
-    today = datetime.datetime.now().strftime("%Y-%m-%d")
+def update_readme(articles):
+    """更新README.md文件"""
+    today = datetime.now().strftime('%Y-%m-%d')
     
-    # 读取现有的README内容
-    with open(readme_path, 'r', encoding='utf-8') as f:
+    # 读取现有内容
+    with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # 准备新的更新内容
-    new_content = f"\n### 📅 {today}\n\n"
+    # 准备新内容
+    new_content = f"""### 📅 {today}
+
+#### 📚 新增文章
+
+"""
     
-    # 获取文章信息
-    articles = []
-    data = read_json('data.json')
-    for url in urls:
-        if url in data:
-            title = data[url]
-            articles.append((title, url))
+    # 添加文章
+    for i, article in enumerate(articles, 1):
+        new_content += f"{i}. 📄 {article['title']}  \n"
+        new_content += f"   - 原文链接：{article['url']}  \n"
+        new_content += f"   - GitHub备份：https://github.com/zxarj/wxvl/blob/main/doc/{today[:7]}/{article['title']}.md  \n\n"
     
-    if articles:
-        new_content += "#### 📚 新增文章\n\n"
-        for i, (title, url) in enumerate(articles, 1):
-            # 构建GitHub备份链接
-            current_month = datetime.datetime.now().strftime("%Y-%m")
-            github_path = f"doc/{current_month}/{title}.md"
-            new_content += f"{i}. 📄 {title}\n"
-            new_content += f"   - 原文链接：[点击访问]({url})\n"
-            new_content += f"   - GitHub备份：[点击查看](https://github.com/gelusus/wxvl/blob/main/{github_path})\n\n"
-        
-        new_content += f"#### 📊 统计信息\n"
-        new_content += f"- 新增文章数：{len(articles)}篇\n"
-        new_content += f"- 更新时间：{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
-        new_content += "\n---\n"  # 添加分隔线
+    # 添加统计信息
+    new_content += f"""#### 📊 统计信息
+
+- 新增文章数：{len(articles)}篇
+- 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+---
+"""
     
     # 在更新日志部分插入新内容
-    if "## 📝 更新日志" in content:
+    update_log_marker = "## 📝 更新日志"
+    update_log_index = content.find(update_log_marker)
+    
+    if update_log_index != -1:
         # 在更新日志标题后插入新内容
-        content = content.replace("## 📝 更新日志", f"## 📝 更新日志{new_content}")
+        new_content = content[:update_log_index + len(update_log_marker)] + "\n\n" + new_content + content[update_log_index + len(update_log_marker):]
     else:
-        # 如果还没有更新日志部分，在文件末尾添加
-        content += f"\n## 📝 更新日志{new_content}"
+        # 如果找不到更新日志部分，在文件末尾添加
+        new_content = content + "\n\n" + new_content
     
     # 写入更新后的内容
-    with open(readme_path, 'w', encoding='utf-8') as f:
-        f.write(content)
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(new_content)
 
 def main():
     '''主函数'''
@@ -266,7 +264,7 @@ def main():
         
         # 如果有新文章，更新README.md
         if new_urls:
-            update_readme(result_path, new_urls)
+            update_readme(new_urls)
     
     rep_filename(result_path)
 if __name__ == '__main__':
