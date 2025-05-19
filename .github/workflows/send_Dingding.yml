@@ -22,8 +22,7 @@ jobs:
           
       - name: Create Python script
         run: |
-          cat > send_notification.py << 'EOL'
-import os
+          echo 'import os
 import json
 import requests
 import hmac
@@ -86,8 +85,7 @@ def get_today_updates():
     return "\n".join(formatted_content)
 
 if __name__ == "__main__":
-    send_to_dingtalk(get_today_updates())
-EOL
+    send_to_dingtalk(get_today_updates())' > send_notification.py
           
       - name: Send DingTalk Notification
         env:
