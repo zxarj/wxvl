@@ -194,7 +194,7 @@ def update_readme(urls):
         content = f.read()
     
     # 准备新内容
-    new_content = f"""## 📢 datetime.now().strftime('%Y-%m-%d')日更新提醒
+    new_content = f"""## 📢 今日更新提醒
 
 ### 📚 新增文章
 
