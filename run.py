@@ -194,9 +194,7 @@ def update_readme(urls):
         content = f.read()
     
     # 准备新内容
-    new_content = f"""## 📢 {today}日更新
-
-### 📚 新增文章
+    new_content = f"""## 📢 {today}日新增文章
 
 """
     
@@ -210,13 +208,12 @@ def update_readme(urls):
     
     # 添加文章
     for i, article in enumerate(articles, 1):
-        new_content += f"{i}. {article['title']} <sub>🔗[来源]({article['url']})</sub> \n\n"
+        new_content += f"{article['title']} <sub>🔗[来源]({article['url']})</sub> \n\n"
     
     # 添加统计信息
-    new_content += f"""#### 📊 统计信息
-
-<sub>📝 新增文章数：{len(articles)}篇</sub>  
-<sub>⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</sub>
+    new_content += f"""## 📊 统计信息
+📝 新增文章数：{len(articles)}篇
+⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
 ---
 """
