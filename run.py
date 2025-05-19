@@ -8,7 +8,8 @@ import tempfile
 import requests
 import shutil
 import subprocess
-from datetime import datetime
+from datetime import datetime, timedelta
+import pytz
 
 
 def write_json(path, data, encoding="utf8"):
@@ -57,7 +58,7 @@ def get_md_path(executable_path,url):
 
 def get_chainreactors_url():
     '''获取今日url'''
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d")
     base_url = 'https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -89,7 +90,7 @@ def get_chainreactors_url():
 
 def get_BruceFeIix_url():
     '''获取今日url'''
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d")
     base_url = 'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -187,7 +188,7 @@ def rep_filename(result_path):
                 
 def update_readme(urls):
     """更新README.md文件"""
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = get_beijing_time().strftime('%Y-%m-%d')
     
     # 读取现有内容
     with open('README.md', 'r', encoding='utf-8') as f:
@@ -213,7 +214,7 @@ def update_readme(urls):
     # 添加统计信息
     new_content += f"""#### 📊 统计信息
 <small>📝 新增文章数：{len(articles)}篇
-⏰ 更新时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}<small>
+⏰ 更新时间：{get_beijing_time().strftime('%Y-%m-%d %H:%M:%S')}<small>
 
 ---
 """
@@ -233,14 +234,70 @@ def update_readme(urls):
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_content)
                 
+def get_beijing_time():
+    return datetime.now(pytz.timezone('Asia/Shanghai'))
+
+def archive_readme():
+    """每周归档README.md文件"""
+    current_time = get_beijing_time()
+    # 获取当前是第几周
+    week_number = current_time.isocalendar()[1]
+    year = current_time.year
+    
+    # 如果是周日（isoweekday()返回7表示周日）
+    if current_time.isoweekday() == 7:
+        archive_dir = 'archives'
+        os.makedirs(archive_dir, exist_ok=True)
+        
+        # 计算本周一的日期
+        monday = current_time - timedelta(days=current_time.isoweekday()-1)
+        
+        # 创建归档文件名，格式：README-YYYY-MM-DD_DD.md
+        archive_filename = f'README-{monday.strftime("%Y-%m-%d")}_{current_time.strftime("%d")}.md'
+        archive_path = os.path.join(archive_dir, archive_filename)
+        
+        # 如果README.md存在，则进行归档
+        if os.path.exists('README.md'):
+            # 复制当前README.md到归档文件
+            shutil.copy2('README.md', archive_path)
+            
+            # 创建新的README.md，保留基本结构
+            new_readme_content = f"""# 微信公众号安全漏洞文章归档
+
+[![GitHub Actions](https://github.com/gelusus/wxvl/actions/workflows/update_today.yml/badge.svg)](https://github.com/gelusus/wxvl/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+项目Fork自[gelusus](https://github.com/gelusus/wxvl)
+
+## ✨ 项目功能
+
+自动抓取微信公众号安全漏洞文章，转换为Markdown格式并建立本地知识库，每日持续更新，并同步到钉钉群。
+
+## 📊 本周统计
+- 开始时间：{current_time.strftime('%Y-%m-%d')}
+- 文章总数：0 篇
+- 最后更新：{current_time.strftime('%Y-%m-%d %H:%M:%S')}
+
+## 📝 更新日志
+
+---
+"""
+            with open('README.md', 'w', encoding='utf-8') as f:
+                f.write(new_readme_content)
+            
+            print(f"已归档本周README.md到 {archive_filename}")
+
 def main():
     '''主函数'''
+    # 检查是否需要归档
+    archive_readme()
+    
     data_file = 'data.json'
     data = {}
     executable_path = get_executable_path()
     base_result_path = 'doc'
     # 创建基于当前年月的子目录 (格式: YYYY-MM)
-    current_month = datetime.now().strftime("%Y-%m")
+    current_month = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m")
     result_path = os.path.join(base_result_path, current_month)
     os.makedirs(result_path, exist_ok=True)
     # 读取历史记录
