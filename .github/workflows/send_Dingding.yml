@@ -93,8 +93,8 @@ jobs:
           echo "    # 合并所有区块，并去重" >> send_notification.py
           echo "    today_content = '\\n\\n'.join(set(blocks))" >> send_notification.py
           echo "    print(f'合并后的内容:\\n{today_content}')" >> send_notification.py
-          echo "    # 检查更新时间" >> send_notification.py
-          echo "    update_time_pattern = r'⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
+          echo "    # 检查更新时间 - 修改正则表达式以匹配带时间戳的格式" >> send_notification.py
+          echo "    update_time_pattern = r'⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})(?:\\s+\\d{2}:\\d{2}:\\d{2})?'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
           echo "    if not update_time_match:" >> send_notification.py
           echo "        print('没有找到更新时间')" >> send_notification.py
