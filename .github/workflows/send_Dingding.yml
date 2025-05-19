@@ -34,11 +34,14 @@ jobs:
           echo "def send_to_dingtalk(content):" >> send_notification.py
           echo "    access_token = os.getenv('DINGTALK_ACCESS_TOKEN')" >> send_notification.py
           echo "    secret = os.getenv('DINGTALK_SECRET')" >> send_notification.py
+          echo "    print(f'Access Token: {access_token[:10]}...')" >> send_notification.py
+          echo "    print(f'Secret: {secret[:10]}...')" >> send_notification.py
           echo "    timestamp = str(round(datetime.datetime.now().timestamp() * 1000))" >> send_notification.py
           echo "    string_to_sign = f'{timestamp}\\n{secret}'" >> send_notification.py
           echo "    hmac_code = hmac.new(secret.encode(), string_to_sign.encode(), digestmod=hashlib.sha256).digest()" >> send_notification.py
           echo "    sign = urllib.parse.quote_plus(base64.b64encode(hmac_code))" >> send_notification.py
           echo "    webhook = f'https://oapi.dingtalk.com/robot/send?access_token={access_token}&timestamp={timestamp}&sign={sign}'" >> send_notification.py
+          echo "    print(f'Webhook URL: {webhook}')" >> send_notification.py
           echo "    message = {" >> send_notification.py
           echo "        'msgtype': 'markdown'," >> send_notification.py
           echo "        'markdown': {" >> send_notification.py
@@ -46,20 +49,33 @@ jobs:
           echo "            'text': content" >> send_notification.py
           echo "        }" >> send_notification.py
           echo "    }" >> send_notification.py
+          echo "    print('Sending message:', json.dumps(message, ensure_ascii=False))" >> send_notification.py
           echo "    response = requests.post(webhook, json=message)" >> send_notification.py
-          echo "    print('钉钉通知发送成功' if response.status_code == 200 else f'钉钉通知发送失败: {response.text}')" >> send_notification.py
+          echo "    print(f'Response status code: {response.status_code}')" >> send_notification.py
+          echo "    print(f'Response content: {response.text}')" >> send_notification.py
+          echo "    if response.status_code == 200:" >> send_notification.py
+          echo "        result = response.json()" >> send_notification.py
+          echo "        if result.get('errcode') == 0:" >> send_notification.py
+          echo "            print('钉钉通知发送成功')" >> send_notification.py
+          echo "        else:" >> send_notification.py
+          echo "            print(f'钉钉通知发送失败: {result}')" >> send_notification.py
+          echo "    else:" >> send_notification.py
+          echo "        print(f'钉钉通知发送失败: {response.text}')" >> send_notification.py
           echo "" >> send_notification.py
           echo "def get_today_updates():" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
           echo "    today = datetime.datetime.now().strftime('%Y-%m-%d')" >> send_notification.py
+          echo "    print(f'Looking for updates on {today}')" >> send_notification.py
           echo "    start_marker = f'### 📅 {today}'" >> send_notification.py
           echo "    end_marker = '### 📅'" >> send_notification.py
           echo "    start_idx = content.find(start_marker)" >> send_notification.py
           echo "    if start_idx == -1:" >> send_notification.py
+          echo "        print('No updates found for today')" >> send_notification.py
           echo "        return '## 📢 今日更新提醒\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    end_idx = content.find(end_marker, start_idx + len(start_marker))" >> send_notification.py
           echo "    today_content = content[start_idx:] if end_idx == -1 else content[start_idx:end_idx]" >> send_notification.py
+          echo "    print(f'Found content: {today_content[:100]}...')" >> send_notification.py
           echo "    lines = today_content.split('\\n')" >> send_notification.py
           echo "    formatted_content = ['## 📢 今日更新提醒\\n']" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
@@ -76,7 +92,9 @@ jobs:
           echo "        elif line.startswith('- 更新时间'):" >> send_notification.py
           echo "            formatted_content.append(f'> ⏰ {line[1:].strip()}')" >> send_notification.py
           echo "    formatted_content.append('\\n---\\n> 💡 更多详情请访问GitHub仓库')" >> send_notification.py
-          echo "    return '\\n'.join(formatted_content)" >> send_notification.py
+          echo "    result = '\\n'.join(formatted_content)" >> send_notification.py
+          echo "    print(f'Formatted content: {result[:100]}...')" >> send_notification.py
+          echo "    return result" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
           echo "    send_to_dingtalk(get_today_updates())" >> send_notification.py
