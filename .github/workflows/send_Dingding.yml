@@ -96,7 +96,19 @@ jobs:
           echo "    # 合并所有区块，并去重" >> send_notification.py
           echo "    today_content = '\\n\\n'.join(set(blocks))" >> send_notification.py
           echo "    print(f'合并后的内容:\\n{today_content}')" >> send_notification.py
-          echo "    return today_content" >> send_notification.py
+          echo "    # 添加统计信息和链接" >> send_notification.py
+          echo "    stats = f'\\n\\n---\\n<font size=2>📊 统计信息\\n📝 新增文章数：{len(blocks)}篇 ⏰ 更新时间：{get_beijing_time().strftime(\"%Y-%m-%d %H:%M:%S\")}\\n[更多信息访问Github](https://github.com/zxarj/wxvl)</font>'" >> send_notification.py
+          echo "    # 格式化文章列表" >> send_notification.py
+          echo "    articles = []" >> send_notification.py
+          echo "    for block in blocks:" >> send_notification.py
+          echo "        # 提取文章标题和链接" >> send_notification.py
+          echo "        lines = block.split('\\n')" >> send_notification.py
+          echo "        for line in lines:" >> send_notification.py
+          echo "            if line.strip().startswith('1.') or line.strip().startswith('2.') or line.strip().startswith('3.') or line.strip().startswith('4.') or line.strip().startswith('5.'):" >> send_notification.py
+          echo "                articles.append(line.strip())" >> send_notification.py
+          echo "    # 重新格式化文章列表，保持数字编号" >> send_notification.py
+          echo "    formatted_articles = '\\n'.join(articles)" >> send_notification.py
+          echo "    return f'## 📢 {today}日新增文章\\n\\n{formatted_articles}{stats}'" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
           echo "    current_time = get_beijing_time().strftime('%H:%M')" >> send_notification.py
