@@ -77,6 +77,7 @@ jobs:
           echo "    if end_idx == -1:" >> send_notification.py
           echo "        end_idx = len(content)" >> send_notification.py
           echo "    today_content = content[last_update_start:end_idx].strip()" >> send_notification.py
+          echo "    # 允许格式：⏰ 更新时间：2025-05-19 或 ⏰ 更新时间：2025-05-19 13:05:14" >> send_notification.py
           echo "    update_time_pattern = r'⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
           echo "    if not update_time_match:" >> send_notification.py
