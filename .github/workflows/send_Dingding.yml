@@ -2,13 +2,12 @@ name: Send DingTalk Notification
 
 on:
   workflow_dispatch:  # 允许手动触发
-  schedule:
-    - cron: '0 0 * * *'   # 每天 00:00
-    - cron: '0 4 * * *'   # 每天 04:00
-    - cron: '0 8 * * *'   # 每天 08:00
-    - cron: '0 12 * * *'  # 每天 12:00
-    - cron: '0 16 * * *'  # 每天 16:00
-    - cron: '0 20 * * *'  # 每天 20:00
+  workflow_run:
+    workflows: ["Update Today"]
+    types:
+      - completed
+    branches:
+      - main
 
 jobs:
   send-notification:
@@ -99,7 +98,12 @@ jobs:
           echo "    return today_content" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
-          echo "    send_to_dingtalk(get_today_updates())" >> send_notification.py
+          echo "    current_time = get_beijing_time().strftime('%H:%M')" >> send_notification.py
+          echo "    content = get_today_updates()" >> send_notification.py
+          echo "    if '今日暂无新文章更新' not in content:" >> send_notification.py
+          echo "        send_to_dingtalk(content)" >> send_notification.py
+          echo "    else:" >> send_notification.py
+          echo "        print('没有新文章，跳过推送')" >> send_notification.py
           
       - name: Send DingTalk Notification
         env:
