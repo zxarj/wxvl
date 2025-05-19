@@ -72,7 +72,7 @@ jobs:
           echo "    end_marker = '## 📝 更新日志'" >> send_notification.py
           echo "    last_update_start = content.rfind(start_marker)" >> send_notification.py
           echo "    if last_update_start == -1:" >> send_notification.py
-          echo "        return '## 📢 {today}日更新提醒\\n\\n> {today}日暂无新文章更新'" >> send_notification.py
+          echo "        return f'## 📢 {today}日更新\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    end_idx = content.find(end_marker, last_update_start)" >> send_notification.py
           echo "    if end_idx == -1:" >> send_notification.py
           echo "        end_idx = len(content)" >> send_notification.py
@@ -80,10 +80,10 @@ jobs:
           echo "    update_time_pattern = r'<sub>⏰ 更新时间：(\\d{4}-\\d{2}-\\d{2})'" >> send_notification.py
           echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
           echo "    if not update_time_match:" >> send_notification.py
-          echo "        return '## 📢 {today}日更新提醒\\n\\n> {today}日暂无新文章更新'" >> send_notification.py
+          echo "        return f'## 📢 {today}日更新\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    update_date = update_time_match.group(1)" >> send_notification.py
           echo "    if update_date != today:" >> send_notification.py
-          echo "        return '## 📢 {today}日更新提醒\\n\\n> {today}日暂无新文章更新'" >> send_notification.py
+          echo "        return f'## 📢 {today}日更新\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    articles_start = today_content.find('### 📚 新增文章')" >> send_notification.py
           echo "    articles_end = today_content.find('#### 📊 统计信息')" >> send_notification.py
           echo "    if articles_end == -1:" >> send_notification.py
