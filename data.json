@@ -14193,5 +14193,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490438&idx=1&sn=68526a59f2dd824a09143399bb9644d5": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487931&idx=1&sn=619675b41f1728c3b4c80174458886fc": "英特尔CPU再曝高危漏洞！新型内存泄漏与Spectre v2攻击卷土重来，全球数亿设备陷风险",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795139&idx=3&sn=b778c50dbe57ec7066741e4845436a97": "英特尔新漏洞：Spectre 和 Meltdown 问题以新面貌重现",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492334&idx=1&sn=c5ffc39a73e459eb12fe56edc031abd0": "一个漏洞挖掘小工具 - SeeMore"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492334&idx=1&sn=c5ffc39a73e459eb12fe56edc031abd0": "一个漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492284&idx=1&sn=875e75a2f1e03dc7730882f221ffbe21": "漏洞预警 西部数据 NAS chk_vv_sharename.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497482&idx=1&sn=9edef1806d3d5a33f39a791c117051b1": "【漏洞通告】Tornado日志解析器拒绝服务漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497482&idx=2&sn=c4323bf9b8cda0593c734ced7ac81e19": "【漏洞通告】FortiOS TACACS+身份认证绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251875&idx=1&sn=9a043be40ff683ba496f06b8b7751a0d": "全球政府邮件系统沦陷：黑客利用XSS漏洞发起大规模间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=6&sn=ca5cfa1a13553a7ca1e6275272df5480": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=1&sn=c7bbbfb0fef994b47cac641836483e73": "漏洞预警 | Apache IoTDB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=2&sn=6c55c91bfdbdbe5d7acda8f94b544575": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=3&sn=10037ca1fbd8c7838d112015fa3f790a": "漏洞预警 | Tornado日志解析器拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485450&idx=1&sn=dd0751e325f02ecd7aada09b208840e7": "Src捡钱6，为什么大佬总能挖到你挖不到的漏洞（可自定义参数版jsonp、cors）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493865&idx=1&sn=ab72cfaaef6a0440b47f2283c17311d7": "谷歌修复了可能导致账户完全被劫持的Chrome漏洞"
 }
