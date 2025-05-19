@@ -75,23 +75,23 @@ jobs:
           echo "    current_title = ''" >> send_notification.py
           echo "    current_article_num = 0" >> send_notification.py
           echo "    current_original_link = ''" >> send_notification.py
+          echo "    current_github_link = ''" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
           echo "        if line.strip().startswith(('1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.')):" >> send_notification.py
           echo "            if current_title and current_original_link:" >> send_notification.py
-          echo "                formatted_content.append(f'{current_article_num}. <sub>{current_title}</sub> <sub>🔗 [原文链接]({current_original_link})</sub>\\n')" >> send_notification.py
+          echo "                formatted_content.append(f'{current_article_num}. 📄 {current_title}  \\n   <sub>🔗 [原文链接]({current_original_link}) ｜ [GitHub备份]({current_github_link})</sub>\\n')" >> send_notification.py
           echo "            current_article_num = int(line.split('.')[0])" >> send_notification.py
           echo "            current_title = line.split('📄')[1].strip() if '📄' in line else line.strip()" >> send_notification.py
           echo "            current_original_link = ''" >> send_notification.py
-          echo "        elif line.strip().startswith('- 原文链接'):" >> send_notification.py
-          echo "            current_original_link = line.split('：')[1].strip()" >> send_notification.py
-          echo "        elif line.startswith('- 新增文章数'):" >> send_notification.py
-          echo "            article_count = line[1:].strip()" >> send_notification.py
-          echo "        elif line.startswith('- 更新时间'):" >> send_notification.py
-          echo "            update_time = line[1:].strip()" >> send_notification.py
+          echo "            current_github_link = ''" >> send_notification.py
+          echo "        elif '原文链接' in line:" >> send_notification.py
+          echo "            current_original_link = line.split('(')[1].split(')')[0]" >> send_notification.py
+          echo "        elif 'GitHub备份' in line:" >> send_notification.py
+          echo "            current_github_link = line.split('(')[1].split(')')[0]" >> send_notification.py
+          echo "        elif line.startswith('<sub>📝 新增文章数') or line.startswith('<sub>⏰ 更新时间') or line.startswith('---'):" >> send_notification.py
+          echo "            formatted_content.append(line + '\\n')" >> send_notification.py
           echo "    if current_title and current_original_link:" >> send_notification.py
-          echo "        formatted_content.append(f'{current_article_num}. <sub>{current_title}</sub> <sub>🔗 [原文链接]({current_original_link})</sub>\\n')" >> send_notification.py
-          echo "    formatted_content.append('\\n---\\n')" >> send_notification.py
-          echo "    formatted_content.append(f'<sub>📊 {article_count} | {update_time}</sub>')" >> send_notification.py
+          echo "        formatted_content.append(f'{current_article_num}. 📄 {current_title}  \\n   <sub>🔗 [原文链接]({current_original_link}) ｜ [GitHub备份]({current_github_link})</sub>\\n')" >> send_notification.py
           echo "    formatted_content.append('\\n<sub>💡 [GitHub仓库](https://github.com/zxarj/wxvl)</sub>')" >> send_notification.py
           echo "    return '\\n'.join(formatted_content)" >> send_notification.py
           echo "" >> send_notification.py
