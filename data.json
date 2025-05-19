@@ -14208,5 +14208,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499088&idx=1&sn=c4a90fdea61d8a9d2f7ef91d73d10f06": "poc | Windows 远程桌面网关 (RD Gateway) CVE-2025-21297介绍",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=8&sn=ce5bf568df9fe4ae7bc231f3412e006e": "通过细节挖掘漏洞的艺术",
     "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492198&idx=1&sn=cad62031ef7ee2bd2f307232c09abef9": "山东大学 | MiniCAT：了解和检测小程序中的跨页面请求伪造漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485394&idx=1&sn=22b42b8052f7bcf2aff52733a50ef72f": "Java代审&后台计划任务中的RCE攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485394&idx=1&sn=22b42b8052f7bcf2aff52733a50ef72f": "Java代审&后台计划任务中的RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492550&idx=1&sn=5d99ff16c3e149c4423f1197748e51f1": "Linux 内核补丁管理：漏洞防御新策略"
 }
