@@ -32,3 +32,18 @@
 ⏰ 更新时间：2025-05-19 13:05:14</small>
 
 ---
+
+
+## 📢 2025-05-19日新增文章
+
+1. 【漏洞预警】Invision Community themeeditor远程代码执行漏洞CVE-2025-47916 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=2&sn=477c546c495a1d59f2a34d685c7e88cc)
+
+2. CVE-2020-1472NetLogon权限提升 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247487617&idx=1&sn=5876a6a3fbb1b810133e786da2badaa5)
+
+3. 【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-05-19 15:49:51<small>
+
+---
