@@ -185,7 +185,7 @@ def rep_filename(result_path):
                 new_file = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', file)
                 shutil.move(os.path.join(root, file), os.path.join(root, new_file))
                 
-def update_readme(articles):
+def update_readme(urls):
     """更新README.md文件"""
     today = datetime.now().strftime('%Y-%m-%d')
     
@@ -199,6 +199,14 @@ def update_readme(articles):
 #### 📚 新增文章
 
 """
+    
+    # 获取文章信息
+    articles = []
+    data = read_json('data.json')
+    for url in urls:
+        if url in data:
+            title = data[url]
+            articles.append({'title': title, 'url': url})
     
     # 添加文章
     for i, article in enumerate(articles, 1):
