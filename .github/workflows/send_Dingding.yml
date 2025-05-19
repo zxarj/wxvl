@@ -58,24 +58,23 @@ jobs:
           echo "    else:" >> send_notification.py
           echo "        print(f'钉钉通知发送失败: {response.text}')" >> send_notification.py
           echo "" >> send_notification.py
-          echo "def get_yesterday_updates():" >> send_notification.py
+          echo "def get_today_updates():" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
-          echo "    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')" >> send_notification.py
-          echo "    start_marker = f'### 📅 {yesterday}'" >> send_notification.py
+          echo "    today = datetime.datetime.now().strftime('%Y-%m-%d')" >> send_notification.py
+          echo "    start_marker = f'### 📅 {today}'" >> send_notification.py
           echo "    end_marker = '### 📅'" >> send_notification.py
           echo "    start_idx = content.find(start_marker)" >> send_notification.py
           echo "    if start_idx == -1:" >> send_notification.py
-          echo "        return '## 📢 昨日更新提醒\\n\\n> 昨日暂无新文章更新'" >> send_notification.py
+          echo "        return '## 📢 今日更新提醒\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    end_idx = content.find(end_marker, start_idx + len(start_marker))" >> send_notification.py
-          echo "    yesterday_content = content[start_idx:] if end_idx == -1 else content[start_idx:end_idx]" >> send_notification.py
-          echo "    lines = yesterday_content.split('\\n')" >> send_notification.py
-          echo "    formatted_content = ['## 📢 昨日更新提醒\\n']" >> send_notification.py
+          echo "    today_content = content[start_idx:] if end_idx == -1 else content[start_idx:end_idx]" >> send_notification.py
+          echo "    lines = today_content.split('\\n')" >> send_notification.py
+          echo "    formatted_content = ['## 📢 今日更新提醒\\n']" >> send_notification.py
           echo "    formatted_content.append('### 📚 新增文章\\n')" >> send_notification.py
           echo "    current_title = ''" >> send_notification.py
           echo "    current_article_num = 0" >> send_notification.py
           echo "    current_original_link = ''" >> send_notification.py
-          echo "    current_github_link = ''" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
           echo "        if line.strip().startswith(('1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.')):" >> send_notification.py
           echo "            if current_title and current_original_link:" >> send_notification.py
@@ -83,7 +82,6 @@ jobs:
           echo "            current_article_num = int(line.split('.')[0])" >> send_notification.py
           echo "            current_title = line.split('📄')[1].strip() if '📄' in line else line.strip()" >> send_notification.py
           echo "            current_original_link = ''" >> send_notification.py
-          echo "            current_github_link = ''" >> send_notification.py
           echo "        elif line.strip().startswith('- 原文链接'):" >> send_notification.py
           echo "            current_original_link = line.split('：')[1].strip()" >> send_notification.py
           echo "        elif line.startswith('- 新增文章数'):" >> send_notification.py
@@ -98,7 +96,7 @@ jobs:
           echo "    return '\\n'.join(formatted_content)" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
-          echo "    send_to_dingtalk(get_yesterday_updates())" >> send_notification.py
+          echo "    send_to_dingtalk(get_today_updates())" >> send_notification.py
           
       - name: Send DingTalk Notification
         env:
