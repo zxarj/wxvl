@@ -3,9 +3,12 @@ name: Send DingTalk Notification
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '30 8 * * *'   # 早上8:30
-    - cron: '30 14 * * *'  # 下午14:30
-    - cron: '0 17 * * *'   # 下午17:00
+    - cron: '0 0 * * *'   # 每天 00:00
+    - cron: '0 4 * * *'   # 每天 04:00
+    - cron: '0 8 * * *'   # 每天 08:00
+    - cron: '0 12 * * *'  # 每天 12:00
+    - cron: '0 16 * * *'  # 每天 16:00
+    - cron: '0 20 * * *'  # 每天 20:00
 
 jobs:
   send-notification:
@@ -67,7 +70,7 @@ jobs:
           echo "def get_today_updates():" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
-          echo "    today = get_beijing_time().strftime('%Y-%m-%d')" >> send_notification.py
+          echo "    today = get_beijing_time().strftime('%m-%d')" >> send_notification.py
           echo "    print(f'当前日期: {today}')" >> send_notification.py
           echo "    start_marker = f'## 📢 {today}日新增文章'" >> send_notification.py
           echo "    print(f'查找标记: {start_marker}')" >> send_notification.py
@@ -93,22 +96,6 @@ jobs:
           echo "    # 合并所有区块，并去重" >> send_notification.py
           echo "    today_content = '\\n\\n'.join(set(blocks))" >> send_notification.py
           echo "    print(f'合并后的内容:\\n{today_content}')" >> send_notification.py
-          echo "    # 检查更新时间 - 修改正则表达式以匹配带时间戳的格式" >> send_notification.py
-          echo "    update_time_pattern = r'⏰\\s*更新时间：\\s*(\\d{4}-\\d{2}-\\d{2})(?:\\s+\\d{2}:\\d{2}:\\d{2})?'" >> send_notification.py
-          echo "    print(f'使用正则表达式: {update_time_pattern}')" >> send_notification.py
-          echo "    update_time_match = re.search(update_time_pattern, today_content)" >> send_notification.py
-          echo "    if not update_time_match:" >> send_notification.py
-          echo "        print('没有找到更新时间')" >> send_notification.py
-          echo "        print('尝试查找所有包含"更新时间"的行:')" >> send_notification.py
-          echo "        for line in today_content.split('\\n'):" >> send_notification.py
-          echo "            if '更新时间' in line:" >> send_notification.py
-          echo "                print(f'找到相关行: {line}')" >> send_notification.py
-          echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
-          echo "    update_date = update_time_match.group(1)" >> send_notification.py
-          echo "    print(f'找到的更新日期: {update_date}')" >> send_notification.py
-          echo "    if update_date != today:" >> send_notification.py
-          echo "        print(f'更新日期 {update_date} 不等于今天 {today}')" >> send_notification.py
-          echo "        return f'## 📢 {today}日新增文章\\n\\n> 今日暂无新文章更新'" >> send_notification.py
           echo "    return today_content" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
