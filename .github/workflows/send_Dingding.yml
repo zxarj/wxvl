@@ -82,7 +82,12 @@ jobs:
           echo "        start_idx = content.find(start_marker, start_idx)" >> send_notification.py
           echo "        print(f'找到区块位置: {start_idx}')" >> send_notification.py
           echo "        if start_idx == -1:" >> send_notification.py
-          echo "            break" >> send_notification.py
+          echo "            # 尝试不带'日'的格式" >> send_notification.py
+          echo "            alt_marker = f'## 📢 {today}新增文章'" >> send_notification.py
+          echo "            print(f'尝试备用标记: {alt_marker}')" >> send_notification.py
+          echo "            start_idx = content.find(alt_marker, start_idx)" >> send_notification.py
+          echo "            if start_idx == -1:" >> send_notification.py
+          echo "                break" >> send_notification.py
           echo "        end_idx = content.find(end_marker, start_idx)" >> send_notification.py
           echo "        if end_idx == -1:" >> send_notification.py
           echo "            end_idx = len(content)" >> send_notification.py
