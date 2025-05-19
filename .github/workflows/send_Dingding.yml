@@ -69,29 +69,36 @@ jobs:
           echo "    today_content = content[start_idx:] if end_idx == -1 else content[start_idx:end_idx]" >> send_notification.py
           echo "    lines = today_content.split('\\n')" >> send_notification.py
           echo "    formatted_content = ['## 📢 今日更新提醒\\n']" >> send_notification.py
+          echo "    formatted_content.append('### 📚 新增文章\\n')" >> send_notification.py
           echo "    current_title = ''" >> send_notification.py
+          echo "    current_article_num = 0" >> send_notification.py
+          echo "    current_original_link = ''" >> send_notification.py
+          echo "    current_github_link = ''" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
-          echo "        if line.startswith('#### 📚 新增文章'):" >> send_notification.py
-          echo "            formatted_content.append('\\n### 📚 新增文章\\n')" >> send_notification.py
-          echo "        elif line.startswith('#### 📊 统计信息'):" >> send_notification.py
-          echo "            formatted_content.append('\\n### 📊 统计信息\\n')" >> send_notification.py
-          echo "        elif line.strip().startswith(('1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.')):" >> send_notification.py
-          echo "            title = line.split('📄')[1].strip() if '📄' in line else line.strip()" >> send_notification.py
-          echo "            current_title = title" >> send_notification.py
-          echo "            formatted_content.append(f'#### {title}\\n')" >> send_notification.py
-          echo "        elif line.strip().startswith('- 原文链接'):" >> send_notification.py
-          echo "            formatted_content.append(f'> 🔗 原文链接：{line.split(\"：\")[1].strip()}\\n')" >> send_notification.py
-          echo "        elif line.strip().startswith('- GitHub备份'):" >> send_notification.py
-          echo "            if current_title:" >> send_notification.py
+          echo "        if line.strip().startswith(('1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.')):" >> send_notification.py
+          echo "            if current_title and current_original_link:" >> send_notification.py
           echo "                year_month = datetime.datetime.now().strftime('%Y-%m')" >> send_notification.py
           echo "                encoded_title = urllib.parse.quote(current_title)" >> send_notification.py
           echo "                github_url = f'https://github.com/zxarj/wxvl/blob/main/doc/{year_month}/{encoded_title}.md'" >> send_notification.py
-          echo "                formatted_content.append(f'> 📦 GitHub备份：[点击查看]({github_url})\\n')" >> send_notification.py
+          echo "                formatted_content.append(f'{current_article_num}. <sub>[{current_title}]({current_original_link})</sub> <sub>📦 [备份]({github_url})</sub>\\n')" >> send_notification.py
+          echo "            current_article_num = int(line.split('.')[0])" >> send_notification.py
+          echo "            current_title = line.split('📄')[1].strip() if '📄' in line else line.strip()" >> send_notification.py
+          echo "            current_original_link = ''" >> send_notification.py
+          echo "            current_github_link = ''" >> send_notification.py
+          echo "        elif line.strip().startswith('- 原文链接'):" >> send_notification.py
+          echo "            current_original_link = line.split('：')[1].strip()" >> send_notification.py
           echo "        elif line.startswith('- 新增文章数'):" >> send_notification.py
-          echo "            formatted_content.append(f'> 📈 {line[1:].strip()}\\n')" >> send_notification.py
+          echo "            article_count = line[1:].strip()" >> send_notification.py
           echo "        elif line.startswith('- 更新时间'):" >> send_notification.py
-          echo "            formatted_content.append(f'> ⏰ {line[1:].strip()}\\n')" >> send_notification.py
-          echo "    formatted_content.append('\\n---\\n> 💡 更多详情请访问GitHub仓库')" >> send_notification.py
+          echo "            update_time = line[1:].strip()" >> send_notification.py
+          echo "    if current_title and current_original_link:" >> send_notification.py
+          echo "        year_month = datetime.datetime.now().strftime('%Y-%m')" >> send_notification.py
+          echo "        encoded_title = urllib.parse.quote(current_title)" >> send_notification.py
+          echo "        github_url = f'https://github.com/zxarj/wxvl/blob/main/doc/{year_month}/{encoded_title}.md'" >> send_notification.py
+          echo "        formatted_content.append(f'{current_article_num}. <sub>[{current_title}]({current_original_link})</sub> <sub>📦 [备份]({github_url})</sub>\\n')" >> send_notification.py
+          echo "    formatted_content.append('\\n---\\n')" >> send_notification.py
+          echo "    formatted_content.append(f'<sub>📊 {article_count} | {update_time}</sub>')" >> send_notification.py
+          echo "    formatted_content.append('\\n<sub>💡 更多详情请访问 [GitHub仓库](https://github.com/zxarj/wxvl)</sub>')" >> send_notification.py
           echo "    return '\\n'.join(formatted_content)" >> send_notification.py
           echo "" >> send_notification.py
           echo "if __name__ == '__main__':" >> send_notification.py
