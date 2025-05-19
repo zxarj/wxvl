@@ -185,6 +185,53 @@ def rep_filename(result_path):
                 new_file = re.sub(r'[\/\\\:\*\?\"\<\>\|]', '', file)
                 shutil.move(os.path.join(root, file), os.path.join(root, new_file))
                 
+def update_readme(result_path, urls):
+    '''更新README.md文件'''
+    readme_path = 'README.md'
+    today = datetime.datetime.now().strftime("%Y-%m-%d")
+    
+    # 读取现有的README内容
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # 准备新的更新内容
+    new_content = f"\n### 📅 {today}\n\n"
+    
+    # 获取文章信息
+    articles = []
+    data = read_json('data.json')
+    for url in urls:
+        if url in data:
+            title = data[url]
+            articles.append((title, url))
+    
+    if articles:
+        new_content += "#### 📚 新增文章\n\n"
+        for i, (title, url) in enumerate(articles, 1):
+            # 构建GitHub备份链接
+            current_month = datetime.datetime.now().strftime("%Y-%m")
+            github_path = f"doc/{current_month}/{title}.md"
+            new_content += f"{i}. 📄 {title}\n"
+            new_content += f"   - 原文链接：[点击访问]({url})\n"
+            new_content += f"   - GitHub备份：[点击查看](https://github.com/gelusus/wxvl/blob/main/{github_path})\n\n"
+        
+        new_content += f"#### 📊 统计信息\n"
+        new_content += f"- 新增文章数：{len(articles)}篇\n"
+        new_content += f"- 更新时间：{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        new_content += "\n---\n"  # 添加分隔线
+    
+    # 在更新日志部分插入新内容
+    if "## 📝 更新日志" in content:
+        # 在更新日志标题后插入新内容
+        content = content.replace("## 📝 更新日志", f"## 📝 更新日志{new_content}")
+    else:
+        # 如果还没有更新日志部分，在文件末尾添加
+        content += f"\n## 📝 更新日志{new_content}"
+    
+    # 写入更新后的内容
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
 def main():
     '''主函数'''
     data_file = 'data.json'
@@ -202,6 +249,8 @@ def main():
             urls = list(set(get_chainreactors_url() + get_BruceFeIix_url() + get_doonsec_url()))
         else:
             urls = get_issue_url()
+        
+        new_urls = []  # 记录新添加的URL
         for url in urls:
             if url in data:
                 continue
@@ -212,7 +261,13 @@ def main():
                 shutil.copy2(file_path,result_path)
                 data[url] = name
                 write_json(data_file,data)
+                new_urls.append(url)  # 添加到新URL列表
                 print(name,end='、')
+        
+        # 如果有新文章，更新README.md
+        if new_urls:
+            update_readme(result_path, new_urls)
+    
     rep_filename(result_path)
 if __name__ == '__main__':
     main()
