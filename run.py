@@ -8,7 +8,7 @@ import tempfile
 import requests
 import shutil
 import subprocess
-import datetime
+from datetime import datetime
 
 
 def write_json(path, data, encoding="utf8"):
@@ -57,7 +57,7 @@ def get_md_path(executable_path,url):
 
 def get_chainreactors_url():
     '''获取今日url'''
-    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now().strftime("%Y-%m-%d")
     base_url = 'https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -89,7 +89,7 @@ def get_chainreactors_url():
 
 def get_BruceFeIix_url():
     '''获取今日url'''
-    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now().strftime("%Y-%m-%d")
     base_url = 'https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/{}/{}.md'.format(current_date[:4], current_date)
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -237,7 +237,7 @@ def main():
     executable_path = get_executable_path()
     base_result_path = 'doc'
     # 创建基于当前年月的子目录 (格式: YYYY-MM)
-    current_month = datetime.datetime.now().strftime("%Y-%m")
+    current_month = datetime.now().strftime("%Y-%m")
     result_path = os.path.join(base_result_path, current_month)
     os.makedirs(result_path, exist_ok=True)
     # 读取历史记录
