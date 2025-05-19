@@ -208,7 +208,7 @@ def update_readme(urls):
     
     # 添加文章
     for i, article in enumerate(articles, 1):
-        new_content += f"{article['title']} <sub>🔗[来源]({article['url']})</sub> \n\n"
+        new_content += f"{i}. {article['title']} <sub>🔗[来源]({article['url']})</sub>\n\n"
     
     # 添加统计信息
     new_content += f"""## 📊 统计信息
