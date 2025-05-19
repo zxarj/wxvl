@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: update today
+name: update daily
 
 on:
   workflow_dispatch:
@@ -39,7 +39,15 @@ jobs:
           git add .
           MESSAGE=$(cat /tmp/update.log)
           if [ ! -z "$MESSAGE" ]; then
-            COMMIT_MESSAGE="$MESSAGE"
-            git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
-            git push
+            # 检查是否有归档文件
+            if git diff --name-only | grep -q "^archives/"; then
+              # 如果有归档文件，使用专门的提交信息
+              git commit -m "📦 每周归档更新" || true
+              git push
+            else
+              # 如果是普通更新，使用原来的提交信息
+              COMMIT_MESSAGE="$MESSAGE"
+              git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
+              git push
+            fi
           fi
