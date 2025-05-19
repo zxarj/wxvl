@@ -14241,5 +14241,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487940&idx=1&sn=ed7c9a4905f62eeeec22d209bba65844": "Firefox紧急修复两大零日漏洞！Pwn2Own柏林大赛黑客斩获$10万奖金",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzAwNzA4NA==&mid=2247485216&idx=1&sn=17314e6e6088de7b43fa8fd275de137a": "原创—中国乃至世界进入后门时代，挖漏洞该怎么挖",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击"
 }
