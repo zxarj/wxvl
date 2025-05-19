@@ -14238,5 +14238,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=2&sn=477c546c495a1d59f2a34d685c7e88cc": "【漏洞预警】Invision Community themeeditor远程代码执行漏洞CVE-2025-47916",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247487617&idx=1&sn=5876a6a3fbb1b810133e786da2badaa5": "CVE-2020-1472NetLogon权限提升",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487940&idx=1&sn=ed7c9a4905f62eeeec22d209bba65844": "Firefox紧急修复两大零日漏洞！Pwn2Own柏林大赛黑客斩获$10万奖金"
 }
