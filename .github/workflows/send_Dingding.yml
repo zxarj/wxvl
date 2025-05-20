@@ -68,6 +68,9 @@ jobs:
           echo "        print(f'钉钉通知发送失败: {response.text}')" >> send_notification.py
           echo "" >> send_notification.py
           echo "def get_today_updates():" >> send_notification.py
+          echo "    # 初始化 articles 列表" >> send_notification.py
+          echo "    articles = []" >> send_notification.py
+          echo "" >> send_notification.py
           echo "    with open('README.md', 'r', encoding='utf-8') as f:" >> send_notification.py
           echo "        content = f.read()" >> send_notification.py
           echo "    today = get_beijing_time().strftime('%Y-%m-%d')" >> send_notification.py
@@ -96,15 +99,16 @@ jobs:
           echo "    # 只取最新的区块" >> send_notification.py
           echo "    latest_block = blocks[-1]" >> send_notification.py
           echo "    print(f'最新区块内容:\\n{latest_block}')" >> send_notification.py
-          echo "    # 添加统计信息和链接" >> send_notification.py
-          echo "    footer = f'\\n\\n---\\n🚀 [github仓库](https://github.com/zxarj/wxvl)\\n\\n<font size=2>📊 统计信息\\n📝 新增文章数：{len(articles)}篇\\n⏰ 更新时间：{get_beijing_time().strftime(\"%Y-%m-%d %H:%M\")}</font>'" >> send_notification.py
-          echo "    # 格式化文章列表" >> send_notification.py
-          echo "    articles = []" >> send_notification.py
-          echo "    # 只处理最新区块中的文章" >> send_notification.py
+          echo "" >> send_notification.py
+          echo "    # 处理最新区块中的文章" >> send_notification.py
           echo "    lines = latest_block.split('\\n')" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
           echo "        if re.match(r'^\\d+\\.', line.strip()):" >> send_notification.py
           echo "            articles.append(line.strip())" >> send_notification.py
+          echo "" >> send_notification.py
+          echo "    # 添加统计信息和链接" >> send_notification.py
+          echo "    footer = f'\\n\\n---\\n🚀 [github仓库](https://github.com/zxarj/wxvl)\\n\\n<font size=2>📊 统计信息\\n📝 新增文章数：{len(articles)}篇\\n⏰ 更新时间：{get_beijing_time().strftime(\"%Y-%m-%d %H:%M\")}</font>'" >> send_notification.py
+          echo "" >> send_notification.py
           echo "    # 重新格式化文章列表，保持数字编号" >> send_notification.py
           echo "    formatted_articles = '\\n'.join(articles)" >> send_notification.py
           echo "    return f'## 📢 {today}日新增文章\\n\\n{formatted_articles}{footer}'" >> send_notification.py
