@@ -171,3 +171,30 @@
 ⏰ 更新时间：2025-05-21 00:27:34<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345)
+
+2. 漏洞速递 | CVE-2025-29927漏洞（附EXP） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501349&idx=1&sn=59bf10bba063b60bdb410a2b2227295e)
+
+3. 商用漏洞扫描器的盲区：为什么越权漏洞总被漏检？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487145&idx=1&sn=c089110d0633e7f0798f8191da30eaef)
+
+4. Gnu Glibc 逻辑缺陷漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=1&sn=e436f090f20203dae2788470d2e830f7)
+
+5. Ivanti Endpoint Manager Mobile 需授权 代码注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=2&sn=e08d06704ad18be109b3687efc5c973a)
+
+6. BurpAPI越权漏洞检测工具|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491589&idx=1&sn=24950336ac9f53aa1ec1584c73a58f5c)
+
+7. Pwn2Own 2025柏林黑客大赛：发现28个0day 斩获百万美元奖金 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514384&idx=2&sn=fcfc80f16f102b6fec2c364408384b51)
+
+8. SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=5&sn=7162f099562c67bb40635cb4eb23f583)
+
+9. Google Chrome 访问控制不当漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=7&sn=72b2561ef284f3206a5cbf4f54eba279)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-05-21 04:24:36<small>
+
+---
