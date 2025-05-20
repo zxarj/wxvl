@@ -103,7 +103,7 @@ jobs:
           echo "    # 只处理最新区块中的文章" >> send_notification.py
           echo "    lines = latest_block.split('\\n')" >> send_notification.py
           echo "    for line in lines:" >> send_notification.py
-          echo "        if line.strip().startswith('1.') or line.strip().startswith('2.') or line.strip().startswith('3.') or line.strip().startswith('4.') or line.strip().startswith('5.'):" >> send_notification.py
+          echo "        if re.match(r'^\\d+\\.', line.strip()):" >> send_notification.py
           echo "            articles.append(line.strip())" >> send_notification.py
           echo "    # 重新格式化文章列表，保持数字编号" >> send_notification.py
           echo "    formatted_articles = '\\n'.join(articles)" >> send_notification.py
