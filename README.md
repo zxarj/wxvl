@@ -83,3 +83,34 @@
 ⏰ 更新时间：2025-05-20 09:46:52<small>
 
 ---
+
+
+## 📢 2025-05-20日新增文章
+
+1. 印度阿三安全研究员，欺骗漏洞赏金全过程！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168480&idx=1&sn=50dcda92c002bd51ea2737f3532de5c6)
+
+2. CNVD-2023-04620 金和 OA XXE 漏洞分析复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487511&idx=1&sn=26c6c9c168d84586c8478f7b2dedd2d1)
+
+3. 高危WordPress插件漏洞威胁超1万个网站安全 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610809&idx=3&sn=d60cac29d0d8c32877b922b55df29182)
+
+4. 【成功复现】WordPress plugin Kubio AI Page Builder路径遍历漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503311&idx=1&sn=17cd63a2dc5bb1c0a1bbcf1dc7d0fd9a)
+
+5. EDUSRC | 两个证书站小程序漏洞挖掘思路及方法 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550119&idx=1&sn=c25a8b23e5ef7622e645d208c419b59f)
+
+6. 文末赠书|当漏洞成为“数字战争”的弹药，谁能改写攻防规则？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610809&idx=2&sn=186c2134c645104b6d44da9bb54bd25e)
+
+7. 微步再获评CNNVD“高质量漏洞优秀贡献奖”、“年度优秀技术支撑单位” 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650183840&idx=2&sn=0af114301702b4ae7a8abbb1292f6b31)
+
+8. CNVD-2023-04620 金和 OA XXE 漏洞分析复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491153&idx=1&sn=b45e5f6c7bba1d0d1d9a973478640211)
+
+9. CNVD漏洞周报2025年第18期 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499864&idx=1&sn=0ac97ac6631f4bed37dc9d65de527d8d)
+
+10. Mozilla修复了在Pwn2Own Berlin 2025上公开演示的零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493874&idx=1&sn=66206ef8b1b21a6d4d0f75b5f2bb1e87)
+
+11. SRC实战案例分享-验证码漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247496619&idx=1&sn=cef5546181d6f6ba22d6e75da46caf4d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：11篇
+⏰ 更新时间：2025-05-20 12:26:23<small>
+
+---

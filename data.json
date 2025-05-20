@@ -14260,5 +14260,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=2&sn=fbe72b2822bdbe8de6113691b2162b1b": "大众汽车应用程序漏洞可致车主信息和服务记录泄露",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490386&idx=1&sn=69a3eb83c41266c5d0ebd2e3c0558e2e": "IDOR_detect_tool【API越权漏洞检测工具】",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=3&sn=293aecf04fcabee81298a4fbcda70c1f": "GNU C（glibc）漏洞可以在数百万 Linux 系统执行任意代码",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489110&idx=1&sn=bd7f08bd623117ea3652505c80ba5da9": "英特尔CPU再曝高危漏洞，新型内存泄漏与Spectre v2攻击卷土重来"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489110&idx=1&sn=bd7f08bd623117ea3652505c80ba5da9": "英特尔CPU再曝高危漏洞，新型内存泄漏与Spectre v2攻击卷土重来",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168480&idx=1&sn=50dcda92c002bd51ea2737f3532de5c6": "印度阿三安全研究员，欺骗漏洞赏金全过程！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487511&idx=1&sn=26c6c9c168d84586c8478f7b2dedd2d1": "CNVD-2023-04620 金和 OA XXE 漏洞分析复现",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610809&idx=3&sn=d60cac29d0d8c32877b922b55df29182": "高危WordPress插件漏洞威胁超1万个网站安全",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503311&idx=1&sn=17cd63a2dc5bb1c0a1bbcf1dc7d0fd9a": "【成功复现】WordPress plugin Kubio AI Page Builder路径遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550119&idx=1&sn=c25a8b23e5ef7622e645d208c419b59f": "EDUSRC | 两个证书站小程序漏洞挖掘思路及方法",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610809&idx=2&sn=186c2134c645104b6d44da9bb54bd25e": "文末赠书|当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650183840&idx=2&sn=0af114301702b4ae7a8abbb1292f6b31": "微步再获评CNNVD“高质量漏洞优秀贡献奖”、“年度优秀技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491153&idx=1&sn=b45e5f6c7bba1d0d1d9a973478640211": "CNVD-2023-04620 金和 OA XXE 漏洞分析复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499864&idx=1&sn=0ac97ac6631f4bed37dc9d65de527d8d": "CNVD漏洞周报2025年第18期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493874&idx=1&sn=66206ef8b1b21a6d4d0f75b5f2bb1e87": "Mozilla修复了在Pwn2Own Berlin 2025上公开演示的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247496619&idx=1&sn=cef5546181d6f6ba22d6e75da46caf4d": "SRC实战案例分享-验证码漏洞"
 }
