@@ -127,3 +127,34 @@
 ⏰ 更新时间：2025-05-20 16:29:35<small>
 
 ---
+
+
+## 📢 2025-05-20日新增文章
+
+1. 安全动态回顾|65款违法违规收集使用个人信息的移动应用被通报 微软5月补丁星期二修复72个漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582421&idx=2&sn=4d652cfed9e7b0c3f05bb935d717f71f)
+
+2. Ghost Route 检测 Next JS 中间件绕过漏洞 (CVE-2025-29927) 的攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487438&idx=1&sn=ef49a682ff862cf1972a2c7917274ba1)
+
+3. 行业实践｜电力行业数字化转型，应用风险漏洞谁来防？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135729&idx=1&sn=d51040d6c10c0666031d7f8dcaf25fb4)
+
+4. 大众汽车应用程序再曝安全漏洞，泄露车主敏感信息；410GB TeleMessage泄露数据被DDoSecrets收录 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136902&idx=2&sn=5c62a5d8b7822d419bd155094dfa73a3)
+
+5. RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497628&idx=1&sn=61a9e680026304bda5658427d781b52b)
+
+6. HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=1&sn=e9577cbfc42d88f3379443abc9ae10f7)
+
+7. 【安全圈】CISA最近将Chrome漏洞标记为被积极利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b)
+
+8. ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8)
+
+9. Mongoose 搜索注入漏洞复现与修复 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489854&idx=1&sn=1e0a63504777786c01f77ea4604a9551)
+
+10. Pwn2Own 2025柏林赛落幕！29个零日漏洞曝光，百万奖金花落谁家？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594279&idx=2&sn=bba65c83cfc13e29b1d3bcebbe562ed2)
+
+11. 【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c)
+
+#### 📊 统计信息
+<small>📝 新增文章数：11篇
+⏰ 更新时间：2025-05-20 20:45:19<small>
+
+---
