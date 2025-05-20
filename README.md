@@ -158,3 +158,16 @@
 ⏰ 更新时间：2025-05-20 20:45:19<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. 【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b)
+
+2. 【安全圈】黑客在Pwn2Own柏林大赛中利用28个零日漏洞斩获107万美元奖金 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=2&sn=c20c0d51d02d13694b5fc4bca2f03dd4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-05-21 00:27:34<small>
+
+---

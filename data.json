@@ -14284,5 +14284,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489854&idx=1&sn=1e0a63504777786c01f77ea4604a9551": "Mongoose 搜索注入漏洞复现与修复",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594279&idx=2&sn=bba65c83cfc13e29b1d3bcebbe562ed2": "Pwn2Own 2025柏林赛落幕！29个零日漏洞曝光，百万奖金花落谁家？",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b": "【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=2&sn=c20c0d51d02d13694b5fc4bca2f03dd4": "【安全圈】黑客在Pwn2Own柏林大赛中利用28个零日漏洞斩获107万美元奖金"
 }
