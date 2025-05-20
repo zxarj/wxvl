@@ -64,3 +64,22 @@
 ⏰ 更新时间：2025-05-20 08:27:45<small>
 
 ---
+
+
+## 📢 2025-05-20日新增文章
+
+1. PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488386&idx=1&sn=b9796901565c32f9f5e18643c53c5977)
+
+2. 大众汽车应用程序漏洞可致车主信息和服务记录泄露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=2&sn=fbe72b2822bdbe8de6113691b2162b1b)
+
+3. IDOR_detect_tool【API越权漏洞检测工具】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490386&idx=1&sn=69a3eb83c41266c5d0ebd2e3c0558e2e)
+
+4. GNU C（glibc）漏洞可以在数百万 Linux 系统执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795151&idx=3&sn=293aecf04fcabee81298a4fbcda70c1f)
+
+5. 英特尔CPU再曝高危漏洞，新型内存泄漏与Spectre v2攻击卷土重来 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489110&idx=1&sn=bd7f08bd623117ea3652505c80ba5da9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-05-20 09:46:52<small>
+
+---
