@@ -1,5 +1,5 @@
 #  漏洞预警 | 飞企互联FE业务协作平台任意文件读取漏洞   
-浅安  浅安安全   2025-05-15 00:04  
+浅安  浅安安全   2025-05-20 00:00  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -9,9 +9,9 @@
   
 **0x02 漏洞概述**  
   
-飞企互联-FE企业运营管理平台是一个基于云计算、智能化、大数据、物联网、移动互联网等技术支撑的云工作台。这个平台可以连接人、链接端、联通内外，支持企业B2B、C2B与020等核心需求，为不同行业客户的互联网+转型提供支持。其特色在于提供云端工作环境，整合了人工智能、大数据分析和物联网设备管理，为不同行业客户的互联网+转型提供全面支持。通过智能化的决策支持和数据驱动的业务优化，企业可以更灵活、高效地运营业务，实现数字化转型的战略目标。  
+数夫CRM客户关系管理系统是专为家居、家具等制造业深度定制的全流程客户管理平台。  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SXOeE9Liak8AxAKuHH8wHFzU1yZ7Rcnjt7pEiam9icrnKe2Rg4YECLbkK7j5QsVDqPiciagvRDhnnQIKJA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/7stTqD182SVaVytqmJZ0nCkILbcyKBMSpyGgjicAIgeUibFkMJtH7IicocgF7rhu6dSAX9CXYtiazYotJWxbEpCpDA/640?wx_fmt=png&from=appmsg "")  
   
 **0x03 漏洞详情**  
   
@@ -23,11 +23,10 @@
 获取敏感信息****  
   
 **简述：**  
-飞企互联FE业务协作平台的  
-/system/mediafile/downLoadFiles.jsp接口存在文件读取漏洞，攻击者可通过该漏洞读取系统重要文件、数据库配置文件等等，导致网站处于极度不安全状态。  
+数夫CRM客户关系管理系统的/Web/common/Handler/file_download.ashx存在任意文件读取漏洞，未经身份验证的攻击者可以通过该漏洞读取服务器任意文件，从而获取服务器大量敏感信息。  
   
 **0x04 影响版本**  
-- 飞企互联FE业务协作平台  
+- 数夫CRM客户关系管理系统  
   
 **0x05****POC****状态**  
 - 已公开  
@@ -36,8 +35,7 @@
   
 **目前官方已发布漏洞修复版本，建议用户升级到安全版本****：**  
   
-https://flyrise.cn/  
-  
+https://www.soonfor.com/  
   
   
   
