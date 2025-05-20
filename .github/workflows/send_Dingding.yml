@@ -97,7 +97,7 @@ jobs:
           echo "    latest_block = blocks[-1]" >> send_notification.py
           echo "    print(f'最新区块内容:\\n{latest_block}')" >> send_notification.py
           echo "    # 添加统计信息和链接" >> send_notification.py
-          echo "    footer = f'\\n\\n---\\n🚀 [github仓库](https://github.com/zxarj/wxvl)\\n\\n<font size=2>📊 统计信息\\n📝 新增文章数：{len(blocks)}篇\\n⏰ 更新时间：{get_beijing_time().strftime(\"%Y-%m-%d %H:%M\")}</font>'" >> send_notification.py
+          echo "    footer = f'\\n\\n---\\n🚀 [github仓库](https://github.com/zxarj/wxvl)\\n\\n<font size=2>📊 统计信息\\n📝 新增文章数：{len(articles)}篇\\n⏰ 更新时间：{get_beijing_time().strftime(\"%Y-%m-%d %H:%M\")}</font>'" >> send_notification.py
           echo "    # 格式化文章列表" >> send_notification.py
           echo "    articles = []" >> send_notification.py
           echo "    # 只处理最新区块中的文章" >> send_notification.py
