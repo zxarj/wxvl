@@ -246,3 +246,26 @@
 ⏰ 更新时间：2025-05-21 12:26:34<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485405&idx=1&sn=beb431317f63213a3b1ce3caf311a704)
+
+2. 【CVE-2025-40634】缓冲区溢出 EXP 公布 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261150&idx=1&sn=9f9b5e82296ea4a4ccb98a8c4d178877)
+
+3. 漏洞速递 | CVE-2025-0868 RCE漏洞（附EXP） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501350&idx=1&sn=ebf4178a51e69ff7028825f78d0fb3d0)
+
+4. 漏洞预警 | NetMizer日志管理系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=3&sn=e9da86edd858bb077c5e6134e069540a)
+
+5. Hazy Hawk DNS漏洞攻击：知名机构云资源被劫持，网络安全警报高涨 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489290&idx=1&sn=a19bddad3e733eb6b68ee4c010a45571)
+
+6. 信息安全漏洞周报（2025年第20期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463062&idx=2&sn=b4a9cf80bd7a6eebe34ae2ff379c6f1b)
+
+7. 黑客在Pwn2Own利用VMware ESXi和Microsoft SharePoint零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582436&idx=1&sn=12b06818505f402adb0a43d0f8fed169)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-05-21 16:28:56<small>
+
+---
