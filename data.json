@@ -14342,5 +14342,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f": "【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269）",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247492458&idx=2&sn=d9dee6fdd77f7958e4c1c7017d219fcf": "HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247513025&idx=1&sn=8995ce6d3df8a1b9090755df52be6729": "OPC UA协议与漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484547&idx=1&sn=6e16e54e1a96a10f763626e990d0c081": "漏洞挖掘—利用查询功能获取敏感信息（2）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492979&idx=1&sn=9a26d330e98f20f99a943d09bff5dbe7": "黑客在柏林 Pwn2Own 漏洞竞赛中凭借 28 个零日漏洞赢得 1,078,750 美元",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC"
 }

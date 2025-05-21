@@ -337,3 +337,20 @@
 ⏰ 更新时间：2025-05-22 00:28:07<small>
 
 ---
+
+
+## 📢 2025-05-22日新增文章
+
+1. OPC UA协议与漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247513025&idx=1&sn=8995ce6d3df8a1b9090755df52be6729)
+
+2. 漏洞挖掘—利用查询功能获取敏感信息（2） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484547&idx=1&sn=6e16e54e1a96a10f763626e990d0c081)
+
+3. 黑客在柏林 Pwn2Own 漏洞竞赛中凭借 28 个零日漏洞赢得 1,078,750 美元 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492979&idx=1&sn=9a26d330e98f20f99a943d09bff5dbe7)
+
+4. SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-05-22 04:23:29<small>
+
+---
