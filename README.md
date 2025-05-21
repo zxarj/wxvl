@@ -269,3 +269,52 @@
 ⏰ 更新时间：2025-05-21 16:28:56<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. 【渗透实战系列】|54-小程序渗透记录 通过细节挖掘漏洞的艺术 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544884&idx=1&sn=82fe2afa774e253e020af6d28ecf0d9e)
+
+2. VMware 紧急修复多个漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523082&idx=1&sn=1ddbeb4f3e454706eafa9900777eed09)
+
+3. CVE-2025-47916：Metasploit模块开源 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485022&idx=2&sn=90f73f6b0dac3ec07c2eb4bff9c96f3f)
+
+4. 安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第20期，总第38期] 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=1&sn=fbd0408fe1e921d65adf6f736435cfa6)
+
+5. 某礼品卡电子券收卡系统存在前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489775&idx=1&sn=3ed3caadde8d55b8bc21e59f7074c953)
+
+6. 【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-47277） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490397&idx=1&sn=d297b27606dab7d510399b202924f348)
+
+7. NIST、CISA联合提出漏洞利用概率度量标准 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523082&idx=2&sn=4d5a25d58482d98bdb3b13320e03bb92)
+
+8. 车载网络通信“CAN总线”的安全与漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554991&idx=1&sn=349b4d22b12fcd3a515d02f35327005e)
+
+9. 攻防技术观察| 试验性攻击工具利用Windows系统信任机制屏蔽Defender；可精准预测漏洞被实际利用概率的评估指标体系发布 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136952&idx=2&sn=69e69672adb30bdae6830130589359c4)
+
+10. Redis 漏洞分析——lua 脚本篇 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594290&idx=1&sn=8c9c75889765c142a9cadf01dc6feaec)
+
+11. vLLM 曝高危远程代码漏洞，AI 服务器面临攻击风险 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321451&idx=3&sn=821456f16440650fb03a4c3b61a55746)
+
+12. VMware ESXi & vCenter 执行任意命令漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096252&idx=1&sn=2f0f81d26d721040020ceab8d5bdf46e)
+
+13. 火狐修复Pwn2Own大会上利用的2个0day漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523071&idx=1&sn=8d8429be1cebb442aaca091ca13012be)
+
+14. 【漏洞通告】VMware vCenter Server命令执行漏洞 (CVE-2025-41225） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489294&idx=1&sn=f072386155370c5ef7445d8624b8be07)
+
+15. 【漏洞预警】FortiOS TACACS+身份认证绕过漏洞(CVE-2025-22252) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490108&idx=1&sn=437c672c043c061be53714a52ae1cc38)
+
+16. 一个高性能的目录扫描工具，专门检测和验证 Web 中的路径遍历漏洞,通过异步并发扫描和智能 WAF 绕过技术，快速发现漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497345&idx=1&sn=ce91a7ca3849f39847a2580b90e00d1d)
+
+17. 【漏洞预警】全球数万设备受影响！Clash用户小心：暴露Web控制端口=门户大开！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545758&idx=1&sn=bb67c0afeb1a3252328109616e458ff4)
+
+18. 突破限制模式：Visual Studio Code 中的 XSS 到 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529982&idx=2&sn=83dfd9aa76d03b4d22e22c2638cad422)
+
+19. 我的第一个漏洞赏金计划：我如何赚到 1,000 美元 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506411&idx=1&sn=f203edbcf801302cc15cf12841f0ab3b)
+
+20. 2025年十大最佳漏洞管理工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168499&idx=1&sn=4796889b109dc91d051a195eb002e9c4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：20篇
+⏰ 更新时间：2025-05-21 20:44:36<small>
+
+---
