@@ -198,3 +198,34 @@
 ⏰ 更新时间：2025-05-21 04:24:36<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. Nodejs Node.Js 异常处理不当漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692)
+
+2. 30个云安全漏洞的发现与利用技巧，非常有用！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518934&idx=1&sn=597eb63142bac29bc6e2b8799d93c038)
+
+3. 通过细节挖掘漏洞的艺术 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487591&idx=7&sn=f7d37a10fbe119e782c7c4c2abf36665)
+
+4. 漏洞预警 | 力软敏捷开发框架远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=2&sn=5c4ca05702c3759560ca3f920b04e29b)
+
+5. 【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487591&idx=5&sn=e28dd77522b9412f1e50fad4a4c40318)
+
+6. 4G通话（VoLTE）漏洞致仅需拨号即可定位任何O2运营商用户 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493883&idx=1&sn=7dedce75c1a1e0e52ab06db60c0770a7)
+
+7. 2025 HVV必修高危漏洞集合 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655279619&idx=1&sn=c2e1e6d269e4a7a134eaed7013d7c6fd)
+
+8. Fortinet FortiOS 身份验证缺陷漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297)
+
+9. 俄 APT 组织利用0day漏洞和擦除器加强对欧洲的攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795169&idx=1&sn=d29b06d7eb3b372dd4945ba1c3820d05)
+
+10. 【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497487&idx=1&sn=e40cf31a2c927023db8183d1175e2705)
+
+11. Apache IoTDB 需授权 代码注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=3&sn=edae5292526e0e40d7c0ade7557df90e)
+
+#### 📊 统计信息
+<small>📝 新增文章数：11篇
+⏰ 更新时间：2025-05-21 09:46:49<small>
+
+---
