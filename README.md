@@ -318,3 +318,22 @@
 ⏰ 更新时间：2025-05-21 20:44:36<small>
 
 ---
+
+
+## 📢 2025-05-22日新增文章
+
+1. 发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529982&idx=3&sn=cd0ae68d9599ac5c66a1868fa35a2305)
+
+2. 【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f)
+
+3. 【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e)
+
+4. HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247492458&idx=2&sn=d9dee6fdd77f7958e4c1c7017d219fcf)
+
+5. AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-05-22 00:28:07<small>
+
+---

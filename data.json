@@ -14337,5 +14337,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545758&idx=1&sn=bb67c0afeb1a3252328109616e458ff4": "【漏洞预警】全球数万设备受影响！Clash用户小心：暴露Web控制端口=门户大开！",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529982&idx=2&sn=83dfd9aa76d03b4d22e22c2638cad422": "突破限制模式：Visual Studio Code 中的 XSS 到 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506411&idx=1&sn=f203edbcf801302cc15cf12841f0ab3b": "我的第一个漏洞赏金计划：我如何赚到 1,000 美元",
-    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168499&idx=1&sn=4796889b109dc91d051a195eb002e9c4": "2025年十大最佳漏洞管理工具"
+    "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168499&idx=1&sn=4796889b109dc91d051a195eb002e9c4": "2025年十大最佳漏洞管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529982&idx=3&sn=cd0ae68d9599ac5c66a1868fa35a2305": "发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f": "【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247492458&idx=2&sn=d9dee6fdd77f7958e4c1c7017d219fcf": "HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件"
 }

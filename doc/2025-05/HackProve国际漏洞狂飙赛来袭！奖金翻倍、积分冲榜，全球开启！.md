@@ -1,22 +1,19 @@
 #  HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！   
- FreeBuf   2025-05-20 11:48  
+ 赛查查   2025-05-21 11:07  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
 **HACK**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
 **HACK**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
 **HACK**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
   
   
@@ -24,14 +21,14 @@ BATTLE
   
 FOR SECURITY  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxgpTA3jziabJ4evGiaI0AJNU7ApK2mibclvTxyzMURLpiaB7265Bc8eW7o9BJxp1eDPMP/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxgpTA3jziabJ4evGiaI0AJNU7ApK2mibclvTxyzMURLpiaB7265Bc8eW7o9BJxp1eDPMP/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxTCDmNtxOWu52UWM8I7VvAibvqOKAgvoJic8LZK8VroZemlyozerGjvZTkFCNJq1cXz/640?wx_fmt=svg&from=appmsg&wxfrom=13 "")  
   
   
 **漏洞**  
@@ -47,12 +44,12 @@ FOR SECURITY
   
   
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHzRZ5NM1hZoR9zkFw6rOGcM1ADOdSlLbWficdDaWwqq1SVbURrY59fcg/640?wx_fmt=gif&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHzRZ5NM1hZoR9zkFw6rOGcM1ADOdSlLbWficdDaWwqq1SVbURrY59fcg/640?wx_fmt=gif&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxZv6GHibSVfkAXicdJTZ9D0CvydEH7ZWKZudJWbxnBB8SXdVqxhibdzWGzn2XegjlibicE/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxZv6GHibSVfkAXicdJTZ9D0CvydEH7ZWKZudJWbxnBB8SXdVqxhibdzWGzn2XegjlibicE/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxGYrAxMIAfXDRx5bKLxSc4679OhoFvNTLow7rKCF5mJicW6uk8blhLqeGwoYa9BibdL/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxGYrAxMIAfXDRx5bKLxSc4679OhoFvNTLow7rKCF5mJicW6uk8blhLqeGwoYa9BibdL/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 HackProve漏洞狂飙赛来袭！  
   
@@ -71,20 +68,20 @@ OPPO、OnePlus
   
 甚至还可以解锁神秘私密项目！  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxWIjQNTyCLKo7kbnUv1vM7GGCYvVCyibRkvjdkSdN9uU3Z1MGYOnuptmUyVAErd9XA/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxWIjQNTyCLKo7kbnUv1vM7GGCYvVCyibRkvjdkSdN9uU3Z1MGYOnuptmUyVAErd9XA/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox0AaxLUUR9fe6F5HEiacMmPXDbdz7CXN3C2kBVBbvm1fFSia5HeHicZrnoQexpFaJLXX/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHTnrZ5ialdTibp1FH6hkTwicM9ricoatgMb3YfyxnsE0gkposXtvOpX8TTA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHTnrZ5ialdTibp1FH6hkTwicM9ricoatgMb3YfyxnsE0gkposXtvOpX8TTA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
   
 WANFA  
@@ -95,7 +92,7 @@ WANFA
   
 **漏洞CHASE**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
 选择一家，挖就完事了！  
@@ -109,28 +106,28 @@ WANFA
   
 稳稳拿奖励！  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxA403Z81F42KlFBbiaZJiazzfIpE0VbF2OOHDC9BY6ZGkBa31ibYTlYiaaDBKs4LR3em1/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxA403Z81F42KlFBbiaZJiazzfIpE0VbF2OOHDC9BY6ZGkBa31ibYTlYiaaDBKs4LR3em1/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHEH2T3JF49brjXxJr1verUUw14aXNnlqqk21ofCu4IjkjAJlwibEaFicg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHEH2T3JF49brjXxJr1verUUw14aXNnlqqk21ofCu4IjkjAJlwibEaFicg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 OPPO Bug Bounty  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPH9RFLdPHZMBkEnNJic9JWeRNAePAlhticKFAJ5FSZAeuzyHU0Gs09Kudw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPH9RFLdPHZMBkEnNJic9JWeRNAePAlhticKFAJ5FSZAeuzyHU0Gs09Kudw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 One Plus Bug Bounty  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHxsbic1fe2vicDMpMkQZH49wg1oy9F6UPJcovwBJaKIiaa7cCibGQvqTBIA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHxsbic1fe2vicDMpMkQZH49wg1oy9F6UPJcovwBJaKIiaa7cCibGQvqTBIA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 HackProve Bug Bounty  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxrTEzdIbDU5nbjd1EjSmF6iadx7vT5bFP4Vf9J2MCHgghsgbH1ZBtmJGPT7ZiakQ4a5/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxrTEzdIbDU5nbjd1EjSmF6iadx7vT5bFP4Vf9J2MCHgghsgbH1ZBtmJGPT7ZiakQ4a5/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 左右滑动查看更多  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxrTEzdIbDU5nbjd1EjSmF6iadx7vT5bFP4Vf9J2MCHgghsgbH1ZBtmJGPT7ZiakQ4a5/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0OxrTEzdIbDU5nbjd1EjSmF6iadx7vT5bFP4Vf9J2MCHgghsgbH1ZBtmJGPT7ZiakQ4a5/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
   
@@ -143,7 +140,7 @@ HackProve Bug Bounty
   
 **积分冲HP榜**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
 漏洞提得多，积分拿得爽🔥！  
@@ -157,21 +154,21 @@ HackProve Bug Bounty
 冠军🏆好礼等你来赢！  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHSCfKibcGXp4vmH7SwyuwguAsS4zZazLgDu24IZia2QPlozn43Hv4fmVQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHSCfKibcGXp4vmH7SwyuwguAsS4zZazLgDu24IZia2QPlozn43Hv4fmVQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 严重漏洞：3000积分  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHibuMbQCaUco9EnExTgibMM9871UWhEicrHS7ic8eIggSyuekBGdQgtLtOA/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHibuMbQCaUco9EnExTgibMM9871UWhEicrHS7ic8eIggSyuekBGdQgtLtOA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 高危漏洞：2000积分  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHthC66kE0bVGvby6aGZsVF3Y7BHx84icljeGNktIyic4v5MuN0Sswbsiaw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHthC66kE0bVGvby6aGZsVF3Y7BHx84icljeGNktIyic4v5MuN0Sswbsiaw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 中危漏洞：1000积分  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHKHohOoYLr335txwoibv3dbA42OS1wG7upvYpJgLeSxmrbYkF2trhxHw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHKHohOoYLr335txwoibv3dbA42OS1wG7upvYpJgLeSxmrbYkF2trhxHw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 低危漏洞：500积分  
   
@@ -190,19 +187,19 @@ HackProve Bug Bounty
 🌍 登上官方社媒，全球瞩目！  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 冠军专属好礼🏆  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHHYQupVHLZILVLzKeujQV4W22EDhuFDFyyqSSVaTbibkMmGpfvWQPNug/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHHYQupVHLZILVLzKeujQV4W22EDhuFDFyyqSSVaTbibkMmGpfvWQPNug/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 现金好礼等你领  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHTVZric8AkI2GiaE7IYFzdicS0w4EjiaKF1oMl9zkptUTNqLGSfTqeMrnEw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHTVZric8AkI2GiaE7IYFzdicS0w4EjiaKF1oMl9zkptUTNqLGSfTqeMrnEw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 荣誉证书显实力  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHyjc1tqco9D0nu7hym1Wzmjhic8tMYiavuvcBhs3kKDxPwq7fc6AkkjMQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHyjc1tqco9D0nu7hym1Wzmjhic8tMYiavuvcBhs3kKDxPwq7fc6AkkjMQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 HackProve官方媒体排面安排  
   
@@ -214,7 +211,7 @@ HackProve官方媒体排面安排
   
 **HP额外奖励**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxn3giblKH7xvZ3394lhUdlOEnnSF4lCuibsibkwG6qM6BYkxh5YtZY6PQSWjNqnHV5jq/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
 荣耀的号角已经吹响  
@@ -226,7 +223,7 @@ HackProve官方媒体排面安排
 聚光灯下，是谁即将走向世界  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 **新人福利**  
 ：  
@@ -239,20 +236,20 @@ HackProve官方媒体排面安排
   
 UTC0点第一个提交漏洞的  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHRx1a5EQtuJwiae6g3GIricWtXPmdXXK1F6PZzFan6gvxKlklwRjt75gQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHRx1a5EQtuJwiae6g3GIricWtXPmdXXK1F6PZzFan6gvxKlklwRjt75gQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 2  
 00活动积分  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdFgSLwKgLJjticySjMbK6EcQfBPlJribju9jeM8pgHbhztJvmyuz8Q5Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdFgSLwKgLJjticySjMbK6EcQfBPlJribju9jeM8pgHbhztJvmyuz8Q5Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 【Daily Hunter】称号  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 discord尊贵身份组安排  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 官方社媒宣传  
   
@@ -262,41 +259,41 @@ discord尊贵身份组安排
   
 每周提交漏洞最多的，  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHRx1a5EQtuJwiae6g3GIricWtXPmdXXK1F6PZzFan6gvxKlklwRjt75gQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHRx1a5EQtuJwiae6g3GIricWtXPmdXXK1F6PZzFan6gvxKlklwRjt75gQ/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 500活动积分  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdFgSLwKgLJjticySjMbK6EcQfBPlJribju9jeM8pgHbhztJvmyuz8Q5Q/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdFgSLwKgLJjticySjMbK6EcQfBPlJribju9jeM8pgHbhztJvmyuz8Q5Q/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 【Weekly Hunter】称号  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 discord尊贵身份组安排  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 官方社媒宣传  
   
   
- **精英集结**  
+**精英集结**  
 :  
   
 总榜Top10 还能进 HackProve【VulMaster Team】全球精英白帽团队  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHt88kedPLAzSjAUYZvjB35LNq4U12pGoKfrDQw90OKqtcBlzPCIx34A/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 discord尊贵身份组安排  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdDhq8qGy81pWru9kibsf5WqicfXIIrp4DQGZ1Hnrx6OtCF0T78TCgDDw/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHdDhq8qGy81pWru9kibsf5WqicfXIIrp4DQGZ1Hnrx6OtCF0T78TCgDDw/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 尊享徽章和荣登HackProve年度名人堂  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHlY9tdAOVSl89YNxnxQ4TNqZDvqiblv0LUiaFB2rUiaAbc12COkIad3NTg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHlY9tdAOVSl89YNxnxQ4TNqZDvqiblv0LUiaFB2rUiaAbc12COkIad3NTg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 HackProve白帽世界大会2026 VIP门票  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibibIiawN2rxHETiabficydCkPHNBGjdI90a5M0FNl2Zl9WiaxtAO4nTAncYEtATtuzEfQNd9zt3vgoLZg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 更有机会解锁顶级私密项目  
   
@@ -307,19 +304,19 @@ HackProve白帽世界大会2026 VIP门票
 **Speed Chase**  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 HACK  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 **HACK**  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 HACK  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Ox2TRqKpO9BPTagHVRGKl8RoC3LpY7vouI9rkRW3CpQN6zr73NxibCwSXaQILWCbWYO/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
   
   
@@ -327,7 +324,7 @@ HACK
   
 参/与/方/式  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 **⏰活动时间**  
   
@@ -351,7 +348,7 @@ https://discord.com/invite/h6dKuEt6rr
   
 活/动/说/明  
   
-![](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/0pygn8iaZdEcZsJlG7e2pHoNB7Z0Iy0Oxb2mO73qrq0frL3y9AR0nCEEarex8SuiafEmyaTBkicHwbLa7jQiaj0u2olAXre3I5LQ/640?wx_fmt=svg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 1）为防止刷漏洞，漏洞积分发放以审核员审核评估为准  
   
@@ -374,8 +371,28 @@ https://discord.com/invite/h6dKuEt6rr
   
 **HackProve漏洞狂飙赛正式开赛！**  
   
+****  
+****  
+  
+来源：FreeBuf  
+  
+[#往期精选]()  
+#  
+  
+[](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247492313&idx=1&sn=cc49e0e8a9d660a53269be196d706c4c&scene=21#wechat_redirect)  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247486806&idx=1&sn=c850c3ead342e9921504bc50f7aabc61&chksm=c312f1f2f46578e42d4a9a86aa40f38c7b11f1a732c4af2d3a5482bfe315eeb9ea274155cffa&scene=21#wechat_redirect)  
   
   
+[](http://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247485074&idx=1&sn=819506fbd2cf664ee52f4f0e53a82465&chksm=c312fa36f46573203defc401720c1901a02ecb0bb95f1c5ea3d778a32a5d30d537a06d188181&scene=21#wechat_redirect)  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif "")  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247486385&idx=1&sn=e84bf95c8b2e74f3fbdc4d0f19af1cf3&chksm=ce99c1aff9ee48b90e60e8f6a40862f34120d0af89b54e6a204d31f4ab0a0304884718c84c2e&scene=21#wechat_redirect)  
+  
+  
+[](http://mp.weixin.qq.com/s?__biz=Mzg2OTczNjMwNQ==&mid=2247485783&idx=2&sn=080d3af6483c725695bc29c0149e850b&chksm=ce99c349f9ee4a5f8ca9edec8b0e912b0332f421f4dac6e12c270235d64c7328db61c6444a03&scene=21#wechat_redirect)  
+  
+  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/nqJ4iacobEo6B7IxFqpp7iaaRL6E9ib4aQOcyHuK40LdT8Kb9u6NNgEv7ibXugP1ZDyAyyqIO7bFibjn6n4RIvgn2Jg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
   
