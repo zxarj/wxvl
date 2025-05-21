@@ -229,3 +229,20 @@
 ⏰ 更新时间：2025-05-21 09:46:49<small>
 
 ---
+
+
+## 📢 2025-05-21日新增文章
+
+1. 美特CRM upload3.jsp 任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491536&idx=1&sn=e08651804979dee3ed4ad293816140a0)
+
+2. 漏洞预警 美特CRM mcc_login.jsp SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492295&idx=1&sn=f6fe03aa31417ece81388366d75a5ef2)
+
+3. 漏洞预警 | Optilink管理系统注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=1&sn=0d4028eaae2e2be533e9e2773f0d5df7)
+
+4. 基于路由转发导致的权限认证绕过漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487296&idx=1&sn=4a1242ec620fb15daa80efad6cf99ae6)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-05-21 12:26:34<small>
+
+---
