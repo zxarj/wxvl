@@ -1,5 +1,5 @@
 #  PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南   
-原创 红云谈安全  红云谈安全   2025-05-20 00:47  
+ Z2O安全攻防   2025-05-22 16:01  
   
 PDF 生成器在应用程序中很常见。开发人员倾向于使用这些组件来根据数据库提供的动态数据生成文档。然而，并非所有开发人员都意识到集成此功能可能带来的潜在风险。  
   
@@ -45,8 +45,7 @@ PDF 生成器通常用于 Web 应用程序中生成动态文档，例如：
   
 - 证书（在教育培训平台更为普遍）  
   
-![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTA0IiBoZWlnaHQ9IjgzMyI+PC9zdmc+)![Example of PDF generation feature](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tvVtWSjvp1xtnTfesfProCZ98JDmMyH2ySaOJnJTO4xicI7lSSkJYSzg/640?wx_fmt=png&from=appmsg "")  
-  
+![Example of PDF generation feature](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tvVtWSjvp1xtnTfesfProCZ98JDmMyH2ySaOJnJTO4xicI7lSSkJYSzg/640?wx_fmt=png&from=appmsg "")  
   
 PDF 生成功能示例  
   
@@ -60,8 +59,7 @@ PDF 生成可能需要一些时间，因此通常以异步方式（稍后会详�
   
 看一下下面的代码片段：  
   
-![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzYzIiBoZWlnaHQ9IjMwODQiPjwvc3ZnPg==)![Vulnerable code snippet](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tic5mXshQy0PgRhD3BrjhqUfKWWoeh5JPFHw5121qfiaKppM3sgrW7icHg/640?wx_fmt=png&from=appmsg "")  
-  
+![Vulnerable code snippet](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tic5mXshQy0PgRhD3BrjhqUfKWWoeh5JPFHw5121qfiaKppM3sgrW7icHg/640?wx_fmt=png&from=appmsg "")  
   
 易受攻击的代码片段  
   
@@ -73,8 +71,7 @@ API 端点接收**invoiceData**
 POST /api/invoice/export HTTP/2Host: app.example.comContent-Type: application/jsonContent-Length: 106{    "invoiceData": "<iframe src=\"https://example.com/\"></iframe>"}
 ```  
   
-![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzEyIiBoZWlnaHQ9Ijc3MCI+PC9zdmc+)![Example of a rendered PDF file](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tz425dJkTh78Dicplez6Dr1YPGAZdrFxD4u0xLq3fo5MnRbWywC9ibjcQ/640?wx_fmt=png&from=appmsg "")  
-  
+![Example of a rendered PDF file](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2tz425dJkTh78Dicplez6Dr1YPGAZdrFxD4u0xLq3fo5MnRbWywC9ibjcQ/640?wx_fmt=png&from=appmsg "")  
   
 渲染的 PDF 文件示例  
   
@@ -112,8 +109,7 @@ PDF 生成需要时间，因此大多数开发人员都在寻求异步解决方�
   
 我们可以升级我们的初步发现，从元数据端点获取凭据，并进一步扩展我们在目标内的访问权限。  
   
-![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjcwIiBoZWlnaHQ9IjYwMSI+PC9zdmc+)![Example of a leaked AWS Metadata Endpoint](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2t9zoy7R5nsWRREnTVozictbmnmtEs3rfq91rmPXDCbQ0gicg1U2BRkUxg/640?wx_fmt=png&from=appmsg "")  
-  
+![Example of a leaked AWS Metadata Endpoint](https://mmbiz.qpic.cn/sz_mmbiz_png/HsnvOqazeMFRFPRJX98ia00XWgcpicuk2t9zoy7R5nsWRREnTVozictbmnmtEs3rfq91rmPXDCbQ0gicg1U2BRkUxg/640?wx_fmt=png&from=appmsg "")  
   
 泄露的 AWS 元数据端点示例  
 ### PDF 生成器中的盲 SSRF  
@@ -128,5 +124,61 @@ PDF 生成需要时间，因此大多数开发人员都在寻求异步解决方�
 ## 结论  
   
 PDF 生成器通常在 Web 应用程序中实现。然而，缺少验证以及使用配置错误的包或库所带来的安全隐患，往往会引发高危漏洞。在本文中，我们介绍了几种利用 PDF 生成器漏洞的方法。  
+  
+建立了一个  
+src专项圈子  
+，内容包含**src漏洞知识库**  
+、**src挖掘技巧**  
+、**src视频教程**  
+等，一起学习赚赏金技巧，以及专属微信群一起挖洞  
+  
+圈子专注于更新src相关：  
+  
+```
+1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
+2、分享src优质视频课程
+3、分享src挖掘技巧tips
+4、小群一起挖洞
+```  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg41LkR0ezBlmjJY4Lwgg8mr1A5efwqe0yGE9KTQwLPJTe9zyv3wgYnhA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOXg868PqXyjsACp9LhuEeyfB2kTZVOt5Pz48txg7ueRUvDdeefTNKdg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKuZDDDv3NsbJDuSicLzBbwVDCPFgbmiaJ4ibf4LRgafQDdYodOgakdpbU1H6XfFQCL81VTudGBv2WniaDA/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "null")  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/h8P1KUHOKubbDrNbLxaMgsxYrLRrtIiaN4CdiaaENAnUTYUgSyBGenrOOwa7Jcc0k6OvXmcriaw6bvL7n6nOkMmlA/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp "")  
+  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4Bd1oBmTkA5xlNwZM5fLghYeibMBttWrf57h8sU7xDyTe5udCNicuHo8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuYrUoo5XZpxN9Inq87ic71D6aUeMdaWrKXgYYia2On8nMA7bqWDySa8odAq1a0kkp3WFgf0Zp0Eut0A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4KKlic4yiafWTpLdejicQe3MllEQc24ypeI3anaK7IjJDVyq1WVQN2yKBA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOHgjJxnq1ibibJgVUx3LwCjZj62vygx8w6rxia1icmIWiax2YlP6S6LmlmlQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOApVm8H605qOibxia5DqPHfbWD6lmcweDjGv4DLl45waD068ugw2Iv2vg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuY813zmiaXibeTuHFXd8WtJAOwldaSATYOh1WQpk1qz15rLxehOAn4aK7tdbSyNEuHDZpIISCtl6Q8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4jFsKRMMNDKbsAZhscCiagnyJScMVmFUqMtae5omlLRdu095mywWszjQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+图片  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/h8P1KUHOKuaRqDOYRFjU73rIsVy2ISg4uGJ2SA5BhZ3UyibZvVmcP3sozQEOfVr0jftWpC3YkpDiaAicS1ib3EgXHA/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
   
   

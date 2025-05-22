@@ -365,3 +365,52 @@
 ⏰ 更新时间：2025-05-22 09:45:46<small>
 
 ---
+
+
+## 📢 2025-05-23日新增文章
+
+1. Setuptools 漏洞导致数百万 Python 用户易受RCE攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=1&sn=53658193138b944b76bad2de5c9801f5)
+
+2. 代理工具 Clash Verge 客户端出现新的 1-Click 远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483853&idx=1&sn=e0efcfaf5be3978ccf6ebc28bde77a73)
+
+3. 多个 GitLab 漏洞使攻击者能够发起 DoS 攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096259&idx=2&sn=d8d2730e6657e88318f2e82adfe92123)
+
+4. ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496599&idx=1&sn=9cdd2833b203dbc756228948f6be0fad)
+
+5. 域0day容易利用吗 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554886&idx=1&sn=b92b2a11c128532122d5ca74de178e49)
+
+6. 【高危漏洞预警】VMware VCenter Server 命令注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490120&idx=1&sn=ad898403409d5bc4b04695a8210c42a3)
+
+7. 【漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484085&idx=1&sn=e447afc95940697dfe60767d5170f6ad)
+
+8. 【严重AI漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490120&idx=2&sn=d9f4eab74bad4582854138a17f05b0a9)
+
+9. 满分严重漏洞导致 MB-Gateway 设备易受远程攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=2&sn=a5febb5cf97d5b007d31e1d71c58244a)
+
+10. Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d)
+
+11. 漏洞复现|无垠智能模糊测试系统实战复现OpenSSL高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3Mjg4NTcyNg==&mid=2247490453&idx=1&sn=a2248851ef6d20228658802b570c5d56)
+
+12. 【风险通告】VMware vCenter存在命令执行漏洞（CVE-2025-41225） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490402&idx=1&sn=0be91c0559fd74fdaa7e1d690ce0605d)
+
+13. 2025攻防演练必修高危漏洞集合（1.0版） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=2&sn=44ccb79264efbbd0254cff57b4c4a08a)
+
+14. 漏洞赏金工具 -- BBtool（5月21日更新） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516677&idx=1&sn=8bd54d9cb3ad82b65bcf77877a9bf7f4)
+
+15. 一款专为安全研究人员和白帽子设计的漏洞赏金工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497351&idx=1&sn=dbd0b485f6a94cd50d1e7225916730ce)
+
+16. Microsoft Telnet 客户端 MS-TNAP 服务器端身份验证令牌漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499166&idx=1&sn=b24591342347f5a63206029ea9b03872)
+
+17. 漏洞安全亦是国家安全|斗象晋级CNNVD国家漏洞库首批“核心技术支撑单位” 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=1&sn=9cc7fec6b77c1987729a9c01de53e3dc)
+
+18. 工具推荐 | RCE命令无回显利用工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494686&idx=1&sn=1e20b9324dc3599560e8064fd4f47aa5)
+
+19. Samlify SSO 签名绕过 (CVE-2025-47949)：从XML签名本质到纵深防御 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900577&idx=1&sn=c7f08fd41d1333cccb324baacf6a8b5d)
+
+20. PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310)
+
+#### 📊 统计信息
+<small>📝 新增文章数：20篇
+⏰ 更新时间：2025-05-23 00:28:09<small>
+
+---
