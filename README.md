@@ -414,3 +414,20 @@
 ⏰ 更新时间：2025-05-23 00:28:09<small>
 
 ---
+
+
+## 📢 2025-05-23日新增文章
+
+1. CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59)
+
+2. 渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da)
+
+3. KEDACOM phoenix监控平台upload_fcgi任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484099&idx=1&sn=658a1b6d2a58a76b2c10a229e1596104)
+
+4. JWT原理及常见漏洞详解 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-05-23 04:23:48<small>
+
+---

@@ -14367,5 +14367,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=1&sn=9cc7fec6b77c1987729a9c01de53e3dc": "漏洞安全亦是国家安全|斗象晋级CNNVD国家漏洞库首批“核心技术支撑单位”",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494686&idx=1&sn=1e20b9324dc3599560e8064fd4f47aa5": "工具推荐 | RCE命令无回显利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900577&idx=1&sn=c7f08fd41d1333cccb324baacf6a8b5d": "Samlify SSO 签名绕过 (CVE-2025-47949)：从XML签名本质到纵深防御",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59": "CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484099&idx=1&sn=658a1b6d2a58a76b2c10a229e1596104": "KEDACOM phoenix监控平台upload_fcgi任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解"
 }
