@@ -14346,5 +14346,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247513025&idx=1&sn=8995ce6d3df8a1b9090755df52be6729": "OPC UA协议与漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484547&idx=1&sn=6e16e54e1a96a10f763626e990d0c081": "漏洞挖掘—利用查询功能获取敏感信息（2）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492979&idx=1&sn=9a26d330e98f20f99a943d09bff5dbe7": "黑客在柏林 Pwn2Own 漏洞竞赛中凭借 28 个零日漏洞赢得 1,078,750 美元",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524452&idx=1&sn=51c19d60867376f7f41d34025b31b63a": "【漏洞通告】VMware vCenter 认证后命令执行漏洞(CVE-2025-41225)"
 }
