@@ -14374,5 +14374,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491702&idx=1&sn=cc0ac523b86b876c52a60d18ec785bc4": "某礼品卡电子券收卡系统存在前台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d": "【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d": "【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497634&idx=1&sn=0365b5a0a464632f064e7d4224b145b7": "src漏洞挖掘必备利器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207157&idx=1&sn=7756328ed7d6b73c0e9d042ccf620f64": "朱雀实验室协助vLLM修复CVSS 9.8分严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247488640&idx=1&sn=41e022b30064dc14da381bd803fe3c13": "前瞻对抗｜这大概是首次，AI挖出了Linux内核可利用0day"
 }
