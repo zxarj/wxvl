@@ -492,3 +492,16 @@
 ⏰ 更新时间：2025-05-24 00:26:46<small>
 
 ---
+
+
+## 📢 2025-05-24日新增文章
+
+1. Deep Recon 发现未经身份验证的上传和 IDOR 漏洞 — 获得赏金 $$$ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506453&idx=1&sn=1ba9bb6c10d82cb7347e6c5d5f3c4411)
+
+2. BadSuccessor 漏洞究竟有多严重？Akamai 和微软意见不一 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=1&sn=13f091a5db5a8f5cb5088945cf935fee)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-05-24 04:23:12<small>
+
+---
