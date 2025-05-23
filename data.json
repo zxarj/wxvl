@@ -14371,5 +14371,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59": "CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484099&idx=1&sn=658a1b6d2a58a76b2c10a229e1596104": "KEDACOM phoenix监控平台upload_fcgi任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491702&idx=1&sn=cc0ac523b86b876c52a60d18ec785bc4": "某礼品卡电子券收卡系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d": "【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406)"
 }

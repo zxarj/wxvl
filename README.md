@@ -431,3 +431,18 @@
 ⏰ 更新时间：2025-05-23 04:23:48<small>
 
 ---
+
+
+## 📢 2025-05-23日新增文章
+
+1. 【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb)
+
+2. 某礼品卡电子券收卡系统存在前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491702&idx=1&sn=cc0ac523b86b876c52a60d18ec785bc4)
+
+3. 【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-05-23 09:45:37<small>
+
+---

