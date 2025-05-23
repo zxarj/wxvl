@@ -461,3 +461,34 @@
 ⏰ 更新时间：2025-05-23 12:25:33<small>
 
 ---
+
+
+## 📢 2025-05-24日新增文章
+
+1. 能信安：漏洞通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491112&idx=1&sn=af7acbe749b1944b9066bcfac6a77e06)
+
+2. 信息安全漏洞周报【第023期】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064169&idx=1&sn=803b3b6b86b1bf480ceaca8bb9dabf2f)
+
+3. 【漏洞复现】Grafana XSS &SSRF & 账户接管（CVE-2025–4123） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484091&idx=1&sn=3e944b94f1673ef22c24744564aa4aa6)
+
+4. Clash Verge 客户端 1-Click RCE 漏洞与蜜罐利用分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484786&idx=1&sn=4e9778c996104c01de488b160caa5358)
+
+5. 浅谈src挖掘中——文件上传和XSS漏洞的组合拳 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500026&idx=1&sn=992c5ad912c8e9fa7a9ddbf86876feeb)
+
+6. 某若Y Vue漏洞检测工具（5月16日更新） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516684&idx=1&sn=ad218936b1c1986fd8805f5cd5d7c9c6)
+
+7. Grafana 紧急提前修复已被公开的XSS 0day漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3)
+
+8. 美国NIST、CISA联合提出漏洞利用概率度量标准 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe)
+
+9. 【CVE-2025–4123】：Grafana SSRF 及帐户接管利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261177&idx=1&sn=73668e9ea66320d7b0d76167ac1dfd2c)
+
+10. 【国际视野】美国国家标准与技术研究院推出识别IT漏洞利用的公式 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491417&idx=1&sn=91d65e10514e6fcaf5d6ac79e6a89331)
+
+11. 企业内部安全漏洞修复流程的建立与思考 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485927&idx=1&sn=9db456328bbea7bde15e5f127405dc36)
+
+#### 📊 统计信息
+<small>📝 新增文章数：11篇
+⏰ 更新时间：2025-05-24 00:26:46<small>
+
+---
