@@ -529,3 +529,44 @@
 ⏰ 更新时间：2025-05-24 12:24:11<small>
 
 ---
+
+
+## 📢 2025-05-24日新增文章
+
+1. 翻倍回归，实物好礼。端午挖洞，漏洞必“粽”！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522496&idx=1&sn=03908f5716152bca098c167b96452dd1)
+
+2. XunFeng【适用于企业内网的漏洞快速应急，巡航扫描系统】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490390&idx=1&sn=051b605eb42fcf605c275e5dba3a8d73)
+
+3. ViciousTrap 威胁组织利用思科漏洞用 5,300 台受感染设备构建全球蜜罐 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795216&idx=1&sn=1d1b623d8520b78ff09b21f3fad1d925)
+
+4. Grafana CVE-2025-4123：SSRF 和账户接管漏洞完整解读 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506454&idx=1&sn=b4531761caf101bef0abf29b9897baca)
+
+5. 全网首发！CVE-2025-24813 Tomcat 最新 RCE 分析复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=1&sn=c8f2fc003c6b314c308c9b2c966f62db)
+
+6. 通过细节挖掘漏洞的艺术 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=8&sn=305b1ec9ee245a70aee3824b0c92a73c)
+
+7. 漏洞还是功能：MCP安全与逆向工程实践的权衡 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488245&idx=1&sn=04eeae4a62701ab731c6f9e5bc6df6c7)
+
+8. 因不满漏洞分级，发现者公布WinServer2025 0day细节 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795216&idx=2&sn=d7cde799c6ed900c2698161c0c56e9e6)
+
+9. Apache Httpd 常见漏洞解析（全） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520685&idx=1&sn=2148af7e1e40d55f1ed68fc0748a6e17)
+
+10. ViciousTrap利用思科漏洞构建全球蜜罐网络：5300余台设备沦为监控工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487971&idx=1&sn=e1c2e9da1dc3b83253e0ac336a42060c)
+
+11. 【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8)
+
+12. 代码审计| U8 FileManageServlet 文件读取漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485423&idx=1&sn=d9bde7cd03a3dc78b49d5fea5db6ef8f)
+
+13. 【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=6&sn=82b64fad1360284dfe652b3f1df2aea8)
+
+14. 漏洞预警｜Clash Verge 远程命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517193&idx=1&sn=94bdf0006218aee0a2723c1c48d159ff)
+
+15. .NET WebShell 绕过 EDR 监控，不调用 cmd.exe 也能实现命令执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499721&idx=1&sn=05d535e772a6012e657bcb94e57321dd)
+
+16. 【一周安全资讯0524】《2025年深入推进IPv6规模部署和应用工作要点》印发；英特尔CPU曝重大安全漏洞，可导致内存泄露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507223&idx=1&sn=b55962eb35d5b103d92307f7e2f0b138)
+
+#### 📊 统计信息
+<small>📝 新增文章数：16篇
+⏰ 更新时间：2025-05-24 16:24:50<small>
+
+---

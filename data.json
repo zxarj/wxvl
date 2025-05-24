@@ -14393,5 +14393,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=1&sn=13f091a5db5a8f5cb5088945cf935fee": "BadSuccessor 漏洞究竟有多严重？Akamai 和微软意见不一",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTU1MTIzMQ==&mid=2247497184&idx=2&sn=bf66200c70e5ee156d8588806cf02fc6": "等保测评中漏洞扫描：筑牢网络安全防线的关键利器",
     "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796499&idx=1&sn=b7283c7a51235fe2e3c43d4fe4f742e2": "SAST国标分析︱灵脉AI深度兼容GB∕T 34943∕34944-2017源代码漏洞测试规范",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492644&idx=1&sn=e8e146f8565e64702729b69dad2a78f4": "疑似俄罗斯APT28组织在全球攻击活动中利用0Day漏洞——每周威胁情报动态第223期 （05.16-05.22）"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492644&idx=1&sn=e8e146f8565e64702729b69dad2a78f4": "疑似俄罗斯APT28组织在全球攻击活动中利用0Day漏洞——每周威胁情报动态第223期 （05.16-05.22）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522496&idx=1&sn=03908f5716152bca098c167b96452dd1": "翻倍回归，实物好礼。端午挖洞，漏洞必“粽”！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490390&idx=1&sn=051b605eb42fcf605c275e5dba3a8d73": "XunFeng【适用于企业内网的漏洞快速应急，巡航扫描系统】",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795216&idx=1&sn=1d1b623d8520b78ff09b21f3fad1d925": "ViciousTrap 威胁组织利用思科漏洞用 5,300 台受感染设备构建全球蜜罐",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506454&idx=1&sn=b4531761caf101bef0abf29b9897baca": "Grafana CVE-2025-4123：SSRF 和账户接管漏洞完整解读",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=1&sn=c8f2fc003c6b314c308c9b2c966f62db": "全网首发！CVE-2025-24813 Tomcat 最新 RCE 分析复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=8&sn=305b1ec9ee245a70aee3824b0c92a73c": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488245&idx=1&sn=04eeae4a62701ab731c6f9e5bc6df6c7": "漏洞还是功能：MCP安全与逆向工程实践的权衡",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795216&idx=2&sn=d7cde799c6ed900c2698161c0c56e9e6": "因不满漏洞分级，发现者公布WinServer2025 0day细节",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520685&idx=1&sn=2148af7e1e40d55f1ed68fc0748a6e17": "Apache Httpd 常见漏洞解析（全）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487971&idx=1&sn=e1c2e9da1dc3b83253e0ac336a42060c": "ViciousTrap利用思科漏洞构建全球蜜罐网络：5300余台设备沦为监控工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8": "【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485423&idx=1&sn=d9bde7cd03a3dc78b49d5fea5db6ef8f": "代码审计| U8 FileManageServlet 文件读取漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=6&sn=82b64fad1360284dfe652b3f1df2aea8": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517193&idx=1&sn=94bdf0006218aee0a2723c1c48d159ff": "漏洞预警｜Clash Verge 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499721&idx=1&sn=05d535e772a6012e657bcb94e57321dd": ".NET WebShell 绕过 EDR 监控，不调用 cmd.exe 也能实现命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507223&idx=1&sn=b55962eb35d5b103d92307f7e2f0b138": "【一周安全资讯0524】《2025年深入推进IPv6规模部署和应用工作要点》印发；英特尔CPU曝重大安全漏洞，可导致内存泄露"
 }
