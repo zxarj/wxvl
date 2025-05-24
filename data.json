@@ -14409,5 +14409,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487813&idx=6&sn=82b64fad1360284dfe652b3f1df2aea8": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517193&idx=1&sn=94bdf0006218aee0a2723c1c48d159ff": "漏洞预警｜Clash Verge 远程命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499721&idx=1&sn=05d535e772a6012e657bcb94e57321dd": ".NET WebShell 绕过 EDR 监控，不调用 cmd.exe 也能实现命令执行",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507223&idx=1&sn=b55962eb35d5b103d92307f7e2f0b138": "【一周安全资讯0524】《2025年深入推进IPv6规模部署和应用工作要点》印发；英特尔CPU曝重大安全漏洞，可导致内存泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507223&idx=1&sn=b55962eb35d5b103d92307f7e2f0b138": "【一周安全资讯0524】《2025年深入推进IPv6规模部署和应用工作要点》印发；英特尔CPU曝重大安全漏洞，可导致内存泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489320&idx=1&sn=f7ef174c29d419e8e8eb311fe56b09b3": "黑客利用Cisco路由器漏洞建立大规模Honeypot网络，全球感染5300多台设备",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491565&idx=1&sn=b56914958f73bce32eb0443897986322": "杭州九麒科技 BigAnt-Admin uploadMultipleFile.html 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491626&idx=1&sn=f55c457d659713b518df8651942f1537": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530109&idx=1&sn=75ff148b005e2bce0789e1879e64c919": "Linux内核漏洞利用CVE-2025-21756：Vsock 攻击"
 }
