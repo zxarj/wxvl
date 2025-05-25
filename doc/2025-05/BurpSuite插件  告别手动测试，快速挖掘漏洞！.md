@@ -1,5 +1,5 @@
 #  BurpSuite插件 | 告别手动测试，快速挖掘漏洞！   
-Chave0v0  HACK之道   2025-05-03 01:28  
+Chave0v0  乌雲安全   2025-05-25 04:20  
   
 工具介绍  
   
@@ -29,5 +29,6 @@ AutoFuzz是一款针对BurpSuite的安全测试辅助插件，旨在提高测试
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/GzdTGmQpRic0XjQK8ibPxdDI1pyrrXxJaw55XuyBVLwGr5yoeicqia6I5CE2iaub56Pdg7M3qIw2Zhe9U9WSnI4Hclg/640?wx_fmt=png&from=appmsg "")  
 #### 项目地址  
 #### https://github.com/Chave0v0/AutoFuzz  
+####   
   
   
