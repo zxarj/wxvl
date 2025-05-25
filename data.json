@@ -14419,5 +14419,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485719&idx=1&sn=80c65694743eb5e5397583d0620d9b99": "通过隐藏接口发现ruoyi和druid漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487871&idx=1&sn=931747ed01161c8355ec47b3b1450df2": "经典华为路由器漏洞复现详细分析(包括整个漏洞链)",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526395&idx=1&sn=279a519e4641fc56d846eada10848a35": "BurpSuite插件 | 告别手动测试，快速挖掘漏洞！",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530175&idx=3&sn=ed3f3dfe8ff9ec12404b9144c9d870e5": "Windows Server 2025 漏洞（BadSuccessor）暴露 Active Directory 帐户"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530175&idx=3&sn=ed3f3dfe8ff9ec12404b9144c9d870e5": "Windows Server 2025 漏洞（BadSuccessor）暴露 Active Directory 帐户",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488480&idx=1&sn=8afdd1d2cfe9f2e9f4658c8ea95d2469": "XXE：高级 XXE 漏洞利用完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321719&idx=3&sn=26247fefa30803d1ea9eb6b0bf5265bf": "GitLab Duo AI编程助手漏洞可让攻击者通过隐藏提示劫持AI响应",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491575&idx=1&sn=0be139de91d844441cd7997712973fd0": "万户 ezOFFICE govdocumentmanager_judge_receivenum.jsp SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497458&idx=2&sn=83b3d6b176b026d4e3dd7f6ad53ca91f": "文件包含漏洞：一场网络安全的“谍影重重”？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487407&idx=1&sn=b0189ed709faf9ebae19ae93fbff7191": "Java代码审计 | Alibaba Sentinel SSRF漏洞代码审计"
 }
