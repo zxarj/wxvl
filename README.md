@@ -18,6 +18,19 @@
 
 ## 📢 2025-05-26日新增文章
 
+1. 英国电信服务提供商 O2 UK 修复了通呼叫定位用户位置的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492983&idx=1&sn=3e2ccbfad6e42c1a2476834c0dce0e29)
+
+2. 漏洞挖掘 | 简单的弱口令到垂直越权思路分享 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486722&idx=1&sn=2836d5e911cdf2aa4fc1475c3d04ebeb)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-05-26 04:21:20<small>
+
+---
+
+
+## 📢 2025-05-26日新增文章
+
 1. Canon 打印机存在获取管理员权限漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096267&idx=2&sn=8244bc202073633729ee396fd62547de)
 
 2. 汉堡王备份系统RCE漏洞被4000美元售卖 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115887&idx=1&sn=b4d3b673f74438831977b77e70d5fcf1)
