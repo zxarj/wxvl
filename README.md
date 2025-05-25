@@ -16,6 +16,35 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-26日新增文章
+
+1. Canon 打印机存在获取管理员权限漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096267&idx=2&sn=8244bc202073633729ee396fd62547de)
+
+2. 汉堡王备份系统RCE漏洞被4000美元售卖 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115887&idx=1&sn=b4d3b673f74438831977b77e70d5fcf1)
+
+3. 工具推荐 | Swagger API漏洞自动化填充参数利用工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494692&idx=1&sn=684617c4357b88abab49bc9ffcaf9a76)
+
+4. 宏景eHR searchCreatPlanList.do SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491585&idx=1&sn=52371eb8c1d25ba8b609667758a65c0c)
+
+5. 某医院小程序系统存在水平越权漏洞被约谈 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115889&idx=2&sn=db33013e07459b07eef08fde86cce8db)
+
+6. 记一次拿下全校信息的漏洞+垂直越权 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487021&idx=1&sn=5a6ba91dcddd6ea6ee05af338654b86b)
+
+7. 一款功能强大的通用漏洞扫描器-Sirius！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497368&idx=1&sn=3601f98d7f63a8be5b429802b5b2d26d)
+
+8. PHP漏洞在白盒审计中的技巧（1）——PHP弱类型特性 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520697&idx=1&sn=51ca3d136ea125c1f8234233268645d9)
+
+9. Ai + burpsuite@漏洞自动化检测搭建 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485572&idx=1&sn=f138b97c3132aa5a0806897a72b12cd2)
+
+10. Apple XNU 内核提权漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096267&idx=1&sn=d22225f6ef431db6c818763e332e5630)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-05-26 00:24:47<small>
+
+---
+
+
 ## 📢 2025-05-25日新增文章
 
 1. XXE：高级 XXE 漏洞利用完整指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488480&idx=1&sn=8afdd1d2cfe9f2e9f4658c8ea95d2469)
