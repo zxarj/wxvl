@@ -16,6 +16,31 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-27日新增文章
+
+1. 618 领券 | 稍后读软件 Pocket 即将关闭，这个更强的工具能担起重任！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492400&idx=1&sn=b6a3819edf4e9dfeb14515aab465825a)
+
+2. 首次利用OpenAI o3模型发现Linux内核零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514421&idx=2&sn=cce953e1f93937d286c85ab93f963865)
+
+3. 【漏洞预警】新华三Gr-5400ax缓冲区溢出漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490133&idx=1&sn=ddd170b9cadad60d41c6581c82f3c8ac)
+
+4. 地盘战打响，DragonForce争夺勒索软件市场主导权；AI助手DIANNA首次成功识别大语言模型生成的恶意软件 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136993&idx=2&sn=24ab2dba798f4bcf2ce2dab974ee8d55)
+
+5. 黑客组织ViciousTrap利用思科漏洞入侵84个国家，构建全球蜜罐网络 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321761&idx=4&sn=8aa3eb79d0743637147049e31344da8e)
+
+6. 每周网安资讯 （5.20-5.26）| Poedit 安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506384&idx=1&sn=d41497eacbe57bb1d5fa6beafb7f122a)
+
+7. 白盒Sign加密到前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486487&idx=1&sn=3889ebfbd2f4edc0c3901392d6ce9585)
+
+8. 全新下一代目录爆破扫描工具，一个全方位的目录爆破的解决方案|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491671&idx=1&sn=c5f692e69aee368494586d30ac95d47b)
+
+#### 📊 统计信息
+<small>📝 新增文章数：8篇
+⏰ 更新时间：2025-05-27 00:26:02<small>
+
+---
+
+
 ## 📢 2025-05-26日新增文章
 
 1. 【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad)
