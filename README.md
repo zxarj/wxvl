@@ -18,6 +18,33 @@
 
 ## 📢 2025-05-26日新增文章
 
+1. AI 赋能漏洞变种分析：从已知到未知，Hacktron 发现 Ivanti EPMM 新攻击向量的启示 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483863&idx=1&sn=0be008eb5656674456686070d3870748)
+
+2. 一款专为安全研究人员和白帽子设计的漏洞赏金工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610861&idx=4&sn=8d58deaa3f6602b6e48d52bda5f9d2cb)
+
+3. “国补”政策下的黑色产业链分析报告：黑灰产如何利用漏洞套取补贴？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247509221&idx=1&sn=df31efc1e77b29b75c391c34dc67cb05)
+
+4. 美国NIST、CISA联合提出漏洞利用概率度量标准 | 河南某公司办公系统遭篡改挂恶意标语被罚3万元 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248016&idx=1&sn=06735a421a9c8937f036e7b4ca1fcd9c)
+
+5. 【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488187&idx=1&sn=e139a99381ec99c5c0ea6edbe1d75512)
+
+6. PHP中的session漏洞利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520709&idx=1&sn=676ba7b4e5166fdb4039f80f1288888c)
+
+7. 任用账号密码重置漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485756&idx=1&sn=d9a887e689e231310571669ec835b2ff)
+
+8. 车联网安全 | 通过API漏洞控制全球日产LEAF车辆功能 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616220&idx=1&sn=14b4b56499ecfeff07458310d197960e)
+
+9. 黑客宣称利用 ​​API 接口漏洞窃取 12 亿 Facebook 用户记录 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NjczNjA0Nw==&mid=2247486797&idx=1&sn=c1695cf1b623edc05105419e667d2205)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-05-26 12:27:48<small>
+
+---
+
+
+## 📢 2025-05-26日新增文章
+
 1. 漏洞预警 | 上讯信息运维管理审计系统注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493213&idx=2&sn=b03ad893449bbbdba54c70468c32496e)
 
 2. 漏洞预警 | 妖气山视频管理系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493213&idx=3&sn=0e5148e388ecd76a2f82a33b155dc8bf)
