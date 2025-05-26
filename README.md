@@ -18,6 +18,35 @@
 
 ## 📢 2025-05-26日新增文章
 
+1. 漏洞预警 | 上讯信息运维管理审计系统注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493213&idx=2&sn=b03ad893449bbbdba54c70468c32496e)
+
+2. 漏洞预警 | 妖气山视频管理系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493213&idx=3&sn=0e5148e388ecd76a2f82a33b155dc8bf)
+
+3. APT组织利用 Ivanti 漏洞攻击关键部门 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795228&idx=1&sn=6e01605f34eba5d585ca6b69e0b73160)
+
+4. APT利用SaaS零日漏洞(CVE-2025-3928)攻陷Azure云！Commvault事件剖析M365数据安全与防御体系 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900583&idx=1&sn=8ebdfbb9576a61b04f7c64facaa10bcb)
+
+5. 从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491658&idx=1&sn=76946720de56c1de24e078e3b915fce0)
+
+6. Web3 漏洞眼: Cetus AMM 2 亿美元被黑事件 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507055&idx=1&sn=f87c3e85fc53e0b53da2054598728cda)
+
+7. 漏洞预警 | VMware vCenter Server认证命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493213&idx=1&sn=fbb80feb41193cbffbc16c9aeef6ad20)
+
+8. crAPI - 存在漏洞的API项目 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247484887&idx=1&sn=85b0924c6702a9cdaedf8f3b651a8771)
+
+9. 一款开源免费的漏洞扫描工具-Sirius 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247512147&idx=1&sn=9471a118a3ce4d78f68a22710993cdd9)
+
+10. 经典华为路由器漏洞复现详细分析(包括整个漏洞链) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487889&idx=2&sn=1fda19011d2dc80b33f1c56c4b52d025)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-05-26 09:49:38<small>
+
+---
+
+
+## 📢 2025-05-26日新增文章
+
 1. 英国电信服务提供商 O2 UK 修复了通呼叫定位用户位置的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492983&idx=1&sn=3e2ccbfad6e42c1a2476834c0dce0e29)
 
 2. 漏洞挖掘 | 简单的弱口令到垂直越权思路分享 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486722&idx=1&sn=2836d5e911cdf2aa4fc1475c3d04ebeb)
