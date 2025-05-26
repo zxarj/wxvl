@@ -18,6 +18,35 @@
 
 ## 📢 2025-05-26日新增文章
 
+1. 【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad)
+
+2. 浅析SpringBoot框架常见未授权访问漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211870&idx=1&sn=e5eb84aa661afeffb2798381b6d15335)
+
+3. OpenAI大语言模型漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932190&idx=1&sn=c30630174b2223f93458c6ee9e77de2b)
+
+4. 漏洞通告 | Grafana 开放重定向与服务端请求伪造漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507761&idx=1&sn=ef3242ad509ed6a12634f21f802dcd5d)
+
+5. 安全热点周报：Ivanti EPMM 远程代码执行漏洞已被利用于有限的攻击中 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503427&idx=1&sn=68e2ee9124e84ee0b05694b0952cec7f)
+
+6. 查找高级文件上传漏洞的完整指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488481&idx=1&sn=b98bf997e66b4d0f1196ca7c19b0dfd0)
+
+7. 【安全圈】ViciousTrap 利用思科漏洞操控全球 5,300 台设备构建蜜罐监控网络 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069834&idx=1&sn=335db8c1f2b23d140ba49e50ec855ed0)
+
+8. Windows Server 2025 “BadSuccessor”漏洞解析：dMSA 新特性反成“权限赠予后门”，域控一击即溃 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900594&idx=1&sn=49967bc1a632a5d21d61181929a64604)
+
+9. AI首次独立发现Linux内核可利用0Day漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788619&idx=1&sn=7edd031550c18e5bc06975a63cc61a90)
+
+10. 历史首次！o3找到Linux内核零日漏洞，12000行代码看100遍揪出，无需调用任何工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496855&idx=2&sn=19a9d8e0672c21ea10d987febab0d279)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-05-26 20:42:02<small>
+
+---
+
+
+## 📢 2025-05-26日新增文章
+
 1. 【0day】某无提示云挖矿4链盗u系统前台文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489795&idx=1&sn=a8d894b25d88572f7cedf21034f26c27)
 
 2. 工具 | 漏洞挖掘小工具-SeeMore 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519543&idx=1&sn=1a444807e71915e56cc6ce6ba82aa495)
