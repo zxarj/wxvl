@@ -18,6 +18,53 @@
 
 ## 📢 2025-05-27日新增文章
 
+1. 等保测评10大高频漏洞：谁将SQL注入挤下神坛？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518969&idx=1&sn=7783174861ed4ff1671378b9289992b8)
+
+2. PagerMaid-Pyro run_sh-rce命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484110&idx=1&sn=0d12f8dc81d838679c88fcd84e2cad8e)
+
+3. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495770&idx=1&sn=bf9b4d19d561f3a167dd614346a65b4f)
+
+4. 2025攻防演练必修高危漏洞集合（2.0版） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495068&idx=1&sn=0103937e748038484a8b0477280bfba1)
+
+5. Webpack源码泄露漏洞批量探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500035&idx=1&sn=26d64d1d383e5bdf94f81ad0facdd3d9)
+
+6. 企业内部安全漏洞修复流程的建立与思考（其二） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485929&idx=1&sn=8695ae54ebb1723a95a85a3fdf81559b)
+
+7. Java代码审计 | JFinalCMS 5.1，通过反射调用 FastJson 漏洞触发点，有趣。 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487425&idx=1&sn=b463a6fd6d2a6b341874eeb038c16044)
+
+8. Zer0 Sec团队-某SRC任意文件读取漏洞挖掘案例 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485589&idx=1&sn=308a44fe96ac6e8ca80a8e1f5d0f5b56)
+
+9. WebShell 绕过 EDR 监控，不调用 cmd 也能实现命令执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499748&idx=3&sn=f1d9403b08dbf8776ad839cb85b4a94f)
+
+10. 记一次实战小程序漏洞测试到严重漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526415&idx=1&sn=99f277b93b1a927837ff376f50d001af)
+
+11. WordPress Madara 本地文件包含漏洞 (CVE-2025-4524) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491608&idx=1&sn=2dfeb11acdab967374f23e43c25dcc1c)
+
+12. Apache Tomcat 9.8分RCE漏洞曝光，PoC 已经公开 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795241&idx=2&sn=1d6d27a7a4709b3fe42e178e6a36ca8f)
+
+13. 黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486753&idx=1&sn=3abdaa3b245cc30c92e6322dcc3f1c70)
+
+14. 漏洞挖掘必备利器推荐 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506144&idx=1&sn=0c45651d114b0ae75e3c28b22524ef6a)
+
+15. 西班牙汉堡王备份系统遭遇RCE漏洞威胁，黑客4000美元叫卖访问权限。 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251917&idx=1&sn=c14ea2340b3bf7692b029ded8d2084cc)
+
+16. 实战SRC挖掘｜微信小程序渗透漏洞复盘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490772&idx=1&sn=91e17e7d01c13ca1a0cb4f15eccf1d69)
+
+17. 黑客利用 0day 漏洞通过 Commvault 入侵美国云平台 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795241&idx=1&sn=8c0be31950ee1caba4515bd8c6e78567)
+
+18. 挖洞日记 | 记一次轻松拿下统一小通杀漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550223&idx=1&sn=080537e5dae12585a760656d296060ee)
+
+19. ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1MTE1MjU5Nw==&mid=2247485609&idx=1&sn=4ed56a37679b5c97087104dee6927274)
+
+#### 📊 统计信息
+<small>📝 新增文章数：19篇
+⏰ 更新时间：2025-05-27 16:29:23<small>
+
+---
+
+
+## 📢 2025-05-27日新增文章
+
 1. 618 领券 | 稍后读软件 Pocket 即将关闭，这个更强的工具能担起重任！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492400&idx=1&sn=b6a3819edf4e9dfeb14515aab465825a)
 
 2. 首次利用OpenAI o3模型发现Linux内核零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514421&idx=2&sn=cce953e1f93937d286c85ab93f963865)

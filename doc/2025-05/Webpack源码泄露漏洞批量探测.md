@@ -1,33 +1,5 @@
 #  Webpack源码泄露漏洞批量探测   
-回忆潋红雨  神农Sec   2025-05-16 02:23  
-  
-扫码加圈子  
-  
-获内部资料  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/b7iaH1LtiaKWXLicr9MthUBGib1nvDibDT4r6iaK4cQvn56iako5nUwJ9MGiaXFdhNMurGdFLqbD9Rs3QxGrHTAsWKmc1w/640?wx_fmt=jpeg&from=appmsg "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaaJcib7FH02wTKvoHALAMw4fchVnBLMw4kTQ7B9oUy0RGfiacu34QEZgDpfia0sVmWrHcDZCV1Na5wDQ/640?wx_fmt=png&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
-  
-  
-#   
-  
-网络安全领域各种资源，EDUSRC证书站挖掘、红蓝攻防、渗透测试等优质文章，以及工具分享、前沿信息分享、POC、EXP分享。  
-不定期分享各种好玩的项目及好用的工具，欢迎关注。加内部圈子，文末有彩蛋（知识星球优惠卷）。  
-#   
-  
-原文链接：  
-https://xz.aliyun.com/news/17972  
-  
-作者：  
-回忆潋红雨  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/iabIwdjuHp2VkevXU9Iiad0pl0dnkk6GmAQNiaqmb1kKX2NGKhaGF7m8UicdyCp9agykgzj7pNN1oEw4b3QLvFbibzQ/640?wx_fmt=png&from=appmsg&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
-  
-****  
-**Webpack漏洞测试**  
+回忆潋红雨  网络安全者   2025-05-27 02:10  
   
 # 一、漏洞原理  
   
@@ -54,10 +26,10 @@ Webpack 在打包前端项目时，若开启 source map 生成功能（如配置
 # 三、漏洞检测  
   
 1. 浏览器插件检测  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWN8lCEKibLtKAicHib2Ko76dktSkXUeslIO45NToeqxltiaUAfL79icxpXgKWZPiadC6qlriaLRaBRF9X7w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/0JJXjA8siccxEFqnS6YaA0PicXrb35BDUeUb4icHAfibNHxvDOCWnunfN4T5bnBvSWRBxxFga6zhYb9ibjliaVNtiaA9g/640?wx_fmt=png&from=appmsg "")  
   
 1. F12搜索关键字  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWN8lCEKibLtKAicHib2Ko76dk2vcgGHROZvtsHHFOGReecnicP3ZpYvyj60o1tZJMsEdHksE6CUgRJmg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/0JJXjA8siccxEFqnS6YaA0PicXrb35BDUeHfKdjaMibiblZic1TS6lNohMz7LP5jJgNXQURqedzVduia6Xuk0ibw7qSow/640?wx_fmt=png&from=appmsg "")  
   
 1. 批量探测  
 - 获取HTML页面  
@@ -301,10 +273,10 @@ if __name__ == "__main__":
     )
 ```  
 - 结果呈现  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWN8lCEKibLtKAicHib2Ko76dkftHkwA0ibWJKlQiafuBglt0OswicMDX8NxHolZMlXAyCibah3MMv82kqwg/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/0JJXjA8siccxEFqnS6YaA0PicXrb35BDUeYxLnSvicmicAr3n2NQ4MSGoianhl5StNTAII33yJAHUMjfsjDp3zGfwLg/640?wx_fmt=png&from=appmsg "")  
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWN8lCEKibLtKAicHib2Ko76dk0ibolwsLlibDsAFBZ2941AxJHVdt8wzFKedwSYj1ICic4S1u4IvPqOXhA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/0JJXjA8siccxEFqnS6YaA0PicXrb35BDUedxy2D3BdxSmOP0BM3oq99QqHyCSpNs45YrEibAHicKibcJJjHic1NuZIkw/640?wx_fmt=png&from=appmsg "")  
   
 # 四、漏洞利用  
   
@@ -329,138 +301,18 @@ reverse-sourcemap --output-dir ./src main.js.map
 - 删除已有 .map 文件：通过服务器配置（如 Nginx）禁止访问 .map 文件，或直接移除部署目录中的 .map 文件；  
 - 代码混淆加固：使用 terser-webpack-plugin 等工具对 JS 代码进行深度混淆，增加逆向难度；  
 - 内网信息审查：确保源码中不包含测试环境的内网 IP、硬编码凭证等敏感数据。  
-![](https://mmbiz.qpic.cn/mmbiz_png/iabIwdjuHp2VkevXU9Iiad0pl0dnkk6GmAQNiaqmb1kKX2NGKhaGF7m8UicdyCp9agykgzj7pNN1oEw4b3QLvFbibzQ/640?wx_fmt=png&from=appmsg&wxfrom=13&wx_lazy=1&wx_co=1&tp=wxpic "")  
-  
-****  
-**内部圈子详情介绍**  
-  
-我们是  
-神农安全  
-，点赞 + 在看  
- 铁铁们点起来，最后祝大家都能心想事成、发大财、行大运。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/mngWTkJEOYJDOsevNTXW8ERI6DU2dZSH3Wd1AqGpw29ibCuYsmdMhUraS4MsYwyjuoB8eIFIicvoVuazwCV79t8A/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+**关 注 有 礼**  
   
   
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap086iau0Y0jfCXicYKq3CCX9qSib3Xlb2CWzYLOn4icaWruKmYMvqSgk1I0Aw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+欢迎关注公众号：网络安全者  
   
-**内部圈子介绍**  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/MVPvEL7Qg0F0PmZricIVE4aZnhtO9Ap08Z60FsVfKEBeQVmcSg1YS1uop1o9V1uibicy1tXCD6tMvzTjeGt34qr3g/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1 "")  
-  
-  
-  
-**圈子专注于更新src/红蓝攻防相关：**  
-  
-```
-1、维护更新src专项漏洞知识库，包含原理、挖掘技巧、实战案例
-2、知识星球专属微信“小圈子交流群”
-3、微信小群一起挖洞
-4、内部团队专属EDUSRC证书站漏洞报告
-5、分享src优质视频课程（企业src/EDUSRC/红蓝队攻防）
-6、分享src挖掘技巧tips
-7、不定期有众测、渗透测试项目（一起挣钱）
-8、不定期有工作招聘内推（工作/护网内推）
-9、送全国职业技能大赛环境+WP解析（比赛拿奖）
-```  
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0JJXjA8siccxEFqnS6YaA0PicXrb35BDUeWSgb5z2eRQXyiaUz2ujEUqiaAfCTalC1CAChLYCQSUVficzzT8rfrDs4Q/640?wx_fmt=jpeg&from=appmsg "")  
   
   
   
   
-**内部圈子**  
-**专栏介绍**  
-  
-知识星球内部共享资料截屏详情如下  
-  
-（只要没有特殊情况，每天都保持更新）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWYcoLuuFqXztiaw8CzfxpMibRSekfPpgmzg6Pn4yH440wEZhQZaJaxJds7olZp5H8Ma4PicQFclzGbQ/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWWYcoLuuFqXztiaw8CzfxpMibgpeLSDuggy2U7TJWF3h7Af8JibBG0jA5fIyaYNUa2ODeG1r5DoOibAXA/640?wx_fmt=png&from=appmsg "")  
+本文内容来自网络，如有侵权请联系删除  
   
   
-**知识星球——**  
-**神农安全**  
-  
-星球现价   
-￥45元  
-  
-如果你觉得应该加入，就不要犹豫，价格只会上涨，不会下跌  
-  
-星球人数少于800人 45元/年  
-  
-星球人数少于1000人 60元/年  
-  
-（新人优惠卷20，扫码或者私信我即可领取）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUQrFWcBesgFeibmAaLTXbl25YKcjTuT0F7X8qBLgI7JaOjU1DxsgxfyicbBDibicKwvIhjia1Jm33NQaA/640?wx_fmt=png&from=appmsg "")  
-  
-欢迎加入星球一起交流，券后价仅45元！！！ 即将满800人涨价  
-  
-长期  
-更新，更多的0day/1day漏洞POC/EXP  
-  
-  
-  
-**内部知识库--**  
-**（持续更新中）**  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFu12KTxgSfI69k7BChztff43VObUMsvvLyqsCRYoQnRKg1ibD7A0U3bQ/640?wx_fmt=png&from=appmsg "")  
-  
-  
-**知识库部分大纲目录如下：**  
-  
-知识库跟  
-知识星球联动，基本上每天保持  
-更新，满足圈友的需求  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFhXF33IuCNWh4QOXjMyjshticibyeTV3ZmhJeGias5J14egV36UGXvwGSA/640?wx_fmt=png&from=appmsg "")  
-  
-  
-知识库和知识星球有师傅们关注的  
-EDUSRC  
-和  
-CNVD相关内容（内部资料）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFKDNucibvibBty5UMNwpjeq1ToHpicPxpNwvRNj3JzWlz4QT1kbFqEdnaA/640?wx_fmt=png&from=appmsg "")  
-  
-  
-还有网上流出来的各种  
-SRC/CTF等课程视频  
-  
-量大管饱，扫描下面的知识星球二维码加入即可  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWUw2r3biacicUOicXUZHWj2FgFxYMxoc1ViciafayxiaK0Z26g1kfbVDybCO8R88lqYQvOiaFgQ8fjOJEjxA/640?wx_fmt=png&from=appmsg "")  
-  
-  
-  
-  
-内部小圈子——  
-圈友反馈  
-（  
-良心价格  
-）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWW0s5638ehXF2YQEqibt8Hviaqs0Uv6F4NTNkTKDictgOV445RLkia2rFg6s6eYTSaDunVaRF41qBibY1A/640?wx_fmt=png&from=appmsg "")  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/b7iaH1LtiaKWW0s5638ehXF2YQEqibt8HviaRhLXFayW3gyfu2eQDCicyctmplJfuMicVibquicNB3Bjdt0Ukhp8ib1G5aQ/640?wx_fmt=png&from=appmsg "")  
-  
-  
-****  
-**神农安全公开交流群**  
-  
-有需要的师傅们直接扫描文章二维码加入，然后要是后面群聊二维码扫描加入不了的师傅们，直接扫描文章开头的二维码加我（备注加群）  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/b7iaH1LtiaKWXWVBja0AC9744PeXY0zNUj3v6KmOYGICdhjhFw8L88cnT1OrpYgNicV4aoMewFjsYU10dia4BvkUibg/640?wx_fmt=jpeg&from=appmsg "")  
-  
-****  
-    
-```
-```  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/b7iaH1LtiaKWW8vxK39q53Q3oictKW3VAXz4Qht144X0wjJcOMqPwhnh3ptlbTtxDvNMF8NJA6XbDcljZBsibalsVQ/640?wx_fmt=gif "")  
-  
-#   
   
