@@ -1,7 +1,18 @@
 #  发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE)   
- Ots安全   2025-05-21 11:19  
+ Ots安全   2025-05-27 04:23  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/bL2iaicTYdZn7gtxSFZlfuCW6AdQib8Q1onbR0U2h9icP1eRO6wH0AcyJmqZ7USD0uOYncCYIH7ZEE8IicAOPxyb9IA/640?wx_fmt=gif "")  
+  
+本文详细披露了瑞典网络安全公司 Shelltrail 发现的 IXON VPN 客户端中的三个新漏洞（CVE-2025-ZZZ-01、CVE-2025-ZZZ-02 和 CVE-2025-ZZZ-03），这些漏洞可能导致 Windows 和 Linux 系统上的本地权限提升（LPE）。  
+  
+  
+文章深入分析了漏洞的成因：Linux 系统上的 CVE-2025-ZZZ-02 利用了可预测的临时文件路径（/tmp/vpn_client_openvpn_configuration.ovpn），通过创建命名管道注入恶意 OpenVPN 配置实现 root 权限执行；Windows 系统上的 CVE-2025-ZZZ-03 则利用 C:\Windows\Temp 目录中的竞争条件，允许攻击者覆盖配置文件以获得 SYSTEM 权限。  
+  
+  
+IXON 已通过将临时文件移至高权限目录的方式，在 1.4.4 版本中修复了 LPE 问题，但第三个漏洞（CVE-2025-ZZZ-01）尚未公开修复细节。  
+  
+  
+文章还提供了漏洞的技术细节、攻击演示及修复建议，旨在帮助工业系统用户防范潜在的网络安全威胁。  
   
 本文将介绍在 IXON VPN 客户端中发现的三个新漏洞 CVE-2025-ZZZ-01、CVE-2025-ZZZ-02 和 CVE-2025-ZZZ-03。这些漏洞会导致 Windows 和 Linux 系统上的本地权限提升，此外还有一个相当有趣的 [已编辑]。  
   

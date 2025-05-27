@@ -18,6 +18,45 @@
 
 ## 📢 2025-05-27日新增文章
 
+1. 通报丨ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173069&idx=3&sn=2d17e34234a8bcc099915e7259d98609)
+
+2. 发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530229&idx=3&sn=70f3209757ed00e0906074d10d488d38)
+
+3. Mesh Wi-Fi存在CVSS 9.1分高危漏洞，设计缺陷可被用于数据帧注入攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=4&sn=7c4223920cb17acbc65fb665c7da7365)
+
+4. 【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d)
+
+5. 【漏洞与预防】Microsoft Windows 文件资源管理器欺骗漏洞预防 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247499635&idx=1&sn=cca778a3a8b5c545de9edc8d2a4f2c92)
+
+6. 【漏洞预警】DedeCMS信息泄露漏洞(CVE-2025-5137) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=2&sn=1b3a904c690bb5f4b6fcc44d8df3cdca)
+
+7. 若依Vue漏洞检测工具 - ruoyi-Vue-tools 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755)
+
+8. Arm Mali GPU 漏洞允许绕过 MTE 和任意内核代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=1&sn=de29f14ed3da4e130ab8507f590898de)
+
+9. CISA提醒注意已遭利用的 Commvault 0day漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=1&sn=1a8e46e871f1fae51bb1c752be774842)
+
+10. 雷神众测漏洞周报2025.5.19-2025.5.25 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503419&idx=1&sn=ec858e748fb40bf4b477958bc4ede59b)
+
+11. 记某众测Fastjson<=1.2.68反序列化RCE过程 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521136&idx=1&sn=e6e3e3b78b2343b548d40246af0c841f)
+
+12. 量子计算破解RSA加密难度降低20倍，后量子密码学迫在眉睫；国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137007&idx=2&sn=1aaad1f68d3e1cc0bb3260721d30302c)
+
+13. 2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247492421&idx=1&sn=899c37a36234e4c8668f3f56303615fe)
+
+14. GitLab Duo 漏洞可导致攻击者通过隐藏的提示劫持AI响应 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=2&sn=11426f6aaac01c747218a552ac6e5129)
+
+15. Apache Tomcat 允许远程执行代码漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7)
+
+#### 📊 统计信息
+<small>📝 新增文章数：15篇
+⏰ 更新时间：2025-05-27 20:45:25<small>
+
+---
+
+
+## 📢 2025-05-27日新增文章
+
 1. 等保测评10大高频漏洞：谁将SQL注入挤下神坛？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247518969&idx=1&sn=7783174861ed4ff1671378b9289992b8)
 
 2. PagerMaid-Pyro run_sh-rce命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484110&idx=1&sn=0d12f8dc81d838679c88fcd84e2cad8e)
