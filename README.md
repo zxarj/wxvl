@@ -16,6 +16,27 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-28日新增文章
+
+1. 雷神众测漏洞周报2025.5.19-2025.5.25 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491246&idx=2&sn=f2821c44d28004e6cdeda1a403564f5f)
+
+2. Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488502&idx=1&sn=c417e10a497251134c3d81775de5d501)
+
+3. 【论文速读】|基于大型语言模型的上下文增强漏洞检测 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496521&idx=1&sn=441184115eaa124aa26bc2b165f7247b)
+
+4. 漏洞挖掘—利用查询功能获取敏感信息（3） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc)
+
+5. 十四年连冠｜绿盟漏洞扫描与管理产品再获佳绩 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468805&idx=1&sn=3b1ae29229283c236d11a6e8d149bc7e)
+
+6. 办公平台存在安全漏洞！某国有企业违反《网络安全法》被处罚 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115908&idx=2&sn=367490ce902e04506aa0eeed4a4df3ab)
+
+#### 📊 统计信息
+<small>📝 新增文章数：6篇
+⏰ 更新时间：2025-05-28 00:27:46<small>
+
+---
+
+
 ## 📢 2025-05-27日新增文章
 
 1. 通报丨ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173069&idx=3&sn=2d17e34234a8bcc099915e7259d98609)
