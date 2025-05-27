@@ -18,6 +18,19 @@
 
 ## 📢 2025-05-28日新增文章
 
+1. 研究者利用OpenAI o3模型发现Linux内核远程零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483869&idx=1&sn=2d72368d0c27aad90b94fc523069a699)
+
+2. Windows Server 2025 "BadSuccessor" 漏洞曝光，可导致域控接管 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-05-28 04:23:31<small>
+
+---
+
+
+## 📢 2025-05-28日新增文章
+
 1. 雷神众测漏洞周报2025.5.19-2025.5.25 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491246&idx=2&sn=f2821c44d28004e6cdeda1a403564f5f)
 
 2. Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488502&idx=1&sn=c417e10a497251134c3d81775de5d501)
