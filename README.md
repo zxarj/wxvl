@@ -16,6 +16,27 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-29日新增文章
+
+1. 【漏洞复现】vBulletin replaceAdTemplat 远程代码执行漏洞（CVE-2025-48827∕48828) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484102&idx=1&sn=c379f685fa4de8feb2eae15f399a0df1)
+
+2. 【漏洞复现】dify任意密码重置 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485130&idx=1&sn=32e88952742937670334c31a559fe750)
+
+3. 北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600035&idx=2&sn=b9b9043eddaa948747563c1262352a9b)
+
+4. 【严重漏洞预警】vBulletin replaceAdTemplat远程代码执行漏洞（CVE-2025-48827） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=1&sn=b13f80c9c3dae8d161d3dcdcb7883cfe)
+
+5. 【AI高危漏洞预警】LLama-Index CLI命令执行漏洞(CVE-2025-1753) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=2&sn=17860b8ad80dd13fe51616ba590c72c2)
+
+6. Windows10 Penetration渗透系统，一套环境通吃内网、Web、APP全渗透，工具包实战指南|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491712&idx=1&sn=5f83947a4b5ac349589e70690d137f4f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：6篇
+⏰ 更新时间：2025-05-29 00:26:25<small>
+
+---
+
+
 ## 📢 2025-05-28日新增文章
 
 1. GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=1&sn=a781cae82004337aa46c61fb54bf864c)

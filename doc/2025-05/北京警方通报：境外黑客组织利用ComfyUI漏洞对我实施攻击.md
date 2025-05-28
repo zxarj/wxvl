@@ -1,15 +1,5 @@
 #  北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击   
- 安全内参   2025-05-28 08:05  
-  
-**关注我们**  
-  
-  
-**带你读懂网络安全**  
-  
-  
-  
-目前已有境外黑客组织利用ComfyUI漏洞对我网络资产实施网络攻击，伺机窃取重要敏感数据。  
-  
+Cismag  信息安全与通信保密杂志社   2025-05-28 09:42  
   
 ComfyUI是一款AI绘图工具，专为图像生成任务设计，通过将深度学习模型的工作流程简化为图形化节点，使用户操作更加直观和易于理解。  
   
@@ -19,25 +9,23 @@ ComfyUI是一款AI绘图工具，专为图像生成任务设计，通过将深�
   
 建议相关用户在确保安全的前提下，及时下载升级官方补丁堵塞漏洞，同时做好类似人工智能大模型应用的安全加固，确保网络和数据安全，发现遭攻击情况第一时间向当地公安机关报告。  
   
+来源：国家网络安全通报中心  
   
-**推荐阅读**  
-- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
-  
-  
-- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
+**★**  
   
   
+**★ ★ ★**  
   
   
-  
-  
-文章来源：国家网络安全通报中心  
-  
-  
-点击下方卡片关注我们，  
-  
-带你一起读懂网络安全 ↓  
+**★**  
   
   
   
+  
+  
+  
+  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/iclynibMMTgByDUYwiaLF0nq6DRz199SCH3y7ndia8XvyzaNnQwguUzacEyMWDeOvEXGpG5sGicQjQGne1sBc8ZSn3g/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   

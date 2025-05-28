@@ -14568,5 +14568,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492603&idx=2&sn=013df9f9a54c65cd271466572626705e": "Windows Server 2025 \"BadSuccessor\"漏洞可导致域控接管（PoC已公开，暂无补丁）",
     "https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664995100&idx=3&sn=3e84ad389f64c458d97638e803adceef": "【业界动态】ComfyUI存在多个高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514434&idx=2&sn=19b30608f4a701f991edf166024d4d6f": "北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=4&sn=e255487c860340a366b40b36be9e271d": "阿迪达斯数据泄露，第三方服务商漏洞致客户信息外泄"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=4&sn=e255487c860340a366b40b36be9e271d": "阿迪达斯数据泄露，第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484102&idx=1&sn=c379f685fa4de8feb2eae15f399a0df1": "【漏洞复现】vBulletin replaceAdTemplat 远程代码执行漏洞（CVE-2025-48827∕48828)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485130&idx=1&sn=32e88952742937670334c31a559fe750": "【漏洞复现】dify任意密码重置",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600035&idx=2&sn=b9b9043eddaa948747563c1262352a9b": "北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=1&sn=b13f80c9c3dae8d161d3dcdcb7883cfe": "【严重漏洞预警】vBulletin replaceAdTemplat远程代码执行漏洞（CVE-2025-48827）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=2&sn=17860b8ad80dd13fe51616ba590c72c2": "【AI高危漏洞预警】LLama-Index CLI命令执行漏洞(CVE-2025-1753)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491712&idx=1&sn=5f83947a4b5ac349589e70690d137f4f": "Windows10 Penetration渗透系统，一套环境通吃内网、Web、APP全渗透，工具包实战指南|漏洞探测"
 }
