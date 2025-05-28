@@ -18,6 +18,49 @@
 
 ## 📢 2025-05-28日新增文章
 
+1. GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=1&sn=a781cae82004337aa46c61fb54bf864c)
+
+2. 2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=2&sn=30484ea29b1059a42eff9d3d3ccddf3a)
+
+3. Salesforce 将以 80 亿美元收购 Informatica 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247640068&idx=3&sn=3df2ba81a343350bbe1f28027c22b625)
+
+4. 安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第21期，总第39期] 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484860&idx=1&sn=8706853bda9e4ff3820f973f4c1a10af)
+
+5. Netfilter Tunnel 之殇：CVE-2025-22056分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845584&idx=1&sn=c13de1d950bf86c3b5650e4f98717c8d)
+
+6. NASA开源软件被曝存在多个安全漏洞；提示注入威胁：GitHub MCP服务器漏洞允许攻击者访问私有代码库 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137030&idx=2&sn=466072b21f20a9efd87f6114ce1557f8)
+
+7. 【安全圈】全球互联网因BGP协议漏洞出现大规模路由震荡 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069865&idx=1&sn=e29ae988e9c671b37c0b95f70beaf6d5)
+
+8. PagerMaid-Pyro run_sh接口存在远程命令执行漏洞 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488513&idx=1&sn=bf90fe02d66ceea05dd6891a66f0aff2)
+
+9. 官方通报ComfyUI存多个高危漏洞：已被境外黑客利用对我国网络实施攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542435&idx=1&sn=eac5973134804eb38d96bdfc769093ab)
+
+10. GitHub MCP Server漏洞：通过MCP访问私有仓库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484490&idx=1&sn=1108796cd3681ad4d71bf145929026e2)
+
+11. AI工具ComfyUI惊现多个高危漏洞，已有境外组织发起网络攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932200&idx=1&sn=ead3dc6e3d8a36b05a1a74ecc1ddf4fc)
+
+12. DragonForce 勒索团伙瞄准MSP，发动供应链攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523133&idx=1&sn=bf9dda6dcef75f6de012aa77866b6072)
+
+13. 英飞达影像存档与通讯PACS系统 WebUserLogin.asmx 信息泄露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485857&idx=1&sn=68c4871e03965c933cea638f4dd70fc0)
+
+14. Windows Server 2025 "BadSuccessor"漏洞可导致域控接管（PoC已公开，暂无补丁） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492603&idx=2&sn=013df9f9a54c65cd271466572626705e)
+
+15. 【业界动态】ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664995100&idx=3&sn=3e84ad389f64c458d97638e803adceef)
+
+16. 北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514434&idx=2&sn=19b30608f4a701f991edf166024d4d6f)
+
+17. 阿迪达斯数据泄露，第三方服务商漏洞致客户信息外泄 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=4&sn=e255487c860340a366b40b36be9e271d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：17篇
+⏰ 更新时间：2025-05-28 20:44:51<small>
+
+---
+
+
+## 📢 2025-05-28日新增文章
+
 1. 逐帧分析：Kernel Streaming 持续暴露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488566&idx=1&sn=02dcbc079feef0474efaac6fef9f91fc)
 
 2. CVE-2025-21298零点击漏洞深度解析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26)

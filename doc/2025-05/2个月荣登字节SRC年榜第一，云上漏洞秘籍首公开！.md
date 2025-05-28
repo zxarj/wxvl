@@ -1,15 +1,19 @@
 #  2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！   
- FreeBuf知识大陆APP   2025-05-27 11:12  
+FreeBuf  FreeBuf   2025-05-28 10:07  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGiaCYCIORkrlc7wDEmaOYa5Tic3vKDdWa3Ac5xn2GXVfWXDribibqJy906w/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGIiawia3NXkhThrmraicgxicK5tTtJSJB4CwBu8QUyPx0hfewxx0eV7Ye6g/640?wx_fmt=png&from=appmsg "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB0036bhe0SnoN10AQFicuYia0f0IKAnO3Z8mv8SADGUS9c4ICYTvWFHyibLw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB00CfyW0gjPjcbE1LTgfx0XAXcJHVxOmc6oN4T3EeJ2aMZicEzLG2nJxTA/640?wx_fmt=png&from=appmsg "")  
   
 XIAOHUOJU  
   
 **关于小火炬**  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGCWm9UZUH23yM5Vum8Pibic1fecV8bjxcWokicrMia9e5ZuMVqtWWs6awibQ/640?wx_fmt=gif&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR39qaam0PC2rGhAZRQ1PmB003e0H7cTHFQwNWiaEGCyaic7bJTfdWyCKlfOe8dRAUbNMg0faSNwic3pWA/640?wx_fmt=gif&from=appmsg "")  
   
   
 ****  
@@ -19,7 +23,7 @@ XIAOHUOJU
   
 **两个月直接登顶年榜TOP1！**  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGhLFLBKSyfMacmBuNrZ0X3aeRzzUZ1lpErdxw4iagW2sDdv64rYnkeRA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB00uXJyWiav5hx8dqIsGwzhm28n1gNCIx3Nq0reJ9zkwmzGZDzF4GhJQrw/640?wx_fmt=png&from=appmsg "")  
   
 字节SRC排名截图  
   
@@ -37,15 +41,16 @@ XIAOHUOJU
   
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGiaCYCIORkrlc7wDEmaOYa5Tic3vKDdWa3Ac5xn2GXVfWXDribibqJy906w/640?wx_fmt=png&from=appmsg "")  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGIiawia3NXkhThrmraicgxicK5tTtJSJB4CwBu8QUyPx0hfewxx0eV7Ye6g/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB0036bhe0SnoN10AQFicuYia0f0IKAnO3Z8mv8SADGUS9c4ICYTvWFHyibLw/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB00CfyW0gjPjcbE1LTgfx0XAXcJHVxOmc6oN4T3EeJ2aMZicEzLG2nJxTA/640?wx_fmt=png&from=appmsg "")  
   
 XIAOHUOJU  
   
 直播含金量警告  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGCWm9UZUH23yM5Vum8Pibic1fecV8bjxcWokicrMia9e5ZuMVqtWWs6awibQ/640?wx_fmt=gif&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR39qaam0PC2rGhAZRQ1PmB003e0H7cTHFQwNWiaEGCyaic7bJTfdWyCKlfOe8dRAUbNMg0faSNwic3pWA/640?wx_fmt=gif&from=appmsg "")  
   
   
 ✅ **小火炬云上漏洞秘籍首次公开**  
@@ -72,17 +77,19 @@ XIAOHUOJU
 ⏰**5月28日周三晚8点**  
 ，一次直播提升挖洞思维  
   
-扫码二维码，暗号“**小火炬直播**  
+扫码二维码，暗号“**小火炬666**  
 ”秒进学习群！  
   
-![](https://mmbiz.qpic.cn/mmbiz_jpg/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGE9nic3iaHq97VZ1ORlNmJ9SDslef2khaQ9KBJarRqUDGM8FCHibYAg4qg/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39qaam0PC2rGhAZRQ1PmB00BdibSpmWVyCw9y5jFNrXrozdOp0s9u0Y3oSJ86meEEM4ebnQCNUvdvQ/640?wx_fmt=jpeg&from=appmsg "")  
   
   
   
 听完可能触发以下症状：拍大腿惊呼"还能这样？"、连夜修改挖洞动线、突然发现遍地是黄金，直播间不见不散！  
   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/HaJr68L1tTRBDbDdSOsWEibE3E5fukqlGIiawia3NXkhThrmraicgxicK5tTtJSJB4CwBu8QUyPx0hfewxx0eV7Ye6g/640?wx_fmt=png&from=appmsg "")  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR39qaam0PC2rGhAZRQ1PmB00CfyW0gjPjcbE1LTgfx0XAXcJHVxOmc6oN4T3EeJ2aMZicEzLG2nJxTA/640?wx_fmt=png&from=appmsg "")  
   
   
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
