@@ -18,6 +18,29 @@
 
 ## 📢 2025-05-28日新增文章
 
+1. 逐帧分析：Kernel Streaming 持续暴露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488566&idx=1&sn=02dcbc079feef0474efaac6fef9f91fc)
+
+2. CVE-2025-21298零点击漏洞深度解析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26)
+
+3. 紧急预警！Samlify SSO 签名绕过漏洞（CVE-2025-47949）解析与防御指南​ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=1&sn=0b31c80b87f34af3ab33021b8697920c)
+
+4. 关注 | ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243080&idx=2&sn=f3ace9c6fac492cbef8ab21825036bda)
+
+5. Vite开发服务器任意文件读取（CVE-2025-30208） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=2&sn=04447863a12ee6db59848d6d73655902)
+
+6. AI 安全｜DIFY 大模型平台漏洞预警（已复现） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMDcxODg2OQ==&mid=2247483849&idx=1&sn=f364a8c62bb78c55eb2a58bdcbcea380)
+
+7. 已公开漏洞的认知“真相” 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538958&idx=2&sn=609ff480e7b89259dea2743f02dd9059)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-05-28 16:29:27<small>
+
+---
+
+
+## 📢 2025-05-28日新增文章
+
 1. 通达OA OfficeTask前台RCE、SQL注入漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487440&idx=1&sn=008313c2fd51c8b9e0470334e5ac0513)
 
 2. 网络安全漏洞扫描：别再迷信工具，先搞懂这些事儿！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497468&idx=2&sn=508b2f0a56e3aeacd8f66a472486cf32)
