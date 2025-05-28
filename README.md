@@ -18,6 +18,43 @@
 
 ## 📢 2025-05-28日新增文章
 
+1. 通达OA OfficeTask前台RCE、SQL注入漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487440&idx=1&sn=008313c2fd51c8b9e0470334e5ac0513)
+
+2. 网络安全漏洞扫描：别再迷信工具，先搞懂这些事儿！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497468&idx=2&sn=508b2f0a56e3aeacd8f66a472486cf32)
+
+3. 实战EDUSRC挖掘｜微信小程序渗透漏洞及getshell复盘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489213&idx=1&sn=d4e4580e77b79aa9d7736bcd79a22ecc)
+
+4. 自学黑客技术多长时间能达到挖漏洞的水平？零基础入门到精通，收藏这篇就够了 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486150&idx=1&sn=cfa0a2b0886e123f79b42eb813ba429e)
+
+5. 涉案151人、4300余万元 警方侦破一起侵犯公民个人信息案；|阿迪达斯数据泄露事件：第三方服务商漏洞致客户信息外泄 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610894&idx=1&sn=af94a6c952aa9508a50dd00de20f2126)
+
+6. “开盒”，坚决打击！| Windows Server 2025 "BadSuccessor" 漏洞曝光，可导致域控接管 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248034&idx=1&sn=e62faedf047a36698e7e4968415855ad)
+
+7. 一款开源免费的漏洞扫描工具-Sirius 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610894&idx=4&sn=a4799ef6807263051f8dcfca295fb4e9)
+
+8. 漏洞预警 | 智慧校园(安校易)管理系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=2&sn=ea1367c3c4f9cfecdd1cd04ded2ceccb)
+
+9. MVS系统漏洞检测产品亮相OpenHarmony安全委员会，展示终端安全实践成果 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547141&idx=1&sn=716b2754bca3bbf8cb1051766ccb7350)
+
+10. 国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251924&idx=1&sn=351ee525acf88eca45f1ceefe54feb57)
+
+11. 信息安全漏洞周报（2025年第21期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463074&idx=1&sn=85acc3cb8d7a6d3136d4804cef124728)
+
+12. InvisionCommunity 远程代码执行漏洞 (CVE-2025-47916) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491617&idx=1&sn=6644d7a7e9a8a5e5201ceacfd085c46a)
+
+13. 人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624639&idx=3&sn=8cb76c24e331ca965cf8085ec68d31a0)
+
+14. 渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490813&idx=1&sn=3d883c634ebd693977d0d5a25a6ec412)
+
+#### 📊 统计信息
+<small>📝 新增文章数：14篇
+⏰ 更新时间：2025-05-28 12:27:34<small>
+
+---
+
+
+## 📢 2025-05-28日新增文章
+
 1. DragonForce操作者利用SimpleHelp漏洞链式攻击某MSP服务商及其客户 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493937&idx=1&sn=fd643ae0b90716be724efc591b46e96a)
 
 2. 漏洞预警 | FoxCMS SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=1&sn=2ad4c6a9c3df1465a9ebfccfff088411)
