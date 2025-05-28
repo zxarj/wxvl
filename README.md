@@ -18,6 +18,35 @@
 
 ## 📢 2025-05-28日新增文章
 
+1. DragonForce操作者利用SimpleHelp漏洞链式攻击某MSP服务商及其客户 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493937&idx=1&sn=fd643ae0b90716be724efc591b46e96a)
+
+2. 漏洞预警 | FoxCMS SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=1&sn=2ad4c6a9c3df1465a9ebfccfff088411)
+
+3. CVE-2024-45436:Ollama ZIP文件解压导致的命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497264&idx=1&sn=a416851315173135e64299b51984541c)
+
+4. 2025 HVV必修高危漏洞集合2 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655280643&idx=1&sn=d29834cc9689633efe690b4732ccb92b)
+
+5. 新手也能学会的安卓漏洞！手把手教你查出 App 数据泄露！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485063&idx=1&sn=4fd13821611ba0fa4db6c3c5dda51a33)
+
+6. 独家洞察｜Mallox勒索团伙疑似继续利用产品漏洞攻击投毒国内数百个资产 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247535924&idx=1&sn=6fb1cc1ee15c4e163ede7fc4914209e6)
+
+7. EMQX命令执行后渗透 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499227&idx=1&sn=73bbfba76dd660bbc59316c7d3bfcd52)
+
+8. 【DDDD二开】修复bug 新增指纹poc 新增功能 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjE5MQ==&mid=2247485290&idx=1&sn=54c83a4634320e1fdb80ed018b00c8c6)
+
+9. 漏洞预警 | 用友U8Cloud任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=3&sn=e60c83d9ba5b3fa37d698e3f080ff9af)
+
+10. Retire.js - 检测JavaScript依赖漏洞的安全工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247484912&idx=1&sn=7868ebacb71e9eb162686ab99cf03d8d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-05-28 09:47:10<small>
+
+---
+
+
+## 📢 2025-05-28日新增文章
+
 1. 研究者利用OpenAI o3模型发现Linux内核远程零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483869&idx=1&sn=2d72368d0c27aad90b94fc523069a699)
 
 2. Windows Server 2025 "BadSuccessor" 漏洞曝光，可导致域控接管 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b)
