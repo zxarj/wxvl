@@ -18,6 +18,33 @@
 
 ## 📢 2025-05-29日新增文章
 
+1. 北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击 | GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248038&idx=1&sn=730bfd35d652c9f7d2a1e99a6be3e26b)
+
+2. CVE-2025-24054的漏洞深度解析与 PoC 利用指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485328&idx=1&sn=7a0a77977a9916697db3f91f6372d3cd)
+
+3. 漏洞预警 | JEEWMS任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=2&sn=82ac86f0154f844c3b70f60d2d65ac4a)
+
+4. 攻防演练连个Nday都扫不出？你只是Nday的打开方式不对！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484699&idx=1&sn=7a8e7cd8363e5d05fa489ccf54dd75af)
+
+5. ​​CVE-2025-21333 漏洞深度解析与 PoC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485328&idx=2&sn=d8fcb14e80a40517b3c3d4a7f6a9a3be)
+
+6. 《AI黑客时代：用DeepSeek构建智能渗透机器人，让漏洞验证自动化飞驰》 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486137&idx=1&sn=fee3318906ff4908ee48a1f0dec231eb)
+
+7. 漏洞预警 | 满客宝后台管理系统任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=3&sn=b1787bd3b9aea2069a2ce3a456c5aa7d)
+
+8. AI用于软件安全和漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624653&idx=1&sn=28db6c14f3591b8196eed1340c58a523)
+
+9. 漏洞预警 | 上讯信息运维管理审计系统注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493251&idx=1&sn=01de37e5ce0198bc0d581cb625824c0a)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-05-29 09:46:58<small>
+
+---
+
+
+## 📢 2025-05-29日新增文章
+
 1. 【漏洞复现】vBulletin replaceAdTemplat 远程代码执行漏洞（CVE-2025-48827∕48828) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484102&idx=1&sn=c379f685fa4de8feb2eae15f399a0df1)
 
 2. 【漏洞复现】dify任意密码重置 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485130&idx=1&sn=32e88952742937670334c31a559fe750)
