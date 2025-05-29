@@ -18,6 +18,39 @@
 
 ## 📢 2025-05-29日新增文章
 
+1. “粽”享礼金，挖洞必“粽”，端午0DAY竞渡挑战赛开启！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503765&idx=1&sn=c91971d705c969009f7e9fd460725ad0)
+
+2. 【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd)
+
+3. 恶意软件藏身AI模型，专门针对阿里巴巴AI实验室用户；OneDrive文件选择器漏洞让应用获取用户云存储完整访问权限 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137040&idx=2&sn=3409a0e99c9697da8ecb4c7742ca1399)
+
+4. 入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530275&idx=4&sn=8a7efa98d4a382f0144297742ff568e2)
+
+5. 线上支付漏洞：开启 “ 0元购 ” ？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489911&idx=1&sn=e62b6002552b1ab6dba42242d593c2ed)
+
+6. 微软OneDrive严重安全漏洞：OAuth权限滥用，数据泄露风险高 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489351&idx=1&sn=62a05afe4fae8a7a497cdb2a52eb4047)
+
+7. 不同视角学习Java代码审计之文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487427&idx=1&sn=4e665affb10589b165c61a022f5a37ea)
+
+8. 留言赠书 | 《攻击网络协议：协议漏洞的发现+利用+保护》免费送 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322005&idx=3&sn=d6c7633db1eb521d22d9cebac3887e7e)
+
+9. 看我如何通过 OpenAI o3 挖到 Linux 内核远程 0day 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523149&idx=1&sn=0298267a08369cc3ea9bdbdec81eb788)
+
+10. 利用验证框架 JAIST揭示开源自动驾驶系统的安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247555294&idx=3&sn=09075eb75bc68c89437d35c5ddb10181)
+
+11. 【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f)
+
+12. 创宇安全智脑 | vBulletin远程代码执行（CVE-2025-48827∕CVE-2025-48828）等84个漏洞可检测 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491176&idx=1&sn=42c85804ebaac536b5d7e05b29a97a4f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：12篇
+⏰ 更新时间：2025-05-29 20:43:05<small>
+
+---
+
+
+## 📢 2025-05-29日新增文章
+
 1. 不容忽视的威胁：探索与JWT相关漏洞（另类的越权） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489499&idx=1&sn=5c212d09a83dfe975227bc478b0114df)
 
 2. 漏洞致命主义已经结束：为什么身份威胁预防是网络安全的未来 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672669&idx=1&sn=71417cae2e7bee44452d6b0b59147419)
