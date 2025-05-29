@@ -18,6 +18,33 @@
 
 ## 📢 2025-05-29日新增文章
 
+1. 不容忽视的威胁：探索与JWT相关漏洞（另类的越权） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489499&idx=1&sn=5c212d09a83dfe975227bc478b0114df)
+
+2. 漏洞致命主义已经结束：为什么身份威胁预防是网络安全的未来 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MzMzOTQ4Mw==&mid=2453672669&idx=1&sn=71417cae2e7bee44452d6b0b59147419)
+
+3. 端午活动开启！白盒+黑盒双修来袭！知名小朋友（代码审计）联手地图大师（企业SRC漏洞挖掘），端午节限时大放价！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485094&idx=1&sn=5e7af24dd9b1174661c3d7553be194bd)
+
+4. 如何通过一个SSRF漏洞挖出百万用户数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247483959&idx=1&sn=c804f2123e5364505e6d5b5ce8c556c2)
+
+5. SSRF漏洞详细讲解：攻击者是怎么“骗”服务器发起请求的 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247489500&idx=1&sn=59a42b9399b76744b3f91a726a0a112b)
+
+6. 【漏洞通告】Google Chrome V8越界写入漏洞(CVE-2025-5280) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501121&idx=2&sn=50940420fb1e9fde2dce1f8f6a5226ae)
+
+7. ​​CVE-2025-24813 Apache Tomcat RCE 漏洞深度解析与 PoC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485328&idx=3&sn=e9f38cccf7a23f748be4b9a79a4fe179)
+
+8. 端午活动开启！白盒+黑盒双修来袭！知名小朋友（代码审计）联手地图大师（企业SRC漏洞挖掘），端午节限时大放价！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486510&idx=1&sn=7a0166be0ab7a08b67e8717c0a493179)
+
+9. ByteSRC全域3倍积分！单个漏洞最高15w！送Apple全家桶！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk3NTk1NjM1MQ==&mid=2247487891&idx=1&sn=f5a635e1b59af1e7fa79da35637b1d98)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-05-29 16:29:08<small>
+
+---
+
+
+## 📢 2025-05-29日新增文章
+
 1. ofcms的XXE漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488205&idx=1&sn=07a9e01c17f5cfb38760b833ca7154e5)
 
 2. 【APT与高危漏洞追踪】国家级黑客UNC5221利用Ivanti漏洞，关键基础设施安全再敲警钟 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900623&idx=1&sn=994a88126abfed4b2bd10627e80437d3)
