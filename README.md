@@ -18,6 +18,47 @@
 
 ## 📢 2025-05-29日新增文章
 
+1. ofcms的XXE漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488205&idx=1&sn=07a9e01c17f5cfb38760b833ca7154e5)
+
+2. 【APT与高危漏洞追踪】国家级黑客UNC5221利用Ivanti漏洞，关键基础设施安全再敲警钟 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900623&idx=1&sn=994a88126abfed4b2bd10627e80437d3)
+
+3. 美国宇航局开源软件中爆出大量严重漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503379&idx=1&sn=88acd40380c32f491190c22bcf675915)
+
+4. ofcms的XXE漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519554&idx=2&sn=763611f710fb28ec096e6967fe96f2e9)
+
+5. 逻辑漏洞-使用 SSO 登录进行帐户接管 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488861&idx=1&sn=36092d38e428c6737bfc7a2291f944c2)
+
+6. 成都朗速ERP系统WebDwgDefault.aspx任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484116&idx=1&sn=8f852e246034721c5f5767262550e80e)
+
+7. CVE-2024-6235 PoC NetScaler 控制台漏洞可导致管理员访问 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487445&idx=1&sn=d783a258afbc17943c5187c0cd1efd9b)
+
+8. 紧急警报！Mimo黑客利用Craft CMS高危漏洞发动双重攻击：挖矿劫持+流量窃取 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487999&idx=1&sn=7c8f914e1ab77f146c33404799bb8db6)
+
+9. NIST发布“漏洞预测指标”，大幅提升漏洞管理能力 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503379&idx=2&sn=4a8f5498d392abb3a38ba91d4ea372a0)
+
+10. BurpSuite插件 | 告别手动测试，快速挖掘漏洞！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610910&idx=4&sn=2bf195e4c5cd6efeedf8043455f7ed0b)
+
+11. 成都朗速ERP系统高危漏洞曝光！任意文件上传（附修复方案） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490564&idx=1&sn=b21020d985bae3bd807b1e3a8eb8d14a)
+
+12. 白盒Sign加密到前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491713&idx=1&sn=35eb54f2e0199e3f7f5de84f67709c3e)
+
+13. 公安机关将公开通缉台黑客；|全球互联网因BGP协议漏洞出现大规模路由震荡；|苹果五年拦截90亿美元欺诈交易； 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610910&idx=1&sn=b2d51a5eeaf6c9d65136ea6e51ab56c2)
+
+14. EMQX后台插件命令执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499234&idx=1&sn=302778f0d6709a3b6ba6e7002fe7ed2a)
+
+15. 突发！土耳其关联APT组织利用零日漏洞，监控伊拉克库尔德武装！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486223&idx=1&sn=0e857a26fc61584767ec53eff5c40121)
+
+16. 我如何利用错误配置的 CORS 漏洞赚取 $$$ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506544&idx=3&sn=36333804dd8cbb762618db1e2489b7e1)
+
+#### 📊 统计信息
+<small>📝 新增文章数：16篇
+⏰ 更新时间：2025-05-29 12:27:58<small>
+
+---
+
+
+## 📢 2025-05-29日新增文章
+
 1. 北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击 | GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248038&idx=1&sn=730bfd35d652c9f7d2a1e99a6be3e26b)
 
 2. CVE-2025-24054的漏洞深度解析与 PoC 利用指南 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485328&idx=1&sn=7a0a77977a9916697db3f91f6372d3cd)
