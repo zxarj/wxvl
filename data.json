@@ -14620,5 +14620,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523149&idx=1&sn=0298267a08369cc3ea9bdbdec81eb788": "看我如何通过 OpenAI o3 挖到 Linux 内核远程 0day",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247555294&idx=3&sn=09075eb75bc68c89437d35c5ddb10181": "利用验证框架 JAIST揭示开源自动驾驶系统的安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f": "【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491176&idx=1&sn=42c85804ebaac536b5d7e05b29a97a4f": "创宇安全智脑 | vBulletin远程代码执行（CVE-2025-48827∕CVE-2025-48828）等84个漏洞可检测"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491176&idx=1&sn=42c85804ebaac536b5d7e05b29a97a4f": "创宇安全智脑 | vBulletin远程代码执行（CVE-2025-48827∕CVE-2025-48828）等84个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323": "小程序渗透记录：通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514445&idx=1&sn=6f6043b769f9bed3eb4ff2904556f776": "美军工巨头押注AI赋能网络攻击，超21亿元收购漏洞利用厂商",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491737&idx=1&sn=a4f727ba13cde3a317fdbf6711e10111": "Sirius 一款开源通用漏洞扫描器（Docker版）|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e": "一处价值 $2500 的 DOM XSS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490158&idx=1&sn=17f120cec84cc5ab344e5298683be964": "【高危漏洞预警】Apache Commons BeanUtils远程代码执行漏洞CVE-2025-48734",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9": "java代码执行(eval)"
 }

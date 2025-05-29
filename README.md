@@ -16,6 +16,33 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-30日新增文章
+
+1. 黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e)
+
+2. 小程序渗透记录：通过细节挖掘漏洞的艺术 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323)
+
+3. 美军工巨头押注AI赋能网络攻击，超21亿元收购漏洞利用厂商 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514445&idx=1&sn=6f6043b769f9bed3eb4ff2904556f776)
+
+4. Sirius 一款开源通用漏洞扫描器（Docker版）|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491737&idx=1&sn=a4f727ba13cde3a317fdbf6711e10111)
+
+5. Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0)
+
+6. 一处价值 $2500 的 DOM XSS 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e)
+
+7. 【高危漏洞预警】Apache Commons BeanUtils远程代码执行漏洞CVE-2025-48734 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490158&idx=1&sn=17f120cec84cc5ab344e5298683be964)
+
+8. 代码审计Sign加密到前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a)
+
+9. java代码执行(eval) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-05-30 00:27:34<small>
+
+---
+
+
 ## 📢 2025-05-29日新增文章
 
 1. “粽”享礼金，挖洞必“粽”，端午0DAY竞渡挑战赛开启！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503765&idx=1&sn=c91971d705c969009f7e9fd460725ad0)
