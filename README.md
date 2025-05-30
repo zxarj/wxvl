@@ -18,6 +18,21 @@
 
 ## 📢 2025-05-30日新增文章
 
+1. vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187)
+
+2. 微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086413&idx=1&sn=d20c43c1c81c5c2963f188f540ef56a4)
+
+3. 用友NC expertschedule SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491636&idx=1&sn=9aa9917155b1eedfbe7e73a85b3b0fbf)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-05-30 12:27:12<small>
+
+---
+
+
+## 📢 2025-05-30日新增文章
+
 1. ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d)
 
 2. 在Windows强跑Docker，8GB内存都喂不饱漏洞扫描神器？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860603&idx=1&sn=3f138383a35ce7cfbe9c538da4af941e)

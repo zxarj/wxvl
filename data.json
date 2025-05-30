@@ -14639,5 +14639,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c": "Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9": "漏洞预警 | 朗速ERP任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187": "vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086413&idx=1&sn=d20c43c1c81c5c2963f188f540ef56a4": "微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491636&idx=1&sn=9aa9917155b1eedfbe7e73a85b3b0fbf": "用友NC expertschedule SQL注入漏洞"
 }
