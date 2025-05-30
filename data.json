@@ -14629,5 +14629,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e": "一处价值 $2500 的 DOM XSS 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490158&idx=1&sn=17f120cec84cc5ab344e5298683be964": "【高危漏洞预警】Apache Commons BeanUtils远程代码执行漏洞CVE-2025-48734",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9": "java代码执行(eval)"
+    "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9": "java代码执行(eval)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d": "ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860603&idx=1&sn=3f138383a35ce7cfbe9c538da4af941e": "在Windows强跑Docker，8GB内存都喂不饱漏洞扫描神器？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=2&sn=c13a6632f6952677d33342a4e5c8776c": "AyySSHush：利用华硕已修复漏洞组建僵尸网络的间谍技术",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506513&idx=1&sn=6e00e60bc051e20d313ebd7d41019761": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=3&sn=914afcabd8edcc167e4b033e85e3b45e": "漏洞预警 | 万户ezOFFICE SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c": "Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9": "漏洞预警 | 朗速ERP任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险"
 }

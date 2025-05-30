@@ -18,6 +18,35 @@
 
 ## 📢 2025-05-30日新增文章
 
+1. ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d)
+
+2. 在Windows强跑Docker，8GB内存都喂不饱漏洞扫描神器？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860603&idx=1&sn=3f138383a35ce7cfbe9c538da4af941e)
+
+3. AyySSHush：利用华硕已修复漏洞组建僵尸网络的间谍技术 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=2&sn=c13a6632f6952677d33342a4e5c8776c)
+
+4. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506513&idx=1&sn=6e00e60bc051e20d313ebd7d41019761)
+
+5. 漏洞预警 | 万户ezOFFICE SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=3&sn=914afcabd8edcc167e4b033e85e3b45e)
+
+6. 任意文件读取&下载漏洞的全面解析及利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665)
+
+7. Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c)
+
+8. 漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237)
+
+9. 漏洞预警 | 朗速ERP任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9)
+
+10. Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-05-30 09:44:47<small>
+
+---
+
+
+## 📢 2025-05-30日新增文章
+
 1. 黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e)
 
 2. 小程序渗透记录：通过细节挖掘漏洞的艺术 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323)
