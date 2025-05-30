@@ -18,6 +18,17 @@
 
 ## 📢 2025-05-31日新增文章
 
+1. Oracle TNS协议漏洞允许攻击者访问系统内存数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492652&idx=1&sn=d0f0f05d9d44c122c3ba9b344800665e)
+
+#### 📊 统计信息
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-05-31 04:23:13<small>
+
+---
+
+
+## 📢 2025-05-31日新增文章
+
 1. GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496910&idx=1&sn=584999d1f25820d6025e9c93c55a9392)
 
 2. 【攻防实战】ThinkPHP-RCE集锦 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502501&idx=1&sn=aeaae16a4b401d08bf2af6cfe32bedd6)
