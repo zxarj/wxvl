@@ -18,6 +18,25 @@
 
 ## 📢 2025-05-30日新增文章
 
+1. IBM Power HMC漏洞披露：受限Shell突破与权限提升 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512289&idx=1&sn=48c4fb2f47eec32325185a611bd32558)
+
+2. 安全通告丨网络安全漏洞通告（2025年5月） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525702&idx=2&sn=f8d32065c33e2857813f41504c58160e)
+
+3. 信息安全漏洞周报【第024期】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064186&idx=1&sn=07847eae4bea58c92f7d7b685aa3c998)
+
+4. 聊热点｜国家安全部发布使用AI应用保密安全指南、OpenAI o3模型单挑Linux内核，竟揪出一个0-day高危漏洞…… 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247535985&idx=2&sn=ad6a797aa1ac561e3875afbf6114878f)
+
+5. svnExploit【SVN源代码泄露全版本Dump源码工具】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490475&idx=1&sn=6c8864b9e13da6f05fa461576b956a2f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-05-30 16:28:18<small>
+
+---
+
+
+## 📢 2025-05-30日新增文章
+
 1. vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187)
 
 2. 微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086413&idx=1&sn=d20c43c1c81c5c2963f188f540ef56a4)
