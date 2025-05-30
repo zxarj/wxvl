@@ -18,6 +18,29 @@
 
 ## 📢 2025-05-30日新增文章
 
+1. aws漏洞利用框架系列之一：pacu简介 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712266&idx=1&sn=e34c30404d96ca13434abd914eed3a21)
+
+2. 【安全圈】苹果 Safari 全屏模式曝中间人攻击漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=3&sn=a14a5bbf691eddc51b2cdf4e1f604678)
+
+3. 预接管漏洞挖掘：条件竞争与逻辑缺陷的组合利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247483972&idx=1&sn=a90126cfcc2ef8350d469f7b5f4fcc62)
+
+4. GitHub MCP 漏洞：通过 MCP 访问私有仓库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530309&idx=2&sn=1b87e582acb182c7249a8cd723a9617c)
+
+5. 【安全圈】微软 OneDrive 被曝安全漏洞：文件选择器权限过宽恐致数据泄露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=2&sn=f99594f728b498a9c7094b2331893ba4)
+
+6. 指纹识别+精准化 POC 攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554998&idx=1&sn=6691793afdd1d819140ff1e43e7b135a)
+
+7. 苹果Safari 漏洞使用户易遭全屏中间浏览器攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523160&idx=1&sn=e6700c85073b35c5140da4fff0e4d9f0)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-05-30 20:43:05<small>
+
+---
+
+
+## 📢 2025-05-30日新增文章
+
 1. IBM Power HMC漏洞披露：受限Shell突破与权限提升 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512289&idx=1&sn=48c4fb2f47eec32325185a611bd32558)
 
 2. 安全通告丨网络安全漏洞通告（2025年5月） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525702&idx=2&sn=f8d32065c33e2857813f41504c58160e)

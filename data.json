@@ -14647,5 +14647,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525702&idx=2&sn=f8d32065c33e2857813f41504c58160e": "安全通告丨网络安全漏洞通告（2025年5月）",
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064186&idx=1&sn=07847eae4bea58c92f7d7b685aa3c998": "信息安全漏洞周报【第024期】",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247535985&idx=2&sn=ad6a797aa1ac561e3875afbf6114878f": "聊热点｜国家安全部发布使用AI应用保密安全指南、OpenAI o3模型单挑Linux内核，竟揪出一个0-day高危漏洞……",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490475&idx=1&sn=6c8864b9e13da6f05fa461576b956a2f": "svnExploit【SVN源代码泄露全版本Dump源码工具】"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490475&idx=1&sn=6c8864b9e13da6f05fa461576b956a2f": "svnExploit【SVN源代码泄露全版本Dump源码工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712266&idx=1&sn=e34c30404d96ca13434abd914eed3a21": "aws漏洞利用框架系列之一：pacu简介",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=3&sn=a14a5bbf691eddc51b2cdf4e1f604678": "【安全圈】苹果 Safari 全屏模式曝中间人攻击漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247483972&idx=1&sn=a90126cfcc2ef8350d469f7b5f4fcc62": "预接管漏洞挖掘：条件竞争与逻辑缺陷的组合利用",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530309&idx=2&sn=1b87e582acb182c7249a8cd723a9617c": "GitHub MCP 漏洞：通过 MCP 访问私有仓库",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069908&idx=2&sn=f99594f728b498a9c7094b2331893ba4": "【安全圈】微软 OneDrive 被曝安全漏洞：文件选择器权限过宽恐致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554998&idx=1&sn=6691793afdd1d819140ff1e43e7b135a": "指纹识别+精准化 POC 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523160&idx=1&sn=e6700c85073b35c5140da4fff0e4d9f0": "苹果Safari 漏洞使用户易遭全屏中间浏览器攻击"
 }
