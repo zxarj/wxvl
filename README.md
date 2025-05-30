@@ -16,6 +16,25 @@
 
 ## 📝 更新日志
 
+## 📢 2025-05-31日新增文章
+
+1. GitHub MCP服务器漏洞使攻击者可访问私有代码库 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496910&idx=1&sn=584999d1f25820d6025e9c93c55a9392)
+
+2. 【攻防实战】ThinkPHP-RCE集锦 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502501&idx=1&sn=aeaae16a4b401d08bf2af6cfe32bedd6)
+
+3. 海外SRC漏洞挖掘｜助力成为百万赏金猎人 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497667&idx=1&sn=54a41bdf17408e8804207e4246162573)
+
+4. vBulletin远程代码执行漏洞复现（CVE-2025-48827）附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484435&idx=1&sn=34d2645c029628322e82edb23c28b580)
+
+5. 荐读丨连锁反应：海上网络的安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533384&idx=2&sn=11a6c5fe842ff1ce8e02a9784a1124d9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-05-31 00:27:41<small>
+
+---
+
+
 ## 📢 2025-05-30日新增文章
 
 1. aws漏洞利用框架系列之一：pacu简介 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712266&idx=1&sn=e34c30404d96ca13434abd914eed3a21)
