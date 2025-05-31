@@ -18,6 +18,19 @@
 
 ## 📢 2025-05-31日新增文章
 
+1. 突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488614&idx=1&sn=21a4902c98991897ceb84d8be6a3eea1)
+
+2. 阿迪达斯曝数据泄露事件，NASA开源软件发现安全漏洞|一周特辑 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133221&idx=1&sn=3040271f1fd3fc85096d998d0e21c08d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-05-31 12:25:28<small>
+
+---
+
+
+## 📢 2025-05-31日新增文章
+
 1. 短信验证码漏洞利用技巧总结&&端午社区活动 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491239&idx=1&sn=b27d7a0f459598f6daba035f0a5afea1)
 
 #### 📊 统计信息
