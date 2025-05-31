@@ -18,6 +18,25 @@
 
 ## 📢 2025-05-31日新增文章
 
+1. Pwn2Own 爱尔兰 - QNAP SQL 注入 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488620&idx=2&sn=6d2e7297bd61a2b100e43046c8973c60)
+
+2. Meteobridge template.cgi 远程命令执行漏洞 (CVE-2025-4008) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491654&idx=1&sn=ea4cb7c04e047b1d77707e8f9e5c34d8)
+
+3. WordPress热门插件TI WooCommerce Wishlist曝致命漏洞！CVSS 10.0，无需认证即可攻击！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900649&idx=1&sn=718dad314e61f76d421045f8db0b5170)
+
+4. CVE-2024-26809｜Linux提权漏洞（PoC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=3&sn=9f0e131ae68dc2c05596c0e8e8b663f6)
+
+5. CVE-2025-41225｜VMware vCenter Server认证命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=2&sn=7232cafb03fec2e869598e3a44b90dc9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-05-31 20:41:42<small>
+
+---
+
+
+## 📢 2025-05-31日新增文章
+
 1. 突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488614&idx=1&sn=21a4902c98991897ceb84d8be6a3eea1)
 
 2. 阿迪达斯曝数据泄露事件，NASA开源软件发现安全漏洞|一周特辑 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133221&idx=1&sn=3040271f1fd3fc85096d998d0e21c08d)

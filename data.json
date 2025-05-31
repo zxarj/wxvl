@@ -14663,5 +14663,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492652&idx=1&sn=d0f0f05d9d44c122c3ba9b344800665e": "Oracle TNS协议漏洞允许攻击者访问系统内存数据",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491239&idx=1&sn=b27d7a0f459598f6daba035f0a5afea1": "短信验证码漏洞利用技巧总结&&端午社区活动",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488614&idx=1&sn=21a4902c98991897ceb84d8be6a3eea1": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索",
-    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133221&idx=1&sn=3040271f1fd3fc85096d998d0e21c08d": "阿迪达斯曝数据泄露事件，NASA开源软件发现安全漏洞|一周特辑"
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133221&idx=1&sn=3040271f1fd3fc85096d998d0e21c08d": "阿迪达斯曝数据泄露事件，NASA开源软件发现安全漏洞|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488620&idx=2&sn=6d2e7297bd61a2b100e43046c8973c60": "Pwn2Own 爱尔兰 - QNAP SQL 注入 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491654&idx=1&sn=ea4cb7c04e047b1d77707e8f9e5c34d8": "Meteobridge template.cgi 远程命令执行漏洞 (CVE-2025-4008)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900649&idx=1&sn=718dad314e61f76d421045f8db0b5170": "WordPress热门插件TI WooCommerce Wishlist曝致命漏洞！CVSS 10.0，无需认证即可攻击！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=3&sn=9f0e131ae68dc2c05596c0e8e8b663f6": "CVE-2024-26809｜Linux提权漏洞（PoC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485965&idx=2&sn=7232cafb03fec2e869598e3a44b90dc9": "CVE-2025-41225｜VMware vCenter Server认证命令执行漏洞"
 }
