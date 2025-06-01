@@ -16,6 +16,19 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-02日新增文章
+
+1. 目录浏览漏洞统计脚本 -- web_director_viewer（5月28日更新） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516738&idx=1&sn=88872ecc81acaaafa9838d99b3359fa1)
+
+2. 【文末护网秘籍】史诗终局：SSRF漏洞撕裂AWS防线！我从Wayback Machine炼出“弑神箭”，一箭射穿黑产帝国命门！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485554&idx=1&sn=824dd27c139e49a5431875369685ea03)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-02 00:24:58<small>
+
+---
+
+
 ## 📢 2025-06-01日新增文章
 
 1. 【攻防实战】ActiveMQ漏洞集锦 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502774&idx=1&sn=f7262ac03c15933af92a0d4a7ac437fd)

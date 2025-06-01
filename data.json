@@ -14687,5 +14687,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=1&sn=7d8850145d9d66641c6ffba5a2c8c7eb": "CVE-2025-5277：AWS MCP 服务器中的命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502774&idx=1&sn=f7262ac03c15933af92a0d4a7ac437fd": "【攻防实战】ActiveMQ漏洞集锦",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485877&idx=1&sn=8b1dd823a7b97c930529e2ba76284f93": "Grafana开放重定向&服务端请求伪造漏洞(CVE-2025-4123)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485877&idx=1&sn=8b1dd823a7b97c930529e2ba76284f93": "Grafana开放重定向&服务端请求伪造漏洞(CVE-2025-4123)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516738&idx=1&sn=88872ecc81acaaafa9838d99b3359fa1": "目录浏览漏洞统计脚本 -- web_director_viewer（5月28日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485554&idx=1&sn=824dd27c139e49a5431875369685ea03": "【文末护网秘籍】史诗终局：SSRF漏洞撕裂AWS防线！我从Wayback Machine炼出“弑神箭”，一箭射穿黑产帝国命门！"
 }
