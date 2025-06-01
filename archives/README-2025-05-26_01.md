@@ -12,23 +12,17 @@
 ## 📊 本周统计
 - 开始时间：2025-06-01
 - 文章总数：0 篇
-- 最后更新：2025-06-01 10:03:47
+- 最后更新：2025-06-01 12:36:15
 
 ## 📝 更新日志
 
 ## 📢 2025-06-01日新增文章
 
-1. 任意文件读取&下载漏洞的全面解析及利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488659&idx=2&sn=098f93f509ee7d88c5c6bda227c86154)
-
-2. 记某众测Fastjson<=1.2.68反序列化RCE过程 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=3&sn=9de6823533b7c81787188772ad659886)
-
-3. 作业四 web安全assert()漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485137&idx=1&sn=a2324f1d887b407e5a5c378699172fa5)
-
-4. 国家网络安全中心发高危漏洞预警 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=1&sn=b65519e4ba185ad6ae0031556576681a)
+1. Mimo黑客利用Craft CMS漏洞(CVE-2025-32432)！挖矿、流量劫持，更演变为勒索软件威胁！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900650&idx=1&sn=7482c6fc3609162a06181413aad71af9)
 
 #### 📊 统计信息
-<small>📝 新增文章数：4篇
-⏰ 更新时间：2025-06-01 10:03:59<small>
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-06-01 12:36:20<small>
 
 ---
 

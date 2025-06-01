@@ -14679,5 +14679,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=3&sn=9de6823533b7c81787188772ad659886": "记某众测Fastjson<=1.2.68反序列化RCE过程",
     "https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485137&idx=1&sn=a2324f1d887b407e5a5c378699172fa5": "作业四 web安全assert()漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=1&sn=b65519e4ba185ad6ae0031556576681a": "国家网络安全中心发高危漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900650&idx=1&sn=7482c6fc3609162a06181413aad71af9": "Mimo黑客利用Craft CMS漏洞(CVE-2025-32432)！挖矿、流量劫持，更演变为勒索软件威胁！"
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900650&idx=1&sn=7482c6fc3609162a06181413aad71af9": "Mimo黑客利用Craft CMS漏洞(CVE-2025-32432)！挖矿、流量劫持，更演变为勒索软件威胁！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488023&idx=1&sn=761a3beceb05cc041a4a78dcd11befa7": "AI绘图工具ComfyUI爆高危漏洞，境外黑客已发起攻击！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc2MDQyMg==&mid=2247486548&idx=1&sn=c0d672fad264d6de3bc4380097dc7e60": "某校大数据管理后台Docker API未授权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486532&idx=1&sn=9c17c6009d678589e7adc36ae3518748": "某平台白盒JAVA权限绕过到RCE审计流程",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484000&idx=1&sn=6209b588e47c15b6bb5648ad0fbf3387": "价值12000美元 的GitLab 中的 Git flag注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=1&sn=7d8850145d9d66641c6ffba5a2c8c7eb": "CVE-2025-5277：AWS MCP 服务器中的命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）"
 }
