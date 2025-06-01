@@ -14685,5 +14685,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486532&idx=1&sn=9c17c6009d678589e7adc36ae3518748": "某平台白盒JAVA权限绕过到RCE审计流程",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484000&idx=1&sn=6209b588e47c15b6bb5648ad0fbf3387": "价值12000美元 的GitLab 中的 Git flag注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=1&sn=7d8850145d9d66641c6ffba5a2c8c7eb": "CVE-2025-5277：AWS MCP 服务器中的命令注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530349&idx=2&sn=784deada10b94c1531046ed0aa5a15e9": "通过 JScript.dll 中的 UAF 漏洞执行远程代码（CVE-2025-30397）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502774&idx=1&sn=f7262ac03c15933af92a0d4a7ac437fd": "【攻防实战】ActiveMQ漏洞集锦",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485877&idx=1&sn=8b1dd823a7b97c930529e2ba76284f93": "Grafana开放重定向&服务端请求伪造漏洞(CVE-2025-4123)"
 }
