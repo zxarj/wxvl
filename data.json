@@ -14697,5 +14697,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499790&idx=1&sn=91fc65c817ed18dfb8198f2b5af72aa9": "技术精华 | .NET 四种方法上传 web.config 绕过限制实现 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550254&idx=1&sn=942bb44202f3367a714ac4391ed57ea7": "简易短信轰炸漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485313&idx=1&sn=247d4db6184e4b05b478be78312739d7": "文件上传操作漏洞场景挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51": "新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51": "新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793": "CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485111&idx=1&sn=be23f1163c26c43f14f961394ecc01fc": "Supermap iServer任意文件读取漏洞"
 }
