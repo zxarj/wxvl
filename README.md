@@ -18,6 +18,17 @@
 
 ## 📢 2025-06-03日新增文章
 
+1. 国产 Web 框架 Solon v2.5.11 RCE && nginxWebUI RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485884&idx=1&sn=b127b788e9aada865a9653b23919fb67)
+
+#### 📊 统计信息
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-06-03 04:23:50<small>
+
+---
+
+
+## 📢 2025-06-03日新增文章
+
 1. Linux系统安全警报：Ubuntu和RHEL发现信息泄露漏洞，CVE-2025-4598被评为Moderate 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489373&idx=1&sn=e6f109cf43353dbc8175d922bdedb62a)
 
 2. WordPress suretriggers 权限绕过漏洞 (CVE-2025-3102) 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491664&idx=1&sn=a8865cbc68fb7086352d521ea2eb1119)
