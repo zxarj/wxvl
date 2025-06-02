@@ -18,6 +18,23 @@
 
 ## 📢 2025-06-02日新增文章
 
+1. 量子安全警钟：外国研究者披露墨子号卫星激光同步漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510481&idx=1&sn=bda61f971c6f5ebd7e65b379ff4a60a5)
+
+2. 紧急预警！Linux核心转存漏洞曝光，Ubuntu、红帽系统密码哈希可被窃取 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488028&idx=1&sn=aac796ada6be8ef09722a2370bf46836)
+
+3. 任意文件读取&下载漏洞的全面解析及利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488661&idx=2&sn=934c606c129a3f0d86781aa7963819bd)
+
+4. 技术精华 | .NET 四种方法上传 web.config 绕过限制实现 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499790&idx=1&sn=91fc65c817ed18dfb8198f2b5af72aa9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-02 09:51:59<small>
+
+---
+
+
+## 📢 2025-06-02日新增文章
+
 1. 这12个API漏洞赏金技巧，你一定要在目标上试试！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515358&idx=1&sn=7685c3953d21b06e259c41e0b8e22ebd)
 
 #### 📊 统计信息
