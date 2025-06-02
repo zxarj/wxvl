@@ -14699,5 +14699,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485313&idx=1&sn=247d4db6184e4b05b478be78312739d7": "文件上传操作漏洞场景挖掘思路",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51": "新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793": "CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485111&idx=1&sn=be23f1163c26c43f14f961394ecc01fc": "Supermap iServer任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485111&idx=1&sn=be23f1163c26c43f14f961394ecc01fc": "Supermap iServer任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0": "AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486046&idx=1&sn=ef5ca8771a343763de51286f0d4b13ea": "【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484205&idx=1&sn=bd0d9135fb8a77ecb1a10a022c3432ca": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096296&idx=2&sn=e36e823e735c1b506cae71c3c20866d5": "关键 Linux 漏洞暴露了全球数百万个 Linux 系统上的密码哈希"
 }

@@ -18,6 +18,23 @@
 
 ## 📢 2025-06-02日新增文章
 
+1. AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0)
+
+2. 【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486046&idx=1&sn=ef5ca8771a343763de51286f0d4b13ea)
+
+3. 某园区0day代码审计 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484205&idx=1&sn=bd0d9135fb8a77ecb1a10a022c3432ca)
+
+4. 关键 Linux 漏洞暴露了全球数百万个 Linux 系统上的密码哈希 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096296&idx=2&sn=e36e823e735c1b506cae71c3c20866d5)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-02 20:44:36<small>
+
+---
+
+
+## 📢 2025-06-02日新增文章
+
 1. CVE-2025-31644 F5 BIG-IP iControl TMSH 接口命令注入漏洞深入分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492045&idx=1&sn=4aa5d92ab474e19ac263cf91acdef793)
 
 2. Supermap iServer任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485111&idx=1&sn=be23f1163c26c43f14f961394ecc01fc)
