@@ -16,6 +16,23 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-03日新增文章
+
+1. Linux系统安全警报：Ubuntu和RHEL发现信息泄露漏洞，CVE-2025-4598被评为Moderate 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489373&idx=1&sn=e6f109cf43353dbc8175d922bdedb62a)
+
+2. WordPress suretriggers 权限绕过漏洞 (CVE-2025-3102) 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491664&idx=1&sn=a8865cbc68fb7086352d521ea2eb1119)
+
+3. 突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0)
+
+4. 严重Linux漏洞致全球数百万系统密码哈希值泄露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322307&idx=1&sn=4063f0cef12989b63bd8d0d3cd998454)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-03 00:28:36<small>
+
+---
+
+
 ## 📢 2025-06-02日新增文章
 
 1. AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0)

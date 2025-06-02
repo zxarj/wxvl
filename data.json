@@ -14703,5 +14703,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0": "AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486046&idx=1&sn=ef5ca8771a343763de51286f0d4b13ea": "【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTgzMDg1NA==&mid=2247484205&idx=1&sn=bd0d9135fb8a77ecb1a10a022c3432ca": "某园区0day代码审计",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096296&idx=2&sn=e36e823e735c1b506cae71c3c20866d5": "关键 Linux 漏洞暴露了全球数百万个 Linux 系统上的密码哈希"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096296&idx=2&sn=e36e823e735c1b506cae71c3c20866d5": "关键 Linux 漏洞暴露了全球数百万个 Linux 系统上的密码哈希",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489373&idx=1&sn=e6f109cf43353dbc8175d922bdedb62a": "Linux系统安全警报：Ubuntu和RHEL发现信息泄露漏洞，CVE-2025-4598被评为Moderate",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491664&idx=1&sn=a8865cbc68fb7086352d521ea2eb1119": "WordPress suretriggers 权限绕过漏洞 (CVE-2025-3102) 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322307&idx=1&sn=4063f0cef12989b63bd8d0d3cd998454": "严重Linux漏洞致全球数百万系统密码哈希值泄露"
 }
