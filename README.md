@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-02日新增文章
 
+1. 简易短信轰炸漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550254&idx=1&sn=942bb44202f3367a714ac4391ed57ea7)
+
+2. 文件上传操作漏洞场景挖掘思路 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485313&idx=1&sn=247d4db6184e4b05b478be78312739d7)
+
+3. 新的 Linux 漏洞允许通过 Ubuntu、RHEL、Fedora 中的核心内存转储窃取密码哈希值 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795290&idx=3&sn=38b7ca8cfa5b15a3b60557ca6177ec51)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-02 12:31:45<small>
+
+---
+
+
+## 📢 2025-06-02日新增文章
+
 1. 量子安全警钟：外国研究者披露墨子号卫星激光同步漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510481&idx=1&sn=bda61f971c6f5ebd7e65b379ff4a60a5)
 
 2. 紧急预警！Linux核心转存漏洞曝光，Ubuntu、红帽系统密码哈希可被窃取 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488028&idx=1&sn=aac796ada6be8ef09722a2370bf46836)
