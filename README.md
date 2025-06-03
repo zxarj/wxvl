@@ -18,6 +18,59 @@
 
 ## 📢 2025-06-03日新增文章
 
+1. 漏洞通告 | llama_Index SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507765&idx=1&sn=9504084832ca68bdca9d43324f9d7474)
+
+2. SRC漏洞挖掘：别再盯着那些烂大街的姿势了！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497545&idx=2&sn=388a1ddd29a198e2ec0aa94088e91f4f)
+
+3. 小心全屏“障眼法”！苹果浏览器曝BitM攻击漏洞，登录凭证面临失窃风险！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900653&idx=1&sn=d8753f3adada1da31a48013b2410f1c3)
+
+4. 加密算法被破解而导致的漏洞，能按内部已知+通用漏洞忽略吗？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492458&idx=1&sn=f2fd28cb57bd84b198896cf15b300043)
+
+5. 谷歌Chrome零日漏洞遭广泛利用，可执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322416&idx=1&sn=f496ad76672dc84007c77a588480096b)
+
+6. 高通：速修复这三个已遭利用的 Adreno GPU 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=1&sn=41ef09229896e2bf881d8508d57c29fd)
+
+7. 【1day】某医药系统存在前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3)
+
+8. CNVD漏洞周报2025年第20期 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496018&idx=1&sn=0c204e70771dbe94a5f424a8a21acb78)
+
+9. 【高危漏洞预警】YAML-LibYAML信息泄露漏洞(CVE-2025-40908) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490173&idx=1&sn=4f5ff7a32aaddb7668e87502c08b810a)
+
+10. CNVD漏洞周报2025年第20期 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499948&idx=1&sn=8d0a50fa3be577710f99f60e0d55b1ea)
+
+11. SRC实战篇-还在交Druid的低危漏洞？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247484946&idx=1&sn=d5515e74135ed5faeca4b174483625eb)
+
+12. 上周关注度较高的产品安全漏洞(20250526-20250601) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496018&idx=2&sn=8e0f8b730bf80442638e1ddc4cfaa67d)
+
+13. 【免费领】智能设备安全干货：路由器0day漏洞实战大全 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555006&idx=2&sn=df42accd650c3815dec113c6066fbb05)
+
+14. 【风险通告】Roundcube Webmail存在反序列化漏洞（CVE-2025-49113） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490407&idx=1&sn=59e92744084604a545c4ba90ce5b5901)
+
+15. 【漏洞通告】Google Chrome越界读写漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497531&idx=1&sn=abfa9f975edcef1c644013013123b992)
+
+16. 第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487580&idx=1&sn=c3d1340301f061e448a5c33fcf1e724e)
+
+17. Chrome 浏览器V8引擎越界读写漏洞(CVE-2025-5419) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524455&idx=1&sn=7d56f68b4a46168ba93320c07c0c6894)
+
+18. 【安全圈】谷歌修复导致 AI 概览称“现在是 2024 年”的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069983&idx=2&sn=aadb9b93aed958142a9ead6975be3334)
+
+19. openfire鉴权绕过漏洞原理解析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037738&idx=1&sn=5caed91973ba168620331341c348e949)
+
+20. 【安全圈】OneDrive 文件选择器漏洞让应用程序获取用户整个云盘的访问权限 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069983&idx=1&sn=eb2edf37f5fe485f355232db8212e7da)
+
+21. 搭建靶场、Windows∕Linux系统安全、sql注入、XSS、代码审计∕RCE、木马免杀、暴力破解、SSRF、提权 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281264&idx=2&sn=8bfbc105cc225c87951b3fc957ea7e4c)
+
+22. 群晖DiskStation漏洞利用：从CVE-2024-10442到远程代码执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512290&idx=1&sn=59f9e65046dbe616bab36f8cc905751b)
+
+#### 📊 统计信息
+<small>📝 新增文章数：22篇
+⏰ 更新时间：2025-06-03 20:46:04<small>
+
+---
+
+
+## 📢 2025-06-03日新增文章
+
 1. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？(文末赠书) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485855&idx=1&sn=1ee08da0b56a4bc9dc8d8c78f0c32b52)
 
 2. 还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484520&idx=1&sn=b2c7479d43d432ea870909c8e2982c67)
