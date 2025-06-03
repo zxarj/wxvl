@@ -16,6 +16,33 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-04日新增文章
+
+1. 紧急预警：谷歌Chrome高危0Day漏洞（CVE-2025-5419）遭黑客大规模利用！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485477&idx=1&sn=d14d0b13567a89ebdf0c7f7311643b87)
+
+2. 隐秘的 npm 供应链攻击：误植域名导致RCE和数据破坏 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=2&sn=4249c8e9e0dace01810c665eda52c421)
+
+3. 天擎终端安全管理系统getsimilarlist存在SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e)
+
+4. 杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544)
+
+5. java审计之下载漏洞获取到的代码如何断点调试 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484586&idx=1&sn=61cc63ef6e7072a562ffca32d9e0498a)
+
+6. Edu实战记录 | 四个漏洞打包提交 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487122&idx=1&sn=85d1305a6894dabf8e32db3149494fc0)
+
+7. SRC凭什么要为“废物”白帽子的真实漏洞付费？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507104&idx=1&sn=48dabeea7a2f1ec51307204a97523111)
+
+8. vBulletin replaceAdTemplate 远程代码执行漏洞 (CVE-2025-48827) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491674&idx=1&sn=0f431e61e3429ce89491799a3222c337)
+
+9. 【AI高危漏洞预警】AstrBot路径遍历漏洞CVE-2025-48957 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490173&idx=2&sn=86d636b4d5e7fb36ab9a97507f549c21)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-04 00:29:33<small>
+
+---
+
+
 ## 📢 2025-06-03日新增文章
 
 1. 漏洞通告 | llama_Index SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507765&idx=1&sn=9504084832ca68bdca9d43324f9d7474)
