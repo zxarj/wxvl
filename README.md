@@ -18,6 +18,19 @@
 
 ## 📢 2025-06-04日新增文章
 
+1. CVSS10分！vBulletin远程代码执行漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623594&idx=2&sn=120a04c661d02eabd3898c0da6d200f3)
+
+2. 后渗透神器AdaptixC2红队渗测试多人协作框架（附带教程）|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491927&idx=1&sn=8ff43a267d390da09bb09964f1c7c522)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-04 04:24:23<small>
+
+---
+
+
+## 📢 2025-06-04日新增文章
+
 1. 紧急预警：谷歌Chrome高危0Day漏洞（CVE-2025-5419）遭黑客大规模利用！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485477&idx=1&sn=d14d0b13567a89ebdf0c7f7311643b87)
 
 2. 隐秘的 npm 供应链攻击：误植域名导致RCE和数据破坏 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=2&sn=4249c8e9e0dace01810c665eda52c421)
