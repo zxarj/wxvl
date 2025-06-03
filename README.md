@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-03日新增文章
 
+1. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？(文末赠书) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485855&idx=1&sn=1ee08da0b56a4bc9dc8d8c78f0c32b52)
+
+2. 还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484520&idx=1&sn=b2c7479d43d432ea870909c8e2982c67)
+
+3. Nacos Derby命令执行漏洞利用脚本 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486128&idx=1&sn=f53eee0b5e39100f7c419294e03470f2)
+
+4. 分享一款图形化的 .DS_Store文件泄露、.git目录泄露、.svn目录泄露漏洞利用工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490549&idx=1&sn=41c95e54595d2a93aeead92a7d3ccfaf)
+
+5. Linux崩溃报告漏洞（cve -2025- 5054,4598）暴露密码哈希 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5NTA0MTY2Mw==&mid=2247485940&idx=1&sn=823869f1102b2f23517af096e86cea71)
+
+6. 【漏洞预警】Google Chrome 越界读写漏洞(CVE-2025-5419) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486692&idx=1&sn=6cb93ecc909a04b68dfcecff8622eec0)
+
+7. 粉丝福利*3《攻击网络协议：协议漏洞的发现+利用+保护》 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521231&idx=1&sn=497bf82f8e4dc070256e7da622bae771)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-03 16:31:09<small>
+
+---
+
+
+## 📢 2025-06-03日新增文章
+
 1. 还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247490976&idx=1&sn=36d7bc9e1e4ac616bb517481181ebcd2)
 
 2. 高通警告黑客正在利用三个新修补的 Adreno GPU 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=3&sn=c9459b810da15cd8177f4838c1d3e015)
