@@ -18,6 +18,31 @@
 
 ## 📢 2025-06-03日新增文章
 
+1. vBulletin论坛软件曝出两大漏洞正遭活跃攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=4&sn=83f48d8ebe0933c0775806b72338737c)
+
+2. 突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488688&idx=2&sn=ce63f1c9f51187b003ff38f7df255576)
+
+3. Realtek蓝牙HCI适配器驱动程序0day漏洞披露，攻击者可删除Windows任意文件 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=2&sn=39e27fa254e9d75b09d7edf6a137246d)
+
+4. 专家发布了关于思科IOS XE WLC漏洞CVE-2025-20188的详细分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=1&sn=c1c4477aa71c8c5ec31746683788cc6b)
+
+5. 一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494412&idx=1&sn=13bc8dcddd3dad02a2efc9e51490e172)
+
+6. 漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=2&sn=959893b377b1f9d3bb3d7df38ce51c70)
+
+7. 漏洞预警 | Google Chrome V8越界写入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=1&sn=dab2e1d27876d12d5663f0ae1a7d1c4d)
+
+8. Evertz SDVN 上的远程代码执行 (CVE-2025-4009) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：8篇
+⏰ 更新时间：2025-06-03 09:48:47<small>
+
+---
+
+
+## 📢 2025-06-03日新增文章
+
 1. 国产 Web 框架 Solon v2.5.11 RCE && nginxWebUI RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485884&idx=1&sn=b127b788e9aada865a9653b23919fb67)
 
 #### 📊 统计信息

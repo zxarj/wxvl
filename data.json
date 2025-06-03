@@ -14708,5 +14708,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491664&idx=1&sn=a8865cbc68fb7086352d521ea2eb1119": "WordPress suretriggers 权限绕过漏洞 (CVE-2025-3102) 附POC",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322307&idx=1&sn=4063f0cef12989b63bd8d0d3cd998454": "严重Linux漏洞致全球数百万系统密码哈希值泄露",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485884&idx=1&sn=b127b788e9aada865a9653b23919fb67": "国产 Web 框架 Solon v2.5.11 RCE && nginxWebUI RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485884&idx=1&sn=b127b788e9aada865a9653b23919fb67": "国产 Web 框架 Solon v2.5.11 RCE && nginxWebUI RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=4&sn=83f48d8ebe0933c0775806b72338737c": "vBulletin论坛软件曝出两大漏洞正遭活跃攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488688&idx=2&sn=ce63f1c9f51187b003ff38f7df255576": "突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=2&sn=39e27fa254e9d75b09d7edf6a137246d": "Realtek蓝牙HCI适配器驱动程序0day漏洞披露，攻击者可删除Windows任意文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=1&sn=c1c4477aa71c8c5ec31746683788cc6b": "专家发布了关于思科IOS XE WLC漏洞CVE-2025-20188的详细分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494412&idx=1&sn=13bc8dcddd3dad02a2efc9e51490e172": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=2&sn=959893b377b1f9d3bb3d7df38ce51c70": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=1&sn=dab2e1d27876d12d5663f0ae1a7d1c4d": "漏洞预警 | Google Chrome V8越界写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)"
 }
