@@ -14716,5 +14716,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494412&idx=1&sn=13bc8dcddd3dad02a2efc9e51490e172": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=2&sn=959893b377b1f9d3bb3d7df38ce51c70": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=1&sn=dab2e1d27876d12d5663f0ae1a7d1c4d": "漏洞预警 | Google Chrome V8越界写入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247490976&idx=1&sn=36d7bc9e1e4ac616bb517481181ebcd2": "还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=3&sn=c9459b810da15cd8177f4838c1d3e015": "高通警告黑客正在利用三个新修补的 Adreno GPU 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485043&idx=1&sn=c1f032c67767a91affd1e7de4abac388": "CVE-2025-40634：TP-Link Archer AX50版本 RCE！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503432&idx=1&sn=07b94dac013b6a33369f1c15042d40ae": "【已发现在野利用】Google Chrome 越界读写漏洞(CVE-2025-5419)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610951&idx=2&sn=7d6fed8f4199f9bb17e12f1e5fc7043c": "高通Adreno GPU零日漏洞遭利用，全球安卓用户面临攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519560&idx=2&sn=188f5e1dd0173385a63281695c542aa3": "简易短信轰炸漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610951&idx=4&sn=e7b9050bc796b2985094177e56102e3a": "ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=2&sn=7329951e75e17f34506c3e655c56ef47": "两大Linux漏洞曝光，可致敏感数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514735&idx=2&sn=5a123dd499cc133d89b213a7ca035950": "稀土掘金 x Trae 夏日寻宝之旅开启：做任务得积分兑大疆pocket3、Apple watch等豪礼",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261256&idx=1&sn=0a74831dec1e22b0350f5b5428d07f10": "【CVE-2025-20188】思科 RCE 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486228&idx=1&sn=ac26bc61a4ca3c9a0877745f4468c114": "突发！朝鲜Lazarus集团突袭韩国多行业，“同步漏洞行动”掀起网络暗战！"
 }

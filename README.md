@@ -18,6 +18,37 @@
 
 ## 📢 2025-06-03日新增文章
 
+1. 还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247490976&idx=1&sn=36d7bc9e1e4ac616bb517481181ebcd2)
+
+2. 高通警告黑客正在利用三个新修补的 Adreno GPU 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=3&sn=c9459b810da15cd8177f4838c1d3e015)
+
+3. CVE-2025-40634：TP-Link Archer AX50版本 RCE！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485043&idx=1&sn=c1f032c67767a91affd1e7de4abac388)
+
+4. 【已发现在野利用】Google Chrome 越界读写漏洞(CVE-2025-5419)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503432&idx=1&sn=07b94dac013b6a33369f1c15042d40ae)
+
+5. 高通Adreno GPU零日漏洞遭利用，全球安卓用户面临攻击风险 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610951&idx=2&sn=7d6fed8f4199f9bb17e12f1e5fc7043c)
+
+6. 简易短信轰炸漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519560&idx=2&sn=188f5e1dd0173385a63281695c542aa3)
+
+7. ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610951&idx=4&sn=e7b9050bc796b2985094177e56102e3a)
+
+8. 两大Linux漏洞曝光，可致敏感数据泄露 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=2&sn=7329951e75e17f34506c3e655c56ef47)
+
+9. 稀土掘金 x Trae 夏日寻宝之旅开启：做任务得积分兑大疆pocket3、Apple watch等豪礼 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514735&idx=2&sn=5a123dd499cc133d89b213a7ca035950)
+
+10. 【CVE-2025-20188】思科 RCE 漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261256&idx=1&sn=0a74831dec1e22b0350f5b5428d07f10)
+
+11. 突发！朝鲜Lazarus集团突袭韩国多行业，“同步漏洞行动”掀起网络暗战！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486228&idx=1&sn=ac26bc61a4ca3c9a0877745f4468c114)
+
+#### 📊 统计信息
+<small>📝 新增文章数：11篇
+⏰ 更新时间：2025-06-03 12:28:34<small>
+
+---
+
+
+## 📢 2025-06-03日新增文章
+
 1. vBulletin论坛软件曝出两大漏洞正遭活跃攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=4&sn=83f48d8ebe0933c0775806b72338737c)
 
 2. 突破浅层测试桎梏：多维度漏洞挖掘突破与实践探索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488688&idx=2&sn=ce63f1c9f51187b003ff38f7df255576)
