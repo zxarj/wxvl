@@ -18,6 +18,35 @@
 
 ## 📢 2025-06-04日新增文章
 
+1. 某园区0day代码审计 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f)
+
+2. 谷歌紧急发布安卓安全更新，修复可导致权限提升的多项高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=3&sn=a29e14d95783cd29e736a3f282efa03a)
+
+3. 2025 年 6 月安卓安全更新修复 30 多个漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=3&sn=295593d68ae1db67020a8b1080cca5cc)
+
+4. CVE-2024-47575 漏洞分析及三种利用方式 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487354&idx=1&sn=44aee310cb9ef148d0a41a5da713e6c6)
+
+5. 雷神众测漏洞周报2025.5.26-2025.6.2 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a)
+
+6. 某优化版PHP九国语言交易所存在前台SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489823&idx=1&sn=050f5a09a08d9878b8aa12897bdb5165)
+
+7. 第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484703&idx=1&sn=720816ecc0b5ad2912dd2a40ba854d57)
+
+8. 【漏洞预警】llama_index SQL注入漏洞(CVE-2025-1750) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MDk3MTgxOQ==&mid=2247499910&idx=1&sn=df1de2e9b4b1e20a50c035217bcd298d)
+
+9. CVE-2025-48827：vbulletin代码执行POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485051&idx=1&sn=af7709c22592ba59aa6272659d0f4772)
+
+10. 【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-06-04 16:30:10<small>
+
+---
+
+
+## 📢 2025-06-04日新增文章
+
 1. 谷歌修复了今年年初以来第二个被积极利用的Chrome零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=1&sn=9ba0403347dc177e4caa30af389f631f)
 
 2. 谷歌Chrome零日漏洞遭广泛利用，可执行任意代码 | 顶级大模型向警方举报用户！AI告密排行榜出炉 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248052&idx=1&sn=54f78fda5dc9802dddda0d47a5adbc43)

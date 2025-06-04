@@ -1,19 +1,20 @@
 #  第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现   
-原创 abc123info  希潭实验室   2025-06-03 10:49  
+ 猫鼠信安   2025-06-04 06:08  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/OAz0RNU450ATcz6jUJnFNeOxRzVZ9Lbc0INLwTJTZT1GaNutZrfDn6csvjBoS2ox0efLUEexXqPEcVbYfbLo8w/640?wx_fmt=png "")  
-##  Part1 前言   
+##   
+## 注：仅供安全研究与学习之用，若将工具做其他用途，由使用者承担全部法律及连带责任，作者及发布者不承担任何法律及连带责任。  
+<table><tbody><tr style="outline: 0px;visibility: visible;"><td data-colwidth="557" width="557" valign="top" style="outline: 0px;word-break: break-all;hyphens: auto;visibility: visible;"><p style="margin-top: 8px;margin-bottom: 8px;outline: 0px;visibility: visible;"><span style="outline: 0px;font-size: 14px;visibility: visible;"><span style="outline: 0px;color: rgb(217, 33, 66);visibility: visible;"><strong style="outline: 0px;visibility: visible;"><span leaf="" style="visibility: visible;">声明：</span></strong></span><span leaf="" style="visibility: visible;">该公众号分享的安全工具和项目均来源于网络，仅供安全研究与学习之用，如用于其他用途，由使用者承担全部法律及连带责任，与工具作者和本公众号无关。</span></span></p></td></tr></tbody></table>  
   
-大家好，我是  
-ABC_123。最近我一直在更新蓝队分析取证工具箱中的溯源反制功能，为此阅读了大量相关的技术文章。很多资料提到了早期版本的Burpsuite、OWASP ZAP、AWVS、Xray等扫描器的反制思路，虽然这些方法大多适用于老版本，但其核心思路仍然值得借鉴。经过仔细研究和修正，今天写文章把复现过程和payload分享给大家。  
+现在只对常读和星标的公众号才展示大图推送，建议大家把  
+猫鼠信安  
+“  
+设为星标  
+”，  
+否则可能看不到了  
+！  
+## Part1 前言   
   
-为便于交流蓝队技术与完善蓝队分析取证工具箱，现已建立微信群。添加微信号 abc123edu01 可入群“希水涵-蓝队分析工具箱交流群”，也可关注公众号并回复“加群”获取入群二维码。期待你的加入！  
-  
-注：以往文章回顾《第120篇：蓝队溯源之蚁剑、sqlmap、Goby反制方法的复现与分析》。  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/OAz0RNU450Dq1Q8s4COc7InkMO0jIGjiaGho1fcJicpibWB4vzvIM1wAib9TiakVECbIM5S0mHCTTeGJJibWtCe25vXw/640?wx_fmt=jpeg&from=appmsg "")  
-  
-  
+最近我一直在更新蓝队分析取证工具箱中的溯源反制功能，为此阅读了大量相关的技术文章。很多资料提到了早期版本的Burpsuite、OWASP ZAP、AWVS、Xray等扫描器的反制思路，虽然这些方法大多适用于老版本，但其核心思路仍然值得借鉴。经过仔细研究和修正，今天写文章把复现过程和payload分享给大家。  
 ##  Part2 技术研究过程   
 - Burpsuite  
 反制方法  
@@ -189,14 +190,8 @@ xray最终的扫描报告，发现大量的无意义的漏洞存在。
 4.  
   未完待续，敬请期待。  
   
+       
   
-![图片](https://mmbiz.qpic.cn/mmbiz_png/OAz0RNU450A5qqg2iaK6KIYYR8y6pF5Rh3JHDibOKOop204nXz618iawdRb8dABicMPtHb2PkJE8x6koJO5HyuwZJQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
-  
-  
-**公众号专注于网络安全技术分享，包括APT事件分析、红队攻防、蓝队分析、渗透测试、代码审计等，每周一篇，99%原创，敬请关注。**  
-  
-**Contact me: 0day123abc#gmail.com**  
-  
-**(replace # with @)**  
+## 点击下方名片进入公众号  
   
   

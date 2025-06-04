@@ -14789,5 +14789,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497557&idx=2&sn=3e33ffbc2dd2d9b0fdad285363d58325": "网络安全炼金术：短信轰炸漏洞，从逆向到无限可能？",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480002&idx=2&sn=402cda184dbf54409e5116fdefa8c784": "牟林：没想到，就是漏洞——特洛伊木马对中国的启示",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493719&idx=1&sn=72763c3bcfa2e8e472e60e7dc715d642": "若依Vue漏洞检测工具",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261263&idx=1&sn=509e830ca163d3c541c8824bea2e5592": "【$6,000】Firefox 高危漏洞披露"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261263&idx=1&sn=509e830ca163d3c541c8824bea2e5592": "【$6,000】Firefox 高危漏洞披露",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=3&sn=a29e14d95783cd29e736a3f282efa03a": "谷歌紧急发布安卓安全更新，修复可导致权限提升的多项高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=3&sn=295593d68ae1db67020a8b1080cca5cc": "2025 年 6 月安卓安全更新修复 30 多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487354&idx=1&sn=44aee310cb9ef148d0a41a5da713e6c6": "CVE-2024-47575 漏洞分析及三种利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489823&idx=1&sn=050f5a09a08d9878b8aa12897bdb5165": "某优化版PHP九国语言交易所存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484703&idx=1&sn=720816ecc0b5ad2912dd2a40ba854d57": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3MTgxOQ==&mid=2247499910&idx=1&sn=df1de2e9b4b1e20a50c035217bcd298d": "【漏洞预警】llama_index SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485051&idx=1&sn=af7709c22592ba59aa6272659d0f4772": "CVE-2025-48827：vbulletin代码执行POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676": "【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419)"
 }

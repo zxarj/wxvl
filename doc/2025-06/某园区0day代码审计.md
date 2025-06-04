@@ -1,5 +1,5 @@
 #  某园区0day代码审计   
-原创 冬夏  韭要学JAVA安全   2025-06-02 06:56  
+ 进击安全   2025-06-04 06:47  
   
 # 1、权限绕过  
 ## 1.1、方法一  
@@ -205,8 +205,11 @@ GET /manage/systemBlackList/queryBlackList.do?recoToken=ZuZBOrvLG8M&page=1&pageS
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/90EWr4bdmEkF6u6VKTueovIFZUAGGHGW6j0sU2zFkESARJePZpD5qCe7BetvXuph1xGWZzTR2hGO9XMHRTYdgg/640?wx_fmt=png&from=appmsg "")  
 ## 完结  
   
-如果有需要指纹，请后台联系本人。建立个交流群，大家有什么技术上或者项目上交流，都可畅所欲言。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/90EWr4bdmEkF6u6VKTueovIFZUAGGHGWian3Eu1uLCoLJq0Jc7YQjtMSFesLKfHKLLklnyz0OfADPzsLWtVicJNw/640?wx_fmt=jpeg&from=appmsg "")  
+代码审计第四期，富含PHP、JAVA、NET代码审计，顺带APP、小程序、WEB当中参数逆向以及JAVA工具二开与SRC案例讲解，其中多多0day讲解，实战案例分析，不拿着靶场去做，想学习速速报名了。  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ZRKuxIKRyhUicibrBmrZ2iazoDJic2RyDklw4547e6aNia1OEMntI6wGqRdvr87XVgUdiaiczwW67bRO3iayvd7H7bZoeQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&tp=wxpic "")  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRKuxIKRyhXhuxbCGecu4ibia3kSXD8ePQHrSvPSNtC7PmjzQwR88Hu0LpuXdQzamKBCPAXX82anLS8f0FF3LzzQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&tp=wxpic "")  
   
   
