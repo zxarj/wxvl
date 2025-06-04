@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-05日新增文章
 
+1. 【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c)
+
+2. Solon框架模板漏洞深度剖析与修复实战 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555033&idx=1&sn=8b9eb9d96e81a19e599e4b06d4acd1d8)
+
+3. 安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第22期，总第40期] 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484865&idx=1&sn=8b1d3df35de589153681dbd36d404672)
+
+4. 谷歌悄悄紧急修复已遭利用的 Chrome 0day 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01)
+
+5. llama_Index SQL注入漏洞（CVE-2025-1750）POC及本地复现部署环境 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484462&idx=1&sn=7a2f920a5bd2ec339a782f88f68fa3ed)
+
+6. 新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723)
+
+7. 慧与：注意这个严重的 StoreOnce 认证绕过漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=2&sn=5f49791311ee93aa1acd5a1dd56c0a88)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-05 04:19:11<small>
+
+---
+
+
+## 📢 2025-06-05日新增文章
+
 1. 【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a)
 
 2. 合规管理公司出现合规问题：Vanta系统漏洞导致客户数据交叉泄露：DevOps安全警报：配置错误成为加密劫持攻击新途径 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137085&idx=2&sn=a1068ce13789e6cc3241c9e621774f49)

@@ -14818,5 +14818,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=2&sn=63481e238664f1bde33e4fa50f1ee971": "Splunk Universal Forwarder for Windows 漏洞授予非管理员用户完全内容访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491684&idx=1&sn=07dbb62f791af15130c9a2bbcdc77c41": "M7s UI open 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496548&idx=1&sn=80b474dcabbcb2690af97241a091e02e": "【论文速读】| SecVulEval：针对真实世界C∕C++漏洞检测的LLM基准测试"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496548&idx=1&sn=80b474dcabbcb2690af97241a091e02e": "【论文速读】| SecVulEval：针对真实世界C∕C++漏洞检测的LLM基准测试",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c": "【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555033&idx=1&sn=8b9eb9d96e81a19e599e4b06d4acd1d8": "Solon框架模板漏洞深度剖析与修复实战",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484865&idx=1&sn=8b1d3df35de589153681dbd36d404672": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第22期，总第40期]",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01": "谷歌悄悄紧急修复已遭利用的 Chrome 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484462&idx=1&sn=7a2f920a5bd2ec339a782f88f68fa3ed": "llama_Index SQL注入漏洞（CVE-2025-1750）POC及本地复现部署环境",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723": "新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=2&sn=5f49791311ee93aa1acd5a1dd56c0a88": "慧与：注意这个严重的 StoreOnce 认证绕过漏洞"
 }
