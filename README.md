@@ -16,6 +16,53 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-05日新增文章
+
+1. 【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a)
+
+2. 合规管理公司出现合规问题：Vanta系统漏洞导致客户数据交叉泄露：DevOps安全警报：配置错误成为加密劫持攻击新途径 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137085&idx=2&sn=a1068ce13789e6cc3241c9e621774f49)
+
+3. 【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11)
+
+4. 唯德科创 IPEasy 知易通 DownloadFile 任意文件下载漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485894&idx=1&sn=c532159a5a85d9939354104532ecd411)
+
+5. 警惕！境外间谍借系统漏洞，直击党政科研要害！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492623&idx=1&sn=850372f429fe2877e3bc96d0d6f52967)
+
+6. M7s UI download 任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491693&idx=1&sn=4f6b2b1ccf9491a261ce9ce50a700534)
+
+7. 潜伏10年！Roundcube Webmail 重大安全漏洞曝光，CVSS 评分 9.9 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595168&idx=3&sn=1778f7b154f1be5f2139f7fdca6dc4be)
+
+8. 谷歌紧急发布安卓安全更新，修复多项高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322480&idx=4&sn=1305aad8febb12c5f092cba247ab1534)
+
+9. Vul情报 | CVE-2025-4123 漏洞（附EXP） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6)
+
+10. NPS之Socks流量分析以及未授权复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489932&idx=1&sn=ad2b365fc59ff231cc27cb2df0aab090)
+
+11. CNNVD | 关于Google Chrome安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20)
+
+12. CVE-2020-11800 Zabbix 命令注入漏洞复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491726&idx=1&sn=a620064d4be426858ff4515ad6baa67d)
+
+13. CNNVD关于Google Chrome安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463091&idx=1&sn=cf5d4e1447040ab6b1b31484430e7834)
+
+14. 【新安全事件】vBulletin 远程代码执行漏洞(CVE-2025-48827)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503443&idx=1&sn=763f543a4089f1b08833ccbac7059be5)
+
+15. 最新xxl-job综合漏洞检测利用工具|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491941&idx=1&sn=180a7a72b014cd3156a1f44dee242368)
+
+16. Splunk Universal Forwarder for Windows 漏洞授予非管理员用户完全内容访问权限 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=2&sn=63481e238664f1bde33e4fa50f1ee971)
+
+17. M7s UI open 任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491684&idx=1&sn=07dbb62f791af15130c9a2bbcdc77c41)
+
+18. 【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02)
+
+19. 【论文速读】| SecVulEval：针对真实世界C∕C++漏洞检测的LLM基准测试 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496548&idx=1&sn=80b474dcabbcb2690af97241a091e02e)
+
+#### 📊 统计信息
+<small>📝 新增文章数：19篇
+⏰ 更新时间：2025-06-05 00:24:19<small>
+
+---
+
+
 ## 📢 2025-06-04日新增文章
 
 1. 某园区0day代码审计 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f)
