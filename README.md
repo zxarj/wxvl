@@ -18,6 +18,33 @@
 
 ## 📢 2025-06-04日新增文章
 
+1. 谷歌修复了今年年初以来第二个被积极利用的Chrome零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=1&sn=9ba0403347dc177e4caa30af389f631f)
+
+2. 谷歌Chrome零日漏洞遭广泛利用，可执行任意代码 | 顶级大模型向警方举报用户！AI告密排行榜出炉 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248052&idx=1&sn=54f78fda5dc9802dddda0d47a5adbc43)
+
+3. 源码泄露审计文件下载漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485369&idx=1&sn=ad3ebcd655dc05dcb2d59189a2c5c626)
+
+4. 从 Rebuild 企业级系统代码审计 SSRF 漏洞。 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487453&idx=1&sn=dd70e73a6be4353a33566c323a73d682)
+
+5. EMQX命令执行后渗透 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610964&idx=3&sn=fca50e82f94f682a5a2e622dd3f26c96)
+
+6. 网络安全炼金术：短信轰炸漏洞，从逆向到无限可能？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497557&idx=2&sn=3e33ffbc2dd2d9b0fdad285363d58325)
+
+7. 牟林：没想到，就是漏洞——特洛伊木马对中国的启示 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480002&idx=2&sn=402cda184dbf54409e5116fdefa8c784)
+
+8. 若依Vue漏洞检测工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493719&idx=1&sn=72763c3bcfa2e8e472e60e7dc715d642)
+
+9. 【$6,000】Firefox 高危漏洞披露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261263&idx=1&sn=509e830ca163d3c541c8824bea2e5592)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-04 12:29:00<small>
+
+---
+
+
+## 📢 2025-06-04日新增文章
+
 1. 基于 ViewState 反序列化漏洞，通过 Sharp4ViewStateShell 执行命令实现权限维持 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499805&idx=1&sn=a79411db28696f519f55efa6370f29fe)
 
 2. 漏洞预警 | 傲发办公通信专家系统任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=3&sn=455aa6ff47c1f7ac85e74f8d8b1aba98)
