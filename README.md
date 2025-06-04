@@ -18,6 +18,41 @@
 
 ## 📢 2025-06-04日新增文章
 
+1. 基于 ViewState 反序列化漏洞，通过 Sharp4ViewStateShell 执行命令实现权限维持 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499805&idx=1&sn=a79411db28696f519f55efa6370f29fe)
+
+2. 漏洞预警 | 傲发办公通信专家系统任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=3&sn=455aa6ff47c1f7ac85e74f8d8b1aba98)
+
+3. 漏洞预警 | PrestaShop tshirtecommerce目录遍历漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=1&sn=964eaacc145b0d78dc3d84aaac8d2df2)
+
+4. 潜伏十年！Roundcube Webmail高危漏洞让黑客随意操控你的邮箱 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488038&idx=1&sn=2aef72e57e0086e4305d23d00c35d9a4)
+
+5. 6年旧镜像翻车！手把手教你用Docker部署最新版企业级漏洞扫描工具OpenVAS 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860633&idx=1&sn=5b6cc0f21b97d658225bc4e366ee3398)
+
+6. 硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad)
+
+7. 漏洞预警 | JEEWMS SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=2&sn=f64ceabd513c7af560752897f9bc90f1)
+
+8. 简单好用的漏洞管理工具（附下载链接） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490611&idx=1&sn=5696e7fcac9c7646ac8fd23c5c37b1ac)
+
+9. 【src】SRC漏洞挖掘信息收集与挖掘技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491180&idx=1&sn=b210da06b518e42b574e7a6206c75449)
+
+10. 谷歌Chrome零日漏洞遭广泛利用，可执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520871&idx=1&sn=0706c2bac7206e0f05fdfa4bca5677e4)
+
+11. 有 10 年历史的 Roundcube RCE 漏洞可让攻击者执行恶意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=2&sn=d0015fdb76b856cd4959e7046d09c8a9)
+
+12. xxl-job漏洞综合利用工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512556&idx=1&sn=b112e0baa0b36ba161ef60910b3ae0ca)
+
+13. 高通修复了三个在有限针对性攻击中被利用的零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=2&sn=81c758ea9cbb9fea538712b2b954e868)
+
+#### 📊 统计信息
+<small>📝 新增文章数：13篇
+⏰ 更新时间：2025-06-04 09:49:14<small>
+
+---
+
+
+## 📢 2025-06-04日新增文章
+
 1. CVSS10分！vBulletin远程代码执行漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623594&idx=2&sn=120a04c661d02eabd3898c0da6d200f3)
 
 2. 后渗透神器AdaptixC2红队渗测试多人协作框架（附带教程）|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491927&idx=1&sn=8ff43a267d390da09bb09964f1c7c522)
