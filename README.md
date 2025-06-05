@@ -16,6 +16,33 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-06日新增文章
+
+1. Smartded Meteobridg的template.cgi接口存在任意命令注入CVE-2025-4008 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=2&sn=943465d2d861698941b2f73fc679ea7f)
+
+2. 更新：改造模糊测试工具 | 系统0day安全-二进制漏洞攻防（第4期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595183&idx=4&sn=ac565329b10f28fb7e171969a80f9396)
+
+3. 【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed)
+
+4. 唯德科创 IPEasy 知易通 WSFM 任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485899&idx=1&sn=376aea6abca97546fc3a44c807047baa)
+
+5. 0day漏洞量产？AI Agent“生产线”曝光 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=1&sn=59278d0b2074a9c856a0700dfac2b83d)
+
+6. Liferay icon.jsp接口存在跨站漏洞CVE-2025-4388 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=1&sn=778857248586131ae73927608b847830)
+
+7. 【信息收集】ARL灯塔搭建教程-联动vscan自动化漏洞扫描 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486915&idx=1&sn=1f9e76e950e746d6c1ab9c1e3312cea4)
+
+8. 渗透测试与漏洞扫描：有什么区别？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484313&idx=1&sn=9b71c3e6bcb666505807374ab5dcb14a)
+
+9. WEB漏洞扫描器Invicti-Professional-V25.5.1（自动化爬虫漏洞扫描）更新 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491943&idx=1&sn=e84dfaf45db4b4d1cc436ecc54f3e8c9)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-06 00:28:13<small>
+
+---
+
+
 ## 📢 2025-06-05日新增文章
 
 1. 【漏洞通告】DataEase远程代码执行漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497536&idx=1&sn=7318bd01d7d51cb7892c8ac62203bacb)
