@@ -18,6 +18,19 @@
 
 ## 📢 2025-06-06日新增文章
 
+1. RCE 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497691&idx=1&sn=8a21820aa197e5d11ac115da464d6a5d)
+
+2. 突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519440&idx=1&sn=2c02d7338cb44ac37b0fdcb7466ad272)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-06 04:20:12<small>
+
+---
+
+
+## 📢 2025-06-06日新增文章
+
 1. Smartded Meteobridg的template.cgi接口存在任意命令注入CVE-2025-4008 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=2&sn=943465d2d861698941b2f73fc679ea7f)
 
 2. 更新：改造模糊测试工具 | 系统0day安全-二进制漏洞攻防（第4期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595183&idx=4&sn=ac565329b10f28fb7e171969a80f9396)
