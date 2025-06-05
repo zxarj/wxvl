@@ -18,6 +18,41 @@
 
 ## 📢 2025-06-05日新增文章
 
+1. 【漏洞通告】DataEase远程代码执行漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497536&idx=1&sn=7318bd01d7d51cb7892c8ac62203bacb)
+
+2. Kindeditor编辑器漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485776&idx=1&sn=deb484fff8f887811d04f804566d5b5b)
+
+3. CVE-2025-49113 Roundcube Webmail反序列化漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyNDkwNjQ5Ng==&mid=2247486115&idx=1&sn=b606ab44ebe50c4968bb70b369ba0f04)
+
+4. 【高危漏洞预警】Dataease JWT认证绕过&H2数据库远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490196&idx=1&sn=445a97e63142e9216294ebc4e1bea7ad)
+
+5. 谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af)
+
+6. CVE-2024-4956 Nexus Repository 3 路径遍历漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491757&idx=1&sn=e18c6ced25ae41c182a5c263e6293df1)
+
+7. 消息中间件RocketMQ命令执行漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037742&idx=1&sn=e38b2e41abe4ef5de9291947fe02ec0b)
+
+8. 百万奖金池！ByteSRC全域3倍积分！单个漏洞赏金15万！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494864&idx=1&sn=f82c751d60028bc253ecff7eb70a40f2)
+
+9. 我不再依赖 CVE ，对漏洞管理的重新构想 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539050&idx=1&sn=96d4adc336b0c65520778ac13e1597d6)
+
+10. 【安全圈】在VMWare NSX中发现多个存储的XSS漏洞-立即修补 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070016&idx=3&sn=2f8103c74269e54bf6753a609066de26)
+
+11. 思科提醒注意严重的 ISE 和 CCP 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523184&idx=1&sn=f205e1639e39bac5e3d3496845db4087)
+
+12. 超骚逻辑漏洞-滥用自动邮件回复程序访问内部工作场所 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488974&idx=1&sn=5b2444dbfe6ced072d11a897895e3fee)
+
+13. DataEase H2数据库远程代码执行漏洞(CVE-2025-49002) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524460&idx=1&sn=7d2b4e4d60276ffcbb0e8a79d51308cf)
+
+#### 📊 统计信息
+<small>📝 新增文章数：13篇
+⏰ 更新时间：2025-06-05 20:44:48<small>
+
+---
+
+
+## 📢 2025-06-05日新增文章
+
 1. Roundcube ≤ 1.6.10 通过 PHP 对象反序列化进行身份验证后 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530437&idx=1&sn=267b5a0dabb08b7c42c092b55b72eaf0)
 
 2. 【已复现】DataEase 远程代码执行漏洞（CVE-2025-49002、CVE-2025-49001） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492805&idx=1&sn=30e47869ddf47a6cb5a92b70c81c266e)
