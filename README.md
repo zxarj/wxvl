@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-05日新增文章
 
+1. 漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af)
+
+2. 如何快速挖掘高质量安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281545&idx=1&sn=c51dacb03c32e53c22ea3c7ee12da50e)
+
+3. 漏洞预警 | 傲发办公通信专家系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=2&sn=34a6edf72fcd14c1c0603c5e647f1f18)
+
+4. CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284)
+
+5. HVV护网行动 | 分享最近攻防演练HVV漏洞复盘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3)
+
+6. 维多利亚的秘密由于安全漏洞推迟发布收益报告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116177&idx=1&sn=b61a279f71e939047cb92a3467d505fe)
+
+7. 漏洞预警 | Google Chrome越界读写漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=1&sn=11be0c58b7008b8cc0ccf0e7c2e69492)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-05 09:47:33<small>
+
+---
+
+
+## 📢 2025-06-05日新增文章
+
 1. 【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c)
 
 2. Solon框架模板漏洞深度剖析与修复实战 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555033&idx=1&sn=8b9eb9d96e81a19e599e4b06d4acd1d8)

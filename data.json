@@ -14825,5 +14825,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01": "谷歌悄悄紧急修复已遭利用的 Chrome 0day",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484462&idx=1&sn=7a2f920a5bd2ec339a782f88f68fa3ed": "llama_Index SQL注入漏洞（CVE-2025-1750）POC及本地复现部署环境",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723": "新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=2&sn=5f49791311ee93aa1acd5a1dd56c0a88": "慧与：注意这个严重的 StoreOnce 认证绕过漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=2&sn=5f49791311ee93aa1acd5a1dd56c0a88": "慧与：注意这个严重的 StoreOnce 认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281545&idx=1&sn=c51dacb03c32e53c22ea3c7ee12da50e": "如何快速挖掘高质量安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=2&sn=34a6edf72fcd14c1c0603c5e647f1f18": "漏洞预警 | 傲发办公通信专家系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284": "CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3": "HVV护网行动 | 分享最近攻防演练HVV漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116177&idx=1&sn=b61a279f71e939047cb92a3467d505fe": "维多利亚的秘密由于安全漏洞推迟发布收益报告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=1&sn=11be0c58b7008b8cc0ccf0e7c2e69492": "漏洞预警 | Google Chrome越界读写漏洞"
 }
