@@ -18,6 +18,27 @@
 
 ## 📢 2025-06-05日新增文章
 
+1. Roundcube ≤ 1.6.10 通过 PHP 对象反序列化进行身份验证后 RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530437&idx=1&sn=267b5a0dabb08b7c42c092b55b72eaf0)
+
+2. 【已复现】DataEase 远程代码执行漏洞（CVE-2025-49002、CVE-2025-49001） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492805&idx=1&sn=30e47869ddf47a6cb5a92b70c81c266e)
+
+3. Jenkins未授权访问-命令执行漏洞复现及修复方案 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485866&idx=1&sn=f22b47fb7cbbdb28ea72a878b6f9d8fa)
+
+4. 创宇安全智脑 | Cisco IOS XE 任意文件上传（CVE-2025-20188）等81个漏洞可检测 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491229&idx=1&sn=a9c298d3409c3f84537a599c5c171c00)
+
+5. 世邦通信SPON-IP网络对讲广播系统 videobacktrackpush.php 任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491703&idx=1&sn=6775431a3523ce79579c880215420a9f)
+
+6. 0Day漏洞曝光！多媒体综合业务显示系统面临严峻挑战 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODMzOTA2NA==&mid=2247494382&idx=1&sn=330fbe9f024f01ab79c0d9b1adb073fb)
+
+#### 📊 统计信息
+<small>📝 新增文章数：6篇
+⏰ 更新时间：2025-06-05 16:29:16<small>
+
+---
+
+
+## 📢 2025-06-05日新增文章
+
 1. CVE-2025–4123 | Grafana SSRF和账户接管漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616341&idx=1&sn=f64a0740ed2b0d209cefae4d1633c3ee)
 
 2. 【已复现】DataEase 远程代码执行漏洞(CVE-2025-49001、CVE-2025-49002)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503451&idx=1&sn=838415cece549ae052cced3f736997b1)
