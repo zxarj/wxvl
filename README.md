@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-05日新增文章
 
+1. CVE-2025–4123 | Grafana SSRF和账户接管漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616341&idx=1&sn=f64a0740ed2b0d209cefae4d1633c3ee)
+
+2. 【已复现】DataEase 远程代码执行漏洞(CVE-2025-49001、CVE-2025-49002)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503451&idx=1&sn=838415cece549ae052cced3f736997b1)
+
+3. Windows RAR∕ZIP解压缩泄露NTLM哈希漏洞复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512335&idx=1&sn=f2441cd275388321ab2e598a075770f8)
+
+4. 赚取50000美元的5个顶级 XSS PoC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261267&idx=1&sn=9438b6a7fe72e186a534faca70834b0b)
+
+5. 微步情报局发现DataEase存在多个高危漏洞，可实现RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507774&idx=1&sn=d12eb0b53d048871be85e2a2f8db6bf4)
+
+6. WebShell 再进化：无需 cmd.exe 实现任意命令执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499813&idx=1&sn=6bae33061f883e54798c04b274e0622e)
+
+7. 信息安全漏洞周报（2025年第22期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463107&idx=1&sn=a2351a664e2c00776ed72bcaf1b17d5f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-05 12:29:30<small>
+
+---
+
+
+## 📢 2025-06-05日新增文章
+
 1. 漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af)
 
 2. 如何快速挖掘高质量安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281545&idx=1&sn=c51dacb03c32e53c22ea3c7ee12da50e)
