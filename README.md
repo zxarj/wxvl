@@ -18,6 +18,35 @@
 
 ## 📢 2025-06-06日新增文章
 
+1. 用 IRify 深入探索 WebShell 中的 Source∕Sink 挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528265&idx=1&sn=1a27220513edf970c954fd0ed275e10b)
+
+2. 【高危漏洞预警】FreeFloat FTP服务器缓冲区溢出漏洞CVE-2025-5596 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=2&sn=dae3b0028a99377b65374576fd62ad24)
+
+3. 【高危漏洞预警】PHPGurukul Management System代码执行漏洞(CVE-2025-5560) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=1&sn=5a269eb8ff8e659faabedaa0aa8a4688)
+
+4. 【数字风险警示】从0-Click漏洞到AI“失控”：我们如何应对新兴网络威胁与治理挑战？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900684&idx=1&sn=55b6582945707ce3360fd839dec3374a)
+
+5. Apple 的 iOS 激活允许注入未经身份验证的 XML 负载漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=2&sn=946a6059e69d462480bd4449cf5bc7d3)
+
+6. Redis漏洞分析，ACL篇 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595409&idx=1&sn=df257ccaa9f3bcd7348174e00218bd92)
+
+7. 【已复现】Roundcube Webmail 后台代码执行漏洞(CVE-2025-49113)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503459&idx=1&sn=087027a577be1dc41e697c2c19c5b6d6)
+
+8. Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322591&idx=1&sn=fa84e28c57c290ad80544c3a63efd1d9)
+
+9. 苹果iMessage中的严重零点击 (zero-click) 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483874&idx=1&sn=7c91c92dce650dbea638effe4cc0b091)
+
+10. 能信安：漏洞通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491129&idx=1&sn=36e96af1e2874ff724083aab84b24592)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-06-06 20:43:06<small>
+
+---
+
+
+## 📢 2025-06-06日新增文章
+
 1. 信息安全漏洞周报【第025期】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064199&idx=1&sn=04dbe27016e7d349cff47e6921eb1997)
 
 2. 思科ISE关键漏洞影响AWS、微软Azure及Oracle云基础设施部署 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524715&idx=4&sn=579700137876da6310dde825aee73f7a)

@@ -14893,5 +14893,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524715&idx=4&sn=579700137876da6310dde825aee73f7a": "思科ISE关键漏洞影响AWS、微软Azure及Oracle云基础设施部署",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515360&idx=1&sn=531525683c50094e1ba7694d49afc477": "警惕！你的 API 正在 \"裸奔\"？Swagger 安全漏洞攻防实战全解析！",
     "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796528&idx=1&sn=c28536a9bfd233fe849fe92949b8dd1b": "SBOM风险预警 | pino系列投毒包开展敏感数据窃取及远程代码执行攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495075&idx=1&sn=e10bf05cdb15287868abb611f48db330": "2025攻防演练必修高危漏洞集合（3.0版）"
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495075&idx=1&sn=e10bf05cdb15287868abb611f48db330": "2025攻防演练必修高危漏洞集合（3.0版）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528265&idx=1&sn=1a27220513edf970c954fd0ed275e10b": "用 IRify 深入探索 WebShell 中的 Source∕Sink 挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=2&sn=dae3b0028a99377b65374576fd62ad24": "【高危漏洞预警】FreeFloat FTP服务器缓冲区溢出漏洞CVE-2025-5596",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=1&sn=5a269eb8ff8e659faabedaa0aa8a4688": "【高危漏洞预警】PHPGurukul Management System代码执行漏洞(CVE-2025-5560)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900684&idx=1&sn=55b6582945707ce3360fd839dec3374a": "【数字风险警示】从0-Click漏洞到AI“失控”：我们如何应对新兴网络威胁与治理挑战？",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=2&sn=946a6059e69d462480bd4449cf5bc7d3": "Apple 的 iOS 激活允许注入未经身份验证的 XML 负载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595409&idx=1&sn=df257ccaa9f3bcd7348174e00218bd92": "Redis漏洞分析，ACL篇",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503459&idx=1&sn=087027a577be1dc41e697c2c19c5b6d6": "【已复现】Roundcube Webmail 后台代码执行漏洞(CVE-2025-49113)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322591&idx=1&sn=fa84e28c57c290ad80544c3a63efd1d9": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483874&idx=1&sn=7c91c92dce650dbea638effe4cc0b091": "苹果iMessage中的严重零点击 (zero-click) 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491129&idx=1&sn=36e96af1e2874ff724083aab84b24592": "能信安：漏洞通告"
 }
