@@ -18,6 +18,33 @@
 
 ## 📢 2025-06-06日新增文章
 
+1. PaloAlto-Expedition OS命令注入漏洞 (CVE-2025-0107) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491712&idx=1&sn=fcd7654701a537eecd4c655d43ada5cf)
+
+2. 小米：车联网安全漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624932&idx=1&sn=6f75bcca06219e491efdcf1420264980)
+
+3. 企业内部安全漏洞修复流程的建立与思考（其三） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485931&idx=1&sn=7fee859148e33e1eaf8fc15cbb996402)
+
+4. 【$3,800】Shopify 缓存中毒导致DoS漏洞披露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261279&idx=1&sn=3aef26c9a656d2adf263b8aad5a02852)
+
+5. 谷歌称黑客利用修改版Salesforce应用窃取数据并勒索公司 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489196&idx=2&sn=c6590cb7a9b28def433bd6e8ff26eeb5)
+
+6. 2025年离大谱的CVE-2011-10007 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488361&idx=1&sn=c11476376033a528ae2ce25bf94c52eb)
+
+7. CVE-2025-30397 PoC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261279&idx=2&sn=34a64379d3eb92a135403a71c42b4635)
+
+8. 工具集：sqlmap Xplus 【基于 sqlmap，对经典的数据库注入漏洞利用工具进行二开】 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486151&idx=1&sn=ca31a24918b75ea9220a2ee821b6614d)
+
+9. 基于反序列化漏洞，通过 Sharp4ViewStateShell 执行命令实现权限维持 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499819&idx=3&sn=9c87e28e0dfd967b2d7ae0af1d1eef28)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-06 12:29:10<small>
+
+---
+
+
+## 📢 2025-06-06日新增文章
+
 1. 记某众测Fastjson<=1.2.68反序列化RCE过程 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497365&idx=1&sn=4ec899e26e1e52c198d80c9cacdd1184)
 
 2. 【成功复现】Meteobridge命令执行漏洞(CVE-2025-4008) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503369&idx=1&sn=61a37e11b0764057323dfc5fb5baf447)
