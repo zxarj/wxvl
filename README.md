@@ -18,6 +18,35 @@
 
 ## 📢 2025-06-06日新增文章
 
+1. 记某众测Fastjson<=1.2.68反序列化RCE过程 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497365&idx=1&sn=4ec899e26e1e52c198d80c9cacdd1184)
+
+2. 【成功复现】Meteobridge命令执行漏洞(CVE-2025-4008) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503369&idx=1&sn=61a37e11b0764057323dfc5fb5baf447)
+
+3. 别让广播出卖你！Android BroadcastReceiver 漏洞排查全流程详解 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485167&idx=1&sn=ef7026252c6a5848c0eb5555f96dd119)
+
+4. Wireshark 漏洞可通过恶意数据包注入发起 DoS 攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795343&idx=2&sn=4b0bfdc266245ab37bf0d6d95de25dc5)
+
+5. 漏洞预警 | 灵当CRM SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493320&idx=3&sn=eb3dea720279ce737c522dec98ba1498)
+
+6. 【漏洞】飞塔防火墙漏洞深度利用及调试环境搭建 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491258&idx=1&sn=0d0e52dce93ee9f25fe7f5ebce841822)
+
+7. 工具 | exploitdb 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493320&idx=4&sn=42c264664f00292c9dec894a64c2167a)
+
+8. 中间件常见漏洞详解 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281664&idx=1&sn=9fb168bdaf2d0e9a644148d8866cd5d5)
+
+9. 两条命令搞定！Kali原生集成GVM漏洞扫描器，比Docker省5GB空间 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860668&idx=1&sn=197d36812e146c81964457d9a5c735c1)
+
+10. 漏洞预警 | 智邦国际ERP SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493320&idx=2&sn=ea00e80355de429de0124a3d84554ccf)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-06-06 09:47:09<small>
+
+---
+
+
+## 📢 2025-06-06日新增文章
+
 1. RCE 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497691&idx=1&sn=8a21820aa197e5d11ac115da464d6a5d)
 
 2. 突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519440&idx=1&sn=2c02d7338cb44ac37b0fdcb7466ad272)
