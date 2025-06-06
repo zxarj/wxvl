@@ -18,6 +18,25 @@
 
 ## 📢 2025-06-06日新增文章
 
+1. 信息安全漏洞周报【第025期】 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064199&idx=1&sn=04dbe27016e7d349cff47e6921eb1997)
+
+2. 思科ISE关键漏洞影响AWS、微软Azure及Oracle云基础设施部署 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524715&idx=4&sn=579700137876da6310dde825aee73f7a)
+
+3. 警惕！你的 API 正在 "裸奔"？Swagger 安全漏洞攻防实战全解析！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515360&idx=1&sn=531525683c50094e1ba7694d49afc477)
+
+4. SBOM风险预警 | pino系列投毒包开展敏感数据窃取及远程代码执行攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796528&idx=1&sn=c28536a9bfd233fe849fe92949b8dd1b)
+
+5. 2025攻防演练必修高危漏洞集合（3.0版） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495075&idx=1&sn=e10bf05cdb15287868abb611f48db330)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-06-06 16:28:42<small>
+
+---
+
+
+## 📢 2025-06-06日新增文章
+
 1. PaloAlto-Expedition OS命令注入漏洞 (CVE-2025-0107) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491712&idx=1&sn=fcd7654701a537eecd4c655d43ada5cf)
 
 2. 小米：车联网安全漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624932&idx=1&sn=6f75bcca06219e491efdcf1420264980)
