@@ -14903,5 +14903,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503459&idx=1&sn=087027a577be1dc41e697c2c19c5b6d6": "【已复现】Roundcube Webmail 后台代码执行漏洞(CVE-2025-49113)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322591&idx=1&sn=fa84e28c57c290ad80544c3a63efd1d9": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483874&idx=1&sn=7c91c92dce650dbea638effe4cc0b091": "苹果iMessage中的严重零点击 (zero-click) 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491129&idx=1&sn=36e96af1e2874ff724083aab84b24592": "能信安：漏洞通告"
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491129&idx=1&sn=36e96af1e2874ff724083aab84b24592": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137107&idx=2&sn=19c9e45394e4353f7f3b9cd5194b0896": "警惕，恶意伪装缓存插件窃取WordPress管理员凭证；VMware NSX发现多个XSS漏洞，攻击者可注入恶意代码 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=1&sn=f44e5a2873e0615bf2b2c9b4df2bc31c": "VMware NSX XSS 漏洞使系统面临恶意代码注入",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486231&idx=1&sn=e78d0606c0186e03e3dc32258335b8db": "vBulletin replaceAdTemplate 远程代码执行漏洞（CVE-2025-48827）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516756&idx=1&sn=f1267aac6ba91fac591b1b3eb4624126": "xxl-job漏洞综合利用工具 -- xxl-job-attack（6月3日更新）"
 }

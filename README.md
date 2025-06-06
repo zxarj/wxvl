@@ -16,6 +16,23 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-07日新增文章
+
+1. 警惕，恶意伪装缓存插件窃取WordPress管理员凭证；VMware NSX发现多个XSS漏洞，攻击者可注入恶意代码 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137107&idx=2&sn=19c9e45394e4353f7f3b9cd5194b0896)
+
+2. VMware NSX XSS 漏洞使系统面临恶意代码注入 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=1&sn=f44e5a2873e0615bf2b2c9b4df2bc31c)
+
+3. vBulletin replaceAdTemplate 远程代码执行漏洞（CVE-2025-48827） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486231&idx=1&sn=e78d0606c0186e03e3dc32258335b8db)
+
+4. xxl-job漏洞综合利用工具 -- xxl-job-attack（6月3日更新） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516756&idx=1&sn=f1267aac6ba91fac591b1b3eb4624126)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-07 00:28:08<small>
+
+---
+
+
 ## 📢 2025-06-06日新增文章
 
 1. 用 IRify 深入探索 WebShell 中的 Source∕Sink 挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528265&idx=1&sn=1a27220513edf970c954fd0ed275e10b)
