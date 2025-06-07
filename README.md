@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-07日新增文章
 
+1. 【已复现】Roundcube Webmail 代码执行漏洞(CVE-2025-49113) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486697&idx=1&sn=8286bc3f6b40a00154d5b7cd13c4dd8a)
+
+2. 高通GPU漏洞威胁安卓生态，撞库攻击致北面资料外泄|一周特辑 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133301&idx=1&sn=448c861d50bcae8305539a7cbca30314)
+
+3. iMessage 零点击漏洞针对美国和欧盟的关键人物 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795352&idx=1&sn=a6a1439c52339f5b092bf594b17a73bc)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-07 12:26:11<small>
+
+---
+
+
+## 📢 2025-06-07日新增文章
+
 1. 警惕，恶意伪装缓存插件窃取WordPress管理员凭证；VMware NSX发现多个XSS漏洞，攻击者可注入恶意代码 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137107&idx=2&sn=19c9e45394e4353f7f3b9cd5194b0896)
 
 2. VMware NSX XSS 漏洞使系统面临恶意代码注入 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=1&sn=f44e5a2873e0615bf2b2c9b4df2bc31c)

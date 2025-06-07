@@ -14907,5 +14907,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137107&idx=2&sn=19c9e45394e4353f7f3b9cd5194b0896": "警惕，恶意伪装缓存插件窃取WordPress管理员凭证；VMware NSX发现多个XSS漏洞，攻击者可注入恶意代码 | 牛览",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=1&sn=f44e5a2873e0615bf2b2c9b4df2bc31c": "VMware NSX XSS 漏洞使系统面临恶意代码注入",
     "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486231&idx=1&sn=e78d0606c0186e03e3dc32258335b8db": "vBulletin replaceAdTemplate 远程代码执行漏洞（CVE-2025-48827）",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516756&idx=1&sn=f1267aac6ba91fac591b1b3eb4624126": "xxl-job漏洞综合利用工具 -- xxl-job-attack（6月3日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516756&idx=1&sn=f1267aac6ba91fac591b1b3eb4624126": "xxl-job漏洞综合利用工具 -- xxl-job-attack（6月3日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486697&idx=1&sn=8286bc3f6b40a00154d5b7cd13c4dd8a": "【已复现】Roundcube Webmail 代码执行漏洞(CVE-2025-49113)",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133301&idx=1&sn=448c861d50bcae8305539a7cbca30314": "高通GPU漏洞威胁安卓生态，撞库攻击致北面资料外泄|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795352&idx=1&sn=a6a1439c52339f5b092bf594b17a73bc": "iMessage 零点击漏洞针对美国和欧盟的关键人物"
 }
