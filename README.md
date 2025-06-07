@@ -18,6 +18,27 @@
 
 ## 📢 2025-06-07日新增文章
 
+1. 杭州新威数字信息-SMG网关管理软件 9-12ping.php 命令执行漏洞 (CVE-2025-1448) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491721&idx=1&sn=bca6974ea87562392f4e4f205edb8ece)
+
+2. CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48)
+
+3. 【攻防实战】phpmyadmin-RCE集锦 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502951&idx=1&sn=fae4b38afc3c1eb2bfbc0e6f0c4db3d2)
+
+4. CVE-2025-48827｜vBulletin远程代码执行漏洞（POC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=2&sn=dbe57e94f20bc9b3f98b334b6267cffc)
+
+5. 【已复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484110&idx=1&sn=e7c3b3595ccf8ca433e1a2e4c2b81c46)
+
+6. 【安全圈】热门 Chrome 扩展陷 HTTP 和硬编码密钥双重漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070055&idx=3&sn=6b9ef71bf3e0c60b87ab26c126ce970f)
+
+#### 📊 统计信息
+<small>📝 新增文章数：6篇
+⏰ 更新时间：2025-06-07 20:39:47<small>
+
+---
+
+
+## 📢 2025-06-07日新增文章
+
 1. 从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492226&idx=1&sn=a5a57ba3077ab1eb8f5e4725a95a05fe)
 
 2. Anthropic MCP 中的漏洞：全模式中毒 + 机密泄露工具攻击（内含 PoC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530523&idx=1&sn=eae1159f200e68098297acb465d5d4c8)

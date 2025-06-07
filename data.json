@@ -14915,5 +14915,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530523&idx=1&sn=eae1159f200e68098297acb465d5d4c8": "Anthropic MCP 中的漏洞：全模式中毒 + 机密泄露工具攻击（内含 PoC）",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485643&idx=1&sn=ec74894c3ce42e4b21fd19a407c54c24": "某景人事管理系统漏洞挖掘与分析",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488976&idx=1&sn=823dff2e68ba60b26f2a7c07d1c136f0": "电商网站 SSTI 漏洞利用：专业攻略",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4": "JS中的漏洞信息"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491721&idx=1&sn=bca6974ea87562392f4e4f205edb8ece": "杭州新威数字信息-SMG网关管理软件 9-12ping.php 命令执行漏洞 (CVE-2025-1448)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48": "CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502951&idx=1&sn=fae4b38afc3c1eb2bfbc0e6f0c4db3d2": "【攻防实战】phpmyadmin-RCE集锦",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=2&sn=dbe57e94f20bc9b3f98b334b6267cffc": "CVE-2025-48827｜vBulletin远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484110&idx=1&sn=e7c3b3595ccf8ca433e1a2e4c2b81c46": "【已复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070055&idx=3&sn=6b9ef71bf3e0c60b87ab26c126ce970f": "【安全圈】热门 Chrome 扩展陷 HTTP 和硬编码密钥双重漏洞"
 }
