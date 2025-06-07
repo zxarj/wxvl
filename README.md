@@ -18,6 +18,25 @@
 
 ## 📢 2025-06-07日新增文章
 
+1. 从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492226&idx=1&sn=a5a57ba3077ab1eb8f5e4725a95a05fe)
+
+2. Anthropic MCP 中的漏洞：全模式中毒 + 机密泄露工具攻击（内含 PoC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530523&idx=1&sn=eae1159f200e68098297acb465d5d4c8)
+
+3. 某景人事管理系统漏洞挖掘与分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485643&idx=1&sn=ec74894c3ce42e4b21fd19a407c54c24)
+
+4. 电商网站 SSTI 漏洞利用：专业攻略 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488976&idx=1&sn=823dff2e68ba60b26f2a7c07d1c136f0)
+
+5. JS中的漏洞信息 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-06-07 16:25:29<small>
+
+---
+
+
+## 📢 2025-06-07日新增文章
+
 1. 【已复现】Roundcube Webmail 代码执行漏洞(CVE-2025-49113) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486697&idx=1&sn=8286bc3f6b40a00154d5b7cd13c4dd8a)
 
 2. 高通GPU漏洞威胁安卓生态，撞库攻击致北面资料外泄|一周特辑 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133301&idx=1&sn=448c861d50bcae8305539a7cbca30314)
