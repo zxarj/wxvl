@@ -14943,5 +14943,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636125&idx=3&sn=7df424bc2d1af6076a707c4e7d7171fd": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=4&sn=2dafbc946a12493ed35083385d421118": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485909&idx=1&sn=ed87702eca874b67599bdd7fef6b2046": "蜂信物联 FastBee 物联网系统 download 文件下载漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070072&idx=2&sn=6568143133dcdce8e806ab5ee4c23088": "【安全圈】Play勒索团伙利用SimpleHelp漏洞实施双重勒索"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070072&idx=2&sn=6568143133dcdce8e806ab5ee4c23088": "【安全圈】Play勒索团伙利用SimpleHelp漏洞实施双重勒索",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=4&sn=b38767bda29ea9351eaf4b549f97c267": "CVE-2025-32756 的概念证明 - 一个影响多种 Fortinet 产品的严重基于堆栈的缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=3&sn=af09ad52060addc40f7da1e8a83e2391": "CVE-2025-49223 - Billboard.js 中的原型污染",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491732&idx=1&sn=bcd132800c07215aff233df69aadc674": "锐捷EWEB路由器 timeout.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690775&idx=1&sn=4897cf1429401e098228448bec6b6afe": "0041.我是如何接管 Vercel 子域名的"
 }

@@ -16,6 +16,23 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-09日新增文章
+
+1. CVE-2025-32756 的概念证明 - 一个影响多种 Fortinet 产品的严重基于堆栈的缓冲区溢出漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=4&sn=b38767bda29ea9351eaf4b549f97c267)
+
+2. CVE-2025-49223 - Billboard.js 中的原型污染 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=3&sn=af09ad52060addc40f7da1e8a83e2391)
+
+3. 锐捷EWEB路由器 timeout.php 任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491732&idx=1&sn=bcd132800c07215aff233df69aadc674)
+
+4. 0041.我是如何接管 Vercel 子域名的 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690775&idx=1&sn=4897cf1429401e098228448bec6b6afe)
+
+#### 📊 统计信息
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-09 00:24:38<small>
+
+---
+
+
 ## 📢 2025-06-08日新增文章
 
 1. Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636125&idx=3&sn=7df424bc2d1af6076a707c4e7d7171fd)
