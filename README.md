@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-09日新增文章
 
+1. 仅靠JS审计就能捡到的漏洞 前端代码中的隐藏利用点|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492225&idx=1&sn=cbfab9a778a335b827b9c5d1bf80f0c8)
+
+2. 16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484656&idx=2&sn=446b71f98850bef1c255884d2fa0ba8e)
+
+3. 【安全圈】黑客团伙冒充IT技术支持人员入侵Salesforce与Okta平台 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070072&idx=3&sn=d186f40156a6e7af24a1cba237357ebb)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-09 04:21:45<small>
+
+---
+
+
+## 📢 2025-06-09日新增文章
+
 1. CVE-2025-32756 的概念证明 - 一个影响多种 Fortinet 产品的严重基于堆栈的缓冲区溢出漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=4&sn=b38767bda29ea9351eaf4b549f97c267)
 
 2. CVE-2025-49223 - Billboard.js 中的原型污染 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530636&idx=3&sn=af09ad52060addc40f7da1e8a83e2391)
