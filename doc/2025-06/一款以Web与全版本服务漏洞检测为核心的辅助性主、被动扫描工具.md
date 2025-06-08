@@ -1,26 +1,13 @@
-#  一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具   
-JiuZero  夜组安全   2025-06-03 00:01  
+#  一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具  
+ 黑白之道   2025-06-08 10:24  
   
-免责声明  
-  
-由于传播、利用本公众号夜组安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号夜组安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-**所有工具安全性自测！！！VX：**  
-**baobeiaini_ya**  
-  
-朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把  
-**夜组安全**  
-“**设为星标**  
-”，  
-否则可能就看不到了啦！  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2WrOMH4AFgkSfEFMOvvFuVKmDYdQjwJ9ekMm4jiasmWhBicHJngFY1USGOZfd3Xg4k3iamUOT5DcodvA/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
   
 ## 工具介绍  
   
 一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具.  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2VoB8vzfJLoUUChaszYiczfic0EibT3mWuK1B3OhPD86IJP3IC0RopeiaBDTibA0EIWjfg8sL5blvS3wfQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2VoB8vzfJLoUUChaszYiczficqn9wOFI4mjiadaZXI0KuDsydzR1kGrrvO1vbfKssKGzsZLqGgpxic1BQ/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1 "")  
 1. WAF判断、指纹信息与插件扫描的联动  
   
 1. 能够解析伪静态、XML等复杂格式中的潜在参数（Beta）  
@@ -62,34 +49,18 @@ git clone https://github.com/JiuZero/z0scancd z0scanpip install -r requiremen
   
   
   
-点击关注下方名片  
-进入公众号  
-  
-回复关键字【  
-250603  
-】获取  
-下载链接  
+https://github.com/JiuZero/z0scan  
   
   
-## 往期精彩  
+> **文章来源：夜组安全**  
   
   
-往期推荐  
   
-[免杀shellcode加载器，免杀火绒、360、卡巴、wd](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494396&idx=1&sn=8bca9a6f2561688d2819e272fa795911&chksm=c36bae04f41c2712808a7146b03954f8a060659779f79cca2bc6f6d3c065ca2cfde55084cfe7&scene=21#wechat_redirect)  
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
   
-  
-[ExploitDB 一款轻量级用于抓取、展示和导出  Exploit-DB中的漏洞数据的工具](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d&chksm=c36bae0cf41c271a342779e3adb5ceedb061e4135e8fa9e8e2accc772cc7bf3a091b8f87496e&scene=21#wechat_redirect)  
+如侵权请私聊我们删文  
   
   
-[【真黑客武器库】基于Windows10的渗透攻击武器库 Kali Linux v5.0](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494374&idx=1&sn=dd171b8e6a726aa5099282f26ea813d1&chksm=c36bae1ef41c270892505eeb7f13435fc0228e7d91321286297d2048cc1e45ef0a4326dc3495&scene=21#wechat_redirect)  
+**END**  
   
-  
-[安卓应用程序，提供了一系列网络安全和通信相关的工具](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494356&idx=1&sn=986032948333beae21b3249f7694d2fe&chksm=c36bae2cf41c273a316ac57599bfc8751b91a16c24c513b7230226427ff291fd52467cbf1e57&scene=21#wechat_redirect)  
-  
-  
-[后渗透神器V1.30](http://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494349&idx=1&sn=85f12944d981625e83de5b4b3b97452f&chksm=c36bae35f41c2723eed284a1559cbb970af09f13ffb69d0fc7bdb12ce3213fc69ae1e204e620&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/OAmMqjhMehrtxRQaYnbrvafmXHe0AwWLr2mdZxcg9wia7gVTfBbpfT6kR2xkjzsZ6bTTu5YCbytuoshPcddfsNg/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&random=0.8399406679299557&tp=webp "")  
   

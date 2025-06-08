@@ -1,11 +1,5 @@
 #  Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击  
-FreeBuf  FreeBuf   2025-06-06 10:20  
-  
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3iblc7WcME2ohpibXziarQaghTVMr2rR56bsAFLiaGrRQ7zJdH4WveHOo5QUxemwQOcHVvsyRaUQiaf1xw/640?wx_fmt=png&from=appmsg "")  
-  
+ 商密君   2025-06-08 10:35  
   
 ### Part01  
 ### 高危漏洞影响全球用户  
@@ -50,23 +44,41 @@ Wireshark基金会已发布补丁修复该漏洞，强烈建议用户立即升�
 这是Wireshark解析器模块系列安全问题的最新案例，此前Bundle Protocol、CBOR解析器曾出现CVE-2025-1492漏洞，蓝牙ATT、Radiotap等协议解析器也曝出过类似问题。该事件凸显了复杂网络分析工具在解析多样化且可能恶意的网络流量时面临的安全挑战。由于Wireshark需要处理来自不可信网络的流量，它始终是攻击者试图破坏网络监控能力的重点目标。建议生产环境中使用Wireshark的组织优先实施补丁更新，并全面审查网络监控安全协议以防范潜在威胁。  
   
   
-**参考来源：**  
+编辑：陈十九  
   
-Wireshark Vulnerability Enables DoS Attack Through Malicious Packet Injection  
+审核：商密君  
   
-https://cybersecuritynews.com/wireshark-vulnerability-enables-dos-attack/  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-###   
-###   
-###   
-### 推荐阅读  
+[](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633989&idx=1&sn=cd6647451cec618b20dd28533702603b&scene=21#wechat_redirect)  
   
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322416&idx=1&sn=f496ad76672dc84007c77a588480096b&scene=21#wechat_redirect)  
   
-### 电台讨论  
+点击购买《2023-2024中国商用密码产业发展报告》  
   
-****  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
+来源：freebuf  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点分享  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点点赞  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
+  
+点在看  
   

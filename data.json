@@ -14939,5 +14939,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492152&idx=1&sn=9880c257352e81a69012ac2327d46c1b": "潜伏十年的严重漏洞：CVE-2025-49113 Roundcube 反序列化漏洞原理与 gadget 构造深度分析",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490554&idx=1&sn=a617e5cf9c985ea332307e9cbb40a955": "LazyHunter：自动漏洞扫描的工具",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486627&idx=1&sn=c0d293c64fcb84c997e3635d9f5fc033": "感谢大家的关注与支持 送两0DAY吧",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486547&idx=1&sn=93d9c43f4d2dc8f85deb74ac8a811ba0": "某日志管理系统前台注入（0day）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486547&idx=1&sn=93d9c43f4d2dc8f85deb74ac8a811ba0": "某日志管理系统前台注入（0day）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636125&idx=3&sn=7df424bc2d1af6076a707c4e7d7171fd": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=4&sn=2dafbc946a12493ed35083385d421118": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485909&idx=1&sn=ed87702eca874b67599bdd7fef6b2046": "蜂信物联 FastBee 物联网系统 download 文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070072&idx=2&sn=6568143133dcdce8e806ab5ee4c23088": "【安全圈】Play勒索团伙利用SimpleHelp漏洞实施双重勒索"
 }

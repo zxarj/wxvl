@@ -12,19 +12,23 @@
 ## 📊 本周统计
 - 开始时间：2025-06-08
 - 文章总数：0 篇
-- 最后更新：2025-06-08 16:25:20
+- 最后更新：2025-06-08 20:39:16
 
 ## 📝 更新日志
 
 ## 📢 2025-06-08日新增文章
 
-1. 感谢大家的关注与支持 送两0DAY吧 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486627&idx=1&sn=c0d293c64fcb84c997e3635d9f5fc033)
+1. Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636125&idx=3&sn=7df424bc2d1af6076a707c4e7d7171fd)
 
-2. 某日志管理系统前台注入（0day） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486547&idx=1&sn=93d9c43f4d2dc8f85deb74ac8a811ba0)
+2. 一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=4&sn=2dafbc946a12493ed35083385d421118)
+
+3. 蜂信物联 FastBee 物联网系统 download 文件下载漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485909&idx=1&sn=ed87702eca874b67599bdd7fef6b2046)
+
+4. 【安全圈】Play勒索团伙利用SimpleHelp漏洞实施双重勒索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070072&idx=2&sn=6568143133dcdce8e806ab5ee4c23088)
 
 #### 📊 统计信息
-<small>📝 新增文章数：2篇
-⏰ 更新时间：2025-06-08 16:25:28<small>
+<small>📝 新增文章数：4篇
+⏰ 更新时间：2025-06-08 20:39:31<small>
 
 ---
 
