@@ -14933,5 +14933,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488992&idx=1&sn=7cc8813409e77f5eeae632e9d1aefe0d": "文件上传操作漏洞场景挖掘思路",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488992&idx=3&sn=240dba489c13a8cf1abd16a7f09aa981": "JS中的漏洞信息",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489904&idx=1&sn=1b0d39b19089398e5a3f203ac2fcb524": "还在用Wireshark？这款工具直接帮你提取Web攻击+复现请求全过程！",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860720&idx=1&sn=700c43def3115706dbdf14b9634c3176": "16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860720&idx=1&sn=700c43def3115706dbdf14b9634c3176": "16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624964&idx=1&sn=9fd73dd275e8e53d7e22338456f3503d": "小米：车联网安全漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497601&idx=2&sn=593538deb4ffaacfce66f628dd85cb2b": "当系统崩盘，Busybox 如何成为你的“诺亚方舟”？漏洞排查的另类视角",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492152&idx=1&sn=9880c257352e81a69012ac2327d46c1b": "潜伏十年的严重漏洞：CVE-2025-49113 Roundcube 反序列化漏洞原理与 gadget 构造深度分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490554&idx=1&sn=a617e5cf9c985ea332307e9cbb40a955": "LazyHunter：自动漏洞扫描的工具"
 }
