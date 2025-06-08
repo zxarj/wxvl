@@ -12,23 +12,19 @@
 ## 📊 本周统计
 - 开始时间：2025-06-08
 - 文章总数：0 篇
-- 最后更新：2025-06-08 12:31:30
+- 最后更新：2025-06-08 16:25:20
 
 ## 📝 更新日志
 
 ## 📢 2025-06-08日新增文章
 
-1. 小米：车联网安全漏洞挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624964&idx=1&sn=9fd73dd275e8e53d7e22338456f3503d)
+1. 感谢大家的关注与支持 送两0DAY吧 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486627&idx=1&sn=c0d293c64fcb84c997e3635d9f5fc033)
 
-2. 当系统崩盘，Busybox 如何成为你的“诺亚方舟”？漏洞排查的另类视角 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497601&idx=2&sn=593538deb4ffaacfce66f628dd85cb2b)
-
-3. 潜伏十年的严重漏洞：CVE-2025-49113 Roundcube 反序列化漏洞原理与 gadget 构造深度分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492152&idx=1&sn=9880c257352e81a69012ac2327d46c1b)
-
-4. LazyHunter：自动漏洞扫描的工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490554&idx=1&sn=a617e5cf9c985ea332307e9cbb40a955)
+2. 某日志管理系统前台注入（0day） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486547&idx=1&sn=93d9c43f4d2dc8f85deb74ac8a811ba0)
 
 #### 📊 统计信息
-<small>📝 新增文章数：4篇
-⏰ 更新时间：2025-06-08 12:31:41<small>
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-08 16:25:28<small>
 
 ---
 
