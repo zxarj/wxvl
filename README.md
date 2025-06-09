@@ -16,6 +16,29 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-10日新增文章
+
+1. 神州数码云科信息 DCN 防火墙后台 Ping 命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485914&idx=1&sn=2821f58b6caf44cb106c661980341420)
+
+2. 赏金SRC 某开源社区存在水平越权漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486369&idx=1&sn=33957214471faf3e137bb4a71db83923)
+
+3. 分享Huntr上的几个大模型框架的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxODUxMzE1Ng==&mid=2247484079&idx=1&sn=cf07fe72a4d1a5c46ee7f9b2a487f44a)
+
+4. Dell PowerScale 漏洞让攻击者能够获得未经授权的文件系统访问权限 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524736&idx=2&sn=e06dcdfe006dcd62bdda2dda950d1827)
+
+5. 雷神众测漏洞周报2025.6.3-2025.6.8 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503433&idx=1&sn=59c967556e7479a42ab082a5237cbcd7)
+
+6. 记一次某大厂csrf漏洞通过蠕虫从低危到高危 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519450&idx=1&sn=6591917ba9a1c6fd2cde9141da32609d)
+
+7. G.O.S.S.I.P 阅读推荐 2025-06-09 分享Huntr上的几个大模型框架的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500236&idx=1&sn=ba650d156368aa55c4c4830acbfce29d)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-10 00:28:25<small>
+
+---
+
+
 ## 📢 2025-06-09日新增文章
 
 1. Vite漏洞利用指南（文末附工具） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484515&idx=1&sn=426da386d99d295b7b7c6fe2618993ce)
