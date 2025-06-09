@@ -1,14 +1,12 @@
-#  xxl-job漏洞综合利用工具   
-pureqh  李白你好   2025-06-04 00:00  
+#  xxl-job漏洞综合利用工具  
+ 黑白之道   2025-06-09 01:54  
   
-**免责声明：**  
-由于传播、利用本公众号李白你好所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号李白你好及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
-  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
 ## 工具介绍  
   
 xxl-job漏洞综合利用工具  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUCCJg3pR9eIphgknhe0o6z2Wic5rbE2eYS0ElutoFHD5W4ZAapmrYviacpFzR4ib7bKzyTdVg73HNicvQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUCCJg3pR9eIphgknhe0o6z2chDjOEkUlCS7mva8JarBzVrvrUxmvkGeUndDBBYZfOKnO6vJw2fr7Q/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
 ## 检测漏洞  
   
 1、默认口令  
@@ -43,27 +41,18 @@ xxl-job漏洞综合利用工具
 7、由于Hessian反序列化基本上都是直接发二进制包，所以理论上讲其他的Hessian反序列化漏洞也可以打  
 ## 工具下载  
   
-点击关注下方名片  
-进入公众号  
-  
-回复【  
-xxl-job漏洞  
-】获取  
-下载链接  
+https://www.libaisec.com/2587.html  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUCCJg3pR9eIphgknhe0o6z2FeCjDlQcA34SLibIbW2UDKHeQzibUTLzT9pjibavsUJY3SiaeRGyeePWNA/640?wx_fmt=png&from=appmsg "")  
-```
-https://github.com/pureqh/xxl-job-attack
-```  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/XoIcX2HtlUCCJg3pR9eIphgknhe0o6z26ick5axUxxZHc11fthhibYVZYXMWlDVWMbGSfj67ibCIaA6u52ibO99iaqQ/640?wx_fmt=png&from=appmsg "")  
-## 往期精彩  
+> **文章来源：李白你好**  
   
   
-[华硕路由器遭僵尸网络攻击，9000余台设备被植入持久性后门2025-05-30](http://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512516&idx=1&sn=f410447ffc00847f97d626c5a1df7b73&chksm=c09ac294f7ed4b8220f840ce12c729ec13148e96e43a7a62379e7cc7618a2f4c7776e7d4f20e&scene=21#wechat_redirect)  
-[高阶渗透 | 绕过阿里云WAF进行MySQL手注实录2025-05-29](http://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512507&idx=1&sn=5551ebc85ca037c3094ffa0741aaab54&chksm=c09ac2ebf7ed4bfdb6b8c4ed91f289496c66582d3b55bdc30fe91fec92c38ba9c13326aa1364&scene=21#wechat_redirect)  
-[你不会还在用“社工裤”玩开盒呢？2025-05-28](http://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512501&idx=1&sn=2087ed50e2388e0efc6a33b672e3fd80&chksm=c09ac2e5f7ed4bf3e75a1c76d4c7b28ffa975668c52f2281199d1c18b9a84222126e2ea4780c&scene=21#wechat_redirect)  
   
+黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+  
+如侵权请私聊我们删文  
+  
+  
+**END**  
   
   

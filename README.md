@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-09日新增文章
 
+1. 代码审计之 XXE漏洞场景，及实战讲解！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487455&idx=1&sn=5ab5a46d96791975f41ea10de851534a)
+
+2. 网络安全攻防：别再傻傻地等漏洞，主动出击，从JS里挖金矿！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497632&idx=2&sn=8da59ee32e10a2edcda3a779f252f41b)
+
+3. 近期暗网 0day 售卖预警 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499478&idx=1&sn=fe921fc1658e176eadc9ea4f497308f2)
+
+4. 漏洞通告 | Roundcube Webmail存在反序列化漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507780&idx=1&sn=fa8e5866d2ef385879919442a0d521b3)
+
+5. MS12-020漏洞利用及复现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712289&idx=1&sn=fdbee61f6496ed4530412ee877a30890)
+
+6. 【代码审计】Xunruicms前台RCE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485900&idx=1&sn=e9e7f87f7cc97eed860cac2256aeb1d4)
+
+7. xxl-job漏洞综合利用工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611010&idx=4&sn=718ad8933593d0aa40f4eff70552dd83)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-09 16:31:22<small>
+
+---
+
+
+## 📢 2025-06-09日新增文章
+
 1. Alibaba Sentinel SSRF漏洞代码审计 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492249&idx=1&sn=3f6513fef2c2e8ffa88734793b5bce3a)
 
 2. Roundcube Mail后台代码执行漏洞复现（CVE-2025-49113）及POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484486&idx=1&sn=0634de519da9dc207551df06c344f951)
