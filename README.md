@@ -18,6 +18,33 @@
 
 ## 📢 2025-06-09日新增文章
 
+1. 云安全 - k8s ingress漏洞进一步探索引发的源码层面的文件漏洞利用特性分析（golang、java、php） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247484504&idx=1&sn=6c16443c92cec6973ef0c0f791bfa673)
+
+2. 【漏洞预警】DataEase 远程代码执行漏洞风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484424&idx=1&sn=70f6858440edbfe773088e62f6236dfb)
+
+3. 文件上传操作漏洞场景挖掘思路 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489000&idx=3&sn=aa512efe567bc9a4141a808092f7f1df)
+
+4. 【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484814&idx=1&sn=bd0f1048a2f82f6198b6866c03094a2d)
+
+5. JS中的漏洞信息 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489000&idx=4&sn=2066a14b4542a331149652d67e458428)
+
+6. 漏洞预警 | DataEase身份认证绕过和远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493329&idx=2&sn=f1e9419c6425a0b7418bc51ebeb5c0d5)
+
+7. 漏洞预警 | vBulletin远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493329&idx=1&sn=abb6622d519de74ef513a6d40dfa4e1c)
+
+8. 《LLM大模型越狱攻击预防与框架》第10章：未尽探索 (Unexplored Mist) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247493086&idx=2&sn=d147e432ba1c5547cdd9e986306e0e0e)
+
+9. 漏洞预警 | 汉王e脸通智慧园区管理平台任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493329&idx=3&sn=e35510fd19234a17cbf9fbd026dc3fa4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-09 09:54:17<small>
+
+---
+
+
+## 📢 2025-06-09日新增文章
+
 1. 仅靠JS审计就能捡到的漏洞 前端代码中的隐藏利用点|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492225&idx=1&sn=cbfab9a778a335b827b9c5d1bf80f0c8)
 
 2. 16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484656&idx=2&sn=446b71f98850bef1c255884d2fa0ba8e)
