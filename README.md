@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-09日新增文章
 
+1. Alibaba Sentinel SSRF漏洞代码审计 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492249&idx=1&sn=3f6513fef2c2e8ffa88734793b5bce3a)
+
+2. Roundcube Mail后台代码执行漏洞复现（CVE-2025-49113）及POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484486&idx=1&sn=0634de519da9dc207551df06c344f951)
+
+3. 博斯外贸管理软件V6.0 DCreceiveBox.jsp SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491742&idx=1&sn=551a2fec606a52006536f6f8f605fe28)
+
+4. 【$500】存在 2 年之久的 Android 锁屏绕过漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261285&idx=1&sn=47912aa1ad8f702266e530ee82c6e700)
+
+5. 突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611010&idx=3&sn=e7cdd3d1ca22f06dfaf0ee03b2833a62)
+
+6. 3比特币叫卖安卓0day，声称已打中以色列国防军目标 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510739&idx=2&sn=c4732cc4deb2ddd4dc84dd45a2bc3f79)
+
+7. “取个快递”，损失数十万！已接连有人中招；|黑客利用iMessage零点击漏洞攻击iPhone用户 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611010&idx=1&sn=b7ed772938827af615626eee649fe6f0)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-09 12:33:37<small>
+
+---
+
+
+## 📢 2025-06-09日新增文章
+
 1. 云安全 - k8s ingress漏洞进一步探索引发的源码层面的文件漏洞利用特性分析（golang、java、php） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247484504&idx=1&sn=6c16443c92cec6973ef0c0f791bfa673)
 
 2. 【漏洞预警】DataEase 远程代码执行漏洞风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484424&idx=1&sn=70f6858440edbfe773088e62f6236dfb)
