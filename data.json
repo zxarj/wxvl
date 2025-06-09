@@ -14994,5 +14994,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524736&idx=2&sn=e06dcdfe006dcd62bdda2dda950d1827": "Dell PowerScale 漏洞让攻击者能够获得未经授权的文件系统访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503433&idx=1&sn=59c967556e7479a42ab082a5237cbcd7": "雷神众测漏洞周报2025.6.3-2025.6.8",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519450&idx=1&sn=6591917ba9a1c6fd2cde9141da32609d": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500236&idx=1&sn=ba650d156368aa55c4c4830acbfce29d": "G.O.S.S.I.P 阅读推荐 2025-06-09 分享Huntr上的几个大模型框架的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500236&idx=1&sn=ba650d156368aa55c4c4830acbfce29d": "G.O.S.S.I.P 阅读推荐 2025-06-09 分享Huntr上的几个大模型框架的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487204&idx=1&sn=18346b3e0c1feb3a00b855885c33b875": "记一次实战日穿整个系统getshell-共九个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU4OTExNTk0OA==&mid=2247485046&idx=1&sn=dfad8a66920758ce8ec4c08d36145120": "DataEase 远程代码执行漏洞分析"
 }
