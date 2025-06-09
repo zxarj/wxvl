@@ -18,6 +18,43 @@
 
 ## 📢 2025-06-09日新增文章
 
+1. Vite漏洞利用指南（文末附工具） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484515&idx=1&sn=426da386d99d295b7b7c6fe2618993ce)
+
+2. 某景人事管理系统漏洞挖掘与分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512691&idx=1&sn=025942d8dc5bd2aac8b53dd2d5897e0c)
+
+3. CNVD漏洞周报2025年第21期 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496034&idx=1&sn=4e44662436d0787b17b38a989dace356)
+
+4. CVE-2025-26319：FlowiseAI未授权任意文件写入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247773&idx=1&sn=5d39d0d3b48e9efe0e8c9e3fd6295866)
+
+5. 精品产品系列 | 捷普漏洞扫描系统 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506580&idx=1&sn=4b470d46ed40b7804ed3cd7663e68383)
+
+6. trojan管理平台任意重置管理员密码+命令执行组合漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzU5MDMxOA==&mid=2247484411&idx=1&sn=f3e58ba25d5807bf8f0b3d3d2bc0e0b5)
+
+7. 安全热点周报：Google 修复了在攻击中被利用的新 Chrome 零日漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503464&idx=1&sn=587e0d89f4927447a4241f33a7b911b3)
+
+8. 【高危漏洞预警】VMware Cloud Foundation 信息泄露漏洞(CVE-2025-41230) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490211&idx=1&sn=ed866558cae0c0b4589f32f311e9b6a9)
+
+9. Chrome插件安全警报：微软、AVG等知名应用曝出重大漏洞，你的隐私或在“裸奔”！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900701&idx=1&sn=057d9271584b457c3a1359732d44af3b)
+
+10. 全球科技巨头隐秘监视数十亿Android用户，滥用系统漏洞跨端追踪长达八年 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788669&idx=1&sn=a61f1741b0e694b9f3e6c7c1106df246)
+
+11. DataEase 远程代码执行漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247486724&idx=1&sn=7e6d7cd8bd43497042c7a5694c21b673)
+
+12. 上周关注度较高的产品安全漏洞(20250602-20250608) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496034&idx=2&sn=77ee859597afa06bf8155980519e08d5)
+
+13. 支付漏洞案例 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247488382&idx=1&sn=35b960681e424b4247b5000b170395dd)
+
+14. CVE-2025-26319：FlowiseAI未授权任意文件写入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497483&idx=1&sn=b7885261baace192db72424ec6fb84d2)
+
+#### 📊 统计信息
+<small>📝 新增文章数：14篇
+⏰ 更新时间：2025-06-09 20:44:46<small>
+
+---
+
+
+## 📢 2025-06-09日新增文章
+
 1. 代码审计之 XXE漏洞场景，及实战讲解！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487455&idx=1&sn=5ab5a46d96791975f41ea10de851534a)
 
 2. 网络安全攻防：别再傻傻地等漏洞，主动出击，从JS里挖金矿！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497632&idx=2&sn=8da59ee32e10a2edcda3a779f252f41b)

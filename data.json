@@ -14973,5 +14973,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507780&idx=1&sn=fa8e5866d2ef385879919442a0d521b3": "漏洞通告 | Roundcube Webmail存在反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712289&idx=1&sn=fdbee61f6496ed4530412ee877a30890": "MS12-020漏洞利用及复现",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485900&idx=1&sn=e9e7f87f7cc97eed860cac2256aeb1d4": "【代码审计】Xunruicms前台RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611010&idx=4&sn=718ad8933593d0aa40f4eff70552dd83": "xxl-job漏洞综合利用工具"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611010&idx=4&sn=718ad8933593d0aa40f4eff70552dd83": "xxl-job漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484515&idx=1&sn=426da386d99d295b7b7c6fe2618993ce": "Vite漏洞利用指南（文末附工具）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512691&idx=1&sn=025942d8dc5bd2aac8b53dd2d5897e0c": "某景人事管理系统漏洞挖掘与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496034&idx=1&sn=4e44662436d0787b17b38a989dace356": "CNVD漏洞周报2025年第21期",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247773&idx=1&sn=5d39d0d3b48e9efe0e8c9e3fd6295866": "CVE-2025-26319：FlowiseAI未授权任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506580&idx=1&sn=4b470d46ed40b7804ed3cd7663e68383": "精品产品系列 | 捷普漏洞扫描系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzU5MDMxOA==&mid=2247484411&idx=1&sn=f3e58ba25d5807bf8f0b3d3d2bc0e0b5": "trojan管理平台任意重置管理员密码+命令执行组合漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503464&idx=1&sn=587e0d89f4927447a4241f33a7b911b3": "安全热点周报：Google 修复了在攻击中被利用的新 Chrome 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490211&idx=1&sn=ed866558cae0c0b4589f32f311e9b6a9": "【高危漏洞预警】VMware Cloud Foundation 信息泄露漏洞(CVE-2025-41230)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900701&idx=1&sn=057d9271584b457c3a1359732d44af3b": "Chrome插件安全警报：微软、AVG等知名应用曝出重大漏洞，你的隐私或在“裸奔”！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788669&idx=1&sn=a61f1741b0e694b9f3e6c7c1106df246": "全球科技巨头隐秘监视数十亿Android用户，滥用系统漏洞跨端追踪长达八年",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247486724&idx=1&sn=7e6d7cd8bd43497042c7a5694c21b673": "DataEase 远程代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496034&idx=2&sn=77ee859597afa06bf8155980519e08d5": "上周关注度较高的产品安全漏洞(20250602-20250608)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDk0OTc1Nw==&mid=2247488382&idx=1&sn=35b960681e424b4247b5000b170395dd": "支付漏洞案例",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497483&idx=1&sn=b7885261baace192db72424ec6fb84d2": "CVE-2025-26319：FlowiseAI未授权任意文件写入漏洞"
 }
