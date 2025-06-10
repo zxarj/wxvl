@@ -16,6 +16,25 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-11日新增文章
+
+1. 【论文速读】| VADER：漏洞评估、检测、解释和修复的人工评估基准 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496573&idx=1&sn=f701e4ac102fbed8f25d4461e7b75f97)
+
+2. Apache Kafka 多个高危漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac)
+
+3. 【漏洞通告】Apache Kafka任意文件读取与SSRF漏洞（CVE-2025-27817） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489303&idx=1&sn=8578d9e5018f2ca8164a6590e29414d1)
+
+4. 【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2)
+
+5. 2024年度Linux内核漏洞类型及趋势分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42)
+
+#### 📊 统计信息
+<small>📝 新增文章数：5篇
+⏰ 更新时间：2025-06-11 00:28:21<small>
+
+---
+
+
 ## 📢 2025-06-10日新增文章
 
 1. 【漏洞通告】Apache Kafka Connect LDAP远程代码执行漏洞(CVE-2025-27818) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=2&sn=e7ea349dff54c8123a16fa49b1158f9b)
