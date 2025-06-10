@@ -18,6 +18,19 @@
 
 ## 📢 2025-06-11日新增文章
 
+1. 【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb)
+
+2. 漏洞挖掘实战之弯道超车 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489961&idx=1&sn=9ceb6db022621cae9f729d0aaecf12d6)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-11 04:24:25<small>
+
+---
+
+
+## 📢 2025-06-11日新增文章
+
 1. 【论文速读】| VADER：漏洞评估、检测、解释和修复的人工评估基准 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496573&idx=1&sn=f701e4ac102fbed8f25d4461e7b75f97)
 
 2. Apache Kafka 多个高危漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac)

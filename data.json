@@ -15024,5 +15024,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac": "Apache Kafka 多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489303&idx=1&sn=8578d9e5018f2ca8164a6590e29414d1": "【漏洞通告】Apache Kafka任意文件读取与SSRF漏洞（CVE-2025-27817）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42": "2024年度Linux内核漏洞类型及趋势分析"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42": "2024年度Linux内核漏洞类型及趋势分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb": "【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489961&idx=1&sn=9ceb6db022621cae9f729d0aaecf12d6": "漏洞挖掘实战之弯道超车"
 }
