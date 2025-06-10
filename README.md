@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-10日新增文章
 
+1. 利用Reverge自动化工具：提升漏洞赏金 hunting 的速度与效率 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530704&idx=3&sn=59d50955f5f929cb0f489cbe2eb36b04)
+
+2. 信息安全漏洞月报（2025年5月） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463155&idx=1&sn=b6e6f751cf3e3300734697d8d00109b5)
+
+3. CNVD漏洞周报2025年第21期 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499968&idx=1&sn=c0a4acf073d44a93066277415a1b8beb)
+
+4. 漏洞赏金工具 v1.0 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506582&idx=1&sn=dcd5972dc904ed507f28e03f89627aff)
+
+5. ms017-010漏洞扫描及安全检查 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712317&idx=1&sn=a9a023953f67efc1e0d3d93cea2eb2d6)
+
+6. 2025年5月企业必修安全漏洞清单 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496441&idx=1&sn=b86d8080825684249e954e3890155c70)
+
+7. 最新分析 | Mirai 利用 CVE-2024-3721 攻击 TBK DVR 设备 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616371&idx=1&sn=e12ff003aad2f2d456a8d64b1af1d093)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-10 16:30:19<small>
+
+---
+
+
+## 📢 2025-06-10日新增文章
+
 1. 0042.我如何发现 SMTP 注入漏洞并在短短 30 分钟内赚了 800 美元！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690780&idx=1&sn=77b86e8189faf46562c7d8202b33d93f)
 
 #### 📊 统计信息
