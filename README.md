@@ -18,6 +18,45 @@
 
 ## 📢 2025-06-10日新增文章
 
+1. 【漏洞通告】Apache Kafka Connect LDAP远程代码执行漏洞(CVE-2025-27818) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=2&sn=e7ea349dff54c8123a16fa49b1158f9b)
+
+2. 【漏洞通告】Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524465&idx=1&sn=900b4d98a5bc47ffd6eaa0ceca281a07)
+
+3. Redis未授权漏洞复现汇总 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489508&idx=1&sn=0bfab3f39b28fb33bba8abd281d49b07)
+
+4. 【漏洞预警】Apache Kafka Connect 任意文件读取和服务端请求伪造漏洞(CVE-2025-27817) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486700&idx=1&sn=c4141ed8747a6ddf3958888b71c5899e)
+
+5. Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595541&idx=1&sn=ca1223787e388345e955ac4b09a7ffad)
+
+6. KAFKA CLIENT 3.9.0 及以下版本存在服务器端请求伪造漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499492&idx=2&sn=151192a329acd78bab79ba17fb067d37)
+
+7. 【复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817）风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484871&idx=1&sn=93c960e76cecd00e2ac4a5d93e4e12b9)
+
+8. 【高危漏洞预警】Apache Kafka Client配置造成远程代码执行漏洞CVE-2025-27818 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490219&idx=2&sn=0501ee9f75de1f6f609c9c7c75b2d66e)
+
+9. 【高危漏洞预警】Apache Kafka Client 任意文件读取与SSRF漏洞CVE-2025-27817 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490219&idx=1&sn=acf6dce0f219c2ea5a110199ed4b8a7f)
+
+10. 玩转网络漏洞挖掘，实战能力弯道超车 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555093&idx=1&sn=fd9d6588ba43744ec9add8e7e6f99d9f)
+
+11. 【成功复现】Roundcube Webmail代码执行漏洞(CVE-2025-49113) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503414&idx=1&sn=ac899c057f0552dd0ecad669c0863b2a)
+
+12. 谷歌账户恢复漏洞致攻击者可获取任意用户手机号 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524758&idx=4&sn=0a68213306cd66c9fb6a4723562c1652)
+
+13. CVE-2025-49113 漏洞分析与利用方式 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487384&idx=1&sn=5ffca9c9cb920ef8ad92e9b37a2cb559)
+
+14. 实战讲解 Java代码审计之 FreeMarker模版注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487457&idx=1&sn=a167e6d3edc69691a44053b8b3e7a302)
+
+15. CLFS cve-2022-37969 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484267&idx=1&sn=9acb4f45d2ea2b3cf8a88262ef691961)
+
+#### 📊 统计信息
+<small>📝 新增文章数：15篇
+⏰ 更新时间：2025-06-10 20:45:59<small>
+
+---
+
+
+## 📢 2025-06-10日新增文章
+
 1. 利用Reverge自动化工具：提升漏洞赏金 hunting 的速度与效率 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530704&idx=3&sn=59d50955f5f929cb0f489cbe2eb36b04)
 
 2. 信息安全漏洞月报（2025年5月） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463155&idx=1&sn=b6e6f751cf3e3300734697d8d00109b5)
