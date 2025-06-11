@@ -18,6 +18,55 @@
 
 ## 📢 2025-06-12日新增文章
 
+1. 契约锁电子签章系统RCE简单分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485432&idx=1&sn=63e6601ff3509793cf189faf3a909cce)
+
+2. CVE-2023-22527复现实录：沉浸式攻防体验尽在CyberStrikeLab靶场 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247490708&idx=1&sn=e4f6a9830fda07759f1e6507007bd44a)
+
+3. 绑定微信功能挖掘的 0-Click 任意账号接管漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485199&idx=1&sn=0be243d7fee8f9b532ee3d2741d818fe)
+
+4. 安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第23期，总第41期] 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484900&idx=1&sn=2e1f598f96f292c5ad096f8b86321851)
+
+5. Ivanti Workspace Control硬编码密钥漏洞暴露 SQL 凭据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=2&sn=ea145b27a636bc95e9cf0045e0f89d03)
+
+6. 【论文速读】| SV-TrustEval-C：评估大语言模型中的结构和语义推理以进行源代码漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496586&idx=1&sn=92c17f0d25bbdfc7693b57b9679ecae0)
+
+7. FOXCMS黔狐内容管理 命令执行漏洞 CVE-2025-29306 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491771&idx=1&sn=df8d70c6b214a58c173fa5dd9a5ab0c1)
+
+8. 涉及66个重要漏洞！微软发布2025年6月补丁日安全通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623694&idx=2&sn=e663f63c20fc80cba9fad9941e6903f5)
+
+9. 建立一个成熟漏洞管理程序的七个步骤 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548475&idx=1&sn=cf44f1ebf802541d34482ba2178ee40f)
+
+10. 【已复现】契约锁电子签章系统远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492822&idx=1&sn=588b95206e8af7e0f4799bf62d24e037)
+
+11. 警惕AI扒手：Pickai后门正通过ComfyUI漏洞传播 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMDYzODQxNA==&mid=2247484048&idx=1&sn=f0431308d8e6393dd273bd5ae6f8bd1f)
+
+12. 2025年6月微软补丁日多个高危漏洞安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497556&idx=1&sn=7208e6194a202ec313700a4769f2d485)
+
+13. 【漏洞通告】微软6月多个安全漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501176&idx=2&sn=4780ee8ecd0e154b4526132654db65db)
+
+14. 微软6月补丁星期二值得关注的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=1&sn=961b0c000fcef3533fc9754b82415f9a)
+
+15. Windows WebDAV 零日远程代码执行漏洞遭野外利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492651&idx=1&sn=2ecf9cc05b8618697416aaa97d1c10c6)
+
+16. CVE-2025-33073 ： 反射式 Kerberos 中继攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499528&idx=1&sn=9d8e5e4718ca929673f212709d9def47)
+
+17. 漏洞预警：用友NC loadDoc.ajax接口存在任意文件读取漏洞 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488578&idx=1&sn=4142428c58764503e46c884b4b84ac1c)
+
+18. 我是如何挖到微软MSRC漏洞赏金榜首的 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486631&idx=1&sn=f46f3d2e1efe68d5670f5242729c2e3d)
+
+19. 【已复现】Apache Kafka 多个高危漏洞安全风险通告第二次更新 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503484&idx=1&sn=e9cb94f0ad7c963ed06257db90f92834)
+
+20. 工具集：P1soda 【一款渗透场景下的内网漏洞自动化扫描工具】--2025∕6∕08更新 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486164&idx=1&sn=624542896280a113bc18fcfc7be7f903)
+
+#### 📊 统计信息
+<small>📝 新增文章数：20篇
+⏰ 更新时间：2025-06-12 04:23:48<small>
+
+---
+
+
+## 📢 2025-06-12日新增文章
+
 1. Microsoft Outlook 曝高危漏洞，仅需低权限就能实施攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595564&idx=2&sn=9250733f879b47dac40512814fc3dafd)
 
 2. 2024年度全球软件漏洞与威胁情报报告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282214&idx=1&sn=0625914fed042db42421a0970a5166c9)
