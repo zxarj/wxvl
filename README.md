@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-11日新增文章
 
+1. AWS re:Inforce 2025 应用安全议题 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b)
+
+2. 速修！Kafka Connect爆任意文件读取漏洞，无需授权 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c)
+
+3. 【已复现】Kafka Connect 任意文件读取漏洞（CVE-2025-27817） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492814&idx=1&sn=7fbcb92f5cf2e09c7b66163bf13863c7)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-11 12:30:18<small>
+
+---
+
+
+## 📢 2025-06-11日新增文章
+
 1. 漏洞管理玩法已变，四大常见错误亟待摒弃 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137136&idx=1&sn=476cddcaef4be59b5b96cf166775ebf4)
 
 #### 📊 统计信息
