@@ -18,6 +18,17 @@
 
 ## 📢 2025-06-11日新增文章
 
+1. 2025年5月企业必修安全漏洞清单 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485082&idx=1&sn=d864aa242dace84f433eb2fae22e0c69)
+
+#### 📊 统计信息
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-06-11 20:45:11<small>
+
+---
+
+
+## 📢 2025-06-11日新增文章
+
 1. 利用 CVE-2025-0072 绕过 MTE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683)
 
 2. 谷歌修复“幽灵”漏洞：你的手机号是如何被泄露的？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900736&idx=1&sn=f135a3a9968b591ff7263118409a8696)
