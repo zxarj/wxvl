@@ -18,6 +18,17 @@
 
 ## 📢 2025-06-11日新增文章
 
+1. 漏洞管理玩法已变，四大常见错误亟待摒弃 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137136&idx=1&sn=476cddcaef4be59b5b96cf166775ebf4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-06-11 09:49:18<small>
+
+---
+
+
+## 📢 2025-06-11日新增文章
+
 1. 【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb)
 
 2. 漏洞挖掘实战之弯道超车 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489961&idx=1&sn=9ceb6db022621cae9f729d0aaecf12d6)
