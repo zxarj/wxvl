@@ -16,6 +16,31 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-12日新增文章
+
+1. Microsoft Outlook 曝高危漏洞，仅需低权限就能实施攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595564&idx=2&sn=9250733f879b47dac40512814fc3dafd)
+
+2. 2024年度全球软件漏洞与威胁情报报告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282214&idx=1&sn=0625914fed042db42421a0970a5166c9)
+
+3. 工具推荐 | 高效便捷的图形化Nuclei GUI POC管理工具 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494858&idx=1&sn=d1f7cfb96d00c4d43fe42465bd71409f)
+
+4. 2025-06微软漏洞通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247525784&idx=1&sn=baee547bc43d6c40c0f3db64c3ca2620)
+
+5. 建行分行因存在多项网络安全问题被罚 | “取个快递”损失数十万 | 黑客利用iMessage零点击漏洞攻击iPhone用户 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248079&idx=1&sn=90e56a859ad29dc05f0cc997ae73bcb6)
+
+6. 使用异或∕或运算绕过符号过滤 -- RCE-XOR(6月11日更新) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516788&idx=1&sn=a8322e64eaf367a40e9b2389e32535fc)
+
+7. CVE 2024-43570 和 CVE-2024-43535 的报告和 POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=2&sn=2e039d2ebc04cf71f327eb71ea092dba)
+
+8. 渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4)
+
+#### 📊 统计信息
+<small>📝 新增文章数：8篇
+⏰ 更新时间：2025-06-12 00:28:54<small>
+
+---
+
+
 ## 📢 2025-06-11日新增文章
 
 1. 2025年5月企业必修安全漏洞清单 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485082&idx=1&sn=d864aa242dace84f433eb2fae22e0c69)
