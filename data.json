@@ -15030,5 +15030,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137136&idx=1&sn=476cddcaef4be59b5b96cf166775ebf4": "漏洞管理玩法已变，四大常见错误亟待摒弃",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权",
-    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492814&idx=1&sn=7fbcb92f5cf2e09c7b66163bf13863c7": "【已复现】Kafka Connect 任意文件读取漏洞（CVE-2025-27817）"
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492814&idx=1&sn=7fbcb92f5cf2e09c7b66163bf13863c7": "【已复现】Kafka Connect 任意文件读取漏洞（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683": "利用 CVE-2025-0072 绕过 MTE",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900736&idx=1&sn=f135a3a9968b591ff7263118409a8696": "谷歌修复“幽灵”漏洞：你的手机号是如何被泄露的？",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2": "信息安全漏洞周报（2025年第23期）"
 }

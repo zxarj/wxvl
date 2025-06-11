@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-11日新增文章
 
+1. 利用 CVE-2025-0072 绕过 MTE 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683)
+
+2. 谷歌修复“幽灵”漏洞：你的手机号是如何被泄露的？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900736&idx=1&sn=f135a3a9968b591ff7263118409a8696)
+
+3. 信息安全漏洞周报（2025年第23期） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-11 16:29:44<small>
+
+---
+
+
+## 📢 2025-06-11日新增文章
+
 1. AWS re:Inforce 2025 应用安全议题 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b)
 
 2. 速修！Kafka Connect爆任意文件读取漏洞，无需授权 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c)
