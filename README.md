@@ -18,6 +18,51 @@
 
 ## 📢 2025-06-12日新增文章
 
+1. 【高危漏洞预警】Autodesk Installer权限提升漏洞(CVE-2025-5335) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490224&idx=1&sn=15d9b3b8964b8455c3fba8dca693f4f8)
+
+2. 漏洞预警 | 金和OA任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=3&sn=1d7e3c69c8fecfdf2342b4c2dd4a093f)
+
+3. 【安全圈】微软警告：Windows远程桌面服务重大漏洞（CVE-2025-32710）可被远程执行代码，影响多版本服务器系统 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070121&idx=4&sn=e69c74fd7874857df6d38295cf981b80)
+
+4. 智能汽车安全-漏洞挖掘到控车攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489139&idx=3&sn=9a7bc479efa9b3428682e5117d7f301c)
+
+5. 深度剖析JSONP注入漏洞：JavaScript回调函数引发的会话弹窗劫持 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483849&idx=1&sn=0a3d86cea5da79e418d2a716f77139e9)
+
+6. Roundcube RCE 漏洞被迅速利用，超过 8 万台服务器受到影响 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795408&idx=3&sn=82d287ab28956a7998831567e01e18a8)
+
+7. 【漏洞复现】九思oa漏洞之SQL注入 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484805&idx=1&sn=041adf9e2748f03fb2222d934f9fe44f)
+
+8. 2025年5月企业必修安全漏洞清单 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527122&idx=2&sn=c1ff1f433717b608b87e76da427bada1)
+
+9. 【安全圈】Outlook 高危漏洞曝光：无需用户操作即可远程执行代码，微软紧急应对 CVE-2025-47176 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070121&idx=3&sn=da1822910fc81c3cd77f0bc83ba3dcd1)
+
+10. 一次奇妙的降价支付逻辑漏洞挖掘之旅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489139&idx=1&sn=ca0f7c5f8d92692e892609d1faed44af)
+
+11. 漏洞挖掘—EDU SRC证书站漏洞挖掘记录（2） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484588&idx=1&sn=aba999330af8a1209992ce8d5edd8ffc)
+
+12. DataEase 远程代码执行漏洞分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494376&idx=1&sn=bfac9cacc14a4968dfc10275a87819e9)
+
+13. 【风险通告】微软6月安全更新补丁和多个高危漏洞风险提示 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490412&idx=1&sn=cd8ec73671558d2a81a33033e8f35ac3)
+
+14. 【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29)
+
+15. 一个web指纹识别工具，支持多线程、HTTP代理、批量识别、保存结果、截图展示、可自行添加指纹|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492338&idx=1&sn=ed081203ba8ce86934247704d9c98cb6)
+
+16. 随着Roundcube RCE漏洞被快速利用，超过80,000台服务器受到影响 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=1&sn=425510992775377d64d1b80cae9afe43)
+
+17. Windows WebDAV 零日远程代码执行漏洞遭野外利用 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322893&idx=3&sn=acca4bafe06c06c3a0e8756199e46a51)
+
+18. 漏洞预警 | Apache Kafka任意文件读取和远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=1&sn=bbc610df01a58a40f278958a6b06d518)
+
+#### 📊 统计信息
+<small>📝 新增文章数：18篇
+⏰ 更新时间：2025-06-12 09:48:45<small>
+
+---
+
+
+## 📢 2025-06-12日新增文章
+
 1. 契约锁电子签章系统RCE简单分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485432&idx=1&sn=63e6601ff3509793cf189faf3a909cce)
 
 2. CVE-2023-22527复现实录：沉浸式攻防体验尽在CyberStrikeLab靶场 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247490708&idx=1&sn=e4f6a9830fda07759f1e6507007bd44a)
