@@ -18,6 +18,49 @@
 
 ## 📢 2025-06-12日新增文章
 
+1. 浅谈常见edu漏洞，逻辑漏洞，越权，接管到getshell，小白如何快速找准漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573141&idx=1&sn=9f4853031ae957fa0ace7d99490175bd)
+
+2. 当漏洞成为“数字战争”的弹药，谁能改写攻防规则？ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487246&idx=1&sn=7a41868625893614f6da1bbdcda23a31)
+
+3. 高危漏洞打包兜售，Palo Alto、Fortinet、Linux等关键系统在列 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510877&idx=2&sn=96d346ba4108bb4a527b458d08ee33e4)
+
+4. Salesforce 行业云曝20+漏洞，含零日漏洞！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595569&idx=3&sn=cd7353a8ac4c73d7b9281ece95ec84bd)
+
+5. 漏洞管理玩法已变，四大常见错误亟待摒弃 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496635&idx=1&sn=7389470e1ca637f9aa26ebaabe362b5e)
+
+6. 【已复现】契约锁电子签章系统远程代码执行漏洞(QVD-2025-23408)安全风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503493&idx=1&sn=0810b8ac4e0360b1135b0ff03117cf88)
+
+7. 【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545790&idx=1&sn=999b6a569025905ded875ba4833d32f6)
+
+8. 工业自动化PROFINET协议库P-Net 高危漏洞预警 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512435&idx=1&sn=c35c2db0a565cfdacb1cb086e88a4a99)
+
+9. 重生之网安小FW，某教务一体化系统任意文件写入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487122&idx=1&sn=bd894c86e93f53e3fde36b3016e22e07)
+
+10. Apache CloudStack 严重漏洞可用于执行权限操作 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=2&sn=cd319434730e299df36bd4ba219387e2)
+
+11. 揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500)
+
+12. 突发！奔驰车载系统大面积崩溃；首个已知AI零点击漏洞细节曝光 | 牛览 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137167&idx=2&sn=90da648f75c3d6d696f4946823f2f495)
+
+13. 创宇安全智脑 | DataEase 身份认证绕过（CVE-2025-49001）等81个漏洞可检测 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491258&idx=1&sn=3b2f946e0199496b1cb3e1bc10f3f7b6)
+
+14. 首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514505&idx=1&sn=df286bcbf807c8444c7f8356b70aef56)
+
+15. CVE-2025-24071 - Windows 文件资源管理器欺骗漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487463&idx=1&sn=230ead607780050b503f02a16d4d3a5a)
+
+16. CNNVD关于微软多个安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463175&idx=1&sn=e76aec19728e7bf74ec7c039ed40a84b)
+
+17. 漏洞通告|GeoServer SSRF和XXE漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507799&idx=1&sn=c6c3a09312697bafa11f8e2f5212f32b)
+
+#### 📊 统计信息
+<small>📝 新增文章数：17篇
+⏰ 更新时间：2025-06-12 20:44:41<small>
+
+---
+
+
+## 📢 2025-06-12日新增文章
+
 1. 谷歌账户恢复漏洞致攻击者可获取任意用户手机号：赏金5000美元 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211959&idx=1&sn=51cbfd4fb6f02aadc4647e968539a871)
 
 2. 【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484821&idx=1&sn=521d6f7191a4c623b04a751f998a3f05)
