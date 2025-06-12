@@ -18,6 +18,31 @@
 
 ## 📢 2025-06-12日新增文章
 
+1. 谷歌账户恢复漏洞致攻击者可获取任意用户手机号：赏金5000美元 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211959&idx=1&sn=51cbfd4fb6f02aadc4647e968539a871)
+
+2. 【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484821&idx=1&sn=521d6f7191a4c623b04a751f998a3f05)
+
+3. 国外某数据库管理系统存在前台任意文件上传漏洞 (CVE-2025-5840) 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489835&idx=1&sn=3fe10ef2932356b3f4289727129e56d3)
+
+4. 三汇 SMG网关管理软件 9-13pcap.php 任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491780&idx=1&sn=697bf76c965a98ac990b82343f7b9a58)
+
+5. 攻防下帮助学员快速审计NET前台rce漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486566&idx=1&sn=5457ff24c4b0aa16fcca4390504e4aa0)
+
+6. 【安全更新】微软6月安全更新多个产品高危漏洞通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489308&idx=1&sn=06cf92ea68b30f6d5c68df7116644ac7)
+
+7. CVE-2025-33053，Stealth Falcon 和 Horus：中东网络间谍活动传奇 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530778&idx=3&sn=166519c90934cd8fb3fd232bfae22456)
+
+8. 【CVE-2025-32711】全球首例 AI “零点击”漏洞：黑客可无声窃取Microsoft 365敏感数据​ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261302&idx=1&sn=7033acdbf40ec6570633f66664423697)
+
+#### 📊 统计信息
+<small>📝 新增文章数：8篇
+⏰ 更新时间：2025-06-12 16:29:44<small>
+
+---
+
+
+## 📢 2025-06-12日新增文章
+
 1. 微软6月补丁日多个产品安全漏洞风险通告：1个在野利用、9个紧急漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503477&idx=1&sn=1410a653474bbb82b32dadab97a47c7b)
 
 2. Salesforce PaaS平台大规模宕机超6小时，众多网站功能受损 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252007&idx=1&sn=41b8469177dae3520103786696e7603e)
