@@ -15115,5 +15115,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514505&idx=1&sn=df286bcbf807c8444c7f8356b70aef56": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487463&idx=1&sn=230ead607780050b503f02a16d4d3a5a": "CVE-2025-24071 - Windows 文件资源管理器欺骗漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463175&idx=1&sn=e76aec19728e7bf74ec7c039ed40a84b": "CNNVD关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507799&idx=1&sn=c6c3a09312697bafa11f8e2f5212f32b": "漏洞通告|GeoServer SSRF和XXE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507799&idx=1&sn=c6c3a09312697bafa11f8e2f5212f32b": "漏洞通告|GeoServer SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486106&idx=1&sn=1bea9729146539683a59af9a3d9470e8": "EchoLeak-首个导致 M365 Copilot 数据泄露的零点击 AI 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492830&idx=1&sn=0a00dece01aa71e8b1e9e3b5066837c7": "【已复现】GeoServer SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=1&sn=34d30246787005440f76867606c6259c": "Microsoft 365 Copilot 中存在零点击AI数据泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！"
 }

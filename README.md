@@ -16,6 +16,29 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-13日新增文章
+
+1. Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065)
+
+2. 【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24)
+
+3. EchoLeak-首个导致 M365 Copilot 数据泄露的零点击 AI 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486106&idx=1&sn=1bea9729146539683a59af9a3d9470e8)
+
+4. 【已复现】GeoServer SSRF和XXE漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492830&idx=1&sn=0a00dece01aa71e8b1e9e3b5066837c7)
+
+5. Microsoft 365 Copilot 中存在零点击AI数据泄露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=1&sn=34d30246787005440f76867606c6259c)
+
+6. CVE-2023-36802 mskssrv type confusion 提权 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1)
+
+7. 【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-13 00:27:56<small>
+
+---
+
+
 ## 📢 2025-06-12日新增文章
 
 1. 浅谈常见edu漏洞，逻辑漏洞，越权，接管到getshell，小白如何快速找准漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573141&idx=1&sn=9f4853031ae957fa0ace7d99490175bd)
