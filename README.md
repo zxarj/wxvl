@@ -18,6 +18,35 @@
 
 ## 📢 2025-06-12日新增文章
 
+1. 微软6月补丁日多个产品安全漏洞风险通告：1个在野利用、9个紧急漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503477&idx=1&sn=1410a653474bbb82b32dadab97a47c7b)
+
+2. Salesforce PaaS平台大规模宕机超6小时，众多网站功能受损 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252007&idx=1&sn=41b8469177dae3520103786696e7603e)
+
+3. 漏洞预警 | 百易云资产管理运营系统SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=2&sn=701d5c7504e52d022769b7e6343466c1)
+
+4. 微软 Copilot 严重漏洞可能引发零点击攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795408&idx=1&sn=97ff557b8ea3c77ae4cb7e820b8b3db2)
+
+5. 某景人事管理系统漏洞挖掘与分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611039&idx=3&sn=270f5fe6538f79d74f39aeae9e4815b0)
+
+6. 客户端漏洞挖掘方法论在车机系统中的延伸：任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487000&idx=1&sn=5be4c11c561976988ba5b9f0fff70ccb)
+
+7. 一个$1,337的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6)
+
+8. 漏洞预警 |Kafka Connect存在任意文件读取漏洞（CVE-2025-27817） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487487&idx=1&sn=e7017d76417d578514aadbbcd40f83f7)
+
+9. 【复现】契约锁远程代码执行漏洞风险通告 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484887&idx=1&sn=68c33f216a071877dd2d8f6ee00de324)
+
+10. SAP 2025年6月安全补丁日修复关键NetWeaver漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=3&sn=c093f32039ae5e0e02166b94042cc5a2)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-06-12 12:28:21<small>
+
+---
+
+
+## 📢 2025-06-12日新增文章
+
 1. 【高危漏洞预警】Autodesk Installer权限提升漏洞(CVE-2025-5335) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490224&idx=1&sn=15d9b3b8964b8455c3fba8dca693f4f8)
 
 2. 漏洞预警 | 金和OA任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=3&sn=1d7e3c69c8fecfdf2342b4c2dd4a093f)
