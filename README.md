@@ -18,6 +18,17 @@
 
 ## 📢 2025-06-13日新增文章
 
+1. 微软Outlook路径遍历漏洞允许攻击者远程执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322946&idx=3&sn=289b6e0241356a1bdbb26f4d679825ac)
+
+#### 📊 统计信息
+<small>📝 新增文章数：1篇
+⏰ 更新时间：2025-06-13 04:24:06<small>
+
+---
+
+
+## 📢 2025-06-13日新增文章
+
 1. Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065)
 
 2. 【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24)

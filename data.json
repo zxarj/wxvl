@@ -15122,5 +15122,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492830&idx=1&sn=0a00dece01aa71e8b1e9e3b5066837c7": "【已复现】GeoServer SSRF和XXE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=1&sn=34d30246787005440f76867606c6259c": "Microsoft 365 Copilot 中存在零点击AI数据泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322946&idx=3&sn=289b6e0241356a1bdbb26f4d679825ac": "微软Outlook路径遍历漏洞允许攻击者远程执行任意代码"
 }
