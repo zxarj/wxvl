@@ -16,6 +16,35 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-14日新增文章
+
+1. 苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75)
+
+2. 一次奇妙的降价支付逻辑漏洞挖掘之旅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=4&sn=571a093b587c5833a8ee8be5e53c00ca)
+
+3. 智能汽车安全-漏洞挖掘到控车攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=6&sn=86ac44403dba82e570f2f0f07ff3715f)
+
+4. GitLab 修复高危的账户接管和认证缺失漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7)
+
+5. Grafan存在url重定向&服务端请求伪造漏洞CVE-2025-4123 附POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488591&idx=1&sn=c235ea6352df7f47f2fc2bd6408c05c1)
+
+6. 【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275)
+
+7. 两载光阴，我与0day的两次匿名邂逅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491228&idx=1&sn=052a45b2108d847c0ec904a1c3075ce6)
+
+8. 同享人力管理管理平台 UploadHandler 任意文件上传漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7)
+
+9. CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e)
+
+10. 漏洞管理工具 - miscan 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486410&idx=1&sn=292331c03afb3bcfa68cd2cdd35c0eb7)
+
+#### 📊 统计信息
+<small>📝 新增文章数：10篇
+⏰ 更新时间：2025-06-14 00:27:59<small>
+
+---
+
+
 ## 📢 2025-06-13日新增文章
 
 1. CNNVD | 关于微软多个安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664244112&idx=2&sn=9428653919db114469090e0ec242111f)

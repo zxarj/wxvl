@@ -15169,5 +15169,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173422&idx=4&sn=88e016f3aae3c6c67b79675aa556fc8e": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247486069&idx=1&sn=686dff0eb15fbaf6950e19c95f008dba": "【漏洞复现】Kafka Connect任意文件读取漏洞 CVE-2025-27817",
     "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489260&idx=1&sn=51ba3d6560441abb6d16005aa88ecc6d": "关于防范人工智能绘图工具ComfyUI多个安全漏洞的风险提示",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc": "每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc": "每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75": "苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=4&sn=571a093b587c5833a8ee8be5e53c00ca": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=6&sn=86ac44403dba82e570f2f0f07ff3715f": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488591&idx=1&sn=c235ea6352df7f47f2fc2bd6408c05c1": "Grafan存在url重定向&服务端请求伪造漏洞CVE-2025-4123 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491228&idx=1&sn=052a45b2108d847c0ec904a1c3075ce6": "两载光阴，我与0day的两次匿名邂逅",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7": "同享人力管理管理平台 UploadHandler 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e": "CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486410&idx=1&sn=292331c03afb3bcfa68cd2cdd35c0eb7": "漏洞管理工具 - miscan"
 }
