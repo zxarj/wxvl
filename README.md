@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-13日新增文章
 
+1. Windows SMB客户端零日漏洞遭利用：攻击者采用反射型Kerberos中继攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=1&sn=1230a9c3ec711c744e5355e4a173cd26)
+
+2. CVE-2025-27817 Apache Kafka 客户端：任意文件读取和 SSRF 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530803&idx=1&sn=367fc89047b40e7893a2fd8293f50d34)
+
+3. 微软Copilot曝首个零交互AI漏洞：一封普通邮件静默泄露企业敏感数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788688&idx=1&sn=62fe0c0fe52ec9535f10655b9c217d47)
+
+4. 聊热点｜国家安全部：“刷脸”时代，安全不容小觑；APT组织利用Windows WebDAV零日漏洞实施远程恶意软件攻击…… 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247536253&idx=2&sn=afa344b3b17adafcbcd8949ea4943124)
+
+5. 【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053) 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6)
+
+6. XG_JLGJ靶场的几个POC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43)
+
+7. B-LINK AC1900 V1.0.2 命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-13 16:29:11<small>
+
+---
+
+
+## 📢 2025-06-13日新增文章
+
 1. 漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32)
 
 2. 记一次实战日穿整个系统getshell-共九个漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0)
