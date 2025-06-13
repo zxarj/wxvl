@@ -15130,5 +15130,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252014&idx=1&sn=902715f1ed8dd1c00b55490526da55ad": "SinoTrack GPS设备存在严重安全漏洞，可被远程控制车辆",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133508&idx=1&sn=a1a24531dc07e9cd843152fd14412d8e": "电力安全预警！3.5万台漏洞太阳能设备在公网暴露",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984": "微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984": "微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0": "记一次实战日穿整个系统getshell-共九个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484640&idx=1&sn=96d9b43f0787deee3e003ab7c1a6a485": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491568&idx=1&sn=35c5311b89a99e2d66e3d557819a5047": "清源SCA社区版每日漏洞情报、新增CVE及投毒情报推送",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484816&idx=1&sn=3a4a2007cc0f23f7da750ff52b2ec51f": "【漏洞复现】九思oa之奇怪的sql注入",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248091&idx=1&sn=c2d0f17071027a75a6bb6b71e565fdcf": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 | 威胁狩猎入门指南：专家级主动网络安全策略",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=2&sn=134520fea73b12fe9966958e6dcf6359": "UEFI安全启动遭突破，高危漏洞CVE-2025-3052威胁数百万PC",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08": "漏洞赏金工具 v1.0",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=3&sn=a252c3fa99bb3c13eba861594d290b86": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795421&idx=3&sn=56fc4b8bea6248a3aa25bf799945dc6f": "GitLab 多个漏洞可导致攻击者完全接管账户",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492664&idx=1&sn=5c7f88a4510a8d14bd6cd23312251346": "Stealth Falcon组织利用0Day漏洞在中东发动网络攻击——每周威胁情报动态第226期 （06.05-06.12）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282707&idx=1&sn=170fd31c2ce98adbb314614194200315": "任意文件上传漏洞及常见框架Getshell分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=5&sn=ffc9d9d2742c9eb3dc02b07aa94ffac6": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494008&idx=1&sn=2c6fff5d5afa1e3e4bd27b375a12d3f8": "Paragon Graphite间谍软件利用零日漏洞入侵至少两名记者的iPhone设备",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=1&sn=7869f971392716e029fab6b644477314": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入和XML实体注入漏洞"
 }

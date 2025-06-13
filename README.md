@@ -18,6 +18,47 @@
 
 ## 📢 2025-06-13日新增文章
 
+1. 漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32)
+
+2. 记一次实战日穿整个系统getshell-共九个漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0)
+
+3. java审计之下载漏洞获取到的代码如何断点调试 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556)
+
+4. 渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484640&idx=1&sn=96d9b43f0787deee3e003ab7c1a6a485)
+
+5. 清源SCA社区版每日漏洞情报、新增CVE及投毒情报推送 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491568&idx=1&sn=35c5311b89a99e2d66e3d557819a5047)
+
+6. 【漏洞复现】九思oa之奇怪的sql注入 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484816&idx=1&sn=3a4a2007cc0f23f7da750ff52b2ec51f)
+
+7. 首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 | 威胁狩猎入门指南：专家级主动网络安全策略 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248091&idx=1&sn=c2d0f17071027a75a6bb6b71e565fdcf)
+
+8. UEFI安全启动遭突破，高危漏洞CVE-2025-3052威胁数百万PC 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=2&sn=134520fea73b12fe9966958e6dcf6359)
+
+9. 漏洞赏金工具 v1.0 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08)
+
+10. 一次奇妙的降价支付逻辑漏洞挖掘之旅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=3&sn=a252c3fa99bb3c13eba861594d290b86)
+
+11. GitLab 多个漏洞可导致攻击者完全接管账户 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795421&idx=3&sn=56fc4b8bea6248a3aa25bf799945dc6f)
+
+12. Stealth Falcon组织利用0Day漏洞在中东发动网络攻击——每周威胁情报动态第226期 （06.05-06.12） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492664&idx=1&sn=5c7f88a4510a8d14bd6cd23312251346)
+
+13. 任意文件上传漏洞及常见框架Getshell分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282707&idx=1&sn=170fd31c2ce98adbb314614194200315)
+
+14. 智能汽车安全-漏洞挖掘到控车攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=5&sn=ffc9d9d2742c9eb3dc02b07aa94ffac6)
+
+15. Paragon Graphite间谍软件利用零日漏洞入侵至少两名记者的iPhone设备 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494008&idx=1&sn=2c6fff5d5afa1e3e4bd27b375a12d3f8)
+
+16. 漏洞预警 | 银达汇智智慧综合管理平台SQL注入和XML实体注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=1&sn=7869f971392716e029fab6b644477314)
+
+#### 📊 统计信息
+<small>📝 新增文章数：16篇
+⏰ 更新时间：2025-06-13 12:29:25<small>
+
+---
+
+
+## 📢 2025-06-13日新增文章
+
 1. 漏洞预警 | 宏景eHR SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793)
 
 2. 漏洞预警 | 美特CRM XXE漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=3&sn=ca6593532ba34812bdf9218f754c6a62)
