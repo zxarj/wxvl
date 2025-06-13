@@ -18,6 +18,29 @@
 
 ## 📢 2025-06-13日新增文章
 
+1. 漏洞预警 | 宏景eHR SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793)
+
+2. 漏洞预警 | 美特CRM XXE漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=3&sn=ca6593532ba34812bdf9218f754c6a62)
+
+3. 契约锁最新漏洞补丁分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484577&idx=1&sn=6d8367ef3304610b2fd669d6e843a514)
+
+4. 首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0)
+
+5. SinoTrack GPS设备存在严重安全漏洞，可被远程控制车辆 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252014&idx=1&sn=902715f1ed8dd1c00b55490526da55ad)
+
+6. 电力安全预警！3.5万台漏洞太阳能设备在公网暴露 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133508&idx=1&sn=a1a24531dc07e9cd843152fd14412d8e)
+
+7. 微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！ 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984)
+
+#### 📊 统计信息
+<small>📝 新增文章数：7篇
+⏰ 更新时间：2025-06-13 09:49:19<small>
+
+---
+
+
+## 📢 2025-06-13日新增文章
+
 1. 微软Outlook路径遍历漏洞允许攻击者远程执行任意代码 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322946&idx=3&sn=289b6e0241356a1bdbb26f4d679825ac)
 
 #### 📊 统计信息

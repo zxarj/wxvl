@@ -1,40 +1,7 @@
 #  首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据  
-安全内参编译  安全内参   2025-06-12 08:25  
+安全内参  商密君   2025-06-12 13:30  
   
-**关注我们**  
-  
-  
-**带你读懂网络安全**  
-  
-  
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/FzZb53e8g7u3vA06hUGa0wAeo2zgVy8rMbN40pXlCDpaWzyfgYLNVEurnLBLz0e8cIssQFicicGk0kUeUw4gYHVQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1 "")  
-  
-  
-研究人员发现了一套漏洞利用链，可以针对微软365 Copilot实施零点击攻击，只需发送一封看似无害但  
-暗藏定制化指令  
-的电子邮件，当Copilot后台扫描邮件时会执行该指令，遵从要求访问AI访问权限内的敏感数据，并悄悄对外渗出。  
-  
-  
-该漏洞暴露了AI Agents的根本缺陷，指令和数据未做分离。研究人员建议可以重新设计系统增强模型区分指令和数据的能力，或者在应用层引入强制安全机制。  
-  
-  
-前情回顾·  
-大模型安全动态  
-- [面向漏洞编程：如何让AI编程助手生成带后门的代码](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514023&idx=1&sn=381518eb509e476f3685c6908382a09a&scene=21#wechat_redirect)  
-  
-  
-- [破解DeepSeek大模型，揭秘内部运行参数](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513673&idx=1&sn=7a12aa615f1328b3ccd6f00b68d635ab&scene=21#wechat_redirect)  
-  
-  
-- [AI助手泄露客户信息，行业软件龙头暂时停用相关功能](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513551&idx=1&sn=f0edf2e4791fb19bbc7ceede6817e516&scene=21#wechat_redirect)  
-  
-  
-- [AI Agents越来越火，它可能存在一个严重安全隐患](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247513463&idx=1&sn=b35ecbae92733cf9b66597ee744d842b&scene=21#wechat_redirect)  
-  
-  
-  
-  
-安全内参6月12日消息，微软365 Copilot是集成在Word、Excel、Outlook、PowerPoint和Teams等Office办公应用中的AI工具。研究人员日前发现，该工具存在一个严重安全漏洞，揭示了AI代理被入侵可能带来	的更广泛风险。  
+6月12日消息，微软365 Copilot是集成在Word、Excel、Outlook、PowerPoint和Teams等Office办公应用中的AI工具。研究人员日前发现，该工具存在一个严重安全漏洞，揭示了AI代理被入侵可能带来	的更广泛风险。  
   
 AI安全初创公司Aim Security发现并披露了这一漏洞，据称这是已知首个针对AI代理的“零点击”攻击案例。所谓AI代理，是指能自主完成特定目标的AI系统。由于该漏洞的特殊性质，用户无需点击或与信息交互，攻击者就能访问连接到AI代理的应用和数据源中的敏感信息。  
   
@@ -46,7 +13,7 @@ AI安全初创公司Aim Security发现并披露了这一漏洞，据称这是已
   
 微软365 Copilot能根据用户在Office应用中的指令执行任务，例如访问文档或生成建议。一旦被黑客利用，该工具可被用来访问如电子邮件、电子表格和聊天记录等敏感内部信息。这类攻击绕过了Copilot内置的防护机制，从而可能导致专有、机密或合规相关数据的泄露。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7tQxFQa7NJ7FJiciaQYQeYV7XeesMJChsx1ib5tNj2gz4TYrF3OyHVaEWkpB7RuiaLCVmPzGTPh5icuYEw/640?wx_fmt=webp&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7tQxFQa7NJ7FJiciaQYQeYV7XJ9mCIEbvaaocUGewuwCkSwNUQOkN77KUEqiaL4lhBBCFaPg4FhS5WKg/640?wx_fmt=webp&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 图：攻击链示意  
   
@@ -62,7 +29,7 @@ Aim Security发现，一些Markdown图像格式会促使浏览器发起图像请
   
 微软的内容安全策略（CSP）阻止了大多数外部域名的访问，但Microsoft Teams和SharePoint的URL被视为可信来源，因此可能被攻击者滥用，从而轻松实现数据泄露。  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7tQxFQa7NJ7FJiciaQYQeYV7XGzibrldWib6eycr1C6v61iahx09HeJO5ogeVn3PjWGmVCgYl82jIt0ribQ/640?wx_fmt=webp&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/FzZb53e8g7tQxFQa7NJ7FJiciaQYQeYV7XGzmgZNQuUpXL67l5vJx3m74DaUqLEZXEVeqYxENZrkOrUjdr0jE8lw/640?wx_fmt=webp&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
   
 图：攻击效果  
   
@@ -105,26 +72,42 @@ Gruss表示，这种重新设计可以发生在模型本身，比如当前有研
 他说，“目前我所了解的每一家《财富》500强企业都对将AI代理投入生产环境感到恐惧。”他指出，Aim此前在代码代理相关研究中，曾成功在开发者电脑上运行恶意代码。“虽然仍有用户在测试，但类似漏洞的存在让他们夜不能寐，也阻碍了行业创新。”  
   
   
-**参考资料：fortune.com**  
+编辑：陈十九  
+  
+审核：商密君  
+  
+**征文启事**  
+  
+大家好，为了更好地促进同业间学术交流，商密君现开启征文活动，只要你对商用密码、网络安全、数据加密等有自己的独到见解和想法，都可以积极向商密君投稿，商密君一定将您的声音传递给更多的人。  
   
   
-**推荐阅读**  
-- [网安智库平台长期招聘兼职研究员](http://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247499450&idx=2&sn=2da3ca2e0b4d4f9f56ea7f7579afc378&chksm=ebfab99adc8d308c3ba6e7a74bd41beadf39f1b0e38a39f7235db4c305c06caa49ff63a0cc1d&scene=21#wechat_redirect)  
+[](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633989&idx=1&sn=cd6647451cec618b20dd28533702603b&scene=21#wechat_redirect)  
   
   
-- [欢迎加入“安全内参热点讨论群”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247501251&idx=1&sn=8b6ebecbe80c1c72317948494f87b489&chksm=ebfa82e3dc8d0bf595d039e75b446e14ab96bf63cf8ffc5d553b58248dde3424fb18e6947440&token=525430415&lang=zh_CN&scene=21#wechat_redirect)  
+点击购买《2023-2024中国商用密码产业发展报告》  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXNcXmbiaiaCljdXpwzOEQ9QTBXMibM6rZTOnbTSwTmCXncQLria2vuLGxn8QPtznzBc0as8vBxWIjrWxQ/640?wx_fmt=jpeg "")  
+  
+来源：  
+安全内参  
+  
+注：内容均来源于互联网，版权归作者所有，如有侵权，请联系告知，我们将尽快处理。  
+  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/1HyKzSU2XXOdeQx0thlyozF2swQTEN9iaaBNDG0jTKfAgqgdesve8x5IEWNvYxjF6sAWjO1TPCZVsWd0oiaDn3uw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMyyClGk1cttkSBbJicAn5drpXEbFIeChG9IkrslYEylRF4Z6KNaxNafDwr5ibcYaZXdnveQCNIr5kw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaMcJkA69QYZ9T4jmc3fdN6EA7Qq9A8E3RWcTKhxVEU1QjqOgrJMu2Qg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点分享  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaiaRXdw4BFsc7MxzkVZaKGgtjWA5GKtUfm3hlgzsBtjJ0mnh9QibeFOGQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
+点点赞  
   
-点击下方卡片关注我们，  
+![](https://mmbiz.qpic.cn/mmbiz_png/1HyKzSU2XXMZPiaDBD8yxbIHiciauWK4tuiaeiaNlRO9954g4VS87icD7KQdxzokTGDIjmCJA563IwfStoFzPUaliauXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "")  
   
-带你一起读懂网络安全 ↓  
-  
-  
-  
+点在看  
   
