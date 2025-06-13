@@ -15153,5 +15153,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247536253&idx=2&sn=afa344b3b17adafcbcd8949ea4943124": "聊热点｜国家安全部：“刷脸”时代，安全不容小觑；APT组织利用Windows WebDAV零日漏洞实施远程恶意软件攻击……",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6": "【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053)",
     "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43": "XG_JLGJ靶场的几个POC",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664244112&idx=2&sn=9428653919db114469090e0ec242111f": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=2&sn=46c850fbda9bc82352ef57c89fdd96e8": "苹果iMessage零点击漏洞遭间谍软件利用，记者成监控目标",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448689041&idx=2&sn=726c15b4a0668113a70c2f888efe629b": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497725&idx=1&sn=9acb221e666940eb40092a4f96f6dd25": "RCE再现",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514513&idx=1&sn=67e663e82b15ccc4fb808170d7a081dc": "工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=3&sn=e1a2654d1eb8eb944bf1949b9ed09b40": "GitLab曝高危漏洞组合，攻击者可实现完全账户接管",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=2&sn=c4ed265127f77866bb9d4f397428f552": "Palo Alto Networks 修复多个提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=4&sn=77515d1b0ea03422f212c22ce648451c": "中科GPS设备漏洞曝光，可导致车辆被控制和位置追踪",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096328&idx=1&sn=9f3ab73cf1559928f01fbf5e1ce41fdf": "Windows 任务计划程序允许攻击者提升权限漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487149&idx=1&sn=c8e2becd3ec6a5c4d7b01692cddc2b6f": "重生之网安小FW，每天蹲一手大佬的漏洞利用分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484121&idx=1&sn=43b7919e71e92bcdd179e089796ce428": "契约锁电子签章系统dbtest远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512480&idx=1&sn=dcf723277dd1aec37f2aa37635844c78": "企业级VPN NetExtender任意文件删除到权限提升漏洞剖析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173422&idx=4&sn=88e016f3aae3c6c67b79675aa556fc8e": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247486069&idx=1&sn=686dff0eb15fbaf6950e19c95f008dba": "【漏洞复现】Kafka Connect任意文件读取漏洞 CVE-2025-27817",
+    "https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489260&idx=1&sn=51ba3d6560441abb6d16005aa88ecc6d": "关于防范人工智能绘图工具ComfyUI多个安全漏洞的风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc": "每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索"
 }

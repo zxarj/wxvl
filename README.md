@@ -18,6 +18,47 @@
 
 ## 📢 2025-06-13日新增文章
 
+1. CNNVD | 关于微软多个安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664244112&idx=2&sn=9428653919db114469090e0ec242111f)
+
+2. 苹果iMessage零点击漏洞遭间谍软件利用，记者成监控目标 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=2&sn=46c850fbda9bc82352ef57c89fdd96e8)
+
+3. CNNVD关于微软多个安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448689041&idx=2&sn=726c15b4a0668113a70c2f888efe629b)
+
+4. RCE再现 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497725&idx=1&sn=9acb221e666940eb40092a4f96f6dd25)
+
+5. 工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514513&idx=1&sn=67e663e82b15ccc4fb808170d7a081dc)
+
+6. GitLab曝高危漏洞组合，攻击者可实现完全账户接管 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=3&sn=e1a2654d1eb8eb944bf1949b9ed09b40)
+
+7. Palo Alto Networks 修复多个提权漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=2&sn=c4ed265127f77866bb9d4f397428f552)
+
+8. 中科GPS设备漏洞曝光，可导致车辆被控制和位置追踪 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=4&sn=77515d1b0ea03422f212c22ce648451c)
+
+9. Windows 任务计划程序允许攻击者提升权限漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096328&idx=1&sn=9f3ab73cf1559928f01fbf5e1ce41fdf)
+
+10. 重生之网安小FW，每天蹲一手大佬的漏洞利用分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487149&idx=1&sn=c8e2becd3ec6a5c4d7b01692cddc2b6f)
+
+11. 契约锁电子签章系统dbtest远程代码执行 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484121&idx=1&sn=43b7919e71e92bcdd179e089796ce428)
+
+12. 企业级VPN NetExtender任意文件删除到权限提升漏洞剖析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512480&idx=1&sn=dcf723277dd1aec37f2aa37635844c78)
+
+13. CNNVD关于微软多个安全漏洞的通报 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173422&idx=4&sn=88e016f3aae3c6c67b79675aa556fc8e)
+
+14. 【漏洞复现】Kafka Connect任意文件读取漏洞 CVE-2025-27817 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU5MTc1NTE0Ng==&mid=2247486069&idx=1&sn=686dff0eb15fbaf6950e19c95f008dba)
+
+15. 关于防范人工智能绘图工具ComfyUI多个安全漏洞的风险提示 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489260&idx=1&sn=51ba3d6560441abb6d16005aa88ecc6d)
+
+16. 每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc)
+
+#### 📊 统计信息
+<small>📝 新增文章数：16篇
+⏰ 更新时间：2025-06-13 20:44:14<small>
+
+---
+
+
+## 📢 2025-06-13日新增文章
+
 1. Windows SMB客户端零日漏洞遭利用：攻击者采用反射型Kerberos中继攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=1&sn=1230a9c3ec711c744e5355e4a173cd26)
 
 2. CVE-2025-27817 Apache Kafka 客户端：任意文件读取和 SSRF 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530803&idx=1&sn=367fc89047b40e7893a2fd8293f50d34)
