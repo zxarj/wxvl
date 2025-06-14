@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-14日新增文章
 
+1. 渗透测试 ｜ 从jeecg接口泄露到任意管理员用户接管+SQL注入漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491678&idx=1&sn=0fb407eb15dc3e950860b1dbc14bb8b1)
+
+2. PHP 类型杂耍漏洞：攻击者如何利用松散比较 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488984&idx=1&sn=90ec422c5c51bf0061ae125313358ac3)
+
+3. 智能汽车安全-漏洞挖掘到控车攻击 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=6&sn=77731b726421696f62ebfb236a653c3c)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-14 09:45:19<small>
+
+---
+
+
+## 📢 2025-06-14日新增文章
+
 1. 苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75)
 
 2. 一次奇妙的降价支付逻辑漏洞挖掘之旅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=4&sn=571a093b587c5833a8ee8be5e53c00ca)
