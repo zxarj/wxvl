@@ -18,6 +18,33 @@
 
 ## 📢 2025-06-14日新增文章
 
+1. FreeBuf周报 | Meta暗中追踪数十亿安卓用户；GitLab 曝高危漏洞组合 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323083&idx=2&sn=542afbafc16938bf81c4a6946e67cfef)
+
+2. CVE-2025-32756｜Fortinet多款产品存在远程代码执行漏洞（POC） 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=2&sn=7a87bb2da8ae173794e4a4250b47452a)
+
+3. 会捷通云视讯系统 fileDownload 任意文件读取漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491809&idx=1&sn=baf7f085baf6b7b25c2165be6cc073dc)
+
+4. 【安全圈】微软修复9.3分高危漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070172&idx=2&sn=338cac5913731b091a4e71b214daf70f)
+
+5. WIFISKY-7层流控路由器 命令执行漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491800&idx=1&sn=ff9c1b0db7a32c6173824a5580985489)
+
+6. 【攻防实战】Weblogic-RCE集锦 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503078&idx=1&sn=dcff53e08a56091f873b1504dbd66a57)
+
+7. Windows磁盘清理工具权限提升漏洞PoC利用代码公开 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323083&idx=1&sn=f8c83096621ff3fb1a6ffdc75cd02146)
+
+8. CVE-2025-30220｜GeoServer XXE漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485986&idx=1&sn=00a861c9f71787095bc0b4811bb92b1f)
+
+9. 存在未授权访问漏洞等问题！北京市网信办依法查处两家违法企业 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173428&idx=1&sn=bf293221f360824960d0a350a4d126bc)
+
+#### 📊 统计信息
+<small>📝 新增文章数：9篇
+⏰ 更新时间：2025-06-14 20:40:04<small>
+
+---
+
+
+## 📢 2025-06-14日新增文章
+
 1. 人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625052&idx=1&sn=056754f27003d77ebc178a77ea0b866d)
 
 2. NTLM反射已死，NTLM反射万岁！——CVE-2025-33073深度分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530877&idx=1&sn=43ab9caedb1be5d8bac6e2151506458f)
