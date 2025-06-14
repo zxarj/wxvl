@@ -18,6 +18,21 @@
 
 ## 📢 2025-06-14日新增文章
 
+1. 人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625052&idx=1&sn=056754f27003d77ebc178a77ea0b866d)
+
+2. NTLM反射已死，NTLM反射万岁！——CVE-2025-33073深度分析 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530877&idx=1&sn=43ab9caedb1be5d8bac6e2151506458f)
+
+3. CVE-2025-33073 针对 NTLM 反射 SMB 缺陷的 PoC 漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530866&idx=2&sn=4650a382383462fc8d35a14c62e9f839)
+
+#### 📊 统计信息
+<small>📝 新增文章数：3篇
+⏰ 更新时间：2025-06-14 16:25:41<small>
+
+---
+
+
+## 📢 2025-06-14日新增文章
+
 1. 一次奇妙的降价支付逻辑漏洞挖掘之旅 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=4&sn=fa277c4ca4189e8764162fab696c7a36)
 
 2. 新型Mirai僵尸网络通过命令注入漏洞感染TBK DVR设备 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582873&idx=1&sn=0b714276ab832a9ba16514a3d8bceb01)
