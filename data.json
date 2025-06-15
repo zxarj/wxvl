@@ -15221,5 +15221,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "DanaBleed：DanaBot C2 服务器内存泄漏漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a": "Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116334&idx=2&sn=604c4749c1de5c6874abe3fbb870e5c3": "了解运行时漏洞管理",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7": "JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7": "JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247486300&idx=1&sn=324b5ac4e2c2f68d68f44eadbf206fc7": "漏洞复现：CVE-2015-1635、CVE-2017-0144",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516816&idx=1&sn=5d6d77197ef3850efacbaeceddfe1b44": "内网漏洞自动化扫描工具 -- P1soda（6月7日更新）"
 }

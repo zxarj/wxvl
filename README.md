@@ -18,6 +18,19 @@
 
 ## 📢 2025-06-16日新增文章
 
+1. 漏洞复现：CVE-2015-1635、CVE-2017-0144 🔗[来源](https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247486300&idx=1&sn=324b5ac4e2c2f68d68f44eadbf206fc7)
+
+2. 内网漏洞自动化扫描工具 -- P1soda（6月7日更新） 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516816&idx=1&sn=5d6d77197ef3850efacbaeceddfe1b44)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-16 04:22:15<small>
+
+---
+
+
+## 📢 2025-06-16日新增文章
+
 1. 了解运行时漏洞管理 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116334&idx=2&sn=604c4749c1de5c6874abe3fbb870e5c3)
 
 2. JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7)
