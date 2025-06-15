@@ -16,6 +16,19 @@
 
 ## 📝 更新日志
 
+## 📢 2025-06-16日新增文章
+
+1. 了解运行时漏洞管理 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116334&idx=2&sn=604c4749c1de5c6874abe3fbb870e5c3)
+
+2. JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞 🔗[来源](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7)
+
+#### 📊 统计信息
+<small>📝 新增文章数：2篇
+⏰ 更新时间：2025-06-16 00:25:02<small>
+
+---
+
+
 ## 📢 2025-06-15日新增文章
 
 1. Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限 🔗[来源](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a)

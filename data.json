@@ -15219,5 +15219,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTU0OTAwOQ==&mid=2247483847&idx=1&sn=091150b687d6366c68918915aac717c8": "域大杀器 CVE-2025-33073 NTLM反射",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497402&idx=1&sn=05b670092bd72cf9491c07b871a8aa6f": "Wavely | 高效便捷的图形化Nuclei GUI POC管理工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530905&idx=3&sn=e213905f649075f85f3cb74fb755521a": "DanaBleed：DanaBot C2 服务器内存泄漏漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a": "Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323140&idx=3&sn=45827901940f918a640dfd1f6b37d59a": "Windows SMB高危漏洞分析：Kerberos缺陷导致攻击者可获取SYSTEM权限",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116334&idx=2&sn=604c4749c1de5c6874abe3fbb870e5c3": "了解运行时漏洞管理",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485941&idx=1&sn=19933a1c4ce9672ea5adef1f97618da7": "JieLink+智能终端操作平台 GetDataList 敏感信息泄露漏洞"
 }
